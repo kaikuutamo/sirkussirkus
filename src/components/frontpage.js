@@ -189,8 +189,7 @@ scrollFunc = (arg) => {
             })
 
         }
-
-        
+   
 
     }
 

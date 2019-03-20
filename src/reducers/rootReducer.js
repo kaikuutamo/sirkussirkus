@@ -3,7 +3,6 @@ import productsFile from '../products-data/products.json';
 
 
 var temp = [];
- 
 
 
 const initState = {
