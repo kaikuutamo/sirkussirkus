@@ -1,0 +1,58 @@
+
+#sub-cat-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+#sub-cat-mainwrapper {
+    max-width: 1060px;
+    padding: var(--padding1);
+    background: white;
+}
+
+#sub-cat-tiles-wrapper {
+    background: var(--color3);
+    
+}
+
+#sub-cat-tiles-wrapper h1 {
+  font-size: 1.6rem;
+  color: var(--color1);
+  padding-top: 30px;
+  padding-bottom: 30px;  
+  text-align: center;
+}
+
+#sub-cat-tiles {
+   height: auto; 
+}
+
+.tile-wrap-product-name {
+    height: auto;
+
+}
+
+.tile-wrap-product-price {
+    font-size: 1rem;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    background: var(--color2);
+    color: white;
+    text-align: center;
+}
+
+/* --------------------------------- */
+
+@media (max-width: 850px) {
+
+    #sub-cat-tiles-wrapper h1 {
+        font-size: 1.5rem;
+    }
+
+    .tile-wrap-product-price {
+        font-size: 0.9rem;
+    }
+
+}

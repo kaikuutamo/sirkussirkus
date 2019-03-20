@@ -1,0 +1,894 @@
+{  
+    "categories":[  
+        {  
+            "name":"Jongleeraus",
+            "id":"jongleeraus",
+            "subcategories":[  
+                {  
+                    "name":"Pallot",
+                    "id":"pallot",
+                    "pic":"/category-pics/pallot.jpg",
+                    "products":[  
+                        {  
+                            "name":"Kuutamo 75 mm",
+                            "category":0,
+                            "subcategory":"pallot",
+                            "pic":"/product-pics-0/kuutamo75.jpg",
+                            "pics":["/product-pics-0/kuutamo75_valkoinen.jpg", "/product-pics-0/kuutamo75_keltainen.jpg", "/product-pics-0/kuutamo75_punainen.jpg", "/product-pics-0/kuutamo75_sininen.jpg", "/product-pics-0/kuutamo75_vihrea.jpg", "/product-pics-0/kuutamo75_oranssi.jpg"
+  
+                            ],
+                            "id":"kuutamo75",
+                            "price":6,
+                            "choice":"Väri",
+                            "text":"Kai Kuutamon oma henkilökohtainen pallomalli. Pallo on niin kutsuttu venäläistyylinen pallo, jossa on ohuen kuoren sisällä vain 1/3 hiekkatäytettä. Vapaasti liikkuva hiekka antaa pallolle vakautta ilmassa pallon kevyestä painosta huolimatta. Keveys taas helpottaa korkeita heittoja ja yli seitsemän pallon jongleerauskuvioita. Lisäksi pudotessaan pallo jää hiekan ansiosta usein aloilleen, eikä vieri niin kauas kuin näyttämö- tai tekstiilipallot. Kuutamo-pallot sopivat erinomaisesti myös aloittelijoille. Näillä palloilla Kai Kuutamo teki Suomen ennätyksen 10 pallon jongleerauksessa vuonna 2015.",
+                            "text2":"75 mm / 70 g",
+                            "options":[
+                            {  
+                              "name":"Valkoinen",
+                              "id":"kuutamo75_valkoinen",
+                              "price":6
+                          },
+                          {  
+                              "name":"Keltainen",
+                              "id":"kuutamo75_keltainen",
+                              "price":6
+                          },
+                          {  
+                              "name":"Punainen",
+                              "id":"kuutamo75_punainen",
+                              "price":6
+                          },
+                          {  
+                              "name":"Sininen",
+                              "id":"kuutamo75_sininen",
+                              "price":6
+                          },
+                          {  
+                              "name":"Vihreä",
+                              "id":"kuutamo75_vihrea",
+                              "price":6
+                          },
+                          {  
+                              "name":"Oranssi",
+                              "id":"kuutamo75_oranssi",
+                              "price":6
+                          }
+                      ]
+                        },
+                        {  
+                            "name":"Kuutamo 60 mm",
+                            "category":0,
+                            "subcategory":"pallot",
+                            "id":"kuutamo60",
+                            "pic":"/product-pics-0/kuutamo60.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":6,
+                            "text":"Pienempi Kuutamo-pallo pienemmille jonglööreille tai jonglööreille, jotka haluavat heittää yli kymmentä palloa. Pallo on niin kutsuttu venäläistyylinen pallo, jossa on ohuen kuoren sisällä vain 1/3 hiekkatäytettä. Vapaasti liikkuva hiekka antaa pallolle vakautta ilmassa pallon kevyestä painosta huolimatta. Keveys taas helpottaa korkeita heittoja ja yli seitsemän pallon jongleerauskuvioita. Lisäksi pudotessaan pallo jää hiekan ansiosta usein aloilleen, eikä vieri niin kauas kuin näyttämö- tai tekstiilipallot. Kuutamo-pallot sopivat erinomaisesti myös aloittelijoille.",
+                            "text2":"60 mm / 60 g",
+                            "options":null
+                        },
+                        {  
+                            "name":"Stage Ball 72mm",
+                            "category":0,
+                            "subcategory":"pallot",
+                            "id":"stage72",
+                            "pic":"/product-pics-0/stage72.jpg",
+                            "pics":[],
+                            "price":6,
+                            "choice":"Väri",
+                            "text":"Nimensä mukaisesti näyttämöpallo. Ontto paksupintainen hieman joustava ja pienesti pomppaava muovipallo, joka on käytännössä tuhoutumaton. Kiiltävä pinta. Hyvä pito. Saatavana erikseen tilattuna myös mattapintaisena.",
+                            "text2":"Halkaisija 72 mm / Paino 110 g",
+                            "options":[  
+                                {  
+                                    "name":"Valkoinen",
+                                    "id":"stage72_valkoinen",
+                                    "price":6
+                                },
+                                {  
+                                    "name":"Keltainen",
+                                    "id":"stage72_keltainen",
+                                    "price":6
+                                },
+                                {  
+                                    "name":"Oranssi",
+                                    "id":"stage72_oranssi",
+                                    "price":6
+                                },
+                                {  
+                                    "name":"Vaaleanpunainen",
+                                    "id":"stage72_vaaleanpunainen",
+                                    "price":6
+                                },
+                                {  
+                                    "name":"Punainen",
+                                    "id":"stage72_punainen",
+                                    "price":6
+                                },
+                                {  
+                                    "name":"Sininen",
+                                    "id":"stage72_sininen",
+                                    "price":6
+                                },
+                                {  
+                                    "name":"Vihreä",
+                                    "id":"stage72_vihrea",
+                                    "price":6
+                                }
+                            ]
+                        },
+                        {  
+                            "name":"Deluxe Beanbag",
+                            "category":0,
+                            "subcategory":"pallot",
+                            "id":"deluxebeanbag",
+                            "pic":"/product-pics-0/deluxe.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":9,
+                            "text":"Henrysin laadukkain tekstiilipallo (beanbag). Ehdottoasti paras tehdasvalmisteinen tekstiilipallo. Pintamateriaaliani on mattapintainen miellyttävä tekonahka ja täytteenä hirssi. Reilun kokoinen ja tuntuvan painoinen. Sopii hyvin aikuiseen käteen.Niin sanottua säkkien aatelia!",
+                            "text2":"76 mm / 167 g",
+                            "options":null
+                        },
+                        {  
+                            "name":"Turbo Bouncing Ball 69 mm",
+                            "category":0,
+                            "subcategory":"pallot",
+                            "id":"turbobouncing",
+                            "pic":"/product-pics-0/turbobouncing.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":15,
+                            "text":"Edullinen mutta laadukas vaihtoehto kalliille silikonipomppupallolle. Pomppu on yhtä hyvä kuin silikonipallossa, mutta pallomateriaali on arka kylmyydelle. +15 asteen lämmöstä alaspäin pomppu huononee huomattavasti. Muutoin erinomainen pomppupallo hyvällä hintalaatusuhteella. Kesäkeleillä ja sisätiloissa toimii moitteetta.",
+                            "text2":"69 mm / 185 g",
+                            "options":null
+                        },
+                        {  
+                            "name":"Bubble",
+                            "category":0,
+                            "subcategory":"pallot",
+                            "id":"bubble",
+                            "pic":"/product-pics-0/bubble.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":7,
+                            "text":"Pallo, jota on kutsuttu täydelliseksi näyttämöpallon ja tekstiilipallon välimuodoksi. Bubble-pallo soveltuu hienosti kokonsa puolesta lapsille ja aloittelijoille. Pallo on erittäin kestävä, ja sen voi täyttää haluamallaan täytteellä. Vakiotäyte pallossa on hirssi. Tulppaa ei saa poistettua ilman työkaluja.",
+                            "text2":"63 mm / 120 g",
+                            "options":null
+                        }
+                    ]
+                },
+                {  
+                    "name":"Keilat",
+                    "pic":"/category-pics/keilat.jpg",
+                    "id":"keilat",
+                    "products":[  
+                        {  
+                            "name":"Henry's Delphin",
+                            "category":0,
+                            "subcategory":"keilat",
+                            "id":"delphin",
+                            "pic":"/product-pics-0/delphin.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":20,
+                            "text":"Delphinissä yhdistyvät jongleerauskeilan parhaat ominaisuudet sekä edullinen hinta. Parempaa hintalaatusuhdetta saa hakea. Tätä keilaa käyttävät miltei kaikki vakavasti otettavat Pohjoismaiset jonglöörit. Keilan hoikka vartalo mahdollistaa jongleerauksen aina yhdeksään keilaan asti (Emil Dahl). Saumaton polyeteenikahva on kestävä ja antaa hyvän otteen käden kokoon katsomatta. Saarnipuinen ydin kestää kovemmankin löylytyksen ja myös huonot päivät. Kaiken kukkuraksi keila on vielä helppo korjata tarvittaessa osa kerrallaan. Paras keila niin aloittelijalle kuin ammattilaisellekin. ",
+                            "text2":"52 cm / 210 g",
+                            "options":null
+                        },
+                        {  
+                            "name":"Play One Piece",
+                            "category":0,
+                            "subcategory":"keilat",
+                            "id":"onepiece",
+                            "pic":"/product-pics-0/onepiece.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":10,
+                            "text":"Nimensä mukaisesti yhdestä palasta koostuva muottiin valettu keila. Tämä keila on paitsi edullinen myös käytännössä miltei tuhoutumaton. Kaiken lisäksi keila kelluu vedessä. Tämä raamatullisen vedenpaisumuksenkin kestävä keila sopii hyvin aloittelijoille, ja miksei myös ammattilaiselle. Tuntuma on tosin erilainen kuin perinteisessä puuydin keilassa, mutta mitä muovikeiloihin tulee: One Piece edustaa parasta laatua. Tämän mallin erottaa toisista kilpailevista muovikeiloista poikkeuksellisen käsiystävällinen ja joustava muovimateriaali. ",
+                            "text2":"52 cm / 200 g",
+                            "options":null
+                        },
+                        {  
+                            "name":"Henry's Pirouette",
+                            "category":0,
+                            "subcategory":"keilat",
+                            "id":"pirouette",
+                            "pic":"/product-pics-0/pirouette.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":34,
+                            "text":"Taattua Henrysin laatua ja samalla Keski-Euroopan suosituin keila. Vakiovarustus erityisesti ranskalaisilla jonglööreillä. Pirouette-keilassa on samat hyvät ominaisuudet kuin Henrysin Delphin-mallilla paitsi hinta. Keilan muoto ja kahva ovat tosin erilaiset, mutta Delphinin ohella Pirouette on suosituin keilamalli ammattilaisten keskuudessa. Paremmuus on makuasia. Keila on helppo korjata osa osalta tarvittaessa.",
+                            "text2":"52 cm / 215 g",
+                            "options":null
+                        },
+                        {  
+                            "name":"Mister Babache jongleerausveitsi",
+                            "category":0,
+                            "subcategory":"keilat",
+                            "id":"babache",
+                            "pic":"/product-pics-0/babache.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":30,
+                            "text":"Alumiininen ja kevyt jongleerausveitsi. Mukava ja pehmeä kierrekahva. Paras veitsi neljän ja viiden veitsen jongleeraukseen. Veitsi ei ole terävä, vaikka näyttää siltä. Varovaisuus on silti hyvä pitää mielessä, sillä vaikka veitsen terä ei ole terävä, se sattuu osuessaan. Veitsen heikoin kohta on terän juuri ja sen kiinnitys. Harjoitella kannattaa pehmeällä alustalla kuten nurmikolla veitsien pitkän iän takaamiseksi. ",
+                            "text2":"Pituus 55 cm / Paino 215 g",
+                            "options":null
+                        },
+                        {  
+                            "name":"Henry's Nite Flite jongleeraussoihtu",
+                            "category":0,
+                            "subcategory":"keilat",
+                            "id":"niteflite",
+                            "pic":"/product-pics-0/niteflite.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":38,
+                            "text":"Markkinoiden paras jongleeraussoihtu Henrysiltä. Saarnipuista runkoa suojaa kädensijaan asti ulottuva alumiiniputki, joka tekee soihdusta särkymättömän. Laadukkaan viimeistelyn ja kestävän rakenteen lisäksi tämä soihtu omaa hyvän heittotuntuman verrattuna muihin soihtuihin. Erinomainen soihtu niin soolonumeroihin kuin passailuunkin. Tutustu ennen käyttöä yleisiin paloturvallisuusohjeisiin, tulijongleerauksessa käytettäviin palonesteisiin, turvalliseen pukeutumiseen, äläkä koskaan harjoittele yksin. Kevlar-kangas sisältyy hintaan. \"Muuta palavaa en heittäisi.\" -Kai Kuutamo",
+                            "text2":"51 cm / 250 g",
+                            "options":null
+                        },
+                        {  
+                            "name":"Henry's keilan nuppi",
+                            "category":0,
+                            "subcategory":"keilat",
+                            "id":"henry_nuppi",
+                            "pic":"/product-pics-0/henryknobs.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":3,
+                            "choice":"Väri",
+                            "text":"Vaihtonuppi Henrysin Pirouette- ja Delphin-malliin.",
+                            "text2":"",
+                            "options":[  
+                                {  
+                                    "name":"Musta",
+                                    "id":"henry_nuppi_musta",
+                                    "price":3
+                                },
+                                {  
+                                    "name":"Valkoinen",
+                                    "id":"henry_nuppi_valkoinen",
+                                    "price":3
+                                }
+                            ]
+                        },
+                        {  
+                            "name":"Henry's keilan pääty",
+                            "category":0,
+                            "subcategory":"keilat",
+                            "id":"henry_paaty",
+                            "pic":"/product-pics-0/henrytops.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":3,
+                            "choice":"Väri",
+                            "text":"Vaihtopääty Henrysin Delphin-malliin.",
+                            "text2":"",
+                            "options":[  
+                                {  
+                                    "name":"Musta",
+                                    "id":"henry_paaty_musta",
+                                    "price":3
+                                },
+                                {  
+                                    "name":"Valkoinen",
+                                    "id":"henry_paaty_valkoinen",
+                                    "price":3
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {  
+                    "name":"Renkaat",
+                    "pic":"/category-pics/renkaat.jpg",
+                    "id":"renkaat",
+                    "products":[  
+                        {  
+                            "name":"Jongleerausrengas 32 cm",
+                            "category":0,
+                            "subcategory":"renkaat",
+                            "id":"rengas32",
+                            "pic":"/product-pics-0/rengas32.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":4,
+                            "text":"Kansainväliseksi standardiksi muodostunut perusrengas. Täydelliset renkaat niin aloittelijalle kuin ammattilaiselle. Valmistaja Mister Babache.",
+                            "text2":"32 cm / 100 g",
+                            "options":null
+                        },
+                        {  
+                            "name":"Iso rengas 40 cm",
+                            "category":0,
+                            "subcategory":"renkaat",
+                            "id":"rengas40",
+                            "pic":"/product-pics-0/rengas40.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":6,
+                            "text":"Mister Babache perusrenkaasta isompi, raskaampi ja näyttävämpi versio. Isompi halkaisija mahdollistaa uudenlaisia temppuja, koska renkaan koko on erilaisessa suhteessa kehon mittasuhteisiin. Toisaalta se myös sulkee joitain temppuja pois. Raskaampi paino tarkoittaa myös enemmän rasitusta käsille erityisesti kiinniottaessa korkeita heittoja.",
+                            "text2":"40 cm / 140 g",
+                            "options":null
+                        },
+                        {  
+                            "name":"Saturn 40 cm",
+                            "category":0,
+                            "subcategory":"renkaat",
+                            "id":"saturn40",
+                            "pic":"/product-pics-0/saturn40.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":5,
+                            "text":"Play-yhtiön Saturn-renkaiden ulkohalkaisija on saman kokoinen kuin Babachen vastaaavissa isoissa renkaissa, mutta sisähalkaisija on hieman pienempi. Renkaat ovat siis leveämmät Babachen standarimalleihin verrattuina, ja siksi tuntuvat käteen erilaisilta. Suurimman eron kuitenkin tekee valmistusmateriaali, joka on erittäin pehmeä ja joustava. Tämä mahdollistaa renkaiden taivuttelun ja tarjoaa paljon uudenlaisia temppumahdollisuuksia renkaiden käsittelyyn.",
+                            "text2":"40 cm / 135 g",
+                            "options":null
+                        },
+                        {  
+                            "name":"Vyöholsterit isoille (40cm) renkaille",
+                            "category":0,
+                            "subcategory":"renkaat",
+                            "id":"holsterit",
+                            "pic":"/product-pics-0/holsterit.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":30,
+                            "text":"Eli suomeksi vyölle asetettavat metalliset rengaskannattimet rai rengaskotelot. Lauri Koskisen suunnittelemat ja seppä Toni Saikkosen toteuttamat holsterit ovat paitsi kestävät myös tyylikkään yksinkertaiset ja sirot. Holsterit ovat alunperin suunniteltu yli kahdeksan renkaan jongleeraukseen ja muihin vastaaviin tilanteisiin, jossa käsitila loppuu kesken. Saattaa helpottaa lähtöä myös seitsemän ja kahdeksan renkaan jongleerauskuvioihin. Holstereihin sopii Babachen 40 cm jongleerausrengas. Hintaan sisältyy kaksi holsteria (yksi kummallekin puolelle). Hinta ei sisällä vyötä. Alla olevassa kuvassa holsterit puettuna. Värinä vain hopeinen.",
+                            "text2":"Pituus 60 cm / 325 g (1 kpl). (Hinta ei sisällä vyötä)",
+                            "options":null
+                        }
+                    ]
+                },
+                {  
+                    "name":"Uniikit",
+                    "pic":"/category-pics/uniikit.jpg",
+                    "id":"uniikit",
+                    "products":[  
+                        {  
+                            "name":"Suomalainen patukka (Finnish Pole)",
+                            "category":0,
+                            "subcategory":"uniikit",
+                            "id":"patukka",
+                            "pic":"/product-pics-0/patukka.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":50,
+                            "text":"Kai Kuutamon kehittelemä jongleerausväline, jonka käsittelyssä yhdistyvät keilajongleeraus- ja keppimanipulaatiotekniikat. Pitkän mittansa ansiosta suomalaiset patukat pyörivät erittäin hitaasi, ja niillä on helppo luoda muista jongleerausvälineistä visuaalisesti poikkeavaa materiaalia. Pitkä mitta tuo mukanaan myös raskautta. Vaikka väline on erittäin kevyt itsessään, sen käsittelyyn tarvitaan paljon panosta vipuvoimailmiön takia. Katso video alta nähdäksesi joitain välineen mahdollisuuksista. Värinä vain valkoinen.",
+                            "text2":"Pituus 150 cm / paino 250 g. Setissä 3 kappaletta.",
+                            "options":null
+                        },
+                        {  
+                            "name":"Jani Suihkosen magneettikepulat",
+                            "category":0,
+                            "subcategory":"uniikit",
+                            "id":"kepulat",
+                            "pic":"/product-pics-0/kepulat.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":70,
+                            "text":"Nämä magneettikepulat kehitti Jani Suihkonen kauan ennen kuin kukaan keksi vielä temppuilla magneettikeiloilla. Omintakeinen alkuperäinen väline, jota ei muista kaupoista varmasti löydä. Myytävät kepulat ovat Mestarin itsensä käsien töitä. Katso video alempaa, jossa Jani Suihkonen esittelee välineensä mahdollisuuksia. Vahvojen magneettien takia väline tulee pitää kaukana luottokorteista ja eletroniikasta. Sirkussirkus ei vastaa mahdollisista välineen aiheuttamista vahingoista.",
+                            "text2":"Pituus 53 cm / paino 215 g. Setissä 3 kappaletta.",
+                            "options":null
+                        },
+                        {  
+                            "name":"Kuutamo 75 mm",
+                            "category":0,
+                            "subcategory":"uniikit",
+                            "pic":"/product-pics-0/kuutamo75.jpg",
+                            "pics":[  
+  
+                            ],
+                            "id":"kuutamo75",
+                            "price":5.99,
+                            "text":"Kai Kuutamon oma henkilökohtainen pallomalli. Pallo on niin kutsuttu venäläistyylinen pallo, jossa on ohuen kuoren sisällä vain 1/3 hiekkatäytettä. Vapaasti liikkuva hiekka antaa pallolle vakautta ilmassa pallon kevyestä painosta huolimatta. Keveys taas helpottaa korkeita heittoja ja yli seitsemän pallon jongleerauskuvioita. Lisäksi pudotessaan pallo jää hiekan ansiosta usein aloilleen, eikä vieri niin kauas kuin näyttämö- tai tekstiilipallot. Kuutamo-pallot sopivat erinomaisesti myös aloittelijoille. Näillä palloilla Kai Kuutamo teki Suomen ennätyksen 10 pallon jongleerauksessa vuonna 2015.",
+                            "text2":"75 mm / 70 g",
+                            "options":null
+                        },
+                        {  
+                            "name":"Kuutamo 60 mm",
+                            "category":0,
+                            "subcategory":"uniikit",
+                            "id":"kuutamo60",
+                            "pic":"/product-pics-0/kuutamo60.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":5,
+                            "text":"Pienempi Kuutamo-pallo pienemmille jonglööreille tai jonglööreille, jotka haluavat heittää yli kymmentä palloa. Pallo on niin kutsuttu venäläistyylinen pallo, jossa on ohuen kuoren sisällä vain 1/3 hiekkatäytettä. Vapaasti liikkuva hiekka antaa pallolle vakautta ilmassa pallon kevyestä painosta huolimatta. Keveys taas helpottaa korkeita heittoja ja yli seitsemän pallon jongleerauskuvioita. Lisäksi pudotessaan pallo jää hiekan ansiosta usein aloilleen, eikä vieri niin kauas kuin näyttämö- tai tekstiilipallot. Kuutamo-pallot sopivat erinomaisesti myös aloittelijoille.",
+                            "text2":"60 mm / 60 g",
+                            "options":null
+                        },
+                        {  
+                            "name":"Vyöholsterit isoille (40cm) renkaille",
+                            "category":0,
+                            "subcategory":"uniikit",
+                            "id":"holsterit",
+                            "pic":"/product-pics-0/holsterit.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":30,
+                            "text":"Eli suomeksi vyölle asetettavat metalliset rengaskannattimet rai rengaskotelot. Lauri Koskisen suunnittelemat ja seppä Toni Saikkosen toteuttamat holsterit ovat paitsi kestävät myös tyylikkään yksinkertaiset ja sirot. Holsterit ovat alunperin suunniteltu yli kahdeksan renkaan jongleeraukseen ja muihin vastaaviin tilanteisiin, jossa käsitila loppuu kesken. Saattaa helpottaa lähtöä myös seitsemän ja kahdeksan renkaan jongleerauskuvioihin. Holstereihin sopii Babachen 40 cm jongleerausrengas. Hintaan sisältyy kaksi holsteria (yksi kummallekin puolelle). Hinta ei sisällä vyötä. Alla olevassa kuvassa holsterit puettuna. Värinä vain hopeinen.",
+                            "text2":"Pituus 60 cm / 325 g (1 kpl). (Hinta ei sisällä vyötä)",
+                            "options":null
+                        }
+                    ]
+                },
+                {  
+                    "name":"Diabolo",
+                    "pic":"/category-pics/diabolo.jpg",
+                    "id":"diabolo",
+                    "products":[  
+                        {  
+                            "name":"Shining Triple Bearing Diabolo",
+                            "category":0,
+                            "subcategory":"diabolo",
+                            "id":"sundia3b",
+                            "pic":"/product-pics-0/sundia3b.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":50,
+                            "text":"Sundian Shining Triple Bearing edustaa laakeri-diabolojen aatelia. Tämä äänettömästi äärimmäisen pitkään pyörivä kolmoislaakeroitu diabolo takaa mukavan ja herkän tuntuman. Kuppien materiaali on erittäin kestävää, ja se antaa myös läpinäkyvyytensä ansiosta diabololle hienon olemuksen näyttämövaloissa. Laakerointi mahdollistaa pidemmät temppusarjat osaajille, mutta helpottaa myös vasta-alkajan taivalta ensiaskeleista asti.",
+                            "text2":"Halkaisija 124 mm / leveys 143 mm / 309 g. Ei sisällä keppejä",
+                            "options":null
+                        },
+                        {  
+                            "name":"Finesse G4 Diabolo",
+                            "category":0,
+                            "subcategory":"diabolo",
+                            "id":"finesse",
+                            "pic":"/product-pics-0/finesse.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":30,
+                            "text":"Mister Babachen Finesse on yksi käytetyimmistä diabolo-malleista kautta maailman. Pitkän tuotekehittelyn päätteksi on nyt myynnissä jo neljännen sukupolven Finesse-diabolo, jonka yksityiskohdat on suunniteltu yhdessä parhaiden diabolo-jonglöörien kanssa. Kupit ovat joustavat ja samalla erittäin kestävät. Finesseen on myös mahdollista asentaa erilaisia akselistoja ja muita lisäosia, jotka muuttavat diabolon ominaisuuksia.",
+                            "text2":"Halkaisija 135 mm / leveys 130 mm / 245 g. Ei sisällä keppejä.",
+                            "options":null
+                        },
+                        {  
+                            "name":"Circus Diabolo",
+                            "category":0,
+                            "subcategory":"diabolo",
+                            "id":"circusdiabolo",
+                            "pic":"/product-pics-0/circusdiabolo.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":33,
+                            "text":"Henrysin Circus-diabolo on toinen perinteinen vaihtoehto tosiharrastajalle tai ammattilaiselle. Upeat värit, huippukestävä materiaali, elegantti muotoilu, väkevä tuntuma ja lukematon määrä tarjolla olevia lisäosia eri valmistajilta ovat tehneet tästä diabolosta klassikkomaisen standardin Finessen ohella.",
+                            "text2":"Halkaisija 130 mm / leveys 140 mm / 300 g. Ei sisällä keppejä",
+                            "options":null
+                        },
+                        {  
+                            "name":"Micro Diabolo",
+                            "category":0,
+                            "subcategory":"diabolo",
+                            "id":"microdiabolo",
+                            "pic":"/product-pics-0/microdiabolo.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":16,
+                            "text":"Henrysin Micro diabolo kulkee näppärästi mukana ja tajoaa pienen kokonsa puolesta haastetta temppuihin. Pienin diabolo, jolla on vielä mahdollista tehdä suurin osa perustempuista. Pieni koko ja kevyt paino opettavat tarkkuutta ja herkkyyttä.",
+                            "text2":"Halkaisija 80 mm / leveys 63 mm / 135 g. Ei sisällä keppejä.",
+                            "options":null
+                        },
+                        {  
+                            "name":"Performer Diabolo",
+                            "category":0,
+                            "subcategory":"diabolo",
+                            "id":"performerdiabolo",
+                            "pic":"/product-pics-0/performerdiabolo.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":40,
+                            "text":"Nimenomaan suurille näyttämöille ammattikäyttöön suunniteltu Perfomer-diabolo on tehdasvalmisteisista diaboloista suurin. Suuri koko tuo mukanaan myös painoa, ja Performer onkin myös painavin diabolo ilman lisäosia. Näkyvä ja tuntuva vaihtoehto huomiota kaipaaville.",
+                            "text2":"Halkaisija 160 mm / leveys 185 mm / 360 g. Ei sisällä keppejä.",
+                            "options":null
+                        },
+                        {  
+                            "name":"Diabolo-käsikepit - Alu",
+                            "category":0,
+                            "subcategory":"diabolo",
+                            "id":"alusticks",
+                            "pic":"/product-pics-0/alusticks.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":12,
+                            "text":"Alumiiniset käsikepit diaboloon. Erittäin kestävät ja laadukkaat kepit, jotka sopivat erinomaisen hyvin aloittelijoille ja lapsille. Naru sisältyy hintaan.",
+                            "text2":"33 cm",
+                            "options":null
+                        },
+                        {  
+                            "name":"Diabolo-käsikepit - Carbon",
+                            "category":0,
+                            "subcategory":"diabolo",
+                            "id":"carbonsticks",
+                            "pic":"/product-pics-0/carbonsticks.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":22,
+                            "text":"Hiilikuidusta valmistetut käsikepit diaboloon. Erittäin kevyt ja käsiystävällinen malli ammattilaisille. Pieni jousto ja keveys antavat erinomaisen tuntuman. Kevyt paino suojaa myös kolhuilta kepinpäästötempuissa. Naru sisältyy hintaan.",
+                            "text2":"35 cm",
+                            "options":null
+                        },
+                        {  
+                            "name":"Diabolo-naru - Henry's Original",
+                            "category":0,
+                            "subcategory":"diabolo",
+                            "id":"henrysstring",
+                            "pic":"/product-pics-0/henrysstring.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":17.50,
+                            "text":"Henrysin aito diabolo-naru. Myydään 25m rullissa. 0,70 € / metri.",
+                            "text2":"",
+                            "options":null
+                        },
+                        {  
+                            "name":"Diabolo-naru - Performance",
+                            "category":0,
+                            "subcategory":"diabolo",
+                            "id":"performance",
+                            "pic":"/product-pics-0/performance.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":0.60,
+                            "text":"Mister Babachen valmistama Performace -diabolo-naru. Minimiosto 20 metriä. 0,60 € / metri.",
+                            "text2":"",
+                            "options":null
+                        },
+                        {  
+                            "name":"Finesse Evolution Kit 1",
+                            "category":0,
+                            "subcategory":"diabolo",
+                            "id":"ekit1",
+                            "pic":"/product-pics-0/ekit1.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":10,
+                            "text":"Finesse-diaboloon sopiva leveämpi vaihtoakseli (levennysakseli). Tarvittavat työkalut sisältyvät pakettiin.",
+                            "text2":"Akselin pituus 57 mm / paino 35 g.",
+                            "options":null
+                        },
+                        {  
+                            "name":"Finesse Evolution Kit 3",
+                            "category":0,
+                            "subcategory":"diabolo",
+                            "id":"ekit3",
+                            "pic":"/product-pics-0/ekit3.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":5,
+                            "text":"Finesse-diaboloon sopivat lisäpainot. Paketissa kaksi painoa, yksi kummallekin puolelle diaboloa. Lisäpainoja on kahta tyyppiä: 2 x 6 grammaa tai 2 x 10 grammaa. Hinta molemmissa lisäpainoissa on sama.",
+                            "text2":"Paino 2 x 6 g / 2 x 10 g",
+                            "options":null
+                        },
+                        {  
+                            "name":"Finesse Evolution Kit 4 + laturi",
+                            "category":0,
+                            "subcategory":"diabolo",
+                            "id":"ekit4",
+                            "pic":"/product-pics-0/ekit4.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":30,
+                            "text":"Finesse-diaboloon sopiva valosarja. Paketissa valot diabolon molemmille puolille, tarvittavat työkalut, akkuparistot sekä laturi. Paristot voi joko vaihtaa tai ladata liittämällä laturin valosarjaan. Yhdellä laturilla lataa yhtäaikaa kaksi valosarjan osaa eli molemmat puolet. Laturi ei näy kuvassa.",
+                            "text2":"Valo-osien paino asennettuna 100 g.",
+                            "options":null
+                        },
+                        {  
+                            "name":"Finesse Evolution Kit 5",
+                            "category":0,
+                            "subcategory":"diabolo",
+                            "id":"ekit5",
+                            "pic":"/product-pics-0/ekit5.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":10,
+                            "text":"Pölykapselit Finesse-diaboloon. Säihkyvät aaltomaisesti muotoillut peilaavat muovilevyt tuovat näyttävyyttä diabolo-temppuihin niin auringon paisteessa kuin myös näyttämövaloissa. Paketissa kaksi pölykapselia, yksi kummallekin puolelle diaboloa.",
+                            "text2":"Paino 25 g ",
+                            "options":null
+                        }
+                    ]
+                },
+                {  
+                    "name":"Tuli",
+                    "pic":"/category-pics/tuli.jpg",
+                    "id":"tuli",
+                    "products":[  
+                        {  
+                            "name":"Henry's Nite Flite jongleeraussoihtu",
+                            "category":0,
+                            "subcategory":"tuli",
+                            "id":"niteflite",
+                            "pic":"/product-pics-0/niteflite.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":38,
+                            "text":"Markkinoiden paras jongleeraussoihtu Henrysiltä. Saarnipuista runkoa suojaa kädensijaan asti ulottuva alumiiniputki, joka tekee soihdusta särkymättömän. Laadukkaan viimeistelyn ja kestävän rakenteen lisäksi tämä soihtu omaa hyvän heittotuntuman verrattuna muihin soihtuihin. Erinomainen soihtu niin soolonumeroihin kuin passailuunkin. Tutustu ennen käyttöä yleisiin paloturvallisuusohjeisiin, tulijongleerauksessa käytettäviin palonesteisiin, turvalliseen pukeutumiseen, äläkä koskaan harjoittele yksin. Kevlar-kangas sisältyy hintaan. \"Muuta palavaa en heittäisi.\" -Kai Kuutamo",
+                            "text2":"51 cm / 250 g",
+                            "options":null
+                        },
+                        {  
+                            "name":"Tulipoit",
+                            "category":0,
+                            "subcategory":"tuli",
+                            "id":"tulipoit",
+                            "pic":"/product-pics-0/tulipoit.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":40,
+                            "text":"Mister Babachen valmistamat pyöritettävät tulipoit. Tulipään koon puolesta sopivat poit aloittelevalle tulipoin pyörittäjälle. Tulipään koko 5 cm. Tutustu ennen käyttöä yleisiin paloturvallisuusohjeisiin, tulijongleerauksessa käytettäviin palonesteisiin, turvalliseen pukeutumiseen, äläkä koskaan harjoittele yksin. Kevlar-kangas sisältyy hintaan.",
+                            "text2":"78 cm / 400 g / tulipää 5 cm. 40 € / pari.",
+                            "options":null
+                        }
+                    ]
+                },
+                {  
+                    "name":"Muut jongleeraus",
+                    "pic":"/category-pics/muut.jpg",
+                    "id":"muut",
+                    "products":[  
+                        {  
+                            "name":"Jongleeraushuivit - Set 3+1",
+                            "category":0,
+                            "subcategory":"muut",
+                            "id":"scarf1",
+                            "pic":"/product-pics-0/scarf1.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":10,
+                            "text":"Henrysin huivipakkauksessa kolme isoa nylon-huivia. Paketin nimi 3+1 ei viittaa ylimääräiseen huiviin, vaan 64-sivuiseen ohjekirjaan, jonka saa kaupan päälle. Ohjekirjassa neuvotaan jongleerauksen salat huiveilla alkuaskeleita myöten. Huivit ovat helpoin tapa tutustua jongleerauksen perusperiaatteisiin.",
+                            "text2":"70 x 70 cm",
+                            "options":null
+                        },
+                        {  
+                            "name":"Mister Babache jongleerausveitsi",
+                            "category":0,
+                            "subcategory":"muut",
+                            "id":"babache",
+                            "pic":"/product-pics-0/babache.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":30,
+                            "text":"Alumiininen ja kevyt jongleerausveitsi. Mukava ja pehmeä kierrekahva. Paras veitsi neljän ja viiden veitsen jongleeraukseen. Veitsi ei ole terävä, vaikka näyttää siltä. Varovaisuus on silti hyvä pitää mielessä, sillä vaikka veitsen terä ei ole terävä, se sattuu osuessaan. Veitsen heikoin kohta on terän juuri ja sen kiinnitys. Harjoitella kannattaa pehmeällä alustalla kuten nurmikolla veitsien pitkän iän takaamiseksi. ",
+                            "text2":"Pituus 55 cm / Paino 215 g",
+                            "options":null
+                        },
+                        {  
+                            "name":"Lautanen + keppi",
+                            "category":0,
+                            "subcategory":"muut",
+                            "id":"plate1",
+                            "pic":"/product-pics-0/plate1.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":10,
+                            "text":"Lautasenpyörityslautanen (Mister Babache). Materiaalina pehmeä muovi. Soveltuu hienosti pientenkin lasten käyttöön. Hintaan sisältyy myös pyörityskeppi.",
+                            "text2":"Halkaisija 240 mm / 90 g.",
+                            "options":null
+                        },
+                        {  
+                            "name":"Jongleeraushattu",
+                            "category":0,
+                            "subcategory":"muut",
+                            "id":"nilspols",
+                            "pic":"/product-pics-0/nilspols.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":0,
+                            "text":"Nils Poll -jongleeraushattu. Tanskassa valmistettu Nils Pollin suunnittelema hattu on tarkoitettu nimenomaan hattumanipulaatioon. Kolmikerroksinen huopa, josta hattu on valmistettu, on 100% villaa. Materiaali ei menetä muotoaan tai murru kovassakaan käytössä.",
+                            "text2":"Tilaustuote koon mukaan.",
+                            "options":null
+                        },
+                        {  
+                            "name":"Sikarilaatikko",
+                            "category":0,
+                            "subcategory":"muut",
+                            "id":"cigarbox",
+                            "pic":"/product-pics-0/cigarbox.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":22,
+                            "text":"Mister Babachen sikarilaatikko on kestävä ja laadukkaasti viimeistelty tuotos. Sopii niin aloittelijalle kuin tositekijällekin. Materiaaleina puu ja huopakangas.",
+                            "text2":"130 x 55 x 195 mm / 295 g",
+                            "options":null
+                        },
+                        {  
+                            "name":"Flower Stick - Tulip",
+                            "category":0,
+                            "subcategory":"muut",
+                            "id":"flowerstick",
+                            "pic":"/product-pics-0/flowerstick.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":29,
+                            "text":"Flower stick eli suomeksi kukkakeppi on perinteisestä devil stick -välineestä helpommin käsiteltävä malli. Kumiset hapsut kepin päissä lisäävät painoa ja ilmanvastusta hidastaen ja helpottaen kepin käsittelyä. Suosittu ja helposti lähestyttävä väline kaikenikäisille kautta maailman! UV-reagoivat värit. Pakettiin sisältyy silikonipäällysteiset käsikepit. Valmistajana Play.",
+                            "text2":"70 cm / 220 g (kukkakepin paino)",
+                            "options":null
+                        },
+                        {  
+                            "name":"Devil Stick - Grip",
+                            "category":0,
+                            "subcategory":"muut",
+                            "id":"devilgrip",
+                            "pic":"/product-pics-0/devilgrip.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":22,
+                            "text":"Perustavan laatuinen devil-stick, jossa pitävä \"Anti-slip\" pinnoitus. Taattua Mister Babache -laatua. Sopii niin aloittelijalle kuin ammattilaiselle. Käsikepit eivät sisälly hintaan.",
+                            "text2":"675 mm / 226 g",
+                            "options":null
+                        },
+                        {  
+                            "name":"Puiset Käsikepit (Devil Stick)",
+                            "category":0,
+                            "subcategory":"muut",
+                            "id":"devilhand",
+                            "pic":"/product-pics-0/devilhand.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":8,
+                            "text":"Puiset silikonipäällysteiset valkoiset käsikepit. Perinteiset käsikepit devil-stickin käsittelyyn.",
+                            "text2":"45 cm / 12 mm. 8 € / pari.",
+                            "options":null
+                        }
+                    ]
+                }
+            ]
+        },
+        {  
+            "name":"Ilma-akrobatia",
+            "id":"ilmaakro",
+            "subcategories":[  
+                {  
+                    "name":"Kankaat",
+                    "pic":"/category-pics/kankaat.jpg",
+                    "id":"kankaat",
+                    "products":[  
+  
+                    ]
+                },
+                {  
+                    "name":"Köydet",
+                    "pic":"/category-pics/koydet.jpg",
+                    "id":"koydet",
+                    "products":[  
+  
+                    ]
+                },
+                {  
+                    "name":"Trapetsit",
+                    "pic":"/category-pics/trapetsit.jpg",
+                    "id":"trapetsit",
+                    "products":[  
+  
+                    ]
+                },
+                {  
+                    "name":"Remmit",
+                    "pic":"/category-pics/remmit.jpg",
+                    "id":"remmit",
+                    "products":[  
+  
+                    ]
+                },
+                {  
+                    "name":"Riggaus",
+                    "pic":"/category-pics/riggaus.jpg",
+                    "id":"riggaus",
+                    "products":[  
+  
+                    ]
+                }
+            ]
+        },
+        {  
+            "name":"Tasapainoilu",
+            "id":"tasapainoilu",
+            "subcategories":[  
+                {  
+                    "name":"Yksipyöräiset",
+                    "pic":"/category-pics/yksipyoraiset.jpg",
+                    "id":"yksipyoraiset",
+                    "products":[  
+  
+                    ]
+                },
+                {  
+                    "name":"Slackline",
+                    "pic":"/category-pics/slackline.jpg",
+                    "id":"slackline",
+                    "products":[  
+  
+                    ]
+                },
+                {  
+                    "name":"Puujalat",
+                    "pic":"/category-pics/puujalat.jpg",
+                    "id":"puujalat",
+                    "products":[  
+  
+                    ]
+                }
+            ]
+        },
+        {  
+            "name":"Muut",
+            "id":"muut",
+            "subcategories":[  
+                {  
+                    "name":"Kendama",
+                    "pic":"/category-pics/kendama.jpg",
+                    "id":"kendama",
+                    "products":[  
+  
+                    ]
+                },
+                {  
+                    "name":"Taika",
+                    "pic":"/category-pics/taika.jpg",
+                    "id":"taika",
+                    "products":[  
+  
+                    ]
+                },
+                {  
+                    "name":"Kirjat ja dvd:t",
+                    "pic":"/category-pics/media.jpg",
+                    "id":"media",
+                    "products":[  
+  
+                    ]
+                },
+                {  
+                    "name":"Paidat",
+                    "pic":"/category-pics/paidat.jpg",
+                    "id":"paidat",
+                    "products":[  
+  
+                    ]
+                }
+            ]
+        }
+    ]
+  }

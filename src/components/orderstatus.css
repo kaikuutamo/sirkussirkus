@@ -1,0 +1,30 @@
+
+#orderstatus-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#orderstatus-cont {
+
+height: auto;
+background: white;
+margin-top: 40px;
+width: 100%;
+max-width: 500px;
+text-align: center;
+padding-top: 30px;
+padding-bottom: 30px;
+border-radius: 5px;
+}
+
+#orderstatus-cont h1 {
+    padding-bottom: 20px;
+    font-size: 1.6rem;
+}
+
+#orderstatus-cont p {
+    font-size: 1rem;
+}

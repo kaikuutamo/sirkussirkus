@@ -1,0 +1,30 @@
+
+#logofooter-wrapper {
+
+    display: grid;
+    grid-template-rows: auto auto auto;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 20px;
+    
+
+}
+
+
+
+.logofooter-pic {
+    align-self: center;
+    width: 80%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+
+@media (max-width: 850px) {
+
+    #logofooter-wrapper, .logofooter-column {
+        grid-gap: 10px;
+    }
+
+
+}
+

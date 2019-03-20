@@ -1,0 +1,152 @@
+
+#categories-page-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    }
+
+#categories-main-wrapper {
+    max-width: 1060px;
+    background: white;
+    padding: var(--padding1);
+}
+    
+
+
+#categories-wrapper1 {
+    
+    background: var(--color3);
+    }
+
+    #categories-wrapper1 h1 {
+        text-align: left;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        font-size: 1.6rem;
+        color: var(--color1);
+        text-align: center;
+    }
+
+.categories-tiles {
+display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr;
+padding: 20px;
+grid-gap: 20px;
+}
+
+
+.tile-wrap {
+  
+   text-decoration: none;
+   display: flex;
+   flex-direction: column;
+   width: 100%;
+   background: var(--color1);
+   }
+
+
+.category-tile {
+    height: 100%;
+    width: 100%;
+    display: flex; 
+    flex-direction: column;
+    align-items: flex-start;
+    cursor: pointer;
+    }
+
+.category-tile img {
+    background: white;
+    transition: filter 0.2s;
+    width: 100%;
+    }
+
+    .category-tile img:hover {
+        filter: brightness(80%);
+       
+    }
+
+
+.category-tile p {
+  font-size: 1rem;
+  padding: 0;
+  margin: 0; 
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 5px;
+  padding-right: 5px;
+  color: white;
+  word-break: break-word;
+  hyphens: auto;
+}
+
+.categories-line-top {
+    height: 3px;
+    background: var(--color2);
+    }
+
+.categories-line {
+    height: 3px;
+    background: var(--color2);
+    margin-top: 60px;
+}
+
+
+
+/* --------------------------------- */
+
+@media (max-width: 850px) {
+
+    .categories-tiles {
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-gap: 30px;
+        padding: 30px;
+    }
+
+    .category-tile p {
+        font-size: 0.9rem;
+    }
+
+    #categories-wrapper1 h1 {
+        font-size: 1.5rem;
+    }
+
+}
+
+
+/* --------------------------------- */
+
+@media (max-width: 700px) {
+
+    .categories-tiles {
+        grid-gap: 20px;
+        padding: 20px;
+    }
+
+}
+
+
+/* --------------------------------- */
+
+@media (max-width: 600px) {
+
+    .categories-tiles {
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 30px;
+        padding: 30px;
+        font-size: 2rem;
+    }
+
+}
+
+/* --------------------------------- */
+
+@media (max-width: 500px) {
+
+    .categories-tiles {
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 12px;
+        padding: 12px;
+    }
+
+}

@@ -1,0 +1,136 @@
+
+
+#orderpage-wrapper {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#order-container {
+    padding: var(--padding1);
+    width: 100%;
+    max-width: 1060px;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#order-container h1 {
+    font-size: 1.6rem;
+    padding-top: 20px;
+}
+
+#order-information-cont {
+    padding-top: 30px;
+    padding-bottom: 40px;
+    width: 100%;
+    max-width: 450px;
+}
+
+.order-info-box {
+    padding-left: 5px;
+    padding-bottom: 25px;
+   width: 100%;
+}
+
+.order-info-box p {
+    font-size: 1rem;
+    padding-bottom: 7px;
+}
+
+.order-info-box input {
+   width: 89%;
+   padding: 8px;
+   font-size: 1rem;
+   letter-spacing: 1px;
+}
+
+#text-area2 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 30px;
+}
+
+#text-area2 h2 {
+    font-size: 1.2rem;
+    padding-bottom: 20px;
+}
+
+#text-wrapper2 {
+width: 100%;
+
+min-height: 100px;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+#text-wrapper2 textarea {
+    width: 95%;
+    max-width: 500px;
+    height: 100px;
+    font-size: 1.1rem;
+}
+
+#order-continue-buttons {
+    display: flex;
+    padding-bottom: 30px;
+}
+
+#order-continue-buttons button {
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    background: var(--color1);
+    color:white;
+    padding: 8px;
+    font-size: 1.1rem;
+    margin-left: 8px;
+    margin-right: 8px;
+    letter-spacing: 1px;
+}
+
+#order-continue-buttons button:hover {
+    cursor: pointer;
+}
+
+#order-continue-buttons button:active {
+    border: none;
+    outline: none;
+    filter: brightness(70%);
+}
+
+
+/* ---------------------------------- */
+
+@media (max-width: 1200px) {
+
+
+    #orderpage-wrapper {
+        display: initial;
+        
+    }
+
+    #order-container {
+        width: auto;
+        max-width: initial;
+    }
+
+}
+
+/* ---------------------------------- */
+
+@media (max-width: 850px) {
+
+    #order-container h1 {
+        font-size: 1.5rem;
+    }
+
+
+}
+
+

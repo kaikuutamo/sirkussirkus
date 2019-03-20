@@ -1,0 +1,17 @@
+
+body {
+    --color1: #D90429;
+    --color2: #EF233C;
+    --color3: #EDF2F4;
+    --color4: #8D99AE;
+    --color5: #303030;
+
+    --padding1: 10px;
+
+    background: var(--color3);
+    
+    font-family: 'Lato', sans-serif;
+
+    letter-spacing: 1px;
+
+}
