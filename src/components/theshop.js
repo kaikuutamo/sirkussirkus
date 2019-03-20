@@ -36,8 +36,9 @@ render () {
                         <br></br>
                         <p>Jos tuotteista on kysyttävää, tai listalla ei ole tuotetta jota etsit, niin otathan yhteyttä sähköpostitse.</p> 
                         <br></br>
-                        <p>Kaikki hinnat ovat kappalehintoja, ellei toisin välineen yhteydessä mainita.</p>
-                        
+                        <p>Kaikki hinnat ovat kappalehintoja, ellei toisin mainita.</p>
+                        <br></br>
+                        <p>Sirkusvälineiden käyttö tapahtuu aina omalla vastuulla.</p>
 
                 </div>
                 </div>    
