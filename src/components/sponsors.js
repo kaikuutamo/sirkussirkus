@@ -20,7 +20,7 @@ class Sponsors extends React.Component {
             <div id="sponsors-wrapper">
                 
                 <div id="sponsors-mainpage">
-                <h1>Sponsorit</h1>
+                <h1>Sponsorointi</h1>
                     <p className="sponsors-text">Sirkussirkus on sponsoroinut valikoituja yksilöitä ja hankkeita jo vuodesta 2009.</p>
 
                     <div id="sponsor-pics-wrapper">
@@ -34,6 +34,7 @@ class Sponsors extends React.Component {
                     <a href="http://koti.kapsi.fi/~hel5am/sds/" target="_blank" rel="noopener noreferrer"><img alt="Sponsor" src="/sponsor-pics/sponsor5.jpg"></img></a>
                     <a href="http://www.sirkussirkus.com/njc" target="_blank" rel="noopener noreferrer"><img alt="Sponsor" src="/sponsor-pics/sponsor6.jpg"></img></a>
                     <a href="http://supiainen.com/?page_id=94" target="_blank" rel="noopener noreferrer"><img alt="Sponsor" src="/sponsor-pics/sponsor7.jpg"></img></a>
+                    <a href="http://www.kaikuutamo.com" target="_blank" rel="noopener noreferrer"><img alt="Sponsor" src="/sponsor-pics/sponsor8.jpg"></img></a>
 
                     </div>
 
