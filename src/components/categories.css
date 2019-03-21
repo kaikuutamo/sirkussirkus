@@ -56,7 +56,7 @@ grid-gap: 20px;
     }
 
 .category-tile img {
-    background: white;
+    
     transition: filter 0.2s;
     width: 100%;
     }

@@ -104,7 +104,18 @@ if (product.pics.length === 0) {
 }
 
 var lineBreak = <br></br>;
+var lineBreak2 = <br></br>;
+var lineBreak3 = <br></br>;
+var lineBreak4 = <br></br>;
+
+
 if (product.text2.length === 0) {lineBreak = null}
+
+if (product.text3.length === 0) {lineBreak2 = null}
+
+if (product.text4.length === 0) {lineBreak3 = null}
+
+if (product.text5.length === 0) {lineBreak4 = null}
 
 
 return (
@@ -153,6 +164,12 @@ return (
             <p>{product.text}</p>
             {lineBreak}
             <p>{product.text2}</p>
+            {lineBreak2}
+            <p>{product.text3}</p>
+            {lineBreak3}
+            <p>{product.text4}</p>
+            {lineBreak4}
+            <p>{product.text5}</p>
             
 
         </div>

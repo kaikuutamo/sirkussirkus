@@ -282,7 +282,7 @@ window.scrollTo(0, 0);
 
 var slide1 = (<Link key="im1" to="/product?category=0&subcategory=pallot&id=kuutamo75"><img id="image1" className="img-commercial" alt="commercial" src={commercial1}></img></Link>);
 var slide2 = (<Link key="im2" to="/product?category=0&subcategory=pallot&id=kuutamo75"><img key="im2" className="img-commercial" alt="commercial" src={commercial2}></img></Link>);
-var slide3 = (<Link key="im3" to="/product?category=0&subcategory=pallot&id=kuutamo75"><img key="im3" className="img-commercial" alt="commercial" src={commercial3}></img></Link>);
+var slide3 = (<Link key="im3" to="/product?category=1&subcategory=kankaat&id=allineight"><img key="im3" className="img-commercial" alt="commercial" src={commercial3}></img></Link>);
 var endSlide = (<Link key="im4" to="/product?category=0&subcategory=pallot&id=kuutamo75"><img key="im4" className="img-commercial" alt="commercial" src={commercial1}></img></Link>);
 
 var slides = [slide1, slide2, slide3, endSlide];

@@ -32,6 +32,12 @@ return (
     <img className="logofooter-pic" alt="logo" src="/logo-pics/logosinging.jpg"></img>
     <img className="logofooter-pic" alt="logo" src="/logo-pics/misterlogo.jpg"></img>
     <img className="logofooter-pic" alt="logo" src="/logo-pics/logorock.jpg"></img>
+
+    <img className="logofooter-pic" alt="logo" src="/logo-pics/logoquax.jpg"></img>
+    <img className="logofooter-pic" alt="logo" src="/logo-pics/logocamp.jpg"></img>
+    <img className="logofooter-pic" alt="logo" src="/logo-pics/logopetzl.jpg"></img>
+
+    <img className="logofooter-pic" alt="logo" src="/logo-pics/samelogo.jpg"></img>
     
 
 
