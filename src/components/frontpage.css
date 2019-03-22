@@ -119,10 +119,14 @@ height: auto;
     display: flex;
     flex-direction: column;
     width: 100%;
+    height: 100%;
 }
 
 .frontpage-pic {
+    font-size: 0.9rem;
+    background: white;
     width: 100%;
+    height: 100%;
     transition: filter 0.2s;
 }
 
