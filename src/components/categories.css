@@ -57,10 +57,9 @@ grid-gap: 20px;
 
 .category-tile img {
     font-size: 0.9rem;
-    background: white;
     transition: filter 0.2s;
     width: 100%;
-    height: 100%;
+
     }
 
     .category-tile img:hover {
