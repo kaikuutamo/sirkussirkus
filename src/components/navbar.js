@@ -177,7 +177,7 @@ return (
            <div id="navbar2">
            <ul>
                 <li><Link to="/categories/?jongleeraus">Jongleeraus</Link></li>
-                <li><Link to="/categories/?ilma-akrobatia">Ilma-akrobatia</Link></li>
+                <li><Link to="/categories/?ilmaakro">Ilma-akrobatia</Link></li>
                 <li><Link to="/categories/?tasapainoilu">Tasapainoilu</Link></li>
                 <li><Link to="/categories/?muut">Muut</Link></li>
             </ul>

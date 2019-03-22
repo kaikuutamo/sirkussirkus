@@ -11,10 +11,11 @@
 
 #social-logos {
     padding-bottom: 20px;
- 
+    display: flex;
 }
 
 #social-logos img {
+
     height: 45px;
     padding-right: 7px;
     padding-left: 7px;

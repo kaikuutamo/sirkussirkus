@@ -4,6 +4,8 @@ import {connect} from 'react-redux';
 
 import cartPic from './pictures/shopping-cart.png';
 
+import {Link} from 'react-router-dom';
+
 import LogoFooter from './logofooter';
 import SocialFooter from './socialfooter';
 
@@ -149,12 +151,31 @@ return (
 })
 
 
+var pathName1 = this.props.products.categories[product.category].name;
+var pathName2;
+var subCategories = this.props.products.categories[product.category].subcategories;
+
+for (var k in subCategories) {
+    if (subCategories[k].id === product.subcategory) {
+        pathName2 = subCategories[k].name;
+    }
+}
+
+var path1 = "/categories/?" + this.props.products.categories[product.category].id;
+var path2 = "/sub-category?category=" + product.category + "&subcategory=" + product.subcategory;
+
 
 return (
 
 <div className="product-page-wrapper">
 
         <div className="product-main-wrapper">
+
+        <div className="path-links-wrap">  
+        <div className="path-links">
+        <Link to={path1}><p>{pathName1}</p></Link> <p>|</p> <Link to={path2}><p>{pathName2}</p></Link>
+        </div>
+        </div> 
 
         <div className="product-wrapper2">
 

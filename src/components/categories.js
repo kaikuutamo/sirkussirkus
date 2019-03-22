@@ -19,7 +19,7 @@ scrollTo = () => {
         window.scrollTo(0, document.getElementById("jongleeraus").offsetTop - document.getElementById("navbar-mobile").clientHeight);
     }
 
-   else if (window.location.search === "?ilma-akrobatia") {
+   else if (window.location.search === "?ilmaakro") {
          window.scrollTo(0, document.getElementById("ilma-akrobatia").offsetTop - document.getElementById("navbar-mobile").clientHeight);
    }
 

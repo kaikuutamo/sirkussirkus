@@ -591,7 +591,7 @@
   
                             ],
                             "id":"kuutamo75",
-                            "price":5.99,
+                            "price":6,
                             "text":"Kai Kuutamon oma henkilökohtainen pallomalli. Pallo on niin kutsuttu venäläistyylinen pallo, jossa on ohuen kuoren sisällä vain 1/3 hiekkatäytettä. Vapaasti liikkuva hiekka antaa pallolle vakautta ilmassa pallon kevyestä painosta huolimatta. Keveys taas helpottaa korkeita heittoja ja yli seitsemän pallon jongleerauskuvioita. Lisäksi pudotessaan pallo jää hiekan ansiosta usein aloilleen, eikä vieri niin kauas kuin näyttämö- tai tekstiilipallot. Kuutamo-pallot sopivat erinomaisesti myös aloittelijoille. Näillä palloilla Kai Kuutamo teki Suomen ennätyksen 10 pallon jongleerauksessa vuonna 2015.",
                             "text2":"75 mm / 70 g",
                             "text3": "",
@@ -1246,7 +1246,241 @@
                     "name":"Köydet",
                     "pic":"/category-pics/koydet.jpg",
                     "id":"koydet",
-                    "products":[  
+                    "products":[ 
+                        {  
+                            "name":"Firetoys 3-säikeinen ilma-akrobatiaköysi (valkoinen)",
+                            "category":1,
+                            "subcategory":"koydet",
+                            "id":"firetoys-3ply-valkoinen",
+                            "pic":"/product-pics-1/firetoys-3ply.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":170,
+                            "text":"Firetoysin valmistama kolmisäikeinen pehmeä, notkea ja joustava ilma-akrobatiaköysi. Tässä kolmisäikeisessä vertikaaliköydessä yhdistyvät ominaisuudet ovat harvinainen yhdistelmä. Erittäin mukava käytettävyys, laadukas viimeistely, tyylikäs ulkomuoto ja edullinen hinta. Köyttä löytyy kolmessa eri värissä ja viidessä eri mitassa. Väri/pituus/hinta-kartta löytyy alapuolelta.",
+                            "text2":"Pituus 6-12 m / Paksuus 35 mm",
+                            "text3": "Työskentelypainoraja 190 kg",
+                            "text4": "",
+                            "text5": "",
+                            "choice": "Pituus",
+                            "options":[
+                                {  
+                                    "name":"6 m",
+                                    "id":"firetoys-3ply-valkoinen-6",
+                                    "price":170
+                                },
+                                {  
+                                    "name":"7 m",
+                                    "id":"firetoys-3ply-valkoinen-7",
+                                    "price":185
+                                },
+                                {  
+                                    "name":"8 m",
+                                    "id":"firetoys-3ply-valkoinen-8",
+                                    "price":200
+                                },
+                                {  
+                                    "name":"10 m",
+                                    "id":"firetoys-3ply-valkoinen-10",
+                                    "price":220
+                                },
+                                {  
+                                    "name":"12 m",
+                                    "id":"firetoys-3ply-valkoinen-12",
+                                    "price":240
+                                }
+                            ]
+                        },
+                        {  
+                            "name":"Firetoys 3-säikeinen ilma-akrobatiaköysi (musta)",
+                            "category":1,
+                            "subcategory":"koydet",
+                            "id":"firetoys-3ply-musta",
+                            "pic":"/product-pics-1/firetoys-3ply.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":190,
+                            "text":"Firetoysin valmistama kolmisäikeinen pehmeä, notkea ja joustava ilma-akrobatiaköysi. Tässä kolmisäikeisessä vertikaaliköydessä yhdistyvät ominaisuudet ovat harvinainen yhdistelmä. Erittäin mukava käytettävyys, laadukas viimeistely, tyylikäs ulkomuoto ja edullinen hinta. Köyttä löytyy kolmessa eri värissä ja viidessä eri mitassa. Väri/pituus/hinta-kartta löytyy alapuolelta.",
+                            "text2":"Pituus 6-12 m / Paksuus 35 mm",
+                            "text3": "Työskentelypainoraja 190 kg",
+                            "text4": "",
+                            "text5": "",
+                            "choice": "Pituus",
+                            "options":[
+                                {  
+                                    "name":"6 m",
+                                    "id":"firetoys-3ply-musta-6",
+                                    "price":190
+                                },
+                                {  
+                                    "name":"7 m",
+                                    "id":"firetoys-3ply-musta-7",
+                                    "price":205
+                                },
+                                {  
+                                    "name":"8 m",
+                                    "id":"firetoys-3ply-musta-8",
+                                    "price":220
+                                },
+                                {  
+                                    "name":"10 m",
+                                    "id":"firetoys-3ply-musta-10",
+                                    "price":245
+                                },
+                                {  
+                                    "name":"12 m",
+                                    "id":"firetoys-3ply-musta-12",
+                                    "price":270
+                                }
+                            ]
+                        },
+                        {  
+                            "name":"Firetoys 3-säikeinen ilma-akrobatiaköysi (punainen)",
+                            "category":1,
+                            "subcategory":"koydet",
+                            "id":"firetoys-3ply-punainen",
+                            "pic":"/product-pics-1/firetoys-3ply.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":190,
+                            "text":"Firetoysin valmistama kolmisäikeinen pehmeä, notkea ja joustava ilma-akrobatiaköysi. Tässä kolmisäikeisessä vertikaaliköydessä yhdistyvät ominaisuudet ovat harvinainen yhdistelmä. Erittäin mukava käytettävyys, laadukas viimeistely, tyylikäs ulkomuoto ja edullinen hinta. Köyttä löytyy kolmessa eri värissä ja viidessä eri mitassa. Väri/pituus/hinta-kartta löytyy alapuolelta.",
+                            "text2":"Pituus 6-12 m / Paksuus 35 mm",
+                            "text3": "Työskentelypainoraja 190 kg",
+                            "text4": "",
+                            "text5": "",
+                            "choice": "Pituus",
+                            "options":[
+                                {  
+                                    "name":"6 m",
+                                    "id":"firetoys-3ply-punainen-6",
+                                    "price":190
+                                },
+                                {  
+                                    "name":"7 m",
+                                    "id":"firetoys-3ply-punainen-7",
+                                    "price":205
+                                },
+                                {  
+                                    "name":"8 m",
+                                    "id":"firetoys-3ply-punainen-8",
+                                    "price":220
+                                },
+                                {  
+                                    "name":"10 m",
+                                    "id":"firetoys-3ply-punainen-10",
+                                    "price":245
+                                },
+                                {  
+                                    "name":"12 m",
+                                    "id":"firetoys-3ply-punainen-12",
+                                    "price":270
+                                }
+                            ]
+                        },
+                        {  
+                            "name":"Catch It -vertikaaliköysi",
+                            "category":1,
+                            "subcategory":"koydet",
+                            "id":"catchit",
+                            "pic":"/product-pics-1/catchit.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":370,
+                            "text":"Nacho Riccin käsityönä tehty vertikaaliköysi Espanjasta. Perinteisiin vertikaaliköysiin verrattuna tämä köysi on äärimmäisen mukava ja näppärä käyttää. Ohuempi profiili antaa köydelle notkeutta ja tarjoaa erinomaisen otteen pienempikätisillekin. Köyden päällyssukka tuo pehmeyttä ja mukavuutta niin otteeseen kuin myös kiedontatemppuihin. Köysi myös joustaa hieman, ja näin ollen tiputustemput eivät tunnu niin väkivaltaisilta. Värinä luonnonvalkoinen.",
+                            "text2":"Pituus 9 m / Paksuus 34 mm / Paino noin 4,5 kg",
+                            "text3": "Murtumispainorja 2000 kg",
+                            "text4": "Työskentelypainoraja 107 kg",
+                            "text5": "",
+                            "options":null
+                        },
+                        {  
+                            "name":"Firetoys - Päällystetty ilma-akrobatiaköysi",
+                            "category":1,
+                            "subcategory":"koydet",
+                            "id":"firetoys-covered",
+                            "pic":"/product-pics-1/firetoys-covered.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":270,
+                            "text":"Firetoysin valmistama päällystetty ns. sukkaköysi, jossa normaalin köyden päällä on puuvillasta kudottu pehmeä sukka. Sukka lisää käyttömukavuutta entisestään, ja jakaa paineen kehoa vasten tasaisemmin kuin kolmisäikeinen köysi. Päällystetty köysi joustaa vähemmän, ja on sen puolesta tiputuksissa rankempi kuin punottu köysi. Päällyste tosin pehmentää iskuja, ja köyden joustamattomuus tarjoaa parempaa tarkkuutta suorituksiin ja temppuihin, joissa köysi irtoaa hetkellisesti ilma-akrobaatin käsistä. Saatavana kahdessa eri värissä ja kolmessa eri mitassa.",
+                            "text2":"Pituus 6-10 m / Paksuus 37 mm",
+                            "text3": "Työskentelypainoraja 250 kg",
+                            "text4": "",
+                            "text5": "",
+                            "options":null
+                        },
+                        {  
+                            "name":"Camp - Alumiinileikari",
+                            "category":1,
+                            "subcategory":"koydet",
+                            "id":"swivelcamp",
+                            "pic":"/product-pics-1/swivelcamp.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":40,
+                            "text":"Laakeroitu leikari eli \"swiveli\", joka on valmistettu kuumataotusta alumiinista. Yksi vahvimmista markkinoilla olevista alumiinileikareista. Leikarin murtolujuus on 35 kilonewtonia, jolloin se kannattaa noin 3500 kilogramman painon. Leikari mahdollistaa pyörimisen pituusakselin ympäri, ja estää esimerkiksi ilma-akrobatiakankaan kiertymisen. Alumiinista valmistetut kiinnikkeet ja varusteet vaativat kunnon tarkistuksen joka käyttökerran yhteydessä, ja niitä ei saa pudottaa kovalle lattialle edes pöytäkorkeudelta. Iskut saattavat heikentää murtolujuutta. Yksilöllisesti tarkastettu ja numeroitu. (CE EN354)",
+                            "text2":"Pituus 116 mm / Leveys 53 mm / Paino 160 g",
+                            "text3": "Murtumispainoraja 3500 kg, työskentelypainoraja 500 kg.",
+                            "text4": "",
+                            "text5": "",
+                            "options":null
+                        },
+                        {  
+                            "name":"Petzl - Teräksinen sulkulenkki (musta)",
+                            "category":1,
+                            "subcategory":"koydet",
+                            "id":"petzlblack",
+                            "pic":"/product-pics-1/petzlblack.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":18,
+                            "text":"Petzl-merkkinen musta teräksinen ruuvilukitteinen ovaalilukkosulkulenkki eli \"karabiini\". Erittäin korkealaatuista terästä, soveltuu vaikeisiin olosuhteisiin. Sulkulenkissä patentoitu K-Lock -portti ja punainen turvaindikaattori, joka varoittaa lähietäisyydelle näkyvästi mikäli portti on unohtunut lukita. Portin avauma 21 mm. Yksilöllisesti tarkastettu ja numeroitu. (CE EN362)",
+                            "text2":"Pituus 113 mm / Leveys 63 mm / Paino 195 g",
+                            "text3": "Murtumispainoraja pituussuunnassa 2700 kg. Murtumispainoraja porttia vasten 700 kg. Murtumispainoraja pituussuunnassa avonaisena 700 kg.",
+                            "text4": "",
+                            "text5": "",
+                            "options":null
+                        },
+                        {  
+                            "name":"Rock Empire - Teräksinen sulkulenkki",
+                            "category":1,
+                            "subcategory":"koydet",
+                            "id":"rockempireoval",
+                            "pic":"/product-pics-1/steeloval.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":12,
+                            "text":"Rock Empire -merkkinen teräksinen ruuvilukitteinen ovaalilukkosulkulenkki eli \"karabiini\". Erittäin korkealaatuista terästä, soveltuu vaikeisiin olosuhteisiin. Sulkulenkissä patentoitu K-Lock -portti. Portin avauma 21 mm. Ruuviosan väri saattaa vaihdella. Yksilöllisesti tarkastettu ja numeroitu. (CE EN362)",
+                            "text2":"Pituus 110 mm / Leveys 62 mm / Paino 173 g",
+                            "text3": "Murtumispainoraja pituussuunnassa 2800 kg. Murtumispainoraja porttia vasten 1800 kg. Murtumispainoraja pituussuunnassa avonaisena 1000 kg.",
+                            "text4": "",
+                            "text5": "",
+                            "options":null
+                        },
+                        {  
+                            "name":"Nauhalenkki 80 cm",
+                            "category":1,
+                            "subcategory":"koydet",
+                            "id":"sling",
+                            "pic":"/product-pics-1/sling.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":10,
+                            "text":"Rock Empire -merkkinen tuhti korkean paikan työskentelyyn tarkoitettu 80 cm nauhalenkki eli \"slingi\". Sukitettu malli, jonka kulumista on turvallista seurata. Päällyssukka ei ole osa kantavaa lenkkiä, mutta sen kuluttua puhki tulee koko nauhalenkki vaihtaa. Materiaali: polyester. Väri musta. Yksilöllisesti tarkastettu ja numeroitu. (CE EN566, EN795 B)",
+                            "text2":"Pituus 80 cm / Paino 110 g",
+                            "text3": "Murtumispainoraja 3500 kg",
+                            "text4": "",
+                            "text5": "",
+                            "options":null
+                        } 
   
                     ]
                 },
@@ -1254,7 +1488,148 @@
                     "name":"Trapetsit",
                     "pic":"/category-pics/trapetsit.jpg",
                     "id":"trapetsit",
-                    "products":[  
+                    "products":[
+                        {  
+                            "name":"Firetoys - Rengastrapetsi - nollapiste (valkoinen)",
+                            "category":1,
+                            "subcategory":"trapetsit",
+                            "id":"firetoys-rengas-0-valkoinen",
+                            "pic":"/product-pics-1/firetoys-rengas-0.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":210,
+                            "text":"Rengastrapetsi, jossa ei ole kiinnityspisteitä. Kiinnityspisteettömän rengastrapetsin voit kiinnittää nauhalenkeillä kaikilla eri tavoilla tarpeen mukaan eri käyttötarkoituksiin: Yhdestä kohdasta, kahdesta kohdasta tai useammasta kohdasta myös vaakatasoon kattokruunumaisesti. Saatavana viidessä eri koossa ja kahdessa eri värissä.",
+                            "text2":"Putken paksuus 25 mm",
+                            "text3": "Työskentelypainoraja 260 kg",
+                            "text4": "",
+                            "text5": "",
+                            "choice": "Koko ja paino",
+                            "options":[
+                                {  
+                                    "name":"85 cm / 5.4 kg",
+                                    "id":"firetoys-rengas-0-valkoinen-85",
+                                    "price":210
+                                },
+                                {  
+                                    "name":"90 cm / 5.6 kg",
+                                    "id":"firetoys-rengas-0-valkoinen-90",
+                                    "price":210
+                                },
+                                {  
+                                    "name":"95 cm / 6.0 kg",
+                                    "id":"firetoys-rengas-0-valkoinen-95",
+                                    "price":210
+                                },
+                                {  
+                                    "name":"100 cm / 6.0 kg",
+                                    "id":"firetoys-rengas-0-valkoinen-100",
+                                    "price":210
+                                },
+                                {  
+                                    "name":"105 cm / 6.4 kg",
+                                    "id":"firetoys-rengas-0-valkoinen-105",
+                                    "price":210
+                                }
+                                
+                            ]
+                        },
+                        {  
+                            "name":"Firetoys - Rengastrapetsi - nollapiste (musta)",
+                            "category":1,
+                            "subcategory":"trapetsit",
+                            "id":"firetoys-rengas-0-musta",
+                            "pic":"/product-pics-1/firetoys-rengas-0.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":200,
+                            "text":"Rengastrapetsi, jossa ei ole kiinnityspisteitä. Kiinnityspisteettömän rengastrapetsin voit kiinnittää nauhalenkeillä kaikilla eri tavoilla tarpeen mukaan eri käyttötarkoituksiin: Yhdestä kohdasta, kahdesta kohdasta tai useammasta kohdasta myös vaakatasoon kattokruunumaisesti. Saatavana viidessä eri koossa ja kahdessa eri värissä.",
+                            "text2":"Putken paksuus 25 mm",
+                            "text3": "Työskentelypainoraja 260 kg",
+                            "text4": "",
+                            "text5": "",
+                            "choice": "Koko ja paino",
+                            "options":[
+                                {  
+                                    "name":"85 cm / 5.4 kg",
+                                    "id":"firetoys-rengas-0-musta-85",
+                                    "price":200
+                                },
+                                {  
+                                    "name":"90 cm / 5.6 kg",
+                                    "id":"firetoys-rengas-0-musta-90",
+                                    "price":200
+                                },
+                                {  
+                                    "name":"95 cm / 6.0 kg",
+                                    "id":"firetoys-rengas-0-musta-95",
+                                    "price":200
+                                },
+                                {  
+                                    "name":"100 cm / 6.0 kg",
+                                    "id":"firetoys-rengas-0-musta-100",
+                                    "price":200
+                                },
+                                {  
+                                    "name":"105 cm / 6.4 kg",
+                                    "id":"firetoys-rengas-0-musta-105",
+                                    "price":200
+                                }
+                                
+                            ]
+                        },
+                        {  
+                            "name":"Petzl - Teräksinen sulkulenkki (musta)",
+                            "category":1,
+                            "subcategory":"trapetsit",
+                            "id":"petzlblack",
+                            "pic":"/product-pics-1/petzlblack.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":18,
+                            "text":"Petzl-merkkinen musta teräksinen ruuvilukitteinen ovaalilukkosulkulenkki eli \"karabiini\". Erittäin korkealaatuista terästä, soveltuu vaikeisiin olosuhteisiin. Sulkulenkissä patentoitu K-Lock -portti ja punainen turvaindikaattori, joka varoittaa lähietäisyydelle näkyvästi mikäli portti on unohtunut lukita. Portin avauma 21 mm. Yksilöllisesti tarkastettu ja numeroitu. (CE EN362)",
+                            "text2":"Pituus 113 mm / Leveys 63 mm / Paino 195 g",
+                            "text3": "Murtumispainoraja pituussuunnassa 2700 kg. Murtumispainoraja porttia vasten 700 kg. Murtumispainoraja pituussuunnassa avonaisena 700 kg.",
+                            "text4": "",
+                            "text5": "",
+                            "options":null
+                        },
+                        {  
+                            "name":"Rock Empire - Teräksinen sulkulenkki",
+                            "category":1,
+                            "subcategory":"trapetsit",
+                            "id":"rockempireoval",
+                            "pic":"/product-pics-1/steeloval.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":12,
+                            "text":"Rock Empire -merkkinen teräksinen ruuvilukitteinen ovaalilukkosulkulenkki eli \"karabiini\". Erittäin korkealaatuista terästä, soveltuu vaikeisiin olosuhteisiin. Sulkulenkissä patentoitu K-Lock -portti. Portin avauma 21 mm. Ruuviosan väri saattaa vaihdella. Yksilöllisesti tarkastettu ja numeroitu. (CE EN362)",
+                            "text2":"Pituus 110 mm / Leveys 62 mm / Paino 173 g",
+                            "text3": "Murtumispainoraja pituussuunnassa 2800 kg. Murtumispainoraja porttia vasten 1800 kg. Murtumispainoraja pituussuunnassa avonaisena 1000 kg.",
+                            "text4": "",
+                            "text5": "",
+                            "options":null
+                        },
+                        {  
+                            "name":"Nauhalenkki 80 cm",
+                            "category":1,
+                            "subcategory":"trapetsit",
+                            "id":"sling",
+                            "pic":"/product-pics-1/sling.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":10,
+                            "text":"Rock Empire -merkkinen tuhti korkean paikan työskentelyyn tarkoitettu 80 cm nauhalenkki eli \"slingi\". Sukitettu malli, jonka kulumista on turvallista seurata. Päällyssukka ei ole osa kantavaa lenkkiä, mutta sen kuluttua puhki tulee koko nauhalenkki vaihtaa. Materiaali: polyester. Väri musta. Yksilöllisesti tarkastettu ja numeroitu. (CE EN566, EN795 B)",
+                            "text2":"Pituus 80 cm / Paino 110 g",
+                            "text3": "Murtumispainoraja 3500 kg",
+                            "text4": "",
+                            "text5": "",
+                            "options":null
+                        }  
   
                     ]
                 },
@@ -1263,6 +1638,188 @@
                     "pic":"/category-pics/remmit.jpg",
                     "id":"remmit",
                     "products":[  
+                        {  
+                            "name":"Ilma-akrobatiaremmit - All in One -paketti",
+                            "category":1,
+                            "subcategory":"remmit",
+                            "id":"remmisetti",
+                            "pic":"/product-pics-1/remmisetti.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":350,
+                            "text":"Paketti sisältää valitsemasi väriset viiden metrin Firetoys ilma-akrobatiaremmit sekä kaiken mitä tarvitset remmien ammattimaiseen kiinnittämiseen. Pakettiin sisältyy Rock Empire -ankkurilevy remmien levittämistä varten, kolme CAMP-alumiinileikaria (svivelit) remmien ja kiinnityksen vapaan pyörimisen mahdollistamiseksi sekä tarvittavat neljä sulkulenkkiä (karabiinit) osien turvalliseen kiinnittämiseen. Katso tarkemmat tuotetiedot tuotteiden omista selosteista alempaa.",
+                            "text2":"",
+                            "text3": "",
+                            "text4": "",
+                            "text5": "",
+                            "options":null
+                        },
+                        {  
+                            "name":"Firetoys - Ilma-akrobatiaremmit (valkoinen)",
+                            "category":1,
+                            "subcategory":"remmit",
+                            "id":"firetoys-remmit-valkoinen",
+                            "pic":"/product-pics-1/firetoys-remmit.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":150,
+                            "text":"Firetoysin valmistamat 100% polyesteria olevat remmit ovat pehmeät, ohuet, kestävät ja edulliset. Pehmeä polyesteri on ohutta, mutta kestävää ja toimii erityisen hyvin kietomistempuissa. Suuret 30cm päätylenkit mahdollistavat myös helpon jalkojen käytön remmeissä. Remmejä löytyy kahdessa värissä ja neljässä eri mitassa. Hinnat ovat pareittain. Kolmiokarabiinit sisältyvät hintaan.",
+                            "text2":"Pituus 5-10 m / Leveys 45 mm / Paino 1 - 1,6 kg",
+                            "text3": "Murtumispainoraja 2200 kg",
+                            "text4": "Työskentelypainoraja 300 kg",
+                            "text5": "",
+                            "choice": "Pituus",
+                            "options":[
+                                {  
+                                    "name":"5 m",
+                                    "id":"firetoys-remmit-valkoinen_5",
+                                    "price":150.98
+                                },
+                                {  
+                                    "name":"6 m",
+                                    "id":"firetoys-remmit-valkoinen_6",
+                                    "price":160
+                                },
+                                {  
+                                    "name":"8 m",
+                                    "id":"firetoys-remmit-valkoinen_8",
+                                    "price":170
+                                },
+                                {  
+                                    "name":"10 m",
+                                    "id":"firetoys-remmit-valkoinen_10",
+                                    "price":180
+                                }
+
+                            ]
+                        },
+                        {  
+                            "name":"Firetoys - Ilma-akrobatiaremmit (musta)",
+                            "category":1,
+                            "subcategory":"remmit",
+                            "id":"firetoys-remmit-musta",
+                            "pic":"/product-pics-1/firetoys-remmit.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":150,
+                            "text":"Firetoysin valmistamat 100% polyesteria olevat remmit ovat pehmeät, ohuet, kestävät ja edulliset. Pehmeä polyesteri on ohutta, mutta kestävää ja toimii erityisen hyvin kietomistempuissa. Suuret 30cm päätylenkit mahdollistavat myös helpon jalkojen käytön remmeissä. Remmejä löytyy kahdessa värissä ja neljässä eri mitassa. Hinnat ovat pareittain. Kolmiokarabiinit sisältyvät hintaan.",
+                            "text2":"Pituus 5-10 m / Leveys 45 mm / Paino 1 - 1,6 kg",
+                            "text3": "Murtumispainoraja 2200 kg",
+                            "text4": "Työskentelypainoraja 300 kg",
+                            "text5": "",
+                            "choice": "Pituus",
+                            "options":[
+                                {  
+                                    "name":"5 m",
+                                    "id":"firetoys-remmit-musta_5",
+                                    "price":150
+                                },
+                                {  
+                                    "name":"6 m",
+                                    "id":"firetoys-remmit-musta_6",
+                                    "price":160
+                                },
+                                {  
+                                    "name":"8 m",
+                                    "id":"firetoys-remmit-musta_8",
+                                    "price":170
+                                },
+                                {  
+                                    "name":"10 m",
+                                    "id":"firetoys-remmit-musta_10",
+                                    "price":180
+                                }
+
+                            ]
+                        },
+                        {  
+                            "name":"Rock Empire - Ankkurilevy 3/5",
+                            "category":1,
+                            "subcategory":"remmit",
+                            "id":"ankkurilevy",
+                            "pic":"/product-pics-1/ankkurilevy.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":50,
+                            "text":"Rock Empire -merkkinen ankkurilevy yhden kiinnityspisteen jakamiseksi kahteen tai useampaan. Erinomainen vaihtoehto esimerkiksi remmien (liinat/strapsit) kiinnittämiseen ja levittämiseen.",
+                            "text2":"Korkeus 100 mm / Leveys 158 mm / Paksuus 10 mm / Paino 230 g",
+                            "text3": "Murtumispainoraja 4000 kg",
+                            "text4": "",
+                            "text5": "",
+                            "options":null
+                        },
+                        {  
+                            "name":"Camp - Alumiinileikari",
+                            "category":1,
+                            "subcategory":"remmit",
+                            "id":"swivelcamp",
+                            "pic":"/product-pics-1/swivelcamp.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":40,
+                            "text":"Laakeroitu leikari eli \"swiveli\", joka on valmistettu kuumataotusta alumiinista. Yksi vahvimmista markkinoilla olevista alumiinileikareista. Leikarin murtolujuus on 35 kilonewtonia, jolloin se kannattaa noin 3500 kilogramman painon. Leikari mahdollistaa pyörimisen pituusakselin ympäri, ja estää esimerkiksi ilma-akrobatiakankaan kiertymisen. Alumiinista valmistetut kiinnikkeet ja varusteet vaativat kunnon tarkistuksen joka käyttökerran yhteydessä, ja niitä ei saa pudottaa kovalle lattialle edes pöytäkorkeudelta. Iskut saattavat heikentää murtolujuutta. Yksilöllisesti tarkastettu ja numeroitu. (CE EN354)",
+                            "text2":"Pituus 116 mm / Leveys 53 mm / Paino 160 g",
+                            "text3": "Murtumispainoraja 3500 kg, työskentelypainoraja 500 kg.",
+                            "text4": "",
+                            "text5": "",
+                            "options":null
+                        },
+                        {  
+                            "name":"Petzl - Teräksinen sulkulenkki (musta)",
+                            "category":1,
+                            "subcategory":"remmit",
+                            "id":"petzlblack",
+                            "pic":"/product-pics-1/petzlblack.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":18,
+                            "text":"Petzl-merkkinen musta teräksinen ruuvilukitteinen ovaalilukkosulkulenkki eli \"karabiini\". Erittäin korkealaatuista terästä, soveltuu vaikeisiin olosuhteisiin. Sulkulenkissä patentoitu K-Lock -portti ja punainen turvaindikaattori, joka varoittaa lähietäisyydelle näkyvästi mikäli portti on unohtunut lukita. Portin avauma 21 mm. Yksilöllisesti tarkastettu ja numeroitu. (CE EN362)",
+                            "text2":"Pituus 113 mm / Leveys 63 mm / Paino 195 g",
+                            "text3": "Murtumispainoraja pituussuunnassa 2700 kg. Murtumispainoraja porttia vasten 700 kg. Murtumispainoraja pituussuunnassa avonaisena 700 kg.",
+                            "text4": "",
+                            "text5": "",
+                            "options":null
+                        },
+                        {  
+                            "name":"Rock Empire - Teräksinen sulkulenkki",
+                            "category":1,
+                            "subcategory":"remmit",
+                            "id":"rockempireoval",
+                            "pic":"/product-pics-1/steeloval.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":12,
+                            "text":"Rock Empire -merkkinen teräksinen ruuvilukitteinen ovaalilukkosulkulenkki eli \"karabiini\". Erittäin korkealaatuista terästä, soveltuu vaikeisiin olosuhteisiin. Sulkulenkissä patentoitu K-Lock -portti. Portin avauma 21 mm. Ruuviosan väri saattaa vaihdella. Yksilöllisesti tarkastettu ja numeroitu. (CE EN362)",
+                            "text2":"Pituus 110 mm / Leveys 62 mm / Paino 173 g",
+                            "text3": "Murtumispainoraja pituussuunnassa 2800 kg. Murtumispainoraja porttia vasten 1800 kg. Murtumispainoraja pituussuunnassa avonaisena 1000 kg.",
+                            "text4": "",
+                            "text5": "",
+                            "options":null
+                        },
+                        {  
+                            "name":"Nauhalenkki 80 cm",
+                            "category":1,
+                            "subcategory":"remmit",
+                            "id":"sling",
+                            "pic":"/product-pics-1/sling.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":10,
+                            "text":"Rock Empire -merkkinen tuhti korkean paikan työskentelyyn tarkoitettu 80 cm nauhalenkki eli \"slingi\". Sukitettu malli, jonka kulumista on turvallista seurata. Päällyssukka ei ole osa kantavaa lenkkiä, mutta sen kuluttua puhki tulee koko nauhalenkki vaihtaa. Materiaali: polyester. Väri musta. Yksilöllisesti tarkastettu ja numeroitu. (CE EN566, EN795 B)",
+                            "text2":"Pituus 80 cm / Paino 110 g",
+                            "text3": "Murtumispainoraja 3500 kg",
+                            "text4": "",
+                            "text5": "",
+                            "options":null
+                        }  
   
                     ]
                 },
@@ -1270,7 +1827,143 @@
                     "name":"Riggaus",
                     "pic":"/category-pics/riggaus.jpg",
                     "id":"riggaus",
-                    "products":[  
+                    "products":[ 
+                        {  
+                            "name":"Rock Empire - Ankkurilevy 3/5",
+                            "category":1,
+                            "subcategory":"riggaus",
+                            "id":"ankkurilevy",
+                            "pic":"/product-pics-1/ankkurilevy.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":50,
+                            "text":"Rock Empire -merkkinen ankkurilevy yhden kiinnityspisteen jakamiseksi kahteen tai useampaan. Erinomainen vaihtoehto esimerkiksi remmien (liinat/strapsit) kiinnittämiseen ja levittämiseen.",
+                            "text2":"Korkeus 100 mm / Leveys 158 mm / Paksuus 10 mm / Paino 230 g",
+                            "text3": "Murtumispainoraja 4000 kg",
+                            "text4": "",
+                            "text5": "",
+                            "options":null
+                        },
+                        {  
+                            "name":"Camp - Alumiinileikari",
+                            "category":1,
+                            "subcategory":"riggaus",
+                            "id":"swivelcamp",
+                            "pic":"/product-pics-1/swivelcamp.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":40,
+                            "text":"Laakeroitu leikari eli \"swiveli\", joka on valmistettu kuumataotusta alumiinista. Yksi vahvimmista markkinoilla olevista alumiinileikareista. Leikarin murtolujuus on 35 kilonewtonia, jolloin se kannattaa noin 3500 kilogramman painon. Leikari mahdollistaa pyörimisen pituusakselin ympäri, ja estää esimerkiksi ilma-akrobatiakankaan kiertymisen. Alumiinista valmistetut kiinnikkeet ja varusteet vaativat kunnon tarkistuksen joka käyttökerran yhteydessä, ja niitä ei saa pudottaa kovalle lattialle edes pöytäkorkeudelta. Iskut saattavat heikentää murtolujuutta. Yksilöllisesti tarkastettu ja numeroitu. (CE EN354)",
+                            "text2":"Pituus 116 mm / Leveys 53 mm / Paino 160 g",
+                            "text3": "Murtumispainoraja 3500 kg, työskentelypainoraja 500 kg.",
+                            "text4": "",
+                            "text5": "",
+                            "options":null
+                        },
+                        {  
+                            "name":"Petzl - Teräksinen sulkulenkki (musta)",
+                            "category":1,
+                            "subcategory":"riggaus",
+                            "id":"petzlblack",
+                            "pic":"/product-pics-1/petzlblack.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":18,
+                            "text":"Petzl-merkkinen musta teräksinen ruuvilukitteinen ovaalilukkosulkulenkki eli \"karabiini\". Erittäin korkealaatuista terästä, soveltuu vaikeisiin olosuhteisiin. Sulkulenkissä patentoitu K-Lock -portti ja punainen turvaindikaattori, joka varoittaa lähietäisyydelle näkyvästi mikäli portti on unohtunut lukita. Portin avauma 21 mm. Yksilöllisesti tarkastettu ja numeroitu. (CE EN362)",
+                            "text2":"Pituus 113 mm / Leveys 63 mm / Paino 195 g",
+                            "text3": "Murtumispainoraja pituussuunnassa 2700 kg. Murtumispainoraja porttia vasten 700 kg. Murtumispainoraja pituussuunnassa avonaisena 700 kg.",
+                            "text4": "",
+                            "text5": "",
+                            "options":null
+                        },
+                        {  
+                            "name":"Rock Empire - Teräksinen sulkulenkki",
+                            "category":1,
+                            "subcategory":"riggaus",
+                            "id":"rockempireoval",
+                            "pic":"/product-pics-1/steeloval.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":12,
+                            "text":"Rock Empire -merkkinen teräksinen ruuvilukitteinen ovaalilukkosulkulenkki eli \"karabiini\". Erittäin korkealaatuista terästä, soveltuu vaikeisiin olosuhteisiin. Sulkulenkissä patentoitu K-Lock -portti. Portin avauma 21 mm. Ruuviosan väri saattaa vaihdella. Yksilöllisesti tarkastettu ja numeroitu. (CE EN362)",
+                            "text2":"Pituus 110 mm / Leveys 62 mm / Paino 173 g",
+                            "text3": "Murtumispainoraja pituussuunnassa 2800 kg. Murtumispainoraja porttia vasten 1800 kg. Murtumispainoraja pituussuunnassa avonaisena 1000 kg.",
+                            "text4": "",
+                            "text5": "",
+                            "options":null
+                        },
+                        {  
+                            "name":"Nauhalenkki 80 cm",
+                            "category":1,
+                            "subcategory":"riggaus",
+                            "id":"sling",
+                            "pic":"/product-pics-1/sling.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":10,
+                            "text":"Rock Empire -merkkinen tuhti korkean paikan työskentelyyn tarkoitettu 80 cm nauhalenkki eli \"slingi\". Sukitettu malli, jonka kulumista on turvallista seurata. Päällyssukka ei ole osa kantavaa lenkkiä, mutta sen kuluttua puhki tulee koko nauhalenkki vaihtaa. Materiaali: polyester. Väri musta. Yksilöllisesti tarkastettu ja numeroitu. (CE EN566, EN795 B)",
+                            "text2":"Pituus 80 cm / Paino 110 g",
+                            "text3": "Murtumispainoraja 3500 kg",
+                            "text4": "",
+                            "text5": "",
+                            "options":null
+                        },
+                        {  
+                            "name":"Camp ALU-8",
+                            "category":1,
+                            "subcategory":"riggaus",
+                            "id":"alu8",
+                            "pic":"/product-pics-1/alu8.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":45,
+                            "text":"Kuumataotusta alumiinista valmistettu \"kasi\" vertikaalikankaan ripustamiseen. Kiipeilykasi on kevyempi, edullisempi ja pienemmän kokoinen ripustusvaihtoehto perinteiselle kangaskellolle, ja se onkin näiden ominaisuuksiensa puolesta nykyisin suositumpi vaihtoehto kankaan ripustamiseen. Alumiinista valmistetut kiinnikkeet ja varusteet vaativat kunnon tarkistuksen joka käyttökerran yhteydessä, ja niitä ei saa pudottaa kovalle lattialle korkealta. Iskut saattavat heikentää murtolujuutta. Alumiinikasin kiinnittämiseksi tarvitset mahdollisesti kiipeilyyn tarkoitetun sulkulenkin (karabiini) ja nauhalenkin (slingi).",
+                            "text2":"Korkeus 17,5 cm / Leveys 17 cm / Paksuus 1,5 cm / Paino 280 g",
+                            "text3": "Murtumispainoraja 3200 kg",
+                            "text4": "",
+                            "text5": "",
+                            "options":null
+                        },
+                        {  
+                            "name":"Climbing Technology Teräs-8",
+                            "category":1,
+                            "subcategory":"riggaus",
+                            "id":"teras8",
+                            "pic":"/product-pics-1/teras8.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":75,
+                            "text":"Armeijan ja pelastusyksiköiden suosima teräksestä valmistettu \"kasi\" vertikaalikankaan ripustamiseen. Kiipeilykasi on kevyempi, edullisempi ja pienemmän kokoinen ripustusvaihtoehto perinteiselle kangaskellolle, ja se onkin näiden ominaisuuksiensa puolesta nykyisin suositumpi vaihtoehto kankaan ripustamiseen. Teräskasi on kaikin puolin miltei tuhoutumaton ripustusväline. Teräskasin kiinnittämiseksi tarvitset mahdollisesti kiipeilyyn tarkoitetun sulkulenkin (karabiini) ja nauhalenkin (slingi).",
+                            "text2":"Korkeus 17 cm / Leveys 16 cm / Paksuus 1 cm / Paino 543 g",
+                            "text3": "Murtumispainoraja 4000 kg",
+                            "text4": "",
+                            "text5": "",
+                            "options":null
+                        },
+                        {  
+                            "name":"Teräksinen kangaskello",
+                            "category":1,
+                            "subcategory":"riggaus",
+                            "id":"kangaskello",
+                            "pic":"/product-pics-1/kangaskello.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":120,
+                            "text":"Unicycle-yrityksen valmistama kelloksi kutsuttu perinteinen kiinnitysstarvike vertikaalikankaalle. Kangas solmitaan paksun osan ympäri kaksinkerroin samalla tavalla kuin leivonpääsolmu. Kellon kiinnittämiseksi tarvitset mahdollisesti kiipeilyyn tarkoitetun sulkulenkin (karabiini) ja nauhalenkin (slingi).",
+                            "text2":"Korkeus 24 cm / Leveys 21 cm / Syvyys 8 cm / Paino 1400 g",
+                            "text3": "Työskentelypainoraja 600 kg, murtumispainoraja 4800 kg.",
+                            "text4": "",
+                            "text5": "",
+                            "options":null
+                        }
   
                     ]
                 }
@@ -1285,6 +1978,134 @@
                     "pic":"/category-pics/yksipyoraiset.jpg",
                     "id":"yksipyoraiset",
                     "products":[  
+                        {  
+                            "name":"QU-AX Only One 20\"",
+                            "category":2,
+                            "subcategory":"yksipyoraiset",
+                            "id":"quaxonlyone",
+                            "pic":"/product-pics-2/quaxonlyone.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":95,
+                            "text":"Edullinen perustavan laatuinen yksipyöräinen aloittelijalle. QU-AX valmistaa tunnetusti maailman parhaat yksipyöräiset. 36 pinnaa 20 tuuman renkaassa. Peruspolkimet hyvällä pidolla. Satula vaihdettavilla puskureilla. Näppärä korkeudensäätö. Saatavana punaisena, valkoisena, sinisenä, keltaisena ja mustana.",
+                            "text2":"Ajajan suositeltu maksimipaino 75 kg.",
+                            "text3": "Ajajan suositeltu minimi haarakorkeus noin 60 cm.",
+                            "text4": "Paino 6 kg",
+                            "text5": "",
+                            "choice": "Väri",
+                            "options":[
+                                {  
+                                    "name":"Valkoinen",
+                                    "id":"quaxonlyone-valkoinen",
+                                    "price":95
+                                },
+                                {  
+                                    "name":"Punainen",
+                                    "id":"quaxonlyone-punainen",
+                                    "price":95
+                                },
+                                {  
+                                    "name":"Sininen",
+                                    "id":"quaxonlyone-sininen",
+                                    "price":95
+                                },
+                                {  
+                                    "name":"Keltainen",
+                                    "id":"quaxonlyone-keltainen",
+                                    "price":95
+                                },
+                                {  
+                                    "name":"Musta",
+                                    "id":"quaxonlyone-musta",
+                                    "price":95
+                                }
+                            ]
+                        },
+                        {  
+                            "name":"QU-AX Luxus 20\"",
+                            "category":2,
+                            "subcategory":"yksipyoraiset",
+                            "id":"quaxluxus",
+                            "pic":"/product-pics-2/quaxluxus.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":145,
+                            "text":"Jämerämpi ja laadukkaampi versio QU-AXin peruspyörästä. QU-AX valmistaa tunnetusti maailman parhaat yksipyöräiset. 36 pinnaa 20 tuuman renkaassa. Peruspolkimet hyvällä pidolla. Mukava satula vaihdettavilla puskureilla. Näppärä korkeudensäätö. Luxus mallin mukana saat myös ylimääräisen 20 cm satulaputken pienempiä yksipyöräilijöitä varten, joten säästyt satulaputken sahaukselta. Saatavana punaisena, valkoisena, sinisenä, vihreänä, mustana ja oranssina sekä myös valkoisena seeprakuvioisella karvasatulalla.",
+                            "text2":"Ajajan suositeltu maksimipaino 85 kg.",
+                            "text3": "Ajajan suositeltu minimi haarakorkeus noin 60 cm.",
+                            "text4": "Paino 7,5 kg",
+                            "text5": "",
+                            "choice": "Väri",
+                            "options":[
+                                {  
+                                    "name":"Valkoinen",
+                                    "id":"quaxluxus-valkoinen",
+                                    "price":145
+                                },
+                                {  
+                                    "name":"Musta",
+                                    "id":"quaxluxus-musta",
+                                    "price":145
+                                },
+                                {  
+                                    "name":"Punainen",
+                                    "id":"quaxluxus-punainen",
+                                    "price":145
+                                },
+                                {  
+                                    "name":"Sininen",
+                                    "id":"quaxluxus-sininen",
+                                    "price":145
+                                },
+                                {  
+                                    "name":"Vihreä",
+                                    "id":"quaxluxus-vihreä",
+                                    "price":145
+                                },
+                                {  
+                                    "name":"Oranssi",
+                                    "id":"quaxluxus-oranssi",
+                                    "price":145
+                                }
+
+                            ]
+                        },
+                        {  
+                            "name":"QU-AX Giraffe 20\" -kirahvipyörä",
+                            "category":2,
+                            "subcategory":"yksipyoraiset",
+                            "id":"quaxgiraffe",
+                            "pic":"/product-pics-2/quaxgiraffe.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price":249,
+                            "text":"Yllä uusiin korkeuksiin! Tähtää korkealle tänä vuonna! Nyt on korkea aika kokeilla jotain uutta! Teidän korkeutenne! Ja niin edelleen.",
+                            "text2":"Vaaran tuntua, jännitystä ja näyttävyyttä hakeville kirahvipyörä on oikea valinta. 150 cm korkeassa kirahvipyörässä on vahva teräsrunko, ketjuvälitys, eloksoitu vanne ja keskiö, 36 pinnaa sekä 20\" rengas. Peruspolkimet hyvällä pidolla. Mukava satula vaihdettavilla puskureilla. Näppärä satulan korkeudensäätö. QU-AX takaa laadun.",
+                            "text3": "Ajajan suositeltu maksimipaino 75 kg.",
+                            "text4": "Ajajan suositeltu minimi haarakorkeus noin 60 cm.",
+                            "text5": "Korkeus 150 cm / Paino 10,5 kg",
+                            "options":null
+                        },
+                        {  
+                            "name":"KH20 Kris Holm Trial",
+                            "category":2,
+                            "subcategory":"yksipyoraiset",
+                            "id":"kh20",
+                            "pic":"/product-pics-2/kh20.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price": 495,
+                            "text":"Rakennettu kestämään pahoinpitelyä ja väärinkäyttöä. Kris Holm nimikkopyörä on suunniteltu nimen omaan trial-ajoon, kovaan katukäyttöön sekä kaupunkitemppuiluun. KH20 on lähes kaikkien kilpailevien Trial-ammattilaisten valinta. Kevyt, laadukas ja äärimmäisen kestävä. Yksipyöräisten eliittiä. Alla olevalta videolta voit todistaa tämän pyörän mahdollisuudet.",
+                            "text2":"Ajajan suositeltu maksimipaino 100 kg.",
+                            "text3": "Ajajan suositeltu minimi haarakorkeus noin 60 cm.",
+                            "text4": "Paino 5,4 kg",
+                            "text5": "",
+                            "options":null
+                        }
   
                     ]
                 },
