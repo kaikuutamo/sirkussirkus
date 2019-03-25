@@ -26,7 +26,6 @@ padding: var(--padding1);
 z-index: 1;
 position: relative;
 width: 100%;
-overflow-x: auto;
 overflow: hidden;
 display: grid;
 grid-template-columns: 100% 100% 100% 100%;
@@ -114,17 +113,26 @@ height: auto;
 }
 
 
-
 .frontpage-tile {
     display: flex;
     flex-direction: column;
     width: 100%;
 }
 
+.frontpage-tile-empty {
+    width: 100%;
+    padding-bottom: 100%;
+    background: white;
+    z-index: 1;
+}
+
 .frontpage-pic {
     font-size: 0.9rem;
     width: 100%;
     transition: filter 0.2s;
+    position: absolute;
+    z-index: 10;
+    opacity: 0;
 }
 
 .frontpage-pic:hover {

@@ -37,7 +37,7 @@ grid-gap: 20px;
 
 
 .tile-wrap {
-  
+    position: relative;
    text-decoration: none;
    display: flex;
    flex-direction: column;
@@ -55,17 +55,27 @@ grid-gap: 20px;
     cursor: pointer;
     }
 
-.category-tile img {
-    font-size: 0.9rem;
-    transition: filter 0.2s;
+.category-tile-empty {
     width: 100%;
+    padding-bottom: 100%;
+    background: white;
+    z-index: 1;
+}
+
+.category-tile-img {
+    font-size: 0.9rem;
+    width: 100%;
+    position: absolute;
+    z-index: 10;
+    opacity: 0;
+    transition: filter 0.2s;
 
     }
 
-    .category-tile img:hover {
+
+    .category-tile-img:hover {
         filter: brightness(80%);
-       
-    }
+           }
 
 
 .category-tile p {

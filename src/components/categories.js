@@ -43,6 +43,20 @@ componentDidUpdate () {
 
 componentDidMount () {
     this.scrollTo();
+
+
+    var catPics = document.getElementsByClassName("category-tile-img");
+
+    function jes (k) {
+        catPics[k].addEventListener("load", function () {
+            catPics[k].style = "transition: opacity 2s, filter 0.2s; opacity: 1"; 
+        })
+    }
+
+    for (var k = 0; k < catPics.length; k ++) {
+        jes(k);
+    }
+
 }
 
 render() {
@@ -55,7 +69,8 @@ render() {
         return (
             <Link className="tile-wrap" key={x.name} to={temp1}>
             <div className="category-tile">
-            <img alt={x.name} src={x.pic}></img>
+            <div className="category-tile-empty"></div>
+            <img className="category-tile-img" alt={x.name} src={x.pic}></img>
             <p>{x.name}</p>
             </div>
             </Link>
@@ -69,7 +84,8 @@ render() {
         return (
             <Link className="tile-wrap" key={x.name} to={temp2}>
             <div className="category-tile">
-            <img alt={x.name} src={x.pic}></img>
+            <div className="category-tile-empty"></div>
+            <img className="category-tile-img" alt={x.name} src={x.pic}></img>
             <p>{x.name}</p>
             </div>
             </Link>
@@ -83,7 +99,8 @@ render() {
         return (
             <Link className="tile-wrap" key={x.name} to={temp3}>
             <div className="category-tile">
-            <img alt={x.name} src={x.pic}></img>
+            <div className="category-tile-empty"></div>
+            <img className="category-tile-img" alt={x.name} src={x.pic}></img>
             <p>{x.name}</p>
             </div>
             </Link>
@@ -97,7 +114,8 @@ render() {
         return (
             <Link className="tile-wrap" key={x.name} to={temp4}>
             <div className="category-tile">
-            <img alt={x.name} src={x.pic}></img>
+            <div className="category-tile-empty"></div>
+            <img className="category-tile-img" alt={x.name} src={x.pic}></img>
             <p>{x.name}</p>
             </div>
             </Link>

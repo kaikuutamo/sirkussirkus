@@ -221,7 +221,7 @@ return (
                 <li onClick={this.dropDown}><Link to="/sponsors">SPONSOROINTI</Link></li>
                 <li onClick={this.dropDown}><Link to="/categories">SIRKUSVÄLINEET</Link></li>
                 <li onClick={this.dropDown}><Link to="/categories/?jongleeraus">Jongleeraus</Link></li>
-                <li onClick={this.dropDown}><Link to="/categories/?ilma-akrobatia">Ilma-akrobatia</Link></li>
+                <li onClick={this.dropDown}><Link to="/categories/?ilmaakro">Ilma-akrobatia</Link></li>
                 <li onClick={this.dropDown}><Link to="/categories/?tasapainoilu">Tasapainoilu</Link></li>
                 <li onClick={this.dropDown}><Link to="/categories/?muut">Muut</Link></li>
 

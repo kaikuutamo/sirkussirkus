@@ -17,6 +17,19 @@ constructor(props) {
 
 componentDidMount () {
     window.scrollTo(0, 0);
+
+    var catPics = document.getElementsByClassName("category-tile-img");
+
+    function jes (k) {
+        catPics[k].addEventListener("load", function () {
+            catPics[k].style = "transition: opacity 2s, filter 0.2s; opacity: 1"; 
+        })
+    }
+
+    for (var k = 0; k < catPics.length; k ++) {
+        jes(k);
+    }
+
 }
 
 render() {
@@ -46,8 +59,8 @@ return (
     <Link className="tile-wrap" key={x.name}  to={path + x.id} >
     
             <div className="category-tile">
-            
-            <img alt={x.name} src={x.pic}></img>    
+            <div className="category-tile-empty"></div>
+            <img className="category-tile-img" alt={x.name} src={x.pic}></img>    
             
             <div className="tile-wrap-product-name"><p>{x.name}</p></div>
                  

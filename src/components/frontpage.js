@@ -24,9 +24,8 @@ class FrontPage extends React.Component {
             slideshow: [],
             position: 1,
             status: "ready",
-            tiles: [],
             buttonstyle: [{background: "var(--color3)"}, {background: "var(--color1)"}, {background: "var(--color1)"}]
-                        
+                       
         }
 
     }
@@ -38,6 +37,7 @@ scrollToDest = (arg, callback) => {
     
     var temp = document.getElementById("scroll-images").scrollLeft;
 
+    
  
     if (arg > temp) {
 
@@ -49,8 +49,8 @@ scrollToDest = (arg, callback) => {
 
     else {temp = temp + 30}
 
-    images.scrollTo(temp, 0);
-    
+    images.scrollLeft = temp;
+
         if (temp < arg) {
             requestAnimationFrame(justScroll);
         }
@@ -74,7 +74,7 @@ scrollToDest = (arg, callback) => {
             else {temp = temp - 30}
 
 
-            images.scrollTo(temp, 0);
+            images.scrollLeft = temp;
         
             if (arg < temp) {
                 requestAnimationFrame(justScroll2);
@@ -135,7 +135,7 @@ scrollFunc = (arg) => {
 
             this.scrollToDest(newPos2, () => {
                 var images = document.getElementById("scroll-images");
-                images.scrollTo(0, 0);
+                images.scrollLeft = 0;
                 this.setState({
                     status: "ready"
                 })
@@ -162,7 +162,7 @@ scrollFunc = (arg) => {
                 position: 3,
                 buttonstyle: buttonStyles
             });
-            images.scrollTo({left: imageWidth*3, behavior: 'instant'});
+            images.scrollLeft = imageWidth*3;
             var newPos3 = images.scrollLeft - imageWidth;
             this.scrollToDest(newPos3, () => {
                 this.setState({status: "ready"})
@@ -292,77 +292,26 @@ this.setState({
 })
 
 
-var subCats = [];
-
-subCats = [this.props.products.categories[0].subcategories, this.props.products.categories[1].subcategories, this.props.products.categories[2].subcategories, this.props.products.categories[3].subcategories];
-
-
-
-var path1 = "/sub-category?category=0&subcategory=";
-
-var t1 = subCats[0].map(function (x){
-    return (
-        <Link className="tile-wrap" key={x.name} to={path1 + x.id} >
-        <div className="frontpage-tile">
-            <img className="frontpage-pic" alt="Subcategory" src={x.pic}></img>
-            <p className="frontpage-catname">{x.name}</p>
-        </div>
-        </Link>
-    );
-})
-
-var path2 = "/sub-category?category=1&subcategory=";
-
-var t2 = subCats[1].map(function (x){
-    return (
-        <Link className="tile-wrap" key={x.name} to={path2 + x.id} >
-        <div className="frontpage-tile">
-            <img className="frontpage-pic" alt="Subcategory" src={x.pic}></img>
-            <p className="frontpage-catname">{x.name}</p>
-        </div>
-        </Link>
-    );
-})
-
-var path3 = "/sub-category?category=2&subcategory=";
-
-var t3 = subCats[2].map(function (x){
-    return (
-        <Link className="tile-wrap" key={x.name} to={path3 + x.id} >
-        <div className="frontpage-tile">
-            <img className="frontpage-pic" alt="Subcategory" src={x.pic}></img>
-            <p className="frontpage-catname">{x.name}</p>
-        </div>
-        </Link>
-    );
-})
-
-var path4 = "/sub-category?category=3&subcategory=";
-
-var t4 = subCats[3].map(function (x){
-    return (
-        <Link className="tile-wrap" key={x.name} to={path4 + x.id} >
-        <div className="frontpage-tile">
-            <img className="frontpage-pic" alt="Subcategory" src={x.pic}></img>
-            <p className="frontpage-catname">{x.name}</p>
-        </div>
-        </Link>
-    );
-})
-
-var tiles = [...t1, ...t2, ...t3, ...t4];
-
-this.setState({
-    tiles: tiles
-})
-
-
 this.autoScroll();
 
 this._mounted = true;
 
+var catPics = document.getElementsByClassName("frontpage-pic");
+
+function jes (k) {
+    catPics[k].addEventListener("load", function () {
+        catPics[k].style = "transition: opacity 2s, filter 0.2s; opacity: 1"; 
+    })
+}
+
+for (var k = 0; k < catPics.length; k ++) {
+    jes(k);
+}
+
 
 }
+
+
 
 componentWillUnmount (){
    this._mounted = false;
@@ -373,6 +322,71 @@ componentWillUnmount (){
 
 render () {
 
+
+
+    var subCats = [];
+
+    subCats = [this.props.products.categories[0].subcategories, this.props.products.categories[1].subcategories, this.props.products.categories[2].subcategories, this.props.products.categories[3].subcategories];
+    
+    
+    
+    var path1 = "/sub-category?category=0&subcategory=";
+    
+    var t1 = subCats[0].map(function (x){
+        return (
+            <Link className="tile-wrap" key={x.name} to={path1 + x.id} >
+            <div className="frontpage-tile">
+            <div className="frontpage-tile-empty"></div>
+                <img className="frontpage-pic" alt="Subcategory" src={x.pic}></img>
+                <p className="frontpage-catname">{x.name}</p>
+            </div>
+            </Link>
+        );
+    })
+    
+    var path2 = "/sub-category?category=1&subcategory=";
+    
+    var t2 = subCats[1].map(function (x){
+        return (
+            <Link className="tile-wrap" key={x.name} to={path2 + x.id} >
+            <div className="frontpage-tile">
+            <div className="frontpage-tile-empty"></div>
+                <img className="frontpage-pic" alt="Subcategory" src={x.pic}></img>
+                <p className="frontpage-catname">{x.name}</p>
+            </div>
+            </Link>
+        );
+    })
+    
+    var path3 = "/sub-category?category=2&subcategory=";
+    
+    var t3 = subCats[2].map(function (x){
+        return (
+            <Link className="tile-wrap" key={x.name} to={path3 + x.id} >
+            <div className="frontpage-tile">
+            <div className="frontpage-tile-empty"></div>
+                <img className="frontpage-pic" alt="Subcategory" src={x.pic}></img>
+                <p className="frontpage-catname">{x.name}</p>
+            </div>
+            </Link>
+        );
+    })
+    
+    var path4 = "/sub-category?category=3&subcategory=";
+    
+    var t4 = subCats[3].map(function (x){
+        return (
+            <Link className="tile-wrap" key={x.name} to={path4 + x.id} >
+            <div className="frontpage-tile">
+            <div className="frontpage-tile-empty"></div>
+                <img className="frontpage-pic" alt="Subcategory" src={x.pic}></img>
+                <p className="frontpage-catname">{x.name}</p>
+            </div>
+            </Link>
+        );
+    })
+    
+    var tiles = [...t1, ...t2, ...t3, ...t4];
 
 
 return (
@@ -407,7 +421,7 @@ return (
 
     <div id="frontpage-tiles">
 
-    {this.state.tiles}
+    {tiles}
 
     </div>
 
