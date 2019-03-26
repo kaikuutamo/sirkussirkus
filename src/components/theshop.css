@@ -2,10 +2,7 @@
 
 #theshop-wrapper {
 
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-
+    height: auto;
 }
 
 
@@ -14,7 +11,7 @@
 }
 
 #theshop-main {
-
+    margin: 0 auto;
     background: white;
     max-width: 1060px;
     padding: var(--padding1);

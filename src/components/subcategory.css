@@ -1,12 +1,10 @@
 
 #sub-cat-wrapper {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    
+    height: auto;    
 }
 
 #sub-cat-mainwrapper {
+    margin: 0 auto;
     max-width: 1060px;
     padding: var(--padding1);
     background: white;

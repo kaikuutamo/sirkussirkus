@@ -2114,6 +2114,74 @@
                     "pic":"/category-pics/slackline.jpg",
                     "id":"slackline",
                     "products":[  
+                        {  
+                            "name":"Barefoot Slackline 15m",
+                            "category":2,
+                            "subcategory":"slackline",
+                            "id":"barefoot2",
+                            "pic":"/product-pics-2/barefoot2.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price": 60,
+                            "text":"Barefoot Slackline tarjoilee tuotteensa upeissa väreissä, hyvin varustelluissa paketeissa ja ennen kaikkea edullisemmin kuin kilpailijansa! Erinomainen paketti kaikenikäisille aloittelijoille ja harrastajille. Laadukas 50mm leveä ja hyvän pidon tarjoava tasapainoliina täyttää myös vaativamman tekijän tarpeet. Mukana kattavat oppaat, puusuojat sekä ohuempi harjoitteluliina, jonka voi asentaa aloittelijan avuksi vähän päätä korkeammalle. Saatavana kolmessa neonvärissä: pinkki, keltainen ja vihreä. Paketin sisältö: 15 metrin tasapainoliina, puusuojat, harjoitteluliina, pystytysohjekirja, aloittelijan opas sekä kantopussukka.",
+                            "text2":"Pituus 15m / Leveys 50mm",
+                            "text3": "Työskentelypainoraja 150 kg",
+                            "text4": "",
+                            "text5": "",
+                            "choice": "Väri",
+                            "options":[
+                                {  
+                                    "name":"Vaalenpunainen",
+                                    "id":"barefoot2-vaaleanpunainen",
+                                    "price":60
+                                },
+                                {  
+                                    "name":"Keltainen",
+                                    "id":"barefoot2-keltainen",
+                                    "price":60
+                                },
+                                {  
+                                    "name":"Vihreä",
+                                    "id":"barefoot2-vihreä",
+                                    "price":60
+                                }
+                            ]
+                        },
+                        {  
+                            "name":"Macaco Slackline 26m",
+                            "category":2,
+                            "subcategory":"slackline",
+                            "id":"macaco",
+                            "pic":"/product-pics-2/macaco.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price": 75,
+                            "text":"Macacon 26 metrin slackline niille, jotka kaipaavat lisää mittaa liinaansa. Laadukas 50mm leveä ja hyvän pidon tarjoava liina täyttää myös vaativamman tekijän tarpeet. Kattava paketti samaten kuin Barefootin lyhyempi slackline, mutta ei sisällä harjoitteluliinaa eikä aloittelijan opasta. Saatavana vain vihreänä. Paketin sisältö: 26 metrin slackline, puusuojat, pystytysohjekirja sekä kantopussukka.",
+                            "text2":"Pituus 26m / Leveys 50mm / Paino 3kg",
+                            "text3": "Työskentelypainoraja 150 kg",
+                            "text4": "",
+                            "text5": "",
+                            "options": null
+                        },
+                        {  
+                            "name":"Gibbon Travelline Slackline 15m",
+                            "category":2,
+                            "subcategory":"slackline",
+                            "id":"gibbontravel",
+                            "pic":"/product-pics-2/gibbontravel.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price": 75,
+                            "text":"Gibbon Travelline on pieni ja näppärä, ja se matkustaa mukanasi minne vain. Travelline on ohuempi ja kevyempi vaihtoehto muihin Gibbonin tuotteisiin verrattuna. Se on helppo ottaa mukaan matkalle tai pitää aina mukana. TÜV-sertifioitu tuote. Pakettiin sisältyy 15 metriä pitkä Travelline slackline, kiristysräikkä, räikkäsuojus.",
+                            "text2":"Pituus 15m / Leveys 50mm / Paino 2,35 kg",
+                            "text3": "Murtumispainoraja 2000 kg",
+                            "text4": "",
+                            "text5": "",
+                            "options": null
+                        }
   
                     ]
                 },
@@ -2122,6 +2190,23 @@
                     "pic":"/category-pics/puujalat.jpg",
                     "id":"puujalat",
                     "products":[  
+                        {  
+                            "name":"Aluminium Stilts - Alumiiniset säädettävät puujalat",
+                            "category":2,
+                            "subcategory":"puujalat",
+                            "id":"stilts",
+                            "pic":"/product-pics-2/stilts.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price": 250,
+                            "text":"Nämä ammattimaiset \"puujalat\" on valmistettu alumiinista, ja ne on alunperin suunniteltu maalarien ja hedelmänpoimijoiden työvälineeksi. Kekseliäs jousitus jalkojen rungossa matkii ihmiskehon nilkan toimintaa, ja näillä jaloilla voikin siksi seistä aivan paikallaan ilman jatkuvaa askellusta, joka on ominaista perinteisille puujaloille. Ahkeralla harjoittelulla näillä jaloilla voi jousituksen ansiosta jopa jalkoja liikuttamatta hieman nojailla eri suuntiin. Säädettävä korkeus, jossa jalansija on 60-100cm korkealla. Jalkojen paino on 7 kg.",
+                            "text2":"Korkeus 60 - 100 cm / 7 kg",
+                            "text3": "",
+                            "text4": "",
+                            "text5": "",
+                            "options": null
+                        }
   
                     ]
                 }
@@ -2136,6 +2221,138 @@
                     "pic":"/category-pics/kendama.jpg",
                     "id":"kendama",
                     "products":[  
+
+                        {  
+                            "name":"KROM Slaydawg 7 Year Bday Kendama",
+                            "category":3,
+                            "subcategory":"kendama",
+                            "id":"krom7",
+                            "pic":"/product-pics-3/krom7.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price": 60,
+                            "text":"Krom Kendaman 7-vuotis juhla-Kendama! Kiireestä kantapäähän äärimmilleen hiottua yksityiskohtaa ja laatua. Slawdawg-tyypin Ken. Pakkaukseen sisältyy juhla-Kendama, varanaru, varajyvä, tarrapakkaus ja minijuliste.",
+                            "text2":"",
+                            "text3": "",
+                            "text4": "",
+                            "text5": "",
+                            "options": null
+                        },
+                        {  
+                            "name":"KROM X BEAMS O.K. Kendama",
+                            "category":3,
+                            "subcategory":"kendama",
+                            "id":"kromx",
+                            "pic":"/product-pics-3/kromx.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price": 50,
+                            "text":"Kendama, jolla on tarina. Jokaisesta myydystä KROM X BEAMS O.K. -mallista lahjoitetaan 3 dollaria Tohokun kylään Japaniin Fukushiman surullisenkuuluisalle maanjäristysalueelle. Tämä Kendama-malli on erittäin laadukas, persoonallisen näköinen ja oiva tapa auttaa muita hauskan harrastuksen kautta. Kädensijan varteen on kirjoitettu kuuluisa lause, joka kuvaa Tohokun alueella paperimassasta käsityönä valmistettavia Okigari Koboshi -hahmoja sekä Fukushiman alueen nykyisten ja entisten asukkaiden periksiantamatonta elämänasennetta: \"7 times down 8 times up\"",
+                            "text2":"",
+                            "text3": "",
+                            "text4": "",
+                            "text5": "",
+                            "choice": "Väri",
+                            "options": [
+                                {  
+                                    "name":"Sininen",
+                                    "id":"kromx-sininen",
+                                    "price":50
+                                },
+                                {  
+                                    "name":"Punainen",
+                                    "id":"kromx-punainen",
+                                    "price":50
+                                }
+                            ]
+                        },
+                        {  
+                            "name":"Krom Kamo Kendama",
+                            "category":3,
+                            "subcategory":"kendama",
+                            "id":"kromkamo",
+                            "pic":"/product-pics-3/kromkamo.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price": 48,
+                            "text":"",
+                            "text2":"",
+                            "text3": "",
+                            "text4": "",
+                            "text5": "",
+                            "options": null
+                        },
+                        {  
+                            "name":"KROM Noia 1 Kendama",
+                            "category":3,
+                            "subcategory":"kendama",
+                            "id":"kromnoia",
+                            "pic":"/product-pics-3/kromnoia.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price": 38,
+                            "text":"",
+                            "text2":"",
+                            "text3": "",
+                            "text4": "",
+                            "text5": "",
+                            "options": null
+                        },
+                        {  
+                            "name":"KROM Noia 2 Kendama",
+                            "category":3,
+                            "subcategory":"kendama",
+                            "id":"kromnoia2",
+                            "pic":"/product-pics-3/kromnoia2.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price": 38,
+                            "text":"",
+                            "text2":"",
+                            "text3": "",
+                            "text4": "",
+                            "text5": "",
+                            "options": null
+                        },
+                        {  
+                            "name":"KROM Noia 3 Kendama",
+                            "category":3,
+                            "subcategory":"kendama",
+                            "id":"kromnoia3",
+                            "pic":"/product-pics-3/kromnoia3.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price": 38,
+                            "text":"",
+                            "text2":"",
+                            "text3": "",
+                            "text4": "",
+                            "text5": "",
+                            "options": null
+                        },
+                        {  
+                            "name":"KROM Pop Kendama",
+                            "category":3,
+                            "subcategory":"kendama",
+                            "id":"krompop",
+                            "pic":"/product-pics-3/krompop.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price": 24,
+                            "text":"Kromin uusi huippuunsa hiottu perus-Kendama-malli. Saatavana yhdeksässä eri värissä! Damassa miellyttävä kumimattamaaliviimeistely. Pakkaukseen sisältyy Kendama, varanaru, varajyvä, tarroja ja minijuliste. Parasta Krom-laatua ja kaupantekijäisiä edullisesti!",
+                            "text2":"",
+                            "text3": "",
+                            "text4": "",
+                            "text5": "",
+                            "options": null
+                        }
   
                     ]
                 },
@@ -2144,6 +2361,75 @@
                     "pic":"/category-pics/taika.jpg",
                     "id":"taika",
                     "products":[  
+
+                        {  
+                            "name":"Bicycle -korttipakka",
+                            "category":3,
+                            "subcategory":"taika",
+                            "id":"bicycle",
+                            "pic":"/product-pics-3/bicycle.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price": 3,
+                            "text":"Tavallinen laadukas taikurien suosima standardi korttipakka Rider-taustalla. Käytetty kortti mm. Las Vegasin kasinoilla. Taustan väreinä punainen tai sininen.",
+                            "text2":"",
+                            "text3": "",
+                            "text4": "",
+                            "text5": "",
+                            "options": null
+                        },
+                        {  
+                            "name":"Qualatex Pokkus -ilmapallot",
+                            "category":3,
+                            "subcategory":"taika",
+                            "id":"qualatex",
+                            "pic":"/product-pics-3/qualatex.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price": 12,
+                            "text":"Niin kutsutut koirailmapallot, muotoiluilmapallot tai ilmapalloeläimet. Parasta laatua ilmapalloveistoksiisi! Qualatexin Pokkus-pussissa sekalaisia värejä 100 kpl.",
+                            "text2":"",
+                            "text3": "",
+                            "text4": "",
+                            "text5": "",
+                            "options": null
+                        },
+                        {  
+                            "name":"Ilmapallopumppu",
+                            "category":3,
+                            "subcategory":"taika",
+                            "id":"pumppu",
+                            "pic":"/product-pics-3/pumppu.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price": 5,
+                            "text":"Qualatex Pokkus -ilmapallojen täyttäminen käy kätevästi tällä itse tarkoitukseen valmistetulla isokokoisella erikoispumpulla. Edullisesta hinnastaan huolimatta tämä malli on markkinoiden paras. Useita eri värejä.",
+                            "text2":"",
+                            "text3": "",
+                            "text4": "",
+                            "text5": "",
+                            "options": null
+                        },
+                        {  
+                            "name":"Taikurin köysi",
+                            "category":3,
+                            "subcategory":"taika",
+                            "id":"taikanaru",
+                            "pic":"/product-pics-3/taikanaru.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price": 12,
+                            "text":"Suomessa valmistettu köysi jota monet sanovat maailman parhaaksi taikuriköydeksi. Köydessä on vaahtomuovisisus, joten se on helppo leikata. Tämän taikanarun voit myös pestä. Nipussa on 25 metriä. Väri valkoinen.",
+                            "text2":"",
+                            "text3": "",
+                            "text4": "",
+                            "text5": "",
+                            "options": null
+                        }
   
                     ]
                 },
@@ -2152,6 +2438,126 @@
                     "pic":"/category-pics/media.jpg",
                     "id":"media",
                     "products":[  
+
+                        {  
+                            "name":"If You Are a Juggler... - Alexander Kiss",
+                            "category":3,
+                            "subcategory":"media",
+                            "id":"alexanderkiss",
+                            "pic":"/product-pics-3/alexanderkiss.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price": 25,
+                            "text":"Alexander Kiss kirjoitti kirjansa \"If You Are a Juggler...\" Neuvostoliitossa vuonna 1970. Nyt kun kirja on vihdoin käännetty englanniksi, jokainen voi ottaa oppia tämän venäläisen sirkusikonin ja mestarijonglöörin mietteistä. Kiss oli yksi aikakautensa parhaista ja omaperäisimmistä jonglööreistä. Vuonna 1969 hänelle myönnettiinkin arvostettu Rastelli Award -palkinto, joka annetaan vain maailman parhaalle elävälle jonglöörille. Kirjassaan Alexander Kiss jakaa elämäntyönsä lukijan kanssa samalla tarjoten näkemystä jonglöörien ja muiden esiintyvien taiteilijoiden maailmaan. Kirja tarjoaa kallisarvoista tietoa kaikille lukijoilleen jonglööritarinoista lähtien aina yksityiskohtaisiin temppukuvauksiin asti. Lue Kissin ajatuksia oikeanlaisista harjoittelutavoista, esityksen rakentamisesta, oikeaoppisesta ryhdistä, omaperäisyydestä, uusien temppujen kehittelytavoista, välinerakennuksesta ja monesta muusta asiasta.",
+                            "text2":"Englanninkielinen / 134 sivua / pehmeäkantinen / 2018 (1970)",
+                            "text3": "",
+                            "text4": "",
+                            "text5": "",
+                            "options": null
+                        },
+                        {  
+                            "name":"Arjen mentalisti - Pete Poskiparta",
+                            "category":3,
+                            "subcategory":"media",
+                            "id":"peteposkiparta",
+                            "pic":"/product-pics-3/peteposkiparta.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price": 25,
+                            "text":"Mentalisti Pete Poskiparta opastaa miten opit helposti ja nopeasti muistamaan ihmisten nimet, kauppalistat ja muut arjessa eteen tulevat asiat. Maailma on täynnä hyviä ideoita, joita kukaan ei muista. Tämän kirjan opeilla myös ideat pysyvät muistissa ilman lippusia ja lappusia. Mentalisti avaa kirjassa myös kehonkieltä ja kertoo mitä ilmeet, eleet ja liikkeet merkitsevät ja miten niitä pitäisi tulkita. Saat kullanarvoisia ohjeita jännityksen hallintaan sekä suoritukseen valmistautumiseen. Jotta painava asia tuntuisi keveämmältä on kirjassa mukana hauskoja kertomuksia keikkamatkoista ja viihdebisneksen kulisseista sekä muutama helppo, mutta vaikuttava mentalistitemppu, jolla viihdytät ystäviäsi seuraavissa illanistujaisissa.",
+                            "text2":"Suomenkielinen / 176 sivua / kovakantinen / 2017",
+                            "text3": "",
+                            "text4": "",
+                            "text5": "",
+                            "options": null
+                        },
+                        {  
+                            "name":"Learn to Juggle: And Perform Family-Friendly Comedy Routines - Niels Duinker",
+                            "category":3,
+                            "subcategory":"media",
+                            "id":"learntojuggle",
+                            "pic":"/product-pics-3/learntojuggle.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price": 15,
+                            "text":"Opi jongleeraamaan ja esittämään kokoperheen komedianumeroita Niels Duinkerin seurassa! Jongleeraus on hauskaa! Ja tämän kirjan avulla opit perusteet! Niels Duinker opettaa kirjassaan jongleerauksen metkut aina neljään palloon asti. Kirja sisältää myös runsaasti vinkkejä jongleeraustemppujen esittämiseen sekä valmiita jongleerausvitsejä ja jekkuja, jotka nostavat hymyn katsojien huulille Niels takaa. Kirjan ostaja saa myös kaupan päälle mahdollisuuden katsoa koko Nielsin yhden miehen esityksen sekä bonus-videoita kirjan nettisivuilta.",
+                            "text2":"Englanninkielinen / 66 sivua / pehmeäkantinen / 2017",
+                            "text3": "",
+                            "text4": "",
+                            "text5": "",
+                            "options": null
+                        },
+                        {  
+                            "name":"Juggling - The Past and Future - Karl-Heinz Ziethen",
+                            "category":3,
+                            "subcategory":"media",
+                            "id":"karlheinz",
+                            "pic":"/product-pics-3/karlheinz.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price": 185,
+                            "text":"Kattavin ikinä julkaistu teos jongleerauksen historiasta alkaen Egyptin hautakammioista vuodesta 1994 ennen ajanlaskun alkua, jatkuen aina moderniin aikaan ja nykyisiin innovaatioihin asti. Melkein 600 sivua kovissa kansissa, joita värittävät yli 1000 kuvaa ja piirustusta suoraan kirjailijan itsensä henkilökohtaisista kokoelmista. Karl-Heinz Ziethen on dokumentoinut jongleerauksen kehitystä jo viiden vuosikymmenen ajan Berliinistä käsin. Teos on sukellus Zithenin intohimoon ja elämäntyöhön historioitsijana ja jongleerauksen ystävänä.",
+                            "text2":"Englanninkielinen / 596 sivua / kovakantinen / 2017",
+                            "text3": "",
+                            "text4": "",
+                            "text5": "",
+                            "options": null
+                        },
+                        {  
+                            "name":"The Complete Juggler - Dave Finnigan",
+                            "category":3,
+                            "subcategory":"media",
+                            "id":"completejuggler",
+                            "pic":"/product-pics-3/completejuggler.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price": 25,
+                            "text":"Jonglöörin raamatuksi kutsuttu teos. Ennen internetin ihmeaikaa tämä oli korvaamaton teos kaikille jongleerauksesta kiinnostuneille. Dave Finnigan käy läpi kirjassaan pallot, keilat, renkaat, diabolot, devilstickin, huivit ja hatut useiden vinkkien ja kikkojen kera. Kaikki on selkeästi kuvitettu koko kirjan mitalta. Läpi käydään myös itse jongleerausta sivuavia aiheita, kuten työpajojen pitäminen, jongleerausleikit, elannon ansaitseminen jongleerauksella, jne.",
+                            "text2":"Englanninkielinen / 560 sivua / pehmeäkantinen / 1992",
+                            "text3": "",
+                            "text4": "",
+                            "text5": "",
+                            "options": null
+                        },
+                        {  
+                            "name":"Taikuuden oppikirja - Motion Magic - Tatu Tyni",
+                            "category":3,
+                            "subcategory":"media",
+                            "id":"taikuudenoppikirja",
+                            "pic":"/product-pics-3/taikuudenoppikirja.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price": 28,
+                            "text":"Tatu Tynin kattava taikuuden perusoppikirja kantaa pelkkää temppuopasta pidemmälle. Tyni ohjaa lukijan johdonmukaisesti taikuuden saloihin ja kertoo, mistä taikataiteessa ja liiketaikuudessa on kyse. Kirja on suunnattu vasta-alkajista pitkään taikoneille ja sirkustaiteen opettajille. Se opettaa sekä taikuuden opettamista että oppien itsenäistä soveltamista. Kirjassa on yli 300 havainnollista kuvaa ja korkeatasoinen, selkeä ulkoasu.",
+                            "text2":"Suomenkielinen / 176 sivua / kovakantinen / 2000",
+                            "text3": "",
+                            "text4": "",
+                            "text5": "",
+                            "options": null
+                        },
+                        {  
+                            "name":"Ihmeen väkeä! - Tomi Purovaara",
+                            "category":3,
+                            "subcategory":"media",
+                            "id":"ihmeenvakea",
+                            "pic":"/product-pics-3/ihmeenvakea.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price": 30,
+                            "text":"2000-luku on merkinnyt suomalaiselle sirkukselle suurta kulttuurista muutosta. Yhä paremmin voivan perinteisen sirkuksen rinnalla vaikuttavat maailmalla kiitävät nykysirkustaiteilijat, joiden teosten estetiikka syntyy niin musiikin, tanssin kuin elokuvan innoittamana. Miten on mahdollista, että suomalaisesta sirkuksesta on kehittynyt kuin yhdessä rysäyksessä kansainvälisesti tunnustettu modernin esittävän taiteen muoto, jonka hedelmistä nauttivat vuosittain tuhannet katsojat yli maiden rajojen? Ihmeen väkeä! tarjoaa vankkaa taustatietoa aikamme sirkussankaruudelle. Kirja sisältää laajan otoksen suomalaisen sirkuksen tekijöistä, taustoista ja vaiheista.",
+                            "text2":"Suomenkielinen / 261 sivua / pehmeäkantinen / 2008",
+                            "text3": "",
+                            "text4": "",
+                            "text5": "",
+                            "options": null
+                        }
   
                     ]
                 },

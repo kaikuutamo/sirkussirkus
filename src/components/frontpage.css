@@ -1,16 +1,14 @@
 
 
 #frontpage-wrap {
-display: flex;
-flex-direction: column;
-align-items: center;
-
+    height: auto;
 }
 
 #frontpage-container-wrap {
-max-width: 1060px;
-background: white;
-padding: var(--padding1);
+    margin: 0 auto;
+    max-width: 1060px;
+    background: white;
+    padding: var(--padding1);
 }
 
 #scroll-img-container {
@@ -22,24 +20,38 @@ padding: var(--padding1);
     margin-bottom: 15px;
 }
 
+
+
 #scroll-images {
-z-index: 1;
-position: relative;
-width: 100%;
-overflow: hidden;
-display: grid;
-grid-template-columns: 100% 100% 100% 100%;
-  
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    width: 100%;
+    overflow: hidden;
+    display: grid;
+    grid-template-columns: 100% 100% 100% 100%;
+    
 }
 
 .img-commercial{
-width: 100%;
-height: auto;
+    z-index: 1;
+    width: 100%;
+    height: auto;
+    opacity: 0;
+    }
+
+#scroll-img-container-empty {
+    top: 0;
+    width: 100%;
+    padding-bottom: 42.9%;
+    background: white;
+    z-index: -1;
+   
 }
 
 #arrow-buttons-wrap {
     position: absolute;
-      
+    
     width: 100%;
     height: 100%;
     display: flex;
@@ -59,30 +71,31 @@ height: auto;
 }
 
 #left-button {
-    padding-right: 20px;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-right: 23px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     padding-left: 2px;
     font-size: 1.7rem;
     }
 
 #right-button {
-    padding-left: 20px;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-left: 23px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     padding-right: 2px;
     font-size: 1.7rem;
     right: 0px;
 }
 
 #round-buttons-wrap {
+    
     z-index: 10;
     position: absolute;
     bottom: 0;
     display: flex;
-    padding-left: 15px;
-    padding-right: 15px;
-    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 17px;
     padding-bottom: 5px;
     
 }

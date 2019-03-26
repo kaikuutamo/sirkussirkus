@@ -9,11 +9,6 @@ import { connect } from 'react-redux';
 
 import {Link} from 'react-router-dom';
 
-import commercial1 from './frontpagepics/c1.jpg';
-import commercial2 from './frontpagepics/c2.jpg';
-import commercial3 from './frontpagepics/c3.jpg';
-
-
 
 class FrontPage extends React.Component {
 
@@ -21,7 +16,6 @@ class FrontPage extends React.Component {
         super(props);
 
         this.state = {
-            slideshow: [],
             position: 1,
             status: "ready",
             buttonstyle: [{background: "var(--color3)"}, {background: "var(--color1)"}, {background: "var(--color1)"}]
@@ -240,7 +234,7 @@ changeArrow = (arg) => {
 
 
 changePic = (arg) => {
-        
+     
     clearInterval(this.interval)
 
     if (this.state.status === "working") {return null};
@@ -261,7 +255,7 @@ autoScroll = () => {
 
     if (document.getElementById("scroll-images") === null) {
         return null;
- }
+    }
 
 this.interval = setInterval(() => {
     
@@ -269,7 +263,7 @@ this.interval = setInterval(() => {
         this.scrollFunc("+");
     }
 
-}, 4500);
+}, 5000);
 
 
 }
@@ -280,32 +274,43 @@ componentDidMount () {
 
 window.scrollTo(0, 0);
 
-var slide1 = (<Link key="im1" to="/product?category=0&subcategory=pallot&id=kuutamo75"><img id="image1" className="img-commercial" alt="commercial" src={commercial1}></img></Link>);
-var slide2 = (<Link key="im2" to="/product?category=0&subcategory=pallot&id=kuutamo75"><img key="im2" className="img-commercial" alt="commercial" src={commercial2}></img></Link>);
-var slide3 = (<Link key="im3" to="/product?category=1&subcategory=kankaat&id=allineight"><img key="im3" className="img-commercial" alt="commercial" src={commercial3}></img></Link>);
-var endSlide = (<Link key="im4" to="/product?category=0&subcategory=pallot&id=kuutamo75"><img key="im4" className="img-commercial" alt="commercial" src={commercial1}></img></Link>);
 
-var slides = [slide1, slide2, slide3, endSlide];
-
-this.setState({
-    slideshow: slides
-})
-
-
-this.autoScroll();
 
 this._mounted = true;
 
+
+/*------------- Opacity and start of the autoscroll ----------------------*/
+
 var catPics = document.getElementsByClassName("frontpage-pic");
 
-function jes (k) {
+function opacity (k) {
     catPics[k].addEventListener("load", function () {
-        catPics[k].style = "transition: opacity 2s, filter 0.2s; opacity: 1"; 
+        catPics[k].style = "transition: opacity 1.5s, filter 0.2s; opacity: 1"; 
     })
 }
 
 for (var k = 0; k < catPics.length; k ++) {
-    jes(k);
+    opacity(k);
+}
+
+
+var images = document.getElementsByClassName("img-commercial");
+
+var count = 0;
+
+var opacity2 = (s) => {
+    
+    images[s].addEventListener("load", function () {
+        images[s].style = "transition: opacity 1.5s; opacity: 1";
+    })
+    count = count + 1;
+    if (count === 4) {
+                   this.autoScroll();
+                        }
+}
+
+for (var s = 0; s < images.length; s ++) {
+    opacity2(s);
 }
 
 
@@ -323,7 +328,7 @@ componentWillUnmount (){
 render () {
 
 
-
+   
     var subCats = [];
 
     subCats = [this.props.products.categories[0].subcategories, this.props.products.categories[1].subcategories, this.props.products.categories[2].subcategories, this.props.products.categories[3].subcategories];
@@ -397,6 +402,8 @@ return (
 
     <div id="scroll-img-container">
     
+    
+
     <div id="arrow-buttons-wrap">
     <button onClick={this.changeArrow} id="left-button" className="commercial-button">&#10094;</button>
     <button onClick={this.changeArrow} id="right-button" className="commercial-button">&#10095;</button>
@@ -408,10 +415,15 @@ return (
     <button style={this.state.buttonstyle[2]} onClick={this.changePic} id="button-picture3" value="3" className="roundbutton"></button>
     </div>
 
+    <div id="scroll-img-container-empty"></div>
+
     <div id="scroll-images">
 
-    {this.state.slideshow}
-
+    <Link key="im1" to="/product?category=0&subcategory=pallot&id=kuutamo75"><img id="image1" className="img-commercial" alt="commercial" src='/frontpagepics/c1.jpg'></img></Link>
+    <Link key="im2" to="/product?category=0&subcategory=pallot&id=kuutamo75"><img className="img-commercial" alt="commercial" src='/frontpagepics/c2.jpg'></img></Link>
+    <Link key="im3" to="/product?category=1&subcategory=kankaat&id=allineight"><img className="img-commercial" alt="commercial" src='/frontpagepics/c3.jpg'></img></Link>
+    <Link key="im4" to="/product?category=0&subcategory=pallot&id=kuutamo75"><img className="img-commercial" alt="commercial" src='/frontpagepics/c1.jpg'></img></Link>
+    
     </div>
     
     </div>

@@ -8,14 +8,12 @@ body {
 }
 
 #shop-wrapper {
-display: flex;
-flex-direction: column;
-align-items: center;
+    height: auto;
 }
 
 
 #the-cart {
-width: 100%;
+margin: 0 auto;
 max-width: 1060px;
 background: white;
 padding: var(--padding1);
@@ -252,14 +250,6 @@ align-items: center;
         --cartgrid: 40% 20% 20% 20%;
     }
 
-    #shop-wrapper {
-        display: initial;
-    }
-
-    #the-cart {
-        width: auto;
-        max-width: initial;
-    }
 
 }
 

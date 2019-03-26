@@ -49,7 +49,7 @@ componentDidMount () {
 
     function jes (k) {
         catPics[k].addEventListener("load", function () {
-            catPics[k].style = "transition: opacity 2s, filter 0.2s; opacity: 1"; 
+            catPics[k].style = "transition: opacity 1.5s, filter 0.2s; opacity: 1"; 
         })
     }
 

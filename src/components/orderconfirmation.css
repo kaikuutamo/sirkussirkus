@@ -1,14 +1,12 @@
 
 #order-confirmation-wrap {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    height: auto;
 
 }
 
 #confirmation-wrapper {
     padding: var(--padding1);
-    width: 100%;
+    margin: 0 auto;
     max-width: 1060px;
     background: white;
     display: flex;
@@ -145,24 +143,6 @@
 }
 
 
-/* ---------------------------------- */
-
-@media (max-width: 1200px) {
-
-
-    #order-confirmation-wrap {
-        display: initial;
-    
-    }
-    
-    #confirmation-wrapper {
-        width: auto;
-        max-width: initial;
-           
-    }
-
-
-}
 
 /* ---------------------------------- */
 

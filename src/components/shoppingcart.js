@@ -189,7 +189,7 @@ componentDidMount () {
 
 render () {
 
-console.log(this.props.shoppingCart)
+
 
 var style = {};
 
