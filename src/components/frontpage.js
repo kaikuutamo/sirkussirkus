@@ -101,7 +101,10 @@ scrollFunc = (arg) => {
         
         if (this.state.position === 1 || this.state.position === 2) {
             
-            var newPos = images.scrollLeft + imageWidth;
+            var newPos;
+            
+            if (this.state.position === 1) {newPos = 0 + imageWidth}
+            if (this.state.position === 2) {newPos = imageWidth * 2}
 
             var temp = this.state.position + 1;
             buttonStyles[temp-1] = {background: "var(--color3)"};
@@ -122,7 +125,7 @@ scrollFunc = (arg) => {
 
       else if (this.state.position === 3) {
 
-            var newPos2 = images.scrollLeft + imageWidth;
+            var newPos2 = imageWidth * 3;
 
             var tempPos = 1;
             buttonStyles[tempPos-1] = {background: "var(--color3)"};
@@ -174,7 +177,10 @@ scrollFunc = (arg) => {
                 buttonstyle: buttonStyles
             })
 
-            var newPos4 = images.scrollLeft - imageWidth;
+            var newPos4;
+            
+            if (this.state.position === 2) {newPos4 = 0}
+            if (this.state.position === 3) {newPos4 = imageWidth}
 
             this.scrollToDest(newPos4, () => {
                 this.setState({
@@ -215,16 +221,17 @@ scrollFunc = (arg) => {
 
 changeArrow = (arg) => {
 
-    clearInterval(this.interval)
 
     if (this.state.status === "working") {return null}
 
     
-    else if (arg.target.id === "right-button") {
+    else if (arg === "right") {
+        clearInterval(this.interval);
         this.scrollFunc("+");
     }
 
-    else if (arg.target.id === "left-button") {
+    else if (arg === "left") {
+        clearInterval(this.interval);
         this.scrollFunc("-");
     }
 
@@ -249,6 +256,30 @@ changePic = (arg) => {
 
 }
 
+startTouch = (e) => {
+    
+    this.start = e.touches[0].clientX;
+    }
+
+moveTouch = (e) => {
+
+    if(this.state.status === "working") {return null}
+
+    var temp = this.start - e.touches[0].clientX;
+       
+    if (temp < -90) {
+        
+        this.changeArrow("left")
+        
+    }
+
+    else if (temp > 90) {
+        this.changeArrow("right")
+        
+    }
+
+    
+}
 
 
 autoScroll = () => {
@@ -275,8 +306,8 @@ componentDidMount () {
 window.scrollTo(0, 0);
 
 
-
 this._mounted = true;
+
 
 
 /*------------- Opacity and start of the autoscroll ----------------------*/
@@ -312,6 +343,7 @@ var opacity2 = (s) => {
 for (var s = 0; s < images.length; s ++) {
     opacity2(s);
 }
+
 
 
 }
@@ -405,8 +437,8 @@ return (
     
 
     <div id="arrow-buttons-wrap">
-    <button onClick={this.changeArrow} id="left-button" className="commercial-button">&#10094;</button>
-    <button onClick={this.changeArrow} id="right-button" className="commercial-button">&#10095;</button>
+    <button onClick={() => this.changeArrow("left")} id="left-button" className="commercial-button">&#10094;</button>
+    <button onClick={() => this.changeArrow("right")} id="right-button" className="commercial-button">&#10095;</button>
     </div>
 
     <div id="round-buttons-wrap">
@@ -417,7 +449,7 @@ return (
 
     <div id="scroll-img-container-empty"></div>
 
-    <div id="scroll-images">
+    <div onTouchMove={this.moveTouch} onTouchStart={this.startTouch} id="scroll-images">
 
     <Link key="im1" to="/product?category=0&subcategory=pallot&id=kuutamo75"><img id="image1" className="img-commercial" alt="commercial" src='/frontpagepics/c1.jpg'></img></Link>
     <Link key="im2" to="/product?category=0&subcategory=pallot&id=kuutamo75"><img className="img-commercial" alt="commercial" src='/frontpagepics/c2.jpg'></img></Link>

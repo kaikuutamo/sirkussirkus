@@ -250,6 +250,16 @@ align-items: center;
     
 }
 
+#dropdown-bg-image {
+    height: 100%;
+    width: 100%;
+    background: tomato;
+    position: absolute;
+    opacity: 0.5;
+    z-index: 800;
+}
+
+
 #dropdown-wrapper nav a {
     text-decoration: none;
     padding-top: 7px;

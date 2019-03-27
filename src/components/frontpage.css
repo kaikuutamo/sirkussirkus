@@ -30,7 +30,7 @@
     overflow: hidden;
     display: grid;
     grid-template-columns: 100% 100% 100% 100%;
-    
+
 }
 
 .img-commercial{
@@ -38,7 +38,9 @@
     width: 100%;
     height: auto;
     opacity: 0;
+
     }
+
 
 #scroll-img-container-empty {
     top: 0;

@@ -587,17 +587,49 @@
                             "category":0,
                             "subcategory":"uniikit",
                             "pic":"/product-pics-0/kuutamo75.jpg",
-                            "pics":[  
+                            "pics":["/product-pics-0/kuutamo75_valkoinen.jpg", "/product-pics-0/kuutamo75_keltainen.jpg", "/product-pics-0/kuutamo75_punainen.jpg", "/product-pics-0/kuutamo75_sininen.jpg", "/product-pics-0/kuutamo75_vihrea.jpg", "/product-pics-0/kuutamo75_oranssi.jpg"
   
                             ],
                             "id":"kuutamo75",
                             "price":6,
+                            "choice":"Väri",
                             "text":"Kai Kuutamon oma henkilökohtainen pallomalli. Pallo on niin kutsuttu venäläistyylinen pallo, jossa on ohuen kuoren sisällä vain 1/3 hiekkatäytettä. Vapaasti liikkuva hiekka antaa pallolle vakautta ilmassa pallon kevyestä painosta huolimatta. Keveys taas helpottaa korkeita heittoja ja yli seitsemän pallon jongleerauskuvioita. Lisäksi pudotessaan pallo jää hiekan ansiosta usein aloilleen, eikä vieri niin kauas kuin näyttämö- tai tekstiilipallot. Kuutamo-pallot sopivat erinomaisesti myös aloittelijoille. Näillä palloilla Kai Kuutamo teki Suomen ennätyksen 10 pallon jongleerauksessa vuonna 2015.",
                             "text2":"75 mm / 70 g",
                             "text3": "",
                             "text4": "",
                             "text5": "",
-                            "options":null
+                            "options":[
+                            {  
+                              "name":"Valkoinen",
+                              "id":"kuutamo75_valkoinen",
+                              "price":6
+                          },
+                          {  
+                              "name":"Keltainen",
+                              "id":"kuutamo75_keltainen",
+                              "price":6
+                          },
+                          {  
+                              "name":"Punainen",
+                              "id":"kuutamo75_punainen",
+                              "price":6
+                          },
+                          {  
+                              "name":"Sininen",
+                              "id":"kuutamo75_sininen",
+                              "price":6
+                          },
+                          {  
+                              "name":"Vihreä",
+                              "id":"kuutamo75_vihrea",
+                              "price":6
+                          },
+                          {  
+                              "name":"Oranssi",
+                              "id":"kuutamo75_oranssi",
+                              "price":6
+                          }
+                      ]
                         },
                         {  
                             "name":"Kuutamo 60 mm",
@@ -2557,6 +2589,159 @@
                             "text4": "",
                             "text5": "",
                             "options": null
+                        },
+                        {  
+                            "name":"Nykysirkus - Tomi Purovaara",
+                            "category":3,
+                            "subcategory":"media",
+                            "id":"nykysirkus",
+                            "pic":"/product-pics-3/nykysirkus.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price": 20,
+                            "text":"Ensimmäinen suomalainen nykysirkusta käsittelevä kirja antaa lukijalle perusteelliset avaimet uuden sirkuksen maailmaan. Kirja esittelee tarinallisesti edeten sirkuksen historiaa, muutoksen taustoja sekä yhteyksiä muihin taiteenlajeihin. Odotettu alan perusteos tuo näkyväksi keskeisiä taiteilijoita ja ryhmiä Suomessa ja maailmalla – nykysirkuksessa näemme ikivanhan perinteen tämän hetken silmin.",
+                            "text2":"Suomenkielinen / 251 sivua / pehmeäkantinen / 2005",
+                            "text3": "",
+                            "text4": "",
+                            "text5": "",
+                            "options": null
+                        },
+                        {  
+                            "name":"Sirkuksen vallankumous - Jean-Michel Guy",
+                            "category":3,
+                            "subcategory":"media",
+                            "id":"sirkuksenvallankumous",
+                            "pic":"/product-pics-3/sirkuksenvallankumous.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price": 20,
+                            "text":"Uuden ranskalaisen sirkustutkimuksen klassikkoteoksessa alan parhaat kirjoittajat kuvaavat sirkuksen nykypäivää, taustoja ja suhdetta muihin taiteenaloihin. Kirja kokoaa yhteen 1970-luvulla Ranskassa syntyneen uuden sirkuksen keskeiset piirteet sekä esittelee sirkuslajien – jongleerauksen, akrobatian ja klovnerian – itsenäistymisen vaiheita ja tärkeimpiä taiteilijoita. Nykysirkuksen omaleimainen runollisuus sekä erikoisten aistimaailmoiden rakentaminen luovat luonnolliset yhteydet muihin esittäviin taiteisiin. Sirkuksen kulttuurisesta monisäikeisyydestä nostetaan esiin niin taiteellinen, pedagoginen, sosiologinen kuin taloudellinenkin näkökulma.",
+                            "text2":"Suomenkielinen / 237 sivua / pehmeäkantinen / 2005",
+                            "text3": "",
+                            "text4": "",
+                            "text5": "",
+                            "options": null
+                        },
+                        {  
+                            "name":"Klovnerian käsikirja - Jari Siljamäki",
+                            "category":3,
+                            "subcategory":"media",
+                            "id":"klovneriankasikirja",
+                            "pic":"/product-pics-3/klovneriankasikirja.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price": 20,
+                            "text":"Yleinen harhaluulo on, että klovniksi tullaan hankkimalla punainen nenä, peruukki ja lapionkokoiset kengät. Klovnerius ei kuitenkaan tarkoita ulkoisia tekijöitä, vaan se on henkinen, sisäinen tila, joka löytyy kunkin klovniksi haluavan omasta persoonasta. Paras klovni on aito, oma itsensä. Klovnerian käsikirja on ensimmäinen suomalainen klovnerian esiintymisopas. Se käsittelee klovnerian perusasioita lähtien liikkeelle katsauksesta klovnerian historiaan sekä erilaisiin klovnityyppeihin, edeten oman klovnihahmon löytymiseen sekä esityksen suunnitteluun ja niihin periaatteisiin, jotka tekevät klovnista klovnin. Oman lukunsa kirjassa saavat myös mimiikka, slapstick-tekniikat sekä klovnin rutiinit ja gägit.",
+                            "text2":"Suomenkielinen / 131 sivua / kovakantinen / 2010",
+                            "text3": "",
+                            "text4": "",
+                            "text5": "",
+                            "options": null
+                        },
+                        {  
+                            "name":"Ballerina hevosen selässä - Edit Sandor Kleinbarth",
+                            "category":3,
+                            "subcategory":"media",
+                            "id":"ballerina",
+                            "pic":"/product-pics-3/ballerina.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price": 40,
+                            "text":"Vuonna 1931 syntynyt Edit Sandor Kleinbarth oli monitaitoinen suomalainen sirkustaiteilija sekä samalla yksi harvoista aikansa naisjonglööreistä. Ballerina hevosen selässä on Kleinbarthin elämänäkerta. Se on kertomus sirkusperheestä, suvusta, sirkuksen arjesta ja juhlahetkistä. Kirja on osa Euroopan sirkushistoriaa.",
+                            "text2":"Suomenkielinen / 234 sivua / kovakantinen / 2007",
+                            "text3": "",
+                            "text4": "",
+                            "text5": "",
+                            "options": null
+                        },
+                        {  
+                            "name":"Object Episodes - Never Give Up - DVD",
+                            "category":3,
+                            "subcategory":"media",
+                            "id":"nevergiveup",
+                            "pic":"/product-pics-3/nevergiveup.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price": 20,
+                            "text":"Object Episodes -sarjan kolme ensimmäistä osaa samassa paketissa. Vuodet 2005-2007. Mukana mm. Ruotsista Erik Åberg, Mattias Jönsson, Elias Hedlund, Viktor Gyllenberg. Suomesta Jouni Temonen, Matias Salmenaho. Argentiinasta Victor Rubilar. Japanista Tempei Arakawa, Masaki Hirano, Atsushi Kikyo, Takashi Kikyo. Levyllä on yksi Matias Jönssonin suorittama temppu, joka on yleisen tiedon mukaan tehty vain yhden kerran koko maailmassa. Varastossa vielä muutama kappale. Loppuunmyyty artikkeli muissa nettikaupoissa.",
+                            "text2":"60 min / 2008",
+                            "text3": "",
+                            "text4": "",
+                            "text5": "",
+                            "options": null
+                        },
+                        {  
+                            "name":"NJC 2009 - DVD",
+                            "category":3,
+                            "subcategory":"media",
+                            "id":"njc2009",
+                            "pic":"/product-pics-3/njc2009.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price": 15,
+                            "text":"Nordic Juggling Convention 2009 Turku Finland. Ainutlaatuinen taltiointi gaalaesityksestä, jota Turun Sanomat luonnehti \"Suomalaisen jongleerauksen juhlaksi\". Lisänä dvd:llä myös baari-illan esitykset. Mukana Jouni Temonen, Sakari Männistö, Aaro Kontio, Olli Vuorinen, Lauri Koskinen, Frida Odden Brinkmann, Rauli Kosonen, Matias Salmenaho, Antti Nerg, Jani Suihkonen, Kristian Wanvik, Samuli Männistö, Marko Akkanen, Jerina Hintikka, Kaj-Mikael Schütt, Jukka Grönfors.",
+                            "text2":"90 min / 2009",
+                            "text3": "",
+                            "text4": "",
+                            "text5": "",
+                            "options": null
+                        },
+                        {  
+                            "name":"Diabology - Tupla DVD",
+                            "category":3,
+                            "subcategory":"media",
+                            "id":"diabology",
+                            "pic":"/product-pics-3/diabology.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price": 20,
+                            "text":"The Mad French Posse -ryhmän kokoelmatuplalevy, jossa toinen levy on pelkkää freestyle-juhlaa ja esityksiä (noin 100 minuuttia), ja toinen levy keskittyy diabolo-opetukseen yhden diabolon perusteista lähtien aina kolmen diabolon perusteisiin asti (noin 40 minuuttia). Tämän teoksen sanotaan innoittaneen uuden diabolo-taiteen sukupolven syntyä vuonna 2004, jolloin se ilmestyi. Opetusosio on yhä pätevä, ja freestyle-osio tarjoaa varmasti jotakin uutta ja innostavaa jokaiselle alan harrastajalle yli 10 vuoden iästään huolimatta. Kielenä englanti.",
+                            "text2":"Englanninkielinen / tuplalevy 140 min / 2004",
+                            "text3": "",
+                            "text4": "",
+                            "text5": "",
+                            "options": null
+                        },
+                        {  
+                            "name":"Bolottaako? - Sirkus Kumiankka - DVD (2. painos)",
+                            "category":3,
+                            "subcategory":"media",
+                            "id":"bolottaako",
+                            "pic":"/product-pics-3/bolottaako.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price": 20,
+                            "text":"Ensimmäinen ja toistaiseksi ainoa suomenkielinen diabolo-opetusvideo. Toinen painos. Teos kartoittaa kolmen suomalaisen diabolo-ammattilaisen avulla lajia aina perustekniikoista vaikeampiin temppuihin ja temppuyhdistelmiin. Bolottaako? auttaa nuorta harrastajaa alkuun, ja antaa pidemmälle ehtineille vinkkejä kehitykseen ja esiintymisiin. Videolla nähdään taiteilijat Aaro Kontio, Marko Akkanen ja Samuli Männistö. Toinen painos sisältää myös lisälevyn, jolla on lisää bonusmateriaalia.",
+                            "text2":"Suomenkielinen / 32 min + extrat + lisälevy / 2006",
+                            "text3": "",
+                            "text4": "",
+                            "text5": "",
+                            "options": null
+                        },
+                        {  
+                            "name":"Lauri Koskisen Patakasi - DVD",
+                            "category":3,
+                            "subcategory":"media",
+                            "id":"patakasi",
+                            "pic":"/product-pics-3/patakasi.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price": 20,
+                            "text":"Tämä video sisältää kahdeksan uutta (julkaistu 2005) close-up -korttitemppua Lauri Koskiselta. Videossa on selkeät selitykset jokaiseen temppuun, ja mukana on myös kaksi bonus taikatemppua sekä paljon extra-materiaalia, kuten mm. kuusi välitemppua ja kenttäkameralla kuvattua taikurin arkea. Temppujen oppiminen vaatii vankan teknisen osaamisen korttien käsittelyssä. Levyllä on nimensä mukaisesti kahdeksan temppua, joista jokaisen ympärille on mahdollista rakentaa pitempikin rutiini. Lauri Koskinen on vuoden 2005 ravintolataikuuden Suomen mestari.",
+                            "text2":"Suomenkielinen / 50 min / 2005",
+                            "text3": "\"Roimasti ylihintainen, mutta kannattaa ostaa!\" -Pete Poskiparta",
+                            "text4": "",
+                            "text5": "",
+                            "options": null
                         }
   
                     ]
@@ -2566,6 +2751,23 @@
                     "pic":"/category-pics/paidat.jpg",
                     "id":"paidat",
                     "products":[  
+                        {  
+                            "name":"Multi Bueno -T-paidat",
+                            "category":3,
+                            "subcategory":"paidat",
+                            "id":"mbpaita",
+                            "pic":"/product-pics-3/mbpaita.jpg",
+                            "pics":[  
+  
+                            ],
+                            "price": 10,
+                            "text":"Jäikö vuoden 2015 Multi Bueno -festivaaleilta t-paita ostamatta? Ei hätää sillä paitoja on vielä jäljellä. Jäikö festivaalitkin välistä? Ei hätää sillä paidat ovat niin hienoja, ettei festivaalista tarvitse edes tietää mitään. Sekalainen valikoima eri kokoisia ja näköisiä paitoja. Kysy lisää. Ja festivaalistahan löytyy tietoa tutusta osoitteesta: www.multibuenofestival.com",
+                            "text2":"",
+                            "text3": "",
+                            "text4": "",
+                            "text5": "",
+                            "options": null
+                        }
   
                     ]
                 }
