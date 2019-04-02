@@ -23,6 +23,19 @@
   text-align: center;
 }
 
+#subcat-presentation-pic {
+    margin-bottom: 15px;
+}
+
+#subcat-presentation-pic img {
+    width: 100%;
+}
+
+#subcat-presentation-pic p {
+    font-size: 0.9rem;
+}
+
+
 #sub-cat-tiles {
    height: auto; 
 }

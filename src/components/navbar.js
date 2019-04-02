@@ -35,6 +35,7 @@ this.setState({
 
 var dropD = document.getElementById("dropdown-wrapper");
 var list = document.getElementById("mobile-list");
+var bg = document.getElementById("dropdown-wrapper-bg-img");
 
 if (this.state.dropdown === "up") {
 
@@ -56,6 +57,7 @@ var scroll = () => {
 
     if (h >= height) {
         list.style.visibility = "visible";
+        bg.style.opacity = "1";
         this.setState({
             status: "ready",
             dropdown: "down"
@@ -70,6 +72,9 @@ scroll();
 
 else {
     list.style.visibility = "hidden";
+
+    bg.style.opacity = "0";
+
     var normalHeight = dropD.clientHeight;
     var height2 = dropD.clientHeight;
 
@@ -130,12 +135,14 @@ componentDidUpdate () {
 
 
 componentDidMount () {
+
     var cartNumber = this.props.shoppingCart;
     cartNumber = this.calcQuantity(cartNumber);
     
     this.setState({
         cartNum: cartNumber
     })
+
 
 }
 
@@ -230,7 +237,7 @@ return (
         </ul>
         </nav>
 
-        
+        <div id="dropdown-wrapper-bg"><img id="dropdown-wrapper-bg-img" alt="bg" src="./frontpagepics/banner5.jpg"></img></div>  
 
     </div>
 
@@ -240,6 +247,7 @@ return (
 
 
 <div id="emptyspace-mobile"></div>
+
 
 </div>
 

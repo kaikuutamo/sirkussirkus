@@ -95,7 +95,7 @@ return (
 
             <div id="total-price-conf-wrap">
             <p id="total-price-conf">Yhteensä: {totalSum} €</p>
-            <p><span id="vattax2">sis. alv 24%</span></p>
+            <p><span id="vattax2">sis. alv.</span></p>
             </div>
             
             <div id="text-confirmation">

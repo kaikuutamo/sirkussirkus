@@ -217,7 +217,7 @@ return (
         <div className="onlydesktop"><p>Yhteensä:</p></div>
         <div>
         <p><span className="onlymobile">Yhteensä: </span>{this.state.total} €</p>
-        <p><span id="vattax">sis. alv 24%</span></p>
+        <p><span id="vattax">sis. alv.</span></p>
         </div>
         </div>
 

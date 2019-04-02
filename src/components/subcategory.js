@@ -71,7 +71,20 @@ return (
                
 )
 
-})
+});
+
+
+var categoryPic = null;
+
+if (products.pic2.length !== 0) {
+    categoryPic = (
+        <div id="subcat-presentation-pic">
+        <img alt="Subcategory" src={products.pic2}></img>
+        <p>{products.pic2text}</p>
+        </div>
+    )
+}
+
 
 return (
 
@@ -79,8 +92,10 @@ return (
 
 <div id="sub-cat-mainwrapper">
 
+
 <div id="sub-cat-tiles-wrapper">
     <h1>{name}</h1>
+    {categoryPic}
     <div className="categories-tiles">
     {categoryTiles}
     </div>

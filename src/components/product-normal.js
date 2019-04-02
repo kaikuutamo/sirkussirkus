@@ -109,8 +109,18 @@ var lineBreak2 = <br></br>;
 var lineBreak3 = <br></br>;
 var lineBreak4 = <br></br>;
 
+var linkText = null;
+var lineBreakLink = null;
 
-if (product.text2.length === 0) {lineBreak = null}
+if (product.link.length !== 0) {
+    linkText = (
+                <p><a rel="noopener noreferrer" href={product.link} target="_blank">{product.linktext}</a></p>
+            )
+    if (product.text2.length !== 0) {lineBreakLink = <br></br>}
+}
+
+
+if (product.text2.length === 0 && product.link.length === 0) {lineBreak = null}
 
 if (product.text3.length === 0) {lineBreak2 = null}
 
@@ -187,6 +197,8 @@ return (
 
             <p>{product.text}</p>
             {lineBreak}
+            {linkText}
+            {lineBreakLink}
             <p>{product.text2}</p>
             {lineBreak2}
             <p>{product.text3}</p>
