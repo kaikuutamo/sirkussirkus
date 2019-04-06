@@ -168,7 +168,7 @@ return (
             <Link id="cartlogo-wrapper" to="/shoppingcart"><div id="cartlogo-wrapper2"><img alt="Cart logo" src={cartlogo}></img><p>{this.state.cartNum}</p></div></Link>
            <div id="navbar">
            <ul>
-                <li><Link to="/">TARJOUKSET</Link></li>
+                <li><Link to="/">ETUSIVU</Link></li>
                 <li><Link to="/putiikki">PUTIIKKI</Link></li>
                 <li><Link to="/sponsors">SPONSOROINTI</Link></li>
                 <li><Link to="/categories">SIRKUSVÄLINEET</Link></li>
@@ -225,7 +225,7 @@ return (
         <nav>
         <ul id="mobile-list">
 
-                <li onClick={this.dropDown}><Link to="/">TARJOUKSET</Link></li>
+                <li onClick={this.dropDown}><Link to="/">ETUSIVU</Link></li>
                 <li onClick={this.dropDown}><Link to="/putiikki">PUTIIKKI</Link></li>
                 <li onClick={this.dropDown}><Link to="/sponsors">SPONSOROINTI</Link></li>
                 <li onClick={this.dropDown}><Link to="/categories">SIRKUSVÄLINEET</Link></li>

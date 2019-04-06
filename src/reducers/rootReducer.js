@@ -9,15 +9,15 @@ const initState = {
     products: productsFile,
     shoppingCart: temp,
     information: {
-        firstname: "Matti",
-        lastname: "Meikäläinen",
-        address: "Tie 70",
-        zipcode: "11000",
-        city: "Helsinki",
-        phonenumber: "05068542",
-        email: "sdfjksjd@fjskldjf.com"
+        firstname: "",
+        lastname: "",
+        address: "",
+        zipcode: "",
+        city: "",
+        phonenumber: "",
+        email: ""
     },
-    text: "Voisko laittaa mukaan jotain ilmasta, vaikka yhet puujalat?"
+    text: ""
 }
 
 const rootReducer = (state=initState, action) => {
