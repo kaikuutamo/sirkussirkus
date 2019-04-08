@@ -12,18 +12,12 @@
           "pic2text": "Kai Kuutamo, Valokuvaaja: Antti Siitonen",
           "products": [
             {
+              
               "name": "Kuutamo 75 mm",
               "category": 0,
               "subcategory": "pallot",
               "pic": "/product-pics-0/kuutamo75.jpg",
-              "pics": [
-                "/product-pics-0/kuutamo75_valkoinen.jpg",
-                "/product-pics-0/kuutamo75_keltainen.jpg",
-                "/product-pics-0/kuutamo75_punainen.jpg",
-                "/product-pics-0/kuutamo75_sininen.jpg",
-                "/product-pics-0/kuutamo75_vihrea.jpg",
-                "/product-pics-0/kuutamo75_oranssi.jpg"
-              ],
+              "pics": ["/product-pics-0/kuutamomeri.jpg"],
               "id": "kuutamo75",
               "price": 6,
               "choice": "Väri",
@@ -73,14 +67,222 @@
               "subcategory": "pallot",
               "id": "kuutamo60",
               "pic": "/product-pics-0/kuutamo60.jpg",
-              "pics": [],
+              "pics": ["/product-pics-0/kuutamo60b.jpg"],
               "price": 6,
               "text": "Pienempi Kuutamo-pallo pienemmille jonglööreille tai jonglööreille, jotka haluavat heittää yli kymmentä palloa. Pallo on niin kutsuttu venäläistyylinen pallo, jossa on ohuen kuoren sisällä vain 1/3 hiekkatäytettä. Vapaasti liikkuva hiekka antaa pallolle vakautta ilmassa pallon kevyestä painosta huolimatta. Keveys taas helpottaa korkeita heittoja ja yli seitsemän pallon jongleerauskuvioita. Lisäksi pudotessaan pallo jää hiekan ansiosta usein aloilleen, eikä vieri niin kauas kuin näyttämö- tai tekstiilipallot. Kuutamo-pallot sopivat erinomaisesti myös aloittelijoille.",
               "text2": "60 mm / 60 g",
-              "text3": "",
+              "text3": "Värinä vain valkoinen.",
               "text4": "",
               "text5": "",
               "options": null,
+              "link": "",
+              "linktext": ""
+            },
+            {
+              "name": "Record Beanbag 62mm",
+              "category": 0,
+              "subcategory": "pallot",
+              "id": "record",
+              "pic": "/product-pics-0/record2.jpg",
+              "pics": ["/product-pics-0/record3.jpg", "/product-pics-0/record1.jpg"],
+              "price": 13,
+              "text": "Mister Babachen valmistama huippulaadukas tekstiilipallo (beanbag) näyttää hyvältä ja tuntuu mahtavalta! Kestävää ja laadukasta tekonahkaa. Valmiiksi pehmeä ja kokonsa puolesta hyvin pienempäänkin käteen istuva. Nimensä mukaisesti näillä pallolla myös tehdään jongleerausmäärissä ennätyksiä. Kokonsa ja pehmeytensä ansiosta niitä on helppo ahtaa käsiin ennätysmääriä. 6-osainen. Täytteenä hirssi.",
+              "text2": "62 mm / 130 g",
+              "text3": "Värinä vain valkoinen.",
+              "text4": "",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": ""
+            },
+            {
+              "name": "Deluxe Beanbag 76 mm",
+              "category": 0,
+              "subcategory": "pallot",
+              "id": "deluxebeanbag",
+              "pic": "/product-pics-0/deluxe.jpg",
+              "pics": ["/product-pics-0/deluxe2.jpg"],
+              "price": 9,
+              "text": "Henrysin laadukkain tekstiilipallo (beanbag). 4-osainen. Reilun kokoinen ja tuntuvan painoinen aikuiseen käteen tai näyttämölle. Niin sanottua heittosäkkien aatelia! Ehdottomasti yksi parhaista tehdasvalmisteisista tekstiilipalloista. Pintamateriaaliani on mattapintainen laadukas sekä miellyttävä tekonahka ja täytteenä hirssi. Aluksi kovan tuntuinen pallo, joka pehmenee käytössä.",
+              "text2": "76 mm / 167 g",
+              "text3": "Värinä vain valkoinen.",
+              "text4": "",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": ""
+            },
+            {
+              "name": "Bubble 63mm",
+              "category": 0,
+              "subcategory": "pallot",
+              "id": "bubble",
+              "pic": "/product-pics-0/bubble.jpg",
+              "pics": [],
+              "price": 7,
+              "choice": "Väri",
+              "text": "Pallo, jota on kutsuttu täydelliseksi näyttämöpallon ja tekstiilipallon välimuodoksi. Bubble-pallo soveltuu hienosti kokonsa puolesta lapsille ja aloittelijoille. Pallo on erittäin kestävä, ja sen voi täyttää haluamallaan täytteellä. Vakiotäyte pallossa on hirssi. Tulppaa ei saa poistettua ilman työkaluja.",
+              "text2": "63 mm / 120 g",
+              "text3": "",
+              "text4": "",
+              "text5": "",
+              "options":[
+                {
+                  "name": "Valkoinen",
+                  "id": "bubble_valkoinen",
+                  "price": 7
+                },
+                {
+                  "name": "Keltainen",
+                  "id": "bubble_keltainen",
+                  "price": 7
+                },
+                {
+                  "name": "Oranssi",
+                  "id": "bubble_oranssi",
+                  "price": 7
+                },
+                {
+                  "name": "Vaaleanpunainen",
+                  "id": "bubble_vaaleanpunainen",
+                  "price": 7
+                },
+                {
+                  "name": "Punainen",
+                  "id": "bubble_punainen",
+                  "price": 7
+                },
+                {
+                  "name": "Sininen",
+                  "id": "bubble_sininen",
+                  "price": 7
+                },
+                {
+                  "name": "Vihreä",
+                  "id": "bubble_vihrea",
+                  "price": 7
+                },
+                {
+                  "name": "Violetti",
+                  "id": "bubble_violetti",
+                  "price": 7
+                }
+              ],
+              "link": "",
+              "linktext": ""
+            },
+            {
+              "name": "Red Velvet 100mm",
+              "category": 0,
+              "subcategory": "pallot",
+              "id": "redvelvet",
+              "pic": "/product-pics-0/redvelvet.jpg",
+              "pics": [],
+              "price": 14,
+              "text": "Playn valmistama vallankumouksellinen kontaktijongleerauspallo. Pallo on vuorattu punaisella sametilla, joka tuntuu äärimmäisen mukavalta ja antaa pinnalle hyvän pidon. Pallossa on myös mukavasti lisättyä painoa, joka antaa hyvän tuntuman kontaktijongleeraustemppuihin verrattuna tavallisiin näyttämöpalloihin (stage ball). Erinomaisen tuntuinen ja näköinen pallo näyttämölle ja sisätilaharjoituksiin. Samettia ei ole helppo pestä tai puhdistaa ja se myös kuluu kankaan lailla kovassa käytössä, joten pallosta tulee pitää hyvää huolta.",
+              "text2": "100 mm / 260 g",
+              "text3": "Saatavana vain punaisena yhdessä koossa (100mm).",
+              "text4": "",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": ""
+            },
+            
+            {
+              "name": "Turbo Bouncing Ball 63 mm",
+              "category": 0,
+              "subcategory": "pallot",
+              "id": "turbobouncing63",
+              "pic": "/product-pics-0/turbo4.jpg",
+              "pics": ["/product-pics-0/turbo0.jpg", "/product-pics-0/turbo6.jpg"],
+              "price": 15,
+              "text": "Mister Babachen edullinen mutta laadukas vaihtoehto kalliille silikonipomppupallolle. Pinnassa miellyttävä viimeistely ja hyvä pito. Pomppu on yhtä hyvä kuin silikonipallossa, mutta pallomateriaali on arka kylmyydelle. +15 asteen lämmöstä alaspäin pomppu huononee huomattavasti. Muutoin erinomainen pomppupallo hyvällä hintalaatusuhteella. Kesäkeleillä ja sisätiloissa toimii moitteetta.",
+              "text2": "63 mm / 160 g",
+              "text3": "",
+              "text4": "",
+              "text5": "",
+              "options": [
+                {
+                  "name": "Valkoinen",
+                  "id": "turbo63_valkoinen",
+                  "price": 15
+                },
+                {
+                  "name": "Keltainen",
+                  "id": "turbo63_keltainen",
+                  "price": 15
+                },
+                {
+                  "name": "Punainen",
+                  "id": "turbo63_punainen",
+                  "price": 15
+                },
+                {
+                  "name": "Sininen",
+                  "id": "turbo63_sininen",
+                  "price": 15
+                },
+                {
+                  "name": "Vihreä",
+                  "id": "turbo63_vihrea",
+                  "price": 15
+                },
+                {
+                  "name": "Oranssi",
+                  "id": "turbo63_oranssi",
+                  "price": 15
+                }
+              ],
+              "link": "",
+              "linktext": ""
+            },
+            {
+              "name": "Turbo Bouncing Ball 69 mm",
+              "category": 0,
+              "subcategory": "pallot",
+              "id": "turbobouncing69",
+              "pic": "/product-pics-0/turbo3.jpg",
+              "pics": ["/product-pics-0/turbo0.jpg", "/product-pics-0/turbo6.jpg"],
+              "price": 17,
+              "choice": "Väri",
+              "text": "Mister Babachen edullinen mutta laadukas vaihtoehto kalliille silikonipomppupallolle. Pinnassa miellyttävä viimeistely ja hyvä pito. Pomppu on yhtä hyvä kuin silikonipallossa, mutta pallomateriaali on arka kylmyydelle. +15 asteen lämmöstä alaspäin pomppu huononee huomattavasti. Muutoin erinomainen pomppupallo hyvällä hintalaatusuhteella. Kesäkeleillä ja sisätiloissa toimii moitteetta.",
+              "text2": "69 mm / 190 g",
+              "text3": "",
+              "text4": "",
+              "text5": "",
+              "options": [
+                {
+                  "name": "Valkoinen",
+                  "id": "turbo69_valkoinen",
+                  "price": 17
+                },
+                {
+                  "name": "Keltainen",
+                  "id": "turbo69_keltainen",
+                  "price": 17
+                },
+                {
+                  "name": "Punainen",
+                  "id": "turbo69_punainen",
+                  "price": 17
+                },
+                {
+                  "name": "Sininen",
+                  "id": "turbo69_sininen",
+                  "price": 17
+                },
+                {
+                  "name": "Vihreä",
+                  "id": "turbo69_vihrea",
+                  "price": 17
+                },
+                {
+                  "name": "Oranssi",
+                  "id": "turbo69_oranssi",
+                  "price": 17
+                }
+              ],
               "link": "",
               "linktext": ""
             },
@@ -243,57 +445,6 @@
                   "price": 8
                 }
               ],
-              "link": "",
-              "linktext": ""
-            },
-            {
-              "name": "Deluxe Beanbag",
-              "category": 0,
-              "subcategory": "pallot",
-              "id": "deluxebeanbag",
-              "pic": "/product-pics-0/deluxe.jpg",
-              "pics": [],
-              "price": 9,
-              "text": "Henrysin laadukkain tekstiilipallo (beanbag). Ehdottoasti paras tehdasvalmisteinen tekstiilipallo. Pintamateriaaliani on mattapintainen miellyttävä tekonahka ja täytteenä hirssi. Reilun kokoinen ja tuntuvan painoinen. Sopii hyvin aikuiseen käteen.Niin sanottua säkkien aatelia!",
-              "text2": "76 mm / 167 g",
-              "text3": "",
-              "text4": "",
-              "text5": "",
-              "options": null,
-              "link": "",
-              "linktext": ""
-            },
-            {
-              "name": "Turbo Bouncing Ball 69 mm",
-              "category": 0,
-              "subcategory": "pallot",
-              "id": "turbobouncing",
-              "pic": "/product-pics-0/turbobouncing.jpg",
-              "pics": [],
-              "price": 15,
-              "text": "Edullinen mutta laadukas vaihtoehto kalliille silikonipomppupallolle. Pomppu on yhtä hyvä kuin silikonipallossa, mutta pallomateriaali on arka kylmyydelle. +15 asteen lämmöstä alaspäin pomppu huononee huomattavasti. Muutoin erinomainen pomppupallo hyvällä hintalaatusuhteella. Kesäkeleillä ja sisätiloissa toimii moitteetta.",
-              "text2": "69 mm / 185 g",
-              "text3": "",
-              "text4": "",
-              "text5": "",
-              "options": null,
-              "link": "",
-              "linktext": ""
-            },
-            {
-              "name": "Bubble",
-              "category": 0,
-              "subcategory": "pallot",
-              "id": "bubble",
-              "pic": "/product-pics-0/bubble.jpg",
-              "pics": [],
-              "price": 7,
-              "text": "Pallo, jota on kutsuttu täydelliseksi näyttämöpallon ja tekstiilipallon välimuodoksi. Bubble-pallo soveltuu hienosti kokonsa puolesta lapsille ja aloittelijoille. Pallo on erittäin kestävä, ja sen voi täyttää haluamallaan täytteellä. Vakiotäyte pallossa on hirssi. Tulppaa ei saa poistettua ilman työkaluja.",
-              "text2": "63 mm / 120 g",
-              "text3": "",
-              "text4": "",
-              "text5": "",
-              "options": null,
               "link": "",
               "linktext": ""
             }
@@ -1028,13 +1179,13 @@
               "category": 0,
               "subcategory": "muut",
               "id": "nilspols",
-              "pic": "/product-pics-0/nilspols.jpg",
+              "pic": "/product-pics-0/hatut.jpg",
               "pics": [],
-              "price": 0,
-              "text": "Nils Poll -jongleeraushattu. Tanskassa valmistettu Nils Pollin suunnittelema hattu on tarkoitettu nimenomaan hattumanipulaatioon. Kolmikerroksinen huopa, josta hattu on valmistettu, on 100% villaa. Materiaali ei menetä muotoaan tai murru kovassakaan käytössä.",
+              "price": 60,
+              "text": "Henrys-jongleeraushattu. Hattu on tarkoitettu nimenomaan hattumanipulaatioon ja hattujongleeraukseen. Kolmikerroksinen huopa, josta hattu on valmistettu, on 100% villaa. Materiaali ei menetä muotoaan tai murru kovassakaan käytössä.",
               "text2": "Tilaustuote koon mukaan.",
-              "text3": "",
-              "text4": "",
+              "text3": "Koot 57, 58, 59, 60 ja 61. Lisää kokotoive ja väritoiveet viestikenttään.",
+              "text4": "Paino noin 500 g",
               "text5": "",
               "options": null,
               "link": "",
