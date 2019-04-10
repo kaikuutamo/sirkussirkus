@@ -12,18 +12,12 @@
           "pic2text": "Kai Kuutamo, Valokuvaaja: Antti Siitonen",
           "products": [
             {
+              
               "name": "Kuutamo 75 mm",
               "category": 0,
               "subcategory": "pallot",
               "pic": "/product-pics-0/kuutamo75.jpg",
-              "pics": [
-                "/product-pics-0/kuutamo75_valkoinen.jpg",
-                "/product-pics-0/kuutamo75_keltainen.jpg",
-                "/product-pics-0/kuutamo75_punainen.jpg",
-                "/product-pics-0/kuutamo75_sininen.jpg",
-                "/product-pics-0/kuutamo75_vihrea.jpg",
-                "/product-pics-0/kuutamo75_oranssi.jpg"
-              ],
+              "pics": ["/product-pics-0/kuutamomeri.jpg"],
               "id": "kuutamo75",
               "price": 6,
               "choice": "Väri",
@@ -73,14 +67,222 @@
               "subcategory": "pallot",
               "id": "kuutamo60",
               "pic": "/product-pics-0/kuutamo60.jpg",
-              "pics": [],
+              "pics": ["/product-pics-0/kuutamo60b.jpg"],
               "price": 6,
               "text": "Pienempi Kuutamo-pallo pienemmille jonglööreille tai jonglööreille, jotka haluavat heittää yli kymmentä palloa. Pallo on niin kutsuttu venäläistyylinen pallo, jossa on ohuen kuoren sisällä vain 1/3 hiekkatäytettä. Vapaasti liikkuva hiekka antaa pallolle vakautta ilmassa pallon kevyestä painosta huolimatta. Keveys taas helpottaa korkeita heittoja ja yli seitsemän pallon jongleerauskuvioita. Lisäksi pudotessaan pallo jää hiekan ansiosta usein aloilleen, eikä vieri niin kauas kuin näyttämö- tai tekstiilipallot. Kuutamo-pallot sopivat erinomaisesti myös aloittelijoille.",
               "text2": "60 mm / 60 g",
-              "text3": "",
+              "text3": "Värinä vain valkoinen.",
               "text4": "",
               "text5": "",
               "options": null,
+              "link": "",
+              "linktext": ""
+            },
+            {
+              "name": "Record Beanbag 62mm",
+              "category": 0,
+              "subcategory": "pallot",
+              "id": "record",
+              "pic": "/product-pics-0/record2.jpg",
+              "pics": ["/product-pics-0/record3.jpg", "/product-pics-0/record1.jpg"],
+              "price": 13,
+              "text": "Mister Babachen valmistama huippulaadukas tekstiilipallo (beanbag) näyttää hyvältä ja tuntuu mahtavalta! Kestävää ja laadukasta tekonahkaa. Valmiiksi pehmeä ja kokonsa puolesta hyvin pienempäänkin käteen istuva. Nimensä mukaisesti näillä pallolla myös tehdään jongleerausmäärissä ennätyksiä. Kokonsa ja pehmeytensä ansiosta niitä on helppo ahtaa käsiin ennätysmääriä. 6-osainen. Täytteenä hirssi.",
+              "text2": "62 mm / 130 g",
+              "text3": "Värinä vain valkoinen.",
+              "text4": "",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": ""
+            },
+            {
+              "name": "Deluxe Beanbag 76 mm",
+              "category": 0,
+              "subcategory": "pallot",
+              "id": "deluxebeanbag",
+              "pic": "/product-pics-0/deluxe.jpg",
+              "pics": ["/product-pics-0/deluxe2.jpg"],
+              "price": 9,
+              "text": "Henrysin laadukkain tekstiilipallo (beanbag). 4-osainen. Reilun kokoinen ja tuntuvan painoinen aikuiseen käteen tai näyttämölle. Niin sanottua heittosäkkien aatelia! Ehdottomasti yksi parhaista tehdasvalmisteisista tekstiilipalloista. Pintamateriaaliani on mattapintainen laadukas sekä miellyttävä tekonahka ja täytteenä hirssi. Aluksi kovan tuntuinen pallo, joka pehmenee käytössä.",
+              "text2": "76 mm / 167 g",
+              "text3": "Värinä vain valkoinen.",
+              "text4": "",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": ""
+            },
+            {
+              "name": "Bubble 63mm",
+              "category": 0,
+              "subcategory": "pallot",
+              "id": "bubble",
+              "pic": "/product-pics-0/bubble.jpg",
+              "pics": [],
+              "price": 7,
+              "choice": "Väri",
+              "text": "Pallo, jota on kutsuttu täydelliseksi näyttämöpallon ja tekstiilipallon välimuodoksi. Bubble-pallo soveltuu hienosti kokonsa puolesta lapsille ja aloittelijoille. Pallo on erittäin kestävä, ja sen voi täyttää haluamallaan täytteellä. Vakiotäyte pallossa on hirssi. Tulppaa ei saa poistettua ilman työkaluja.",
+              "text2": "63 mm / 120 g",
+              "text3": "",
+              "text4": "",
+              "text5": "",
+              "options":[
+                {
+                  "name": "Valkoinen",
+                  "id": "bubble_valkoinen",
+                  "price": 7
+                },
+                {
+                  "name": "Keltainen",
+                  "id": "bubble_keltainen",
+                  "price": 7
+                },
+                {
+                  "name": "Oranssi",
+                  "id": "bubble_oranssi",
+                  "price": 7
+                },
+                {
+                  "name": "Vaaleanpunainen",
+                  "id": "bubble_vaaleanpunainen",
+                  "price": 7
+                },
+                {
+                  "name": "Punainen",
+                  "id": "bubble_punainen",
+                  "price": 7
+                },
+                {
+                  "name": "Sininen",
+                  "id": "bubble_sininen",
+                  "price": 7
+                },
+                {
+                  "name": "Vihreä",
+                  "id": "bubble_vihrea",
+                  "price": 7
+                },
+                {
+                  "name": "Violetti",
+                  "id": "bubble_violetti",
+                  "price": 7
+                }
+              ],
+              "link": "",
+              "linktext": ""
+            },
+            {
+              "name": "Red Velvet 100mm",
+              "category": 0,
+              "subcategory": "pallot",
+              "id": "redvelvet",
+              "pic": "/product-pics-0/redvelvet.jpg",
+              "pics": [],
+              "price": 14,
+              "text": "Playn valmistama vallankumouksellinen kontaktijongleerauspallo. Pallo on vuorattu punaisella sametilla, joka tuntuu äärimmäisen mukavalta ja antaa pinnalle hyvän pidon. Pallossa on myös mukavasti lisättyä painoa, joka antaa hyvän tuntuman kontaktijongleeraustemppuihin verrattuna tavallisiin näyttämöpalloihin (stage ball). Erinomaisen tuntuinen ja näköinen pallo näyttämölle ja sisätilaharjoituksiin. Samettia ei ole helppo pestä tai puhdistaa ja se myös kuluu kankaan lailla kovassa käytössä, joten pallosta tulee pitää hyvää huolta.",
+              "text2": "100 mm / 260 g",
+              "text3": "Saatavana vain punaisena yhdessä koossa (100mm).",
+              "text4": "",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": ""
+            },
+            
+            {
+              "name": "Turbo Bouncing Ball 63 mm",
+              "category": 0,
+              "subcategory": "pallot",
+              "id": "turbobouncing63",
+              "pic": "/product-pics-0/turbo4.jpg",
+              "pics": ["/product-pics-0/turbo0.jpg", "/product-pics-0/turbo6.jpg"],
+              "price": 15,
+              "text": "Mister Babachen edullinen mutta laadukas vaihtoehto kalliille silikonipomppupallolle. Pinnassa miellyttävä viimeistely ja hyvä pito. Pomppu on yhtä hyvä kuin silikonipallossa, mutta pallomateriaali on arka kylmyydelle. +15 asteen lämmöstä alaspäin pomppu huononee huomattavasti. Muutoin erinomainen pomppupallo hyvällä hintalaatusuhteella. Kesäkeleillä ja sisätiloissa toimii moitteetta.",
+              "text2": "63 mm / 160 g",
+              "text3": "",
+              "text4": "",
+              "text5": "",
+              "options": [
+                {
+                  "name": "Valkoinen",
+                  "id": "turbo63_valkoinen",
+                  "price": 15
+                },
+                {
+                  "name": "Keltainen",
+                  "id": "turbo63_keltainen",
+                  "price": 15
+                },
+                {
+                  "name": "Punainen",
+                  "id": "turbo63_punainen",
+                  "price": 15
+                },
+                {
+                  "name": "Sininen",
+                  "id": "turbo63_sininen",
+                  "price": 15
+                },
+                {
+                  "name": "Vihreä",
+                  "id": "turbo63_vihrea",
+                  "price": 15
+                },
+                {
+                  "name": "Oranssi",
+                  "id": "turbo63_oranssi",
+                  "price": 15
+                }
+              ],
+              "link": "",
+              "linktext": ""
+            },
+            {
+              "name": "Turbo Bouncing Ball 69 mm",
+              "category": 0,
+              "subcategory": "pallot",
+              "id": "turbobouncing69",
+              "pic": "/product-pics-0/turbo3.jpg",
+              "pics": ["/product-pics-0/turbo0.jpg", "/product-pics-0/turbo6.jpg"],
+              "price": 17,
+              "choice": "Väri",
+              "text": "Mister Babachen edullinen mutta laadukas vaihtoehto kalliille silikonipomppupallolle. Pinnassa miellyttävä viimeistely ja hyvä pito. Pomppu on yhtä hyvä kuin silikonipallossa, mutta pallomateriaali on arka kylmyydelle. +15 asteen lämmöstä alaspäin pomppu huononee huomattavasti. Muutoin erinomainen pomppupallo hyvällä hintalaatusuhteella. Kesäkeleillä ja sisätiloissa toimii moitteetta.",
+              "text2": "69 mm / 190 g",
+              "text3": "",
+              "text4": "",
+              "text5": "",
+              "options": [
+                {
+                  "name": "Valkoinen",
+                  "id": "turbo69_valkoinen",
+                  "price": 17
+                },
+                {
+                  "name": "Keltainen",
+                  "id": "turbo69_keltainen",
+                  "price": 17
+                },
+                {
+                  "name": "Punainen",
+                  "id": "turbo69_punainen",
+                  "price": 17
+                },
+                {
+                  "name": "Sininen",
+                  "id": "turbo69_sininen",
+                  "price": 17
+                },
+                {
+                  "name": "Vihreä",
+                  "id": "turbo69_vihrea",
+                  "price": 17
+                },
+                {
+                  "name": "Oranssi",
+                  "id": "turbo69_oranssi",
+                  "price": 17
+                }
+              ],
               "link": "",
               "linktext": ""
             },
@@ -245,57 +447,6 @@
               ],
               "link": "",
               "linktext": ""
-            },
-            {
-              "name": "Deluxe Beanbag",
-              "category": 0,
-              "subcategory": "pallot",
-              "id": "deluxebeanbag",
-              "pic": "/product-pics-0/deluxe.jpg",
-              "pics": [],
-              "price": 9,
-              "text": "Henrysin laadukkain tekstiilipallo (beanbag). Ehdottoasti paras tehdasvalmisteinen tekstiilipallo. Pintamateriaaliani on mattapintainen miellyttävä tekonahka ja täytteenä hirssi. Reilun kokoinen ja tuntuvan painoinen. Sopii hyvin aikuiseen käteen.Niin sanottua säkkien aatelia!",
-              "text2": "76 mm / 167 g",
-              "text3": "",
-              "text4": "",
-              "text5": "",
-              "options": null,
-              "link": "",
-              "linktext": ""
-            },
-            {
-              "name": "Turbo Bouncing Ball 69 mm",
-              "category": 0,
-              "subcategory": "pallot",
-              "id": "turbobouncing",
-              "pic": "/product-pics-0/turbobouncing.jpg",
-              "pics": [],
-              "price": 15,
-              "text": "Edullinen mutta laadukas vaihtoehto kalliille silikonipomppupallolle. Pomppu on yhtä hyvä kuin silikonipallossa, mutta pallomateriaali on arka kylmyydelle. +15 asteen lämmöstä alaspäin pomppu huononee huomattavasti. Muutoin erinomainen pomppupallo hyvällä hintalaatusuhteella. Kesäkeleillä ja sisätiloissa toimii moitteetta.",
-              "text2": "69 mm / 185 g",
-              "text3": "",
-              "text4": "",
-              "text5": "",
-              "options": null,
-              "link": "",
-              "linktext": ""
-            },
-            {
-              "name": "Bubble",
-              "category": 0,
-              "subcategory": "pallot",
-              "id": "bubble",
-              "pic": "/product-pics-0/bubble.jpg",
-              "pics": [],
-              "price": 7,
-              "text": "Pallo, jota on kutsuttu täydelliseksi näyttämöpallon ja tekstiilipallon välimuodoksi. Bubble-pallo soveltuu hienosti kokonsa puolesta lapsille ja aloittelijoille. Pallo on erittäin kestävä, ja sen voi täyttää haluamallaan täytteellä. Vakiotäyte pallossa on hirssi. Tulppaa ei saa poistettua ilman työkaluja.",
-              "text2": "63 mm / 120 g",
-              "text3": "",
-              "text4": "",
-              "text5": "",
-              "options": null,
-              "link": "",
-              "linktext": ""
             }
           ]
         },
@@ -312,14 +463,66 @@
               "subcategory": "keilat",
               "id": "delphin",
               "pic": "/product-pics-0/delphin.jpg",
-              "pics": [],
+              "pics": [ "/product-pics-0/delphin2.jpg","/product-pics-0/delphin-custom.jpg"],
               "price": 20,
+              "choice":"Väri",
               "text": "Delphinissä yhdistyvät jongleerauskeilan parhaat ominaisuudet sekä edullinen hinta. Parempaa hintalaatusuhdetta saa hakea. Tätä keilaa käyttävät miltei kaikki vakavasti otettavat Pohjoismaiset jonglöörit. Keilan hoikka vartalo mahdollistaa jongleerauksen aina yhdeksään keilaan asti (Emil Dahl). Saumaton polyeteenikahva on kestävä ja antaa hyvän otteen käden kokoon katsomatta. Saarnipuinen ydin kestää kovemmankin löylytyksen ja myös huonot päivät. Kaiken kukkuraksi keila on vielä helppo korjata tarvittaessa osa kerrallaan. Paras keila niin aloittelijalle kuin ammattilaisellekin. ",
               "text2": "52 cm / 210 g",
               "text3": "",
               "text4": "",
               "text5": "",
-              "options": null,
+              "options":[
+                {
+                  "name": "Valkoinen",
+                  "id": "delphin_valkoinen",
+                  "price": 20
+                },
+                {
+                  "name": "Keltainen",
+                  "id": "delphin_keltainen",
+                  "price": 20
+                },
+                {
+                  "name": "Oranssi",
+                  "id": "delphin_oranssi",
+                  "price": 20
+                },
+                {
+                  "name": "Vaaleanpunainen",
+                  "id": "delphin_vaaleanpunainen",
+                  "price": 20
+                },
+                {
+                  "name": "Punainen",
+                  "id": "delphin_punainen",
+                  "price": 20
+                },
+                {
+                  "name": "Sininen",
+                  "id": "delphin_sininen",
+                  "price": 20
+                },
+                {
+                  "name": "Vihreä",
+                  "id": "delphin_vihrea",
+                  "price": 20
+                },
+                {
+                  "name": "Violetti",
+                  "id": "delphin_violetti",
+                  "price": 20
+                },
+                {
+                  "name": "Kokovalkoinen (tilaustuote)",
+                  "id": "delphin_kokovalkoinen",
+                  "price": 25
+                },
+                {
+                  "name": "Sirkussirkus-custom (tilaustuote)",
+                  "id": "delphin_violetti",
+                  "price": 25
+                }
+              ],
               "link": "",
               "linktext": ""
             },
@@ -329,14 +532,56 @@
               "subcategory": "keilat",
               "id": "onepiece",
               "pic": "/product-pics-0/onepiece.jpg",
-              "pics": [],
+              "pics": ["/product-pics-0/onepiece2.jpg"],
               "price": 10,
-              "text": "Nimensä mukaisesti yhdestä palasta koostuva muottiin valettu keila. Tämä keila on paitsi edullinen myös käytännössä miltei tuhoutumaton. Kaiken lisäksi keila kelluu vedessä. Tämä raamatullisen vedenpaisumuksenkin kestävä keila sopii hyvin aloittelijoille, ja miksei myös ammattilaiselle. Tuntuma on tosin erilainen kuin perinteisessä puuydin keilassa, mutta mitä muovikeiloihin tulee: One Piece edustaa parasta laatua. Tämän mallin erottaa toisista kilpailevista muovikeiloista poikkeuksellisen käsiystävällinen ja joustava muovimateriaali. ",
+              "choice":"Väri",
+              "text": "Nimensä mukaisesti yhdestä palasta koostuva muottiin valettu keila. Tämä keila on paitsi edullinen myös käytännössä miltei tuhoutumaton. Kaiken lisäksi keila kelluu vedessä. Tämä raamatullisen vedenpaisumuksenkin kestävä keila sopii hyvin aloittelijoille, ja miksei myös ammattilaiselle. Tuntuma on tosin erilainen kuin perinteisessä puuydin keilassa, mutta mitä muovikeiloihin tulee: One Piece edustaa mukavuutta ja parasta laatua. Tämän mallin erottaa toisista kilpailevista yhden kappaleen muovikeiloista poikkeuksellisen käsiystävällinen, pehmeä ja joustava muovimateriaali. Helppo koristella hauskan näköiseksi esimerkiksi sähkömiehenteipillä.",
               "text2": "52 cm / 200 g",
               "text3": "",
               "text4": "",
               "text5": "",
-              "options": null,
+              "options":[
+                {
+                  "name": "Valkoinen",
+                  "id": "onepiece_valkoinen",
+                  "price": 10
+                },
+                {
+                  "name": "Keltainen",
+                  "id": "onepiece_keltainen",
+                  "price": 10
+                },
+                {
+                  "name": "Oranssi",
+                  "id": "onepiece_oranssi",
+                  "price": 10
+                },
+                {
+                  "name": "Vaaleanpunainen",
+                  "id": "onepiece_vaaleanpunainen",
+                  "price": 10
+                },
+                {
+                  "name": "Punainen",
+                  "id": "onepiece_punainen",
+                  "price": 10
+                },
+                {
+                  "name": "Sininen",
+                  "id": "onepiece_sininen",
+                  "price": 10
+                },
+                {
+                  "name": "Vihreä",
+                  "id": "onepiece_vihrea",
+                  "price": 10
+                },
+                {
+                  "name": "Pimeässä hohtava",
+                  "id": "onepiece_hohtava",
+                  "price": 12
+                }
+              ], 
               "link": "",
               "linktext": ""
             },
@@ -346,10 +591,27 @@
               "subcategory": "keilat",
               "id": "pirouette",
               "pic": "/product-pics-0/pirouette.jpg",
-              "pics": [],
+              "pics": ["/product-pics-0/pirouette2.jpg", "/product-pics-0/pirouette3.jpg"],
               "price": 34,
-              "text": "Taattua Henrysin laatua ja samalla Keski-Euroopan suosituin keila. Vakiovarustus erityisesti ranskalaisilla jonglööreillä. Pirouette-keilassa on samat hyvät ominaisuudet kuin Henrysin Delphin-mallilla paitsi hinta. Keilan muoto ja kahva ovat tosin erilaiset, mutta Delphinin ohella Pirouette on suosituin keilamalli ammattilaisten keskuudessa. Paremmuus on makuasia. Keila on helppo korjata osa osalta tarvittaessa.",
+              "text": "Taattua Henrysin laatua ja samalla Keski-Euroopan suosituin keila. Vakiovarustus erityisesti ranskalaisilla jonglööreillä. Pirouette-keilassa on samat hyvät ominaisuudet kuin Henrysin Delphin-mallilla paitsi hinta. Keilan vartalo on Delphiniin verrattuna hieman lyhyempi ja kahva vastaavasti pidempi. Kahvana perinteinen kierrekahva Delphinin muottiin valetun kahvan sijaan.  Delphinin ohella Pirouette on suosituin keilamalli ammattilaisten keskuudessa. Paremmuus on makuasia. Keila on helppo korjata osa osalta tarvittaessa.",
               "text2": "52 cm / 215 g",
+              "text3": "Värinä vain valkoinen.",
+              "text4": "",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": ""
+            },
+            {
+              "name": "Babache Jongleerausveitsi",
+              "category": 0,
+              "subcategory": "keilat",
+              "id": "mbveitsi",
+              "pic": "/product-pics-0/mbveitsi.jpg",
+              "pics": ["/product-pics-0/mbveitsi2.jpg", "/product-pics-0/mbveitsi3.jpg" ],
+              "price": 30,
+              "text": "Mister Babachen valmistama alumiininen ja kevyt jongleerausveitsi. Mukava ja pehmeä kierrekahva. Paras veitsi neljän ja viiden veitsen jongleeraukseen. Veitsi ei ole terävä, vaikka näyttää siltä. Varovaisuus on silti hyvä pitää mielessä, sillä vaikka veitsen terä ei ole terävä, se sattuu osuessaan. Veitsen heikoin kohta on terän juuri ja sen kiinnitys. Harjoitella kannattaa pehmeällä alustalla kuten nurmikolla veitsien pitkän iän takaamiseksi. Käyttö omalla vastuulla kuten muidenkin sirkusvälineiden kanssa.",
+              "text2": "Pituus 55 cm / Paino 215 g",
               "text3": "",
               "text4": "",
               "text5": "",
@@ -358,15 +620,15 @@
               "linktext": ""
             },
             {
-              "name": "Mister Babache jongleerausveitsi",
+              "name": "Play Jongleerausveitsi",
               "category": 0,
               "subcategory": "keilat",
-              "id": "babache",
-              "pic": "/product-pics-0/babache.jpg",
-              "pics": ["/product-pics-0/babache2.jpg", "/product-pics-0/babache3.jpg" ],
+              "id": "playveitsi",
+              "pic": "/product-pics-0/playveitsi.jpg",
+              "pics": ["/product-pics-0/playveitsi2.jpg", "/product-pics-0/playveitsi3.jpg" ],
               "price": 30,
-              "text": "Alumiininen ja kevyt jongleerausveitsi. Mukava ja pehmeä kierrekahva. Paras veitsi neljän ja viiden veitsen jongleeraukseen. Veitsi ei ole terävä, vaikka näyttää siltä. Varovaisuus on silti hyvä pitää mielessä, sillä vaikka veitsen terä ei ole terävä, se sattuu osuessaan. Veitsen heikoin kohta on terän juuri ja sen kiinnitys. Harjoitella kannattaa pehmeällä alustalla kuten nurmikolla veitsien pitkän iän takaamiseksi. ",
-              "text2": "Pituus 55 cm / Paino 215 g",
+              "text": "Teräksinen jongleerausveitsi. Painavampi ja kestävämpi kuin Babachen vastaava alumiiniveitsi. Mukava ja pehmeä kierrekahva. Veitsi ei ole terävä, vaikka näyttää siltä. Varovaisuus on silti hyvä pitää mielessä, sillä vaikka veitsen terä ei ole terävä, se sattuu osuessaan. Käyttö omalla vastuulla kuten muidenkin sirkusvälineiden kanssa.",
+              "text2": "Pituus 53 cm / Paino 300 g",
               "text3": "",
               "text4": "",
               "text5": "",
@@ -382,9 +644,9 @@
               "pic": "/product-pics-0/niteflite.jpg",
               "pics": [],
               "price": 38,
-              "text": "Markkinoiden paras jongleeraussoihtu Henrysiltä. Saarnipuista runkoa suojaa kädensijaan asti ulottuva alumiiniputki, joka tekee soihdusta särkymättömän. Laadukkaan viimeistelyn ja kestävän rakenteen lisäksi tämä soihtu omaa hyvän heittotuntuman verrattuna muihin soihtuihin. Erinomainen soihtu niin soolonumeroihin kuin passailuunkin. Tutustu ennen käyttöä yleisiin paloturvallisuusohjeisiin, tulijongleerauksessa käytettäviin palonesteisiin, turvalliseen pukeutumiseen, äläkä koskaan harjoittele yksin. Kevlar-kangas sisältyy hintaan. \"Muuta palavaa en heittäisi.\" -Kai Kuutamo",
+              "text": "Markkinoiden paras jongleeraussoihtu Henrysiltä. Saarnipuista runkoa suojaa kädensijaan asti ulottuva alumiiniputki, joka tekee soihdusta särkymättömän. Laadukkaan viimeistelyn ja kestävän rakenteen lisäksi tämä soihtu omaa hyvän heittotuntuman verrattuna muihin soihtuihin. Erinomainen soihtu niin soolonumeroihin kuin passailuunkin. Tutustu ennen käyttöä yleisiin paloturvallisuusohjeisiin, tulijongleerauksessa käytettäviin palonesteisiin, turvalliseen pukeutumiseen, äläkä koskaan harjoittele yksin. Kevlar-kangas sisältyy hintaan.",
               "text2": "51 cm / 250 g",
-              "text3": "",
+              "text3": "\"Muuta palavaa en heittäisi.\" -Kai Kuutamo",
               "text4": "",
               "text5": "",
               "options": null,
@@ -395,12 +657,12 @@
               "name": "Henry's keilan nuppi",
               "category": 0,
               "subcategory": "keilat",
-              "id": "henry_nuppi",
-              "pic": "/product-pics-0/henryknobs.jpg",
-              "pics": [],
+              "id": "henrys_nuppi",
+              "pic": "/product-pics-0/henrysknobs2.jpg",
+              "pics": ["/product-pics-0/henrysknobs3.jpg"],
               "price": 3,
               "choice": "Väri",
-              "text": "Vaihtonuppi Henrysin Pirouette- ja Delphin-malliin.",
+              "text": "Vaihtonuppi Henrysin keilamalleihin Pirouette ja Delphin. Sisältää ruuvin ja muoviprikan.",
               "text2": "",
               "text3": "",
               "text4": "",
@@ -408,12 +670,12 @@
               "options": [
                 {
                   "name": "Musta",
-                  "id": "henry_nuppi_musta",
+                  "id": "henrys_nuppi_musta",
                   "price": 3
                 },
                 {
                   "name": "Valkoinen",
-                  "id": "henry_nuppi_valkoinen",
+                  "id": "henrys_nuppi_valkoinen",
                   "price": 3
                 }
               ],
@@ -425,11 +687,11 @@
               "category": 0,
               "subcategory": "keilat",
               "id": "henry_paaty",
-              "pic": "/product-pics-0/henrytops.jpg",
-              "pics": [],
+              "pic": "/product-pics-0/henrystops2.jpg",
+              "pics": ["/product-pics-0/henrystops.jpg"],
               "price": 3,
               "choice": "Väri",
-              "text": "Vaihtopääty Henrysin Delphin-malliin.",
+              "text": "Vaihtopääty Henrysin keilamalliin Delphin. Sisältää ruuvin ja metalliprikan.",
               "text2": "",
               "text3": "",
               "text4": "",
@@ -450,24 +712,24 @@
               "linktext": ""
             },
             {
-              "name": "Jani Suihkosen magneettikepulat",
+              "name": "Magneettikepulat (3 kpl)",
               "category": 0,
               "subcategory": "keilat",
               "id": "kepulat",
               "pic": "/product-pics-0/kepulat.jpg",
               "pics": [],
               "price": 70,
-              "text": "Nämä magneettikepulat kehitti Jani Suihkonen kauan ennen kuin kukaan keksi vielä temppuilla magneettikeiloilla. Omintakeinen alkuperäinen väline, jota ei muista kaupoista varmasti löydä. Myytävät kepulat ovat Mestarin itsensä käsien töitä. Katso video alempaa, jossa Jani Suihkonen esittelee välineensä mahdollisuuksia. Vahvojen magneettien takia väline tulee pitää kaukana luottokorteista ja eletroniikasta. Sirkussirkus ei vastaa mahdollisista välineen aiheuttamista vahingoista.",
-              "text2": "Pituus 53 cm / paino 215 g. Setissä 3 kappaletta.",
-              "text3": "",
+              "text": "Nämä magneettikepulat kehitti Jani Suihkonen kauan ennen kuin kukaan keksi vielä temppuilla magneettikeiloilla. Omintakeinen alkuperäinen väline, jota ei muista kaupoista varmasti löydä. Myytävät kepulat ovat Mestarin itsensä käsien töitä. Katso video alempaa, jossa Jani Suihkonen esittelee välineensä mahdollisuuksia. Vahvojen magneettien takia väline tulee pitää kaukana luottokorteista ja eletroniikasta. Sirkussirkus ei vastaa mahdollisista välineen aiheuttamista vahingoista. Myydään kolmen kappaleen sarjana.",
+              "text2": "Pituus 53 cm / paino 215 g",
+              "text3": "Hinta sisältää kolme kappaletta.",
               "text4": "",
               "text5": "",
               "options": null,
-              "link": "",
-              "linktext": ""
+              "link": "https://www.youtube.com/watch?v=kBnQDZebKuU",
+              "linktext": "Youtube: Jani Suihkosen Magneettikepulat"
             },
             {
-              "name": "Suomalainen patukka (Finnish Pole)",
+              "name": "Finnish Poles (3 kpl)",
               "category": 0,
               "subcategory": "keilat",
               "id": "patukka",
@@ -475,13 +737,13 @@
               "pics": [],
               "price": 50,
               "text": "Kai Kuutamon kehittelemä jongleerausväline, jonka käsittelyssä yhdistyvät keilajongleeraus- ja keppimanipulaatiotekniikat. Pitkän mittansa ansiosta suomalaiset patukat pyörivät erittäin hitaasi, ja niillä on helppo luoda muista jongleerausvälineistä visuaalisesti poikkeavaa materiaalia. Pitkä mitta tuo mukanaan myös raskautta. Vaikka väline on erittäin kevyt itsessään, sen käsittelyyn tarvitaan paljon panosta vipuvoimailmiön takia. Katso video alta nähdäksesi joitain välineen mahdollisuuksista. Värinä vain valkoinen.",
-              "text2": "Pituus 150 cm / paino 250 g. Setissä 3 kappaletta.",
-              "text3": "",
+              "text2": "Pituus 150 cm / paino 250 g",
+              "text3": "Hinta sisältää kolme kappaletta.",
               "text4": "",
               "text5": "",
               "options": null,
-              "link": "",
-              "linktext": ""
+              "link": "https://www.youtube.com/watch?v=UofXrINtKrQ",
+              "linktext": "Youtube: Kai Kuutamon Finnish Poles eli suomalaiset patukat"
             }
           ]
         },
@@ -1028,13 +1290,13 @@
               "category": 0,
               "subcategory": "muut",
               "id": "nilspols",
-              "pic": "/product-pics-0/nilspols.jpg",
+              "pic": "/product-pics-0/hatut.jpg",
               "pics": [],
-              "price": 0,
-              "text": "Nils Poll -jongleeraushattu. Tanskassa valmistettu Nils Pollin suunnittelema hattu on tarkoitettu nimenomaan hattumanipulaatioon. Kolmikerroksinen huopa, josta hattu on valmistettu, on 100% villaa. Materiaali ei menetä muotoaan tai murru kovassakaan käytössä.",
+              "price": 60,
+              "text": "Henrys-jongleeraushattu. Hattu on tarkoitettu nimenomaan hattumanipulaatioon ja hattujongleeraukseen. Kolmikerroksinen huopa, josta hattu on valmistettu, on 100% villaa. Materiaali ei menetä muotoaan tai murru kovassakaan käytössä.",
               "text2": "Tilaustuote koon mukaan.",
-              "text3": "",
-              "text4": "",
+              "text3": "Koot 57, 58, 59, 60 ja 61. Lisää kokotoive ja väritoiveet viestikenttään.",
+              "text4": "Paino noin 500 g",
               "text5": "",
               "options": null,
               "link": "",

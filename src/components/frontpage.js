@@ -451,8 +451,8 @@ return (
 
     <div onTouchMove={this.moveTouch} onTouchStart={this.startTouch} id="scroll-images">
 
-    <Link key="im1" to="/product?category=0&subcategory=pallot&id=kuutamo75"><img id="image1" className="img-commercial" alt="commercial" src='/frontpagepics/c1.jpg'></img></Link>
-    <Link key="im2" to="/product?category=0&subcategory=pallot&id=kuutamo75"><img className="img-commercial" alt="commercial" src='/frontpagepics/c2.jpg'></img></Link>
+    <Link key="im1" to=""><img id="image1" className="img-commercial" alt="commercial" src='/frontpagepics/c1.jpg'></img></Link>
+    <Link key="im2" to="/product?category=0&subcategory=pallot&id=record"><img className="img-commercial" alt="commercial" src='/frontpagepics/c2.jpg'></img></Link>
     <Link key="im3" to="/product?category=1&subcategory=kankaat&id=allineight"><img className="img-commercial" alt="commercial" src='/frontpagepics/c3.jpg'></img></Link>
     <Link key="im4" to="/product?category=0&subcategory=pallot&id=kuutamo75"><img className="img-commercial" alt="commercial" src='/frontpagepics/c1.jpg'></img></Link>
     
