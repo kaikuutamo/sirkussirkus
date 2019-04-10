@@ -16,19 +16,19 @@ scrollTo = () => {
     
 
     if (window.location.search === "?jongleeraus") {
-        window.scrollTo(0, document.getElementById("jongleeraus").offsetTop - document.getElementById("navbar-mobile").clientHeight);
+        window.scrollTo(0, document.getElementById("jongleeraus").offsetTop - document.getElementById("navbar-mobile").clientHeight -6);
     }
 
    else if (window.location.search === "?ilmaakro") {
-         window.scrollTo(0, document.getElementById("ilma-akrobatia").offsetTop - document.getElementById("navbar-mobile").clientHeight);
+         window.scrollTo(0, document.getElementById("ilma-akrobatia").offsetTop - document.getElementById("navbar-mobile").clientHeight -6);
    }
 
    else if (window.location.search === "?tasapainoilu") {
-    window.scrollTo(0, document.getElementById("tasapainoilu").offsetTop - document.getElementById("navbar-mobile").clientHeight);
+    window.scrollTo(0, document.getElementById("tasapainoilu").offsetTop - document.getElementById("navbar-mobile").clientHeight -6);
 }
 
     else if (window.location.search === "?muut") {
-    window.scrollTo(0, document.getElementById("muut").offsetTop - document.getElementById("navbar-mobile").clientHeight);
+    window.scrollTo(0, document.getElementById("muut").offsetTop - document.getElementById("navbar-mobile").clientHeight -6);
 }
 
     else {
@@ -133,29 +133,33 @@ return (
     <div id="categories-wrapper1">
 
         <div className="categories-line-top"></div>
-
         <h1 id="jongleeraus">Jongleeraus</h1>
+        <div className="categories-line-top2"></div>
+
         <div className="categories-tiles">
         {categoryTiles1}
         </div>
 
         <div className="categories-line"></div>
-
         <h1 id="ilma-akrobatia">Ilma-akrobatia</h1>
+        <div className="categories-line-top2"></div>
+
         <div className="categories-tiles">
         {categoryTiles2}
         </div>
 
         <div className="categories-line"></div>
-
         <h1 id="tasapainoilu">Tasapainoilu</h1>
+        <div className="categories-line-top2"></div>
+
         <div className="categories-tiles">
         {categoryTiles3}
         </div>
 
         <div className="categories-line"></div>
-
         <h1 id="muut">Muut</h1>
+        <div className="categories-line-top2"></div>
+
         <div className="categories-tiles">
         {categoryTiles4}
         </div>

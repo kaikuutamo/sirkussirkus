@@ -10,9 +10,37 @@
     background: white;
 }
 
+#subcat-presentation-pic {
+   height: auto;
+   
+}
+
+#subcat-presentation-pic img {
+    display: flex;
+    width: 100%;
+}
+
+#subcat-presentation-pic p {
+    font-size: 0.8rem;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+
 #sub-cat-tiles-wrapper {
     background: var(--color3);
-    
+    padding-bottom: 60px;
+}
+
+.subcat-tiles-emptyline {
+    height: 3px;
+    background: var(--color2);
+}
+
+.subcat-tiles-emptyline2 {
+    height: 3px;
+    background: var(--color2);
+    margin-bottom: 60px;
 }
 
 #sub-cat-tiles-wrapper h1 {
@@ -21,18 +49,6 @@
   padding-top: 30px;
   padding-bottom: 30px;  
   text-align: center;
-}
-
-#subcat-presentation-pic {
-    margin-bottom: 15px;
-}
-
-#subcat-presentation-pic img {
-    width: 100%;
-}
-
-#subcat-presentation-pic p {
-    font-size: 0.9rem;
 }
 
 

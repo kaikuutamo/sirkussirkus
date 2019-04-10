@@ -18,7 +18,7 @@ class FrontPage extends React.Component {
         this.state = {
             position: 1,
             status: "ready",
-            buttonstyle: [{background: "var(--color3)"}, {background: "var(--color1)"}, {background: "var(--color1)"}]
+            buttonstyle: [{background: "var(--color3)"}, {background: "var(--color1)"}, {background: "var(--color1)"}, {background: "var(--color1)"}, {background: "var(--color1)"}]
                        
         }
 
@@ -87,26 +87,30 @@ scrollToDest = (arg, callback) => {
 
 scrollFunc = (arg) => {
 
+    
     var images = document.getElementById("scroll-images");
     
     var imageWidth = document.getElementById("image1").clientWidth;
 
     
 
-    var buttonStyles = [{background: "var(--color1)"}, {background: "var(--color1)"}, {background: "var(--color1)"}];
+    var buttonStyles = [{background: "var(--color1)"}, {background: "var(--color1)"}, {background: "var(--color1)"}, {background: "var(--color1)"}, {background: "var(--color1)"}];
         
     
     if (arg === "+") {
         
         
-        if (this.state.position === 1 || this.state.position === 2) {
+        if (this.state.position === 1 || this.state.position === 2 || this.state.position === 3 || this.state.position === 4) {
             
             var newPos;
             
             if (this.state.position === 1) {newPos = 0 + imageWidth}
             if (this.state.position === 2) {newPos = imageWidth * 2}
+            if (this.state.position === 3) {newPos = imageWidth * 3}
+            if (this.state.position === 4) {newPos = imageWidth * 4}
 
             var temp = this.state.position + 1;
+            
             buttonStyles[temp-1] = {background: "var(--color3)"};
 
             this.scrollToDest(newPos, () => {
@@ -123,9 +127,9 @@ scrollFunc = (arg) => {
             })
         }
 
-      else if (this.state.position === 3) {
+      else if (this.state.position === 5) {
 
-            var newPos2 = imageWidth * 3;
+            var newPos2 = imageWidth * 5;
 
             var tempPos = 1;
             buttonStyles[tempPos-1] = {background: "var(--color3)"};
@@ -153,20 +157,20 @@ scrollFunc = (arg) => {
     else if (arg === "-") {
 
         if (this.state.position === 1) {
-            buttonStyles[2] = {background: "var(--color3)"};
+            buttonStyles[4] = {background: "var(--color3)"};
             this.setState({
                 status: "working",
-                position: 3,
+                position: 5,
                 buttonstyle: buttonStyles
             });
-            images.scrollLeft = imageWidth*3;
+            images.scrollLeft = imageWidth*5;
             var newPos3 = images.scrollLeft - imageWidth;
             this.scrollToDest(newPos3, () => {
                 this.setState({status: "ready"})
             })
         }
 
-        if (this.state.position === 2 || this.state.position === 3) {
+        if (this.state.position === 2 || this.state.position === 3 || this.state.position === 4 || this.state.position === 5) {
 
             var tempPosition = this.state.position - 1;
             buttonStyles[tempPosition-1] = {background: "var(--color3)"};
@@ -181,6 +185,8 @@ scrollFunc = (arg) => {
             
             if (this.state.position === 2) {newPos4 = 0}
             if (this.state.position === 3) {newPos4 = imageWidth}
+            if (this.state.position === 4) {newPos4 = imageWidth*2}
+            if (this.state.position === 5) {newPos4 = imageWidth*3}
 
             this.scrollToDest(newPos4, () => {
                 this.setState({
@@ -194,7 +200,7 @@ scrollFunc = (arg) => {
     }
 
 
-    else if (arg === 1 || arg === 2 || arg === 3) {
+    else if (arg === 1 || arg === 2 || arg === 3 || arg === 4 || arg === 5) {
         
         var positionNumber = parseInt(arg);
         
@@ -242,6 +248,8 @@ changeArrow = (arg) => {
 
 changePic = (arg) => {
      
+    
+
     clearInterval(this.interval)
 
     if (this.state.status === "working") {return null};
@@ -445,6 +453,8 @@ return (
     <button style={this.state.buttonstyle[0]} onClick={this.changePic} id="button-picture1" value="1" className="roundbutton"></button>
     <button style={this.state.buttonstyle[1]} onClick={this.changePic} id="button-picture2" value="2" className="roundbutton"></button>
     <button style={this.state.buttonstyle[2]} onClick={this.changePic} id="button-picture3" value="3" className="roundbutton"></button>
+    <button style={this.state.buttonstyle[3]} onClick={this.changePic} id="button-picture4" value="4" className="roundbutton"></button>
+    <button style={this.state.buttonstyle[4]} onClick={this.changePic} id="button-picture5" value="5" className="roundbutton"></button>
     </div>
 
     <div id="scroll-img-container-empty"></div>
@@ -454,7 +464,9 @@ return (
     <Link key="im1" to=""><img id="image1" className="img-commercial" alt="commercial" src='/frontpagepics/c1.jpg'></img></Link>
     <Link key="im2" to="/product?category=0&subcategory=pallot&id=record"><img className="img-commercial" alt="commercial" src='/frontpagepics/c2.jpg'></img></Link>
     <Link key="im3" to="/product?category=1&subcategory=kankaat&id=allineight"><img className="img-commercial" alt="commercial" src='/frontpagepics/c3.jpg'></img></Link>
-    <Link key="im4" to="/product?category=0&subcategory=pallot&id=kuutamo75"><img className="img-commercial" alt="commercial" src='/frontpagepics/c1.jpg'></img></Link>
+    <Link key="im4" to="/product?category=0&subcategory=pallot&id=kuutamo75"><img className="img-commercial" alt="commercial" src='/frontpagepics/c4.jpg'></img></Link>
+    <Link key="im5" to="/product?category=0&subcategory=pallot&id=kuutamo75"><img className="img-commercial" alt="commercial" src='/frontpagepics/c5.jpg'></img></Link>
+    <Link key="im6" to="/product?category=0&subcategory=pallot&id=kuutamo75"><img className="img-commercial" alt="commercial" src='/frontpagepics/c1.jpg'></img></Link>
     
     </div>
     

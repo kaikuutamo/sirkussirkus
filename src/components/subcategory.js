@@ -92,10 +92,16 @@ return (
 
 <div id="sub-cat-mainwrapper">
 
+{categoryPic}
 
 <div id="sub-cat-tiles-wrapper">
+
+
+    <div className="subcat-tiles-emptyline"></div>
     <h1>{name}</h1>
-    {categoryPic}
+    <div className="subcat-tiles-emptyline2"></div>
+    
+    
     <div className="categories-tiles">
     {categoryTiles}
     </div>

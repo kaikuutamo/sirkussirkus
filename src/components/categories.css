@@ -94,6 +94,12 @@ grid-gap: 20px;
     background: var(--color2);
     }
 
+.categories-line-top2 {
+        height: 3px;
+        background: var(--color2);
+        margin-bottom: 60px;
+        }
+
 .categories-line {
     height: 3px;
     background: var(--color2);
