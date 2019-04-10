@@ -755,19 +755,130 @@
           "pic2text": "Petter Wadsten, Valokuvaaja: Einar Kling-Odencrants",
           "products": [
             {
+              "name": "Jongleerausrengas 24 cm",
+              "category": 0,
+              "subcategory": "renkaat",
+              "id": "rengas24",
+              "pic": "/product-pics-0/rengas24.jpg",
+              "pics": ["/product-pics-0/renkaat.jpg"],
+              "price": 4,
+              "choice":"Väri",
+              "text": "Pienet eli niin kutsutut vauvarenkaat. Hauskat renkaat lapsille tai monen renkaan jakautuviin heittoihin (stacks, multiplex). Valmistaja Mister Babache.",
+              "text2": "24 cm /  g",
+              "text3": "",
+              "text4": "",
+              "text5": "",
+              "options": [
+                {
+                  "name": "Valkoinen",
+                  "id": "rengas24_valkoinen",
+                  "price": 4
+                },
+                {
+                  "name": "Keltainen",
+                  "id": "rengas24_keltainen",
+                  "price": 4
+                },
+                {
+                  "name": "Oranssi",
+                  "id": "rengas24_oranssi",
+                  "price": 4
+                },
+                {
+                  "name": "Vaaleanpunainen",
+                  "id": "rengas24_vaaleanpunainen",
+                  "price": 4
+                },
+                {
+                  "name": "Punainen",
+                  "id": "rengas24_punainen",
+                  "price": 4
+                },
+                {
+                  "name": "Sininen",
+                  "id": "rengas24_sininen",
+                  "price": 4
+                },
+                {
+                  "name": "Vihreä",
+                  "id": "rengas24_vihrea",
+                  "price": 4
+                },
+                {
+                  "name": "Violetti",
+                  "id": "rengas24_violetti",
+                  "price": 4
+                },
+                {
+                  "name": "Musta",
+                  "id": "rengas24_musta",
+                  "price": 4
+                }
+              ],
+              "link": "",
+              "linktext": ""
+            },
+            {
               "name": "Jongleerausrengas 32 cm",
               "category": 0,
               "subcategory": "renkaat",
               "id": "rengas32",
               "pic": "/product-pics-0/rengas32.jpg",
-              "pics": [],
+              "pics": ["/product-pics-0/renkaat.jpg"],
               "price": 4,
+              "choice":"Väri",
               "text": "Kansainväliseksi standardiksi muodostunut perusrengas. Täydelliset renkaat niin aloittelijalle kuin ammattilaiselle. Valmistaja Mister Babache.",
               "text2": "32 cm / 100 g",
               "text3": "",
               "text4": "",
               "text5": "",
-              "options": null,
+              "options": [
+                {
+                  "name": "Valkoinen",
+                  "id": "rengas32_valkoinen",
+                  "price": 4
+                },
+                {
+                  "name": "Keltainen",
+                  "id": "rengas32_keltainen",
+                  "price": 4
+                },
+                {
+                  "name": "Oranssi",
+                  "id": "rengas32_oranssi",
+                  "price": 4
+                },
+                {
+                  "name": "Vaaleanpunainen",
+                  "id": "rengas32_vaaleanpunainen",
+                  "price": 4
+                },
+                {
+                  "name": "Punainen",
+                  "id": "rengas32_punainen",
+                  "price": 4
+                },
+                {
+                  "name": "Sininen",
+                  "id": "rengas32_sininen",
+                  "price": 4
+                },
+                {
+                  "name": "Vihreä",
+                  "id": "rengas32_vihrea",
+                  "price": 4
+                },
+                {
+                  "name": "Violetti",
+                  "id": "rengas32_violetti",
+                  "price": 4
+                },
+                {
+                  "name": "Musta",
+                  "id": "rengas32_musta",
+                  "price": 4
+                }
+              ],
               "link": "",
               "linktext": ""
             },
@@ -777,14 +888,56 @@
               "subcategory": "renkaat",
               "id": "rengas40",
               "pic": "/product-pics-0/rengas40.jpg",
-              "pics": [],
+              "pics": ["/product-pics-0/renkaat.jpg"],
               "price": 6,
-              "text": "Mister Babache perusrenkaasta isompi, raskaampi ja näyttävämpi versio. Isompi halkaisija mahdollistaa uudenlaisia temppuja, koska renkaan koko on erilaisessa suhteessa kehon mittasuhteisiin. Toisaalta se myös sulkee joitain temppuja pois. Raskaampi paino tarkoittaa myös enemmän rasitusta käsille erityisesti kiinniottaessa korkeita heittoja.",
+              "choice":"Väri",
+              "text": "Mister Babache perusrenkaasta isompi, raskaampi ja näyttävämpi versio. Isompi halkaisija mahdollistaa erilaisia temppuja normaalikokoisiin renkaisiin verrattuna, koska renkaan koko on erilaisessa suhteessa kehon mittoihin. Toisaalta se myös sulkee joitain temppuja pois. Raskaampi paino tarkoittaa myös enemmän rasitusta käsille erityisesti kiinniottaessa korkeita heittoja.",
               "text2": "40 cm / 140 g",
               "text3": "",
               "text4": "",
               "text5": "",
-              "options": null,
+              "options": [
+                {
+                  "name": "Valkoinen",
+                  "id": "rengas32_valkoinen",
+                  "price": 6
+                },
+                {
+                  "name": "Keltainen",
+                  "id": "rengas32_keltainen",
+                  "price": 6
+                },
+                {
+                  "name": "Oranssi",
+                  "id": "rengas32_oranssi",
+                  "price": 6
+                },
+                {
+                  "name": "Punainen",
+                  "id": "rengas32_punainen",
+                  "price": 6
+                },
+                {
+                  "name": "Vaaleanpunainen",
+                  "id": "rengas32_vaaleanpunainen",
+                  "price": 6
+                },
+                {
+                  "name": "Sininen",
+                  "id": "rengas32_sininen",
+                  "price": 6
+                },
+                {
+                  "name": "Vihreä",
+                  "id": "rengas32_vihrea",
+                  "price": 6
+                },
+                {
+                  "name": "Musta",
+                  "id": "rengas32_musta",
+                  "price": 6
+                }
+              ],
               "link": "",
               "linktext": ""
             },
@@ -792,16 +945,53 @@
               "name": "Saturn 40 cm",
               "category": 0,
               "subcategory": "renkaat",
-              "id": "saturn40",
-              "pic": "/product-pics-0/saturn40.jpg",
-              "pics": [],
-              "price": 5,
+              "id": "saturn",
+              "pic": "/product-pics-0/saturn.jpg",
+              "pics": ["/product-pics-0/renkaat.jpg"],
+              "price": 6,
+              "choice":"Väri",
               "text": "Play-yhtiön Saturn-renkaiden ulkohalkaisija on saman kokoinen kuin Babachen vastaaavissa isoissa renkaissa, mutta sisähalkaisija on hieman pienempi. Renkaat ovat siis leveämmät Babachen standarimalleihin verrattuina, ja siksi tuntuvat käteen erilaisilta. Suurimman eron kuitenkin tekee valmistusmateriaali, joka on erittäin pehmeä ja joustava. Tämä mahdollistaa renkaiden taivuttelun ja tarjoaa paljon uudenlaisia temppumahdollisuuksia renkaiden käsittelyyn.",
               "text2": "40 cm / 135 g",
               "text3": "",
               "text4": "",
               "text5": "",
-              "options": null,
+              "options": [
+                {
+                  "name": "Valkoinen",
+                  "id": "saturn_valkoinen",
+                  "price": 6
+                },
+                {
+                  "name": "Keltainen",
+                  "id": "saturn_keltainen",
+                  "price": 6
+                },
+                {
+                  "name": "Oranssi",
+                  "id": "saturn_oranssi",
+                  "price": 6
+                },
+                {
+                  "name": "Punainen",
+                  "id": "saturn_punainen",
+                  "price": 6
+                },
+                {
+                  "name": "Vaaleanpunainen",
+                  "id": "saturn_vaaleanpunainen",
+                  "price": 6
+                },
+                {
+                  "name": "Sininen",
+                  "id": "saturn_sininen",
+                  "price": 6
+                },
+                {
+                  "name": "Vihreä",
+                  "id": "saturn_vihrea",
+                  "price": 6
+                }
+              ],
               "link": "",
               "linktext": ""
             },
@@ -811,7 +1001,7 @@
               "subcategory": "renkaat",
               "id": "holsterit",
               "pic": "/product-pics-0/holsterit.jpg",
-              "pics": [],
+              "pics": ["/product-pics-0/holsterit2.jpg"],
               "price": 30,
               "text": "Eli suomeksi vyölle asetettavat metalliset rengaskannattimet rai rengaskotelot. Lauri Koskisen suunnittelemat ja seppä Toni Saikkosen toteuttamat holsterit ovat paitsi kestävät myös tyylikkään yksinkertaiset ja sirot. Holsterit ovat alunperin suunniteltu yli kahdeksan renkaan jongleeraukseen ja muihin vastaaviin tilanteisiin, jossa käsitila loppuu kesken. Saattaa helpottaa lähtöä myös seitsemän ja kahdeksan renkaan jongleerauskuvioihin. Holstereihin sopii Babachen 40 cm jongleerausrengas. Hintaan sisältyy kaksi holsteria (yksi kummallekin puolelle). Hinta ei sisällä vyötä. Alla olevassa kuvassa holsterit puettuna. Värinä vain hopeinen.",
               "text2": "Pituus 60 cm / 325 g (1 kpl). (Hinta ei sisällä vyötä)",
@@ -1008,6 +1198,9 @@
               "price": 33,
               "text": "Henrysin Circus-diabolo on toinen perinteinen vaihtoehto tosiharrastajalle tai ammattilaiselle. Upeat värit, huippukestävä materiaali, elegantti muotoilu, väkevä tuntuma ja lukematon määrä tarjolla olevia lisäosia eri valmistajilta ovat tehneet tästä diabolosta klassikkomaisen standardin Finessen ohella.",
               "text2": "Halkaisija 130 mm / leveys 140 mm / 300 g. Ei sisällä keppejä",
+              "text3": "",
+              "text4": "",
+              "text5": "",
               "options": null,
               "link": "",
               "linktext": ""
