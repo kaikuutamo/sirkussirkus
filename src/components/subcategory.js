@@ -80,7 +80,7 @@ if (products.pic2.length !== 0) {
     categoryPic = (
         <div id="subcat-presentation-pic">
         <img alt="Subcategory" src={products.pic2}></img>
-        <p>{products.pic2text}</p>
+        
         </div>
     )
 }
