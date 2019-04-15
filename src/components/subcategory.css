@@ -18,14 +18,9 @@
 #subcat-presentation-pic img {
     display: flex;
     width: 100%;
+    margin-bottom: 10px;
 }
 
-#subcat-presentation-pic p {
-    font-size: 0.8rem;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    
-}
 
 #sub-cat-tiles-wrapper {
     background: var(--color3);
