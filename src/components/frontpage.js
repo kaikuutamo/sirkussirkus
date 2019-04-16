@@ -326,14 +326,16 @@ var catPics = document.getElementsByClassName("frontpage-pic");
 
 var opacity = (k) => {
 
-    if (this._mounted === true) {
 
-        catPics[k].addEventListener("load", function () {
+        catPics[k].addEventListener("load", () => {
+            
+            if (this._mounted === true) {
+                
             catPics[k].style = "transition: opacity 1.5s, filter 0.2s; opacity: 1"; 
+        }
+
         })
-
-    }
-
+ 
 }
 
 for (var k = 0; k < catPics.length; k ++) {
@@ -347,17 +349,22 @@ var count = 0;
 
 var opacity2 = (s) => {
     
-    if (this._mounted === true) {
+     
 
-        images[s].addEventListener("load", function () {
+        images[s].addEventListener("load", () => {
+
+            if (this._mounted === true) {
+                
             images[s].style = "transition: opacity 1.5s; opacity: 1";
+            }
+
         })
         count = count + 1;
         if (count === 4) {
                        this.autoScroll();
                             }
 
-    }
+   
 
 
 }

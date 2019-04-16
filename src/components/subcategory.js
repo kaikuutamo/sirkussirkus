@@ -30,15 +30,21 @@ componentDidMount () {
 
     var jes = (k) => {
 
-        if (this._mounted === true) {
+        
 
-            catPics[k].addEventListener("load", function () {
+            catPics[k].addEventListener("load", () => {
+
+                if (this._mounted === true) {
+                
                 catPics[k].style = "transition: opacity 1.5s, filter 0.2s; opacity: 1"; 
+
+                }
+
             })
 
         }
 
-    }
+    
 
     for (var k = 0; k < catPics.length; k ++) {
         jes(k);

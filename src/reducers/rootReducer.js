@@ -1,33 +1,37 @@
 
 import productsFile from '../products-data/products.json';
 
-var status;
+var status = "yes";
 
 function testLocal () {
 
     try {
 
         localStorage.setItem("test", "testing");
-
+        
         if (localStorage.getItem("test") !== "testing") {
+            
             status = "no"
             return null
         }
-    
+        
         localStorage.removeItem("test");
-
+        
     }
 
     catch(e) {
+        
         status = "no";
         return null;
       }
 
-    status = "yes;"
-
+    
 }
 
+
 testLocal();
+
+
 
 
 var temp = [];
