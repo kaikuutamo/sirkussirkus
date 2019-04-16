@@ -22,6 +22,8 @@ class FrontPage extends React.Component {
                        
         }
 
+        
+
     }
 
 
@@ -311,10 +313,10 @@ this.interval = setInterval(() => {
 
 componentDidMount () {
 
+this._mounted = true;
+
 window.scrollTo(0, 0);
 
-
-this._mounted = true;
 
 
 
@@ -322,10 +324,16 @@ this._mounted = true;
 
 var catPics = document.getElementsByClassName("frontpage-pic");
 
-function opacity (k) {
-    catPics[k].addEventListener("load", function () {
-        catPics[k].style = "transition: opacity 1.5s, filter 0.2s; opacity: 1"; 
-    })
+var opacity = (k) => {
+
+    if (this._mounted === true) {
+
+        catPics[k].addEventListener("load", function () {
+            catPics[k].style = "transition: opacity 1.5s, filter 0.2s; opacity: 1"; 
+        })
+
+    }
+
 }
 
 for (var k = 0; k < catPics.length; k ++) {
@@ -339,13 +347,19 @@ var count = 0;
 
 var opacity2 = (s) => {
     
-    images[s].addEventListener("load", function () {
-        images[s].style = "transition: opacity 1.5s; opacity: 1";
-    })
-    count = count + 1;
-    if (count === 4) {
-                   this.autoScroll();
-                        }
+    if (this._mounted === true) {
+
+        images[s].addEventListener("load", function () {
+            images[s].style = "transition: opacity 1.5s; opacity: 1";
+        })
+        count = count + 1;
+        if (count === 4) {
+                       this.autoScroll();
+                            }
+
+    }
+
+
 }
 
 for (var s = 0; s < images.length; s ++) {

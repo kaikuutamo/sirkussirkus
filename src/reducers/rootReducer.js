@@ -5,26 +5,36 @@ var status;
 
 function testLocal () {
 
-    localStorage.setItem("test", "testing");
+    try {
 
-    if (localStorage.getItem("test") !== "testing") {
-        status = "no"
-        return null
+        localStorage.setItem("test", "testing");
+
+        if (localStorage.getItem("test") !== "testing") {
+            status = "no"
+            return null
+        }
+    
+        localStorage.removeItem("test");
+
     }
 
-    localStorage.clear();
+    catch(e) {
+        status = "no";
+        return null;
+      }
 
-    
+    status = "yes;"
 
 }
 
-console.log(status, testLocal)
+testLocal();
+
 
 var temp = [];
 
 var initState;
 
-if (typeof localStorage.shopstate !== 'string') {
+if (status === "no") {
 
     initState = {
         products: productsFile,
@@ -43,7 +53,26 @@ if (typeof localStorage.shopstate !== 'string') {
 
 }
 
-else {initState = JSON.parse(localStorage.shopstate)}
+else if (typeof localStorage.getItem("sirkussirkus_state") !== "string") {
+
+    initState = {
+        products: productsFile,
+        shoppingCart: temp,
+        information: {
+            firstname: "",
+            lastname: "",
+            address: "",
+            zipcode: "",
+            city: "",
+            phonenumber: "",
+            email: ""
+        },
+        text: ""
+    }
+
+}
+
+else {initState = JSON.parse(localStorage.sirkussirkus_state)}
 
 
 
@@ -59,14 +88,19 @@ const rootReducer = (state=initState, action) => {
         var temp = state.shoppingCart.slice();
         temp.push(action.product);
 
-        localS = {
-            ...state,
-            shoppingCart: temp
+        if (status !== "no") {
+
+            localS = {
+                ...state,
+                shoppingCart: temp
+            }
+    
+            localS = JSON.stringify(localS);
+            localStorage.clear();
+            localStorage.setItem('sirkussirkus_state', localS)
+
         }
 
-        localS = JSON.stringify(localS);
-        localStorage.clear();
-        localStorage.setItem('shopstate', localS)
 
         return {
             ...state,
@@ -77,14 +111,20 @@ const rootReducer = (state=initState, action) => {
     if (action.type === "update") {
 
 
-        localS = {
-            ...state,
-            shoppingCart: action.updatedcart
+        if (status !== "no") {
+
+            localS = {
+                ...state,
+                shoppingCart: action.updatedcart
+            }
+    
+            localS = JSON.stringify(localS);
+            localStorage.clear();
+            localStorage.setItem('sirkussirkus_state', localS)
+
         }
 
-        localS = JSON.stringify(localS);
-        localStorage.clear();
-        localStorage.setItem('shopstate', localS)
+
     
         return {
             ...state,
@@ -95,14 +135,18 @@ const rootReducer = (state=initState, action) => {
 
     if (action.type === "updatetext") {
 
-        localS = {
-            ...state,
-            text: action.thetext
-        }
+        if (status !== "no") {
 
-        localS = JSON.stringify(localS);
-        localStorage.clear();
-        localStorage.setItem('shopstate', localS)
+            localS = {
+                ...state,
+                text: action.thetext
+            }
+    
+            localS = JSON.stringify(localS);
+            localStorage.clear();
+            localStorage.setItem('sirkussirkus_state', localS)
+
+        }
 
 
         return {
@@ -113,14 +157,20 @@ const rootReducer = (state=initState, action) => {
 
     if (action.type === "updateinformation") {
         
-        localS = {
-            ...state,
-            information: action.updatedinformation
+        if (status !==  "no") {
+
+        
+            localS = {
+                ...state,
+                information: action.updatedinformation
+            }
+    
+            localS = JSON.stringify(localS);
+            localStorage.clear();
+            localStorage.setItem('sirkussirkus_state', localS)
+
         }
 
-        localS = JSON.stringify(localS);
-        localStorage.clear();
-        localStorage.setItem('shopstate', localS)
 
         return {
             ...state,
@@ -130,25 +180,31 @@ const rootReducer = (state=initState, action) => {
 
     if (action.type === "remove") {
 
+        if (status !== "no") {
 
-        localS = {
-            ...state,
-            shoppingCart: [],
-            information: {
-                firstname: "",
-                lastname: "",
-                address: "",
-                zipcode: "",
-                city: "",
-                phonenumber: "",
-                email: ""
-            },
-            text: ""
+            localS = {
+                ...state,
+                shoppingCart: [],
+                information: {
+                    firstname: "",
+                    lastname: "",
+                    address: "",
+                    zipcode: "",
+                    city: "",
+                    phonenumber: "",
+                    email: ""
+                },
+                text: ""
+            }
+    
+            localS = JSON.stringify(localS);
+            localStorage.clear();
+            localStorage.setItem('shopstate', localS)
+
         }
 
-        localS = JSON.stringify(localS);
-        localStorage.clear();
-        localStorage.setItem('shopstate', localS)
+
+
 
         return {
             ...state,

@@ -41,16 +41,30 @@ componentDidUpdate () {
    this.scrollTo();
 }
 
+componentWillUnmount (){
+    this._mounted = false;
+    
+ }
+
 componentDidMount () {
+
+    this._mounted = true;
+
     this.scrollTo();
 
 
     var catPics = document.getElementsByClassName("category-tile-img");
 
-    function jes (k) {
-        catPics[k].addEventListener("load", function () {
-            catPics[k].style = "transition: opacity 1.5s, filter 0.2s; opacity: 1"; 
-        })
+    var jes = (k) => {
+
+        if (this._mounted === true) {
+
+            catPics[k].addEventListener("load", function () {
+                catPics[k].style = "transition: opacity 1.5s, filter 0.2s; opacity: 1"; 
+            })
+
+        }
+
     }
 
     for (var k = 0; k < catPics.length; k ++) {

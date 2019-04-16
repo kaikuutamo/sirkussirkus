@@ -123,7 +123,8 @@ request2.send(data);
 
 this.emptyCart();
 
-console.log(emailText)
+localStorage.clear();
+
 }
 
 
