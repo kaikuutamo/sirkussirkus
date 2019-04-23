@@ -105,12 +105,15 @@ if (products.pic2.length !== 0) {
     )
 }
 
+var pathSub = "/categories?" + this.props.products.categories[category].id;
+var pathSubName = this.props.products.categories[category].name;
 
 return (
 
 <div id="sub-cat-wrapper">
 
 <div id="sub-cat-mainwrapper">
+
 
 {categoryPic}
 
@@ -121,6 +124,11 @@ return (
     <h1>{name}</h1>
     <div className="subcat-tiles-emptyline2"></div>
     
+    <div className="path-links-wrap-sub">  
+        <div className="path-links-sub">
+        <Link to="/categories"><p>Sirkusvälineet</p></Link> <p>|</p> <Link to={pathSub}><p>{pathSubName}</p></Link> <p>|</p> <p id="pathlinksubtext">{name}</p>
+        </div>
+    </div> 
     
     <div className="categories-tiles">
     {categoryTiles}

@@ -183,7 +183,7 @@ return (
 
         <div className="path-links-wrap">  
         <div className="path-links">
-        <Link to={path1}><p>{pathName1}</p></Link> <p>|</p> <Link to={path2}><p>{pathName2}</p></Link>
+        <Link to='/categories'><p>Sirkusvälineet</p></Link> <p>|</p> <Link to={path1}><p>{pathName1}</p></Link> <p>|</p> <Link to={path2}><p>{pathName2}</p></Link>
         </div>
         </div> 
 
