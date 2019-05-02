@@ -743,7 +743,7 @@
               "text5": "",
               "options": null,
               "link": "https://www.youtube.com/watch?v=UofXrINtKrQ",
-              "linktext": "Youtube: Kai Kuutamon Finnish Poles eli suomalaiset patukat"
+              "linktext": "Youtube: Kai Kuutamo juggling the finnish poles 2009"
             }
           ]
         },
@@ -2198,7 +2198,7 @@
               "text": "Armeijan ja pelastusyksiköiden suosima teräksestä valmistettu \"kasi\" vertikaalikankaan ripustamiseen. Kiipeilykasi on kevyempi, edullisempi ja pienemmän kokoinen ripustusvaihtoehto perinteiselle kangaskellolle, ja se onkin näiden ominaisuuksiensa puolesta nykyisin suositumpi vaihtoehto kankaan ripustamiseen. Teräskasi on kaikin puolin miltei tuhoutumaton ripustusväline. Teräskasin kiinnittämiseksi tarvitset mahdollisesti kiipeilyyn tarkoitetun sulkulenkin (karabiini) ja nauhalenkin (slingi).",
               "text2": "Korkeus 17 cm / Leveys 16 cm / Paksuus 1 cm / Paino 543 g",
               "text3": "Murtumispainoraja 4000 kg",
-              "text4": "",
+              "text4": "Tilaustuote",
               "text5": "",
               "options": null,
               "link": "",
@@ -2239,7 +2239,7 @@
               "linktext": ""
             },
             {
-              "name": "Petzl - Teräksinen sulkulenkki (musta)",
+              "name": "Petzl - Sulkulenkki",
               "category": 1,
               "subcategory": "kankaat",
               "id": "petzlblack",
@@ -2256,7 +2256,7 @@
               "linktext": ""
             },
             {
-              "name": "Rock Empire - Teräksinen sulkulenkki",
+              "name": "Rock Empire - Sulkulenkki",
               "category": 1,
               "subcategory": "kankaat",
               "id": "rockempireoval",
@@ -2482,7 +2482,7 @@
               "linktext": ""
             },
             {
-              "name": "Petzl - Teräksinen sulkulenkki (musta)",
+              "name": "Petzl - Sulkulenkki",
               "category": 1,
               "subcategory": "koydet",
               "id": "petzlblack",
@@ -2499,7 +2499,7 @@
               "linktext": ""
             },
             {
-              "name": "Rock Empire - Teräksinen sulkulenkki",
+              "name": "Rock Empire - Sulkulenkki",
               "category": 1,
               "subcategory": "koydet",
               "id": "rockempireoval",
@@ -2535,18 +2535,18 @@
           ]
         },
         {
-          "name": "Trapetsit",
-          "pic": "/category-pics/trapetsit.jpg",
-          "id": "trapetsit",
+          "name": "Rengsrengastrapetsit",
+          "pic": "/category-pics/rengastrapetsit.jpg",
+          "id": "rengastrapetsit",
           "pic2": "/category-pics/emmaraisanen.jpg",
           "pic2text": "Emma Räisänen, Valokuvaaja: Markus Nivala",
           "products": [
             {
-              "name": "Firetoys - Rengastrapetsi - nollapiste (valkoinen)",
+              "name": "Rengastrapetsi - nollapiste (valkoinen)",
               "category": 1,
-              "subcategory": "trapetsit",
-              "id": "firetoys-rengas-0-valkoinen",
-              "pic": "/product-pics-1/firetoys-rengas-0.jpg",
+              "subcategory": "rengastrapetsit",
+              "id": "firetoys-trapetsi-valkoinen",
+              "pic": "/product-pics-1/firetoys-trapetsi-valkoinen.jpg",
               "pics": [],
               "price": 210,
               "text": "Rengastrapetsi, jossa ei ole kiinnityspisteitä. Kiinnityspisteettömän rengastrapetsin voit kiinnittää nauhalenkeillä kaikilla eri tavoilla tarpeen mukaan eri käyttötarkoituksiin: Yhdestä kohdasta, kahdesta kohdasta tai useammasta kohdasta myös vaakatasoon kattokruunumaisesti. Saatavana viidessä eri koossa ja kahdessa eri värissä.",
@@ -2558,27 +2558,27 @@
               "options": [
                 {
                   "name": "85 cm / 5.4 kg",
-                  "id": "firetoys-rengas-0-valkoinen-85",
+                  "id": "firetoys-trapetsi-valkoinen-85",
                   "price": 210
                 },
                 {
                   "name": "90 cm / 5.6 kg",
-                  "id": "firetoys-rengas-0-valkoinen-90",
+                  "id": "firetoys-trapetsi-valkoinen-90",
                   "price": 210
                 },
                 {
                   "name": "95 cm / 6.0 kg",
-                  "id": "firetoys-rengas-0-valkoinen-95",
+                  "id": "firetoys-trapetsi-valkoinen-95",
                   "price": 210
                 },
                 {
                   "name": "100 cm / 6.0 kg",
-                  "id": "firetoys-rengas-0-valkoinen-100",
+                  "id": "firetoys-trapetsi-valkoinen-100",
                   "price": 210
                 },
                 {
                   "name": "105 cm / 6.4 kg",
-                  "id": "firetoys-rengas-0-valkoinen-105",
+                  "id": "firetoys-trapetsi-valkoinen-105",
                   "price": 210
                 }
               ],
@@ -2586,11 +2586,11 @@
               "linktext": ""
             },
             {
-              "name": "Firetoys - Rengastrapetsi - nollapiste (musta)",
+              "name": "Rengastrapetsi - nollapiste (musta)",
               "category": 1,
-              "subcategory": "trapetsit",
+              "subcategory": "rengastrapetsit",
               "id": "firetoys-rengas-0-musta",
-              "pic": "/product-pics-1/firetoys-rengas-0.jpg",
+              "pic": "/product-pics-1/firetoys-rengas-0-musta.jpg",
               "pics": [],
               "price": 200,
               "text": "Rengastrapetsi, jossa ei ole kiinnityspisteitä. Kiinnityspisteettömän rengastrapetsin voit kiinnittää nauhalenkeillä kaikilla eri tavoilla tarpeen mukaan eri käyttötarkoituksiin: Yhdestä kohdasta, kahdesta kohdasta tai useammasta kohdasta myös vaakatasoon kattokruunumaisesti. Saatavana viidessä eri koossa ja kahdessa eri värissä.",
@@ -2630,7 +2630,265 @@
               "linktext": ""
             },
             {
-              "name": "Petzl - Teräksinen sulkulenkki (musta)",
+              "name": "Rengastrapetsi - 1 piste (musta)",
+              "category": 1,
+              "subcategory": "rengastrapetsit",
+              "id": "firetoys-rengas-1-musta",
+              "pic": "/product-pics-1/firetoys-rengas-1-musta.jpg",
+              "pics": [],
+              "price": 200,
+              "text": "Perinteinen yhden kiinnityspisteen rengastrapetsi. Saatavana kahdessa eri värissä. Mustaa löytyy kuudessa eri koossa (80 cm - 105 cm) ja valkoista neljässä koossa (90 cm - 105 cm). Koko on rengastrapetsin ulkohalkaisija.",
+              "text2": "Putken paksuus 25 mm",
+              "text3": "Työskentelypainoraja 180 kg",
+              "text4": "Halkaisija 80 - 105 cm / Paino 5.4 - 6.6 kg",
+              "text5": "",
+              "choice": "Koko",
+              "options": [
+                {
+                  "name": "80 cm / 5.4 kg",
+                  "id": "firetoys-rengas-1-musta-80",
+                  "price": 200
+                },
+                {
+                  "name": "85 cm / 5.6 kg",
+                  "id": "firetoys-rengas-1-musta-85",
+                  "price": 200
+                },
+                {
+                  "name": "90 cm / 5.8 kg",
+                  "id": "firetoys-rengas-1-musta-90",
+                  "price": 200
+                },
+                {
+                  "name": "95 cm / 6.2 kg",
+                  "id": "firetoys-rengas-1-musta-95",
+                  "price": 200
+                },
+                {
+                  "name": "100 cm / 6.4 kg",
+                  "id": "firetoys-rengas-1-musta-100",
+                  "price": 200
+                },
+                {
+                  "name": "105 cm / 6.6 kg",
+                  "id": "firetoys-rengas-1-musta-105",
+                  "price": 200
+                }
+
+              ],
+              "link": "",
+              "linktext": ""
+            },
+            {
+              "name": "Rengastrapetsi - 1 piste (valkoinen)",
+              "category": 1,
+              "subcategory": "rengastrapetsit",
+              "id": "firetoys-rengas-1-valkoinen",
+              "pic": "/product-pics-1/firetoys-rengas-1-valkoinen.jpg",
+              "pics": [],
+              "price": 210,
+              "text": "Perinteinen yhden kiinnityspisteen rengastrapetsi. Saatavana kahdessa eri värissä: Musta helmiäinen ja Valkoinen kimalteleva. Mustaa löytyy kuudessa eri koossa (80 cm - 105 cm) ja valkoista neljässä koossa (90 cm - 105 cm). Koko on rengastrapetsin ulkohalkaisija.",
+              "text2": "Putken paksuus 25 mm",
+              "text3": "Työskentelypainoraja 180 kg",
+              "text4": "Halkaisija 90 - 105 cm / Paino 5.8 - 6.6 kg",
+              "text5": "",
+              "choice": "Koko",
+              "options": [
+                {
+                  "name": "90 cm / 5.8 kg",
+                  "id": "firetoys-rengas-1-valkoinen-90",
+                  "price": 210
+                },
+                {
+                  "name": "95 cm / 6.2 kg",
+                  "id": "firetoys-rengas-1-valkoinen-95",
+                  "price": 210
+                },
+                {
+                  "name": "100 cm / 6.4 kg",
+                  "id": "firetoys-rengas-1-valkoinen-100",
+                  "price": 210
+                },
+                {
+                  "name": "105 cm / 6.6 kg",
+                  "id": "firetoys-rengas-1-valkoinen-105",
+                  "price": 210
+                }
+
+              ],
+              "link": "",
+              "linktext": ""
+            },
+            {
+              "name": "Camp - Alumiinileikari",
+              "category": 1,
+              "subcategory": "rengastrapetsit",
+              "id": "swivelcamp",
+              "pic": "/product-pics-1/swivelcamp.jpg",
+              "pics": [],
+              "price": 40,
+              "text": "Laakeroitu leikari eli \"swiveli\", joka on valmistettu kuumataotusta alumiinista. Yksi vahvimmista markkinoilla olevista alumiinileikareista. Leikarin murtolujuus on 35 kilonewtonia, jolloin se kannattaa noin 3500 kilogramman painon. Leikari mahdollistaa pyörimisen pituusakselin ympäri, ja estää esimerkiksi ilma-akrobatiakankaan kiertymisen. Alumiinista valmistetut kiinnikkeet ja varusteet vaativat kunnon tarkistuksen joka käyttökerran yhteydessä, ja niitä ei saa pudottaa kovalle lattialle edes pöytäkorkeudelta. Iskut saattavat heikentää murtolujuutta. Yksilöllisesti tarkastettu ja numeroitu. (CE EN354)",
+              "text2": "Pituus 116 mm / Leveys 53 mm / Paino 160 g",
+              "text3": "Murtumispainoraja 3500 kg, työskentelypainoraja 500 kg.",
+              "text4": "",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": ""
+            },
+           
+            {
+              "name": "Petzl - Sulkulenkki",
+              "category": 1,
+              "subcategory": "rengastrapetsit",
+              "id": "petzlblack",
+              "pic": "/product-pics-1/petzlblack.jpg",
+              "pics": [],
+              "price": 18,
+              "text": "Petzl-merkkinen musta teräksinen ruuvilukitteinen ovaalilukkosulkulenkki eli \"karabiini\". Erittäin korkealaatuista terästä, soveltuu vaikeisiin olosuhteisiin. Sulkulenkissä patentoitu K-Lock -portti ja punainen turvaindikaattori, joka varoittaa lähietäisyydelle näkyvästi mikäli portti on unohtunut lukita. Portin avauma 21 mm. Yksilöllisesti tarkastettu ja numeroitu. (CE EN362)",
+              "text2": "Pituus 113 mm / Leveys 63 mm / Paino 195 g",
+              "text3": "Murtumispainoraja pituussuunnassa 2700 kg. Murtumispainoraja porttia vasten 700 kg. Murtumispainoraja pituussuunnassa avonaisena 700 kg.",
+              "text4": "",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": ""
+            },
+            {
+              "name": "Rock Empire - Sulkulenkki",
+              "category": 1,
+              "subcategory": "rengastrapetsit",
+              "id": "rockempireoval",
+              "pic": "/product-pics-1/steeloval.jpg",
+              "pics": [],
+              "price": 12,
+              "text": "Rock Empire -merkkinen teräksinen ruuvilukitteinen ovaalilukkosulkulenkki eli \"karabiini\". Erittäin korkealaatuista terästä, soveltuu vaikeisiin olosuhteisiin. Sulkulenkissä patentoitu K-Lock -portti. Portin avauma 21 mm. Ruuviosan väri saattaa vaihdella. Yksilöllisesti tarkastettu ja numeroitu. (CE EN362)",
+              "text2": "Pituus 110 mm / Leveys 62 mm / Paino 173 g",
+              "text3": "Murtumispainoraja pituussuunnassa 2800 kg. Murtumispainoraja porttia vasten 1800 kg. Murtumispainoraja pituussuunnassa avonaisena 1000 kg.",
+              "text4": "",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": ""
+            },
+            {
+              "name": "Nauhalenkki 80 cm",
+              "category": 1,
+              "subcategory": "rengastrapetsit",
+              "id": "sling",
+              "pic": "/product-pics-1/sling.jpg",
+              "pics": [],
+              "price": 10,
+              "text": "Rock Empire -merkkinen tuhti korkean paikan työskentelyyn tarkoitettu 80 cm nauhalenkki eli \"slingi\". Sukitettu malli, jonka kulumista on turvallista seurata. Päällyssukka ei ole osa kantavaa lenkkiä, mutta sen kuluttua puhki tulee koko nauhalenkki vaihtaa. Materiaali: polyester. Väri musta. Yksilöllisesti tarkastettu ja numeroitu. (CE EN566, EN795 B)",
+              "text2": "Pituus 80 cm / Paino 110 g",
+              "text3": "Murtumispainoraja 3500 kg",
+              "text4": "",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": ""
+            }
+          ]
+        },
+
+        {
+          "name": "Trapetsit",
+          "pic": "/category-pics/trapetsit.jpg",
+          "id": "trapetsit",
+          "pic2": "/category-pics/susannakeskikohtamaki.jpg",
+          "pic2text": "Susanna Keskikohta-Mäki",
+          "products": [
+            {
+              "name": "Trapetsi (valkoinen)",
+              "category": 1,
+              "subcategory": "trapetsit",
+              "id": "firetoys-trapetsi-valkoinen",
+              "pic": "/product-pics-1/firetoys-trapetsi-valkoinen.jpg",
+              "pics": [],
+              "price": 250,
+              "text": "Laadukkaassa Firetoys-trapetsissa on teräksinen tanko, terässilmukat köysien päissä sekä erityisvahvat köydet. Ennenvanhaan Firetoys-trapetseissa oli aina vaijeriydin köydessä, mutta nykyään tilalla on nelinkertainen kokoköysipunos, joka on notkea, joustava ja kestävä. Hyvä perustrapetsi kaikenlaiseen käyttöön. Trapetsia löytyy kahdessa värissä ja viidessä eri mitassa. Mustapunainen väri on valkoista hieman kalliimpi. Pikalukituskarabiinit sisältyvät hintaan.",
+              "text2": "Leveys 56 cm / Köysien pituus 1 - 3.5 m / Tangon paksuus 24 mm / Paino 2.5 kg (1 m köysillä)",
+              "text3": "Työskentelypainoraja 400 kg (karabiinit 250 kg)",
+              "text4": "",
+              "text5": "",
+              "choice": "Köysien pituus",
+              "options": [
+                {
+                  "name": "3.5 metriä",
+                  "id": "firetoys-trapetsi-valkoinen-35m",
+                  "price": 290
+                },
+                {
+                  "name": "3 metriä",
+                  "id": "firetoys-trapetsi-valkoinen-3m",
+                  "price": 280
+                },
+                {
+                  "name": "2.5 metriä",
+                  "id": "firetoys-trapetsi-valkoinen-25m",
+                  "price": 270
+                },
+                {
+                  "name": "2 metriä",
+                  "id": "firetoys-trapetsi-valkoinen-2m",
+                  "price": 260
+                },
+                {
+                  "name": "1.5 metriä",
+                  "id": "firetoys-trapetsi-valkoinen-15m",
+                  "price": 250
+                }
+              ],
+              "link": "",
+              "linktext": ""
+            },
+            {
+              "name": "Trapetsi (mustapunainen)",
+              "category": 1,
+              "subcategory": "trapetsit",
+              "id": "firetoys-trapetsi-musta",
+              "pic": "/product-pics-1/firetoys-trapetsi-musta.jpg",
+              "pics": [],
+              "price": 260,
+              "text": "Laadukkaassa Firetoys-trapetsissa on teräksinen tanko, terässilmukat köysien päissä sekä erityisvahvat köydet. Ennenvanhaan Firetoys-trapetseissa oli aina vaijeriydin köydessä, mutta nykyään tilalla on nelinkertainen kokoköysipunos, joka on notkea, joustava ja kestävä. Hyvä perustrapetsi kaikenlaiseen käyttöön. Trapetsia löytyy kahdessa värissä ja viidessä eri mitassa. Mustapunainen väri on valkoista hieman kalliimpi. Pikalukituskarabiinit sisältyvät hintaan.",
+              "text2": "Leveys 56 cm / Köysien pituus 1 - 3.5 m / Tangon paksuus 24 mm / Paino 2.5 kg (1 m köysillä)",
+              "text3": "Työskentelypainoraja 400 kg (karabiinit 250 kg)",
+              "text4": "",
+              "text5": "",
+              "choice": "Köysien pituus",
+              "options": [
+                {
+                  "name": "3.5 metriä",
+                  "id": "firetoys-trapetsi-musta-35m",
+                  "price": 300
+                },
+                {
+                  "name": "3 metriä",
+                  "id": "firetoys-trapetsi-musta-3m",
+                  "price": 290
+                },
+                {
+                  "name": "2.5 metriä",
+                  "id": "firetoys-trapetsi-musta-25m",
+                  "price": 280
+                },
+                {
+                  "name": "2 metriä",
+                  "id": "firetoys-trapetsi-musta-2m",
+                  "price": 270
+                },
+                {
+                  "name": "1.5 metriä",
+                  "id": "firetoys-trapetsi-musta-15m",
+                  "price": 260
+                }
+              ],
+              "link": "",
+              "linktext": ""
+            },
+
+            {
+              "name": "Petzl - Sulkulenkki",
               "category": 1,
               "subcategory": "trapetsit",
               "id": "petzlblack",
@@ -2647,7 +2905,7 @@
               "linktext": ""
             },
             {
-              "name": "Rock Empire - Teräksinen sulkulenkki",
+              "name": "Rock Empire - Sulkulenkki",
               "category": 1,
               "subcategory": "trapetsit",
               "id": "rockempireoval",
@@ -2679,11 +2937,28 @@
               "options": null,
               "link": "",
               "linktext": ""
+            },
+            {
+              "name": "Camp - Alumiinileikari",
+              "category": 1,
+              "subcategory": "trapetsit",
+              "id": "swivelcamp",
+              "pic": "/product-pics-1/swivelcamp.jpg",
+              "pics": [],
+              "price": 40,
+              "text": "Laakeroitu leikari eli \"swiveli\", joka on valmistettu kuumataotusta alumiinista. Yksi vahvimmista markkinoilla olevista alumiinileikareista. Leikarin murtolujuus on 35 kilonewtonia, jolloin se kannattaa noin 3500 kilogramman painon. Leikari mahdollistaa pyörimisen pituusakselin ympäri, ja estää esimerkiksi ilma-akrobatiakankaan kiertymisen. Alumiinista valmistetut kiinnikkeet ja varusteet vaativat kunnon tarkistuksen joka käyttökerran yhteydessä, ja niitä ei saa pudottaa kovalle lattialle edes pöytäkorkeudelta. Iskut saattavat heikentää murtolujuutta. Yksilöllisesti tarkastettu ja numeroitu. (CE EN354)",
+              "text2": "Pituus 116 mm / Leveys 53 mm / Paino 160 g",
+              "text3": "Murtumispainoraja 3500 kg, työskentelypainoraja 500 kg.",
+              "text4": "",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": ""
             }
           ]
         },
         {
-          "name": "Remmit",
+          "name": "Remmit (Straps)",
           "pic": "/category-pics/remmit.jpg",
           "id": "remmit",
           "pic2": "",
@@ -2711,11 +2986,11 @@
               "category": 1,
               "subcategory": "remmit",
               "id": "firetoys-remmit-valkoinen",
-              "pic": "/product-pics-1/firetoys-remmit.jpg",
+              "pic": "/product-pics-1/firetoys-remmit-valkoinen.jpg",
               "pics": [],
               "price": 150,
-              "text": "Firetoysin valmistamat 100% polyesteria olevat remmit ovat pehmeät, ohuet, kestävät ja edulliset. Pehmeä polyesteri on ohutta, mutta kestävää ja toimii erityisen hyvin kietomistempuissa. Suuret 30cm päätylenkit mahdollistavat myös helpon jalkojen käytön remmeissä. Remmejä löytyy kahdessa värissä ja neljässä eri mitassa. Hinnat ovat pareittain. Kolmiokarabiinit sisältyvät hintaan.",
-              "text2": "Pituus 5-10 m / Leveys 45 mm / Paino 1 - 1,6 kg",
+              "text": "Firetoysin valmistamat 100% polyesteria olevat remmit ovat ohuet, kestävät, pehmeät ja edulliset. Pehmeä polyesteri on ohutta, mutta kestävää ja toimii erityisen hyvin kietomistempuissa. Remmeissä on miellyttävä pinta reppuremmimäisestä ulkonäöstä huolimatta. Suuret 30cm päätylenkit mahdollistavat myös helpon jalkojen käytön remmeissä. Remmeissä ei ole joustoa. Remmejä löytyy kahdessa värissä ja neljässä eri mitassa. Hinnat ovat pareittain. Kolmiokarabiinit sisältyvät hintaan.",
+              "text2": "Pituus 5-10 m / Leveys 45 mm / Lenkki 30 cm / Paino 1 - 1,6 kg",
               "text3": "Murtumispainoraja 2200 kg",
               "text4": "Työskentelypainoraja 300 kg",
               "text5": "",
@@ -2750,11 +3025,11 @@
               "category": 1,
               "subcategory": "remmit",
               "id": "firetoys-remmit-musta",
-              "pic": "/product-pics-1/firetoys-remmit.jpg",
+              "pic": "/product-pics-1/firetoys-remmit-musta.jpg",
               "pics": [],
               "price": 150,
-              "text": "Firetoysin valmistamat 100% polyesteria olevat remmit ovat pehmeät, ohuet, kestävät ja edulliset. Pehmeä polyesteri on ohutta, mutta kestävää ja toimii erityisen hyvin kietomistempuissa. Suuret 30cm päätylenkit mahdollistavat myös helpon jalkojen käytön remmeissä. Remmejä löytyy kahdessa värissä ja neljässä eri mitassa. Hinnat ovat pareittain. Kolmiokarabiinit sisältyvät hintaan.",
-              "text2": "Pituus 5-10 m / Leveys 45 mm / Paino 1 - 1,6 kg",
+              "text": "Firetoysin valmistamat 100% polyesteria olevat remmit ovat ohuet, kestävät, pehmeät ja edulliset. Pehmeä polyesteri on ohutta, mutta kestävää ja toimii erityisen hyvin kietomistempuissa. Remmeissä on miellyttävä pinta reppuremmimäisestä ulkonäöstä huolimatta. Suuret 30cm päätylenkit mahdollistavat myös helpon jalkojen käytön remmeissä. Remmeissä ei ole joustoa. Remmejä löytyy kahdessa värissä ja neljässä eri mitassa. Hinnat ovat pareittain. Kolmiokarabiinit sisältyvät hintaan.",
+              "text2": "Pituus 5-10 m / Leveys 45 mm / Lenkki 30 cm / Paino 1 - 1,6 kg",
               "text3": "Murtumispainoraja 2200 kg",
               "text4": "Työskentelypainoraja 300 kg",
               "text5": "",
@@ -2785,6 +3060,41 @@
               "linktext": ""
             },
             {
+              "name": "Prodigy - Ilma-akrobatiaremmit",
+              "category": 1,
+              "subcategory": "remmit",
+              "id": "prodigy-remmit",
+              "pic": "/product-pics-1/prodigystraps.jpg",
+              "pics": ["/product-pics-1/prodigystraps1.jpg", "/product-pics-1/prodigystraps2.jpg", "/product-pics-1/prodigystraps3.jpg", "/product-pics-1/prodigystraps4.jpg"],
+              "price": 150,
+              "text": "Prodigyn äärimmäisen mukavat puuvillasukalla päällystetyt remmit. Puuvillaisen sukan sisällä erittäin vahva polyesterinauha. Värinä vain luonnonvalkoinen.",
+              "text2": "Pituus 5-10 m / Leveys 50 mm / Lenkki 30 cm",
+              "text3": "Murtumispainoraja 2000 kg",
+              "text4": "Työskentelypainoraja 280 kg",
+              "text5": "",
+              "choice": "Pituus",
+              "options": [
+                {
+                  "name": "4 m",
+                  "id": "prodigy-remmit_5",
+                  "price": 160
+                },
+                {
+                  "name": "6 m",
+                  "id": "prodigy-remmit_6",
+                  "price": 190
+                },
+                {
+                  "name": "8 m",
+                  "id": "prodigy-remmit_8",
+                  "price": 220
+                }
+              ],
+              "link": "",
+              "linktext": ""
+            },
+
+            {
               "name": "Rock Empire - Ankkurilevy 3/5",
               "category": 1,
               "subcategory": "remmit",
@@ -2795,6 +3105,23 @@
               "text": "Rock Empire -merkkinen ankkurilevy yhden kiinnityspisteen jakamiseksi kahteen tai useampaan. Erinomainen vaihtoehto esimerkiksi remmien (liinat/strapsit) kiinnittämiseen ja levittämiseen.",
               "text2": "Korkeus 100 mm / Leveys 158 mm / Paksuus 10 mm / Paino 230 g",
               "text3": "Murtumispainoraja 4000 kg",
+              "text4": "",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": ""
+            },
+            {
+              "name": "Rock Empire - Ankkurilevy 1/3",
+              "category": 1,
+              "subcategory": "remmit",
+              "id": "ankkurilevypieni",
+              "pic": "/product-pics-1/ankkurilevypieni.jpg",
+              "pics": [],
+              "price": 30,
+              "text": "Rock Empire -merkkinen ankkurilevy yhden kiinnityspisteen jakamiseksi kahteen tai useampaan. Erinomainen vaihtoehto esimerkiksi remmien (liinat/strapsit) kiinnittämiseen ja levittämiseen.",
+              "text2": "Paino 70 g",
+              "text3": "Murtumispainoraja 3300 kg",
               "text4": "",
               "text5": "",
               "options": null,
@@ -2819,7 +3146,7 @@
               "linktext": ""
             },
             {
-              "name": "Petzl - Teräksinen sulkulenkki (musta)",
+              "name": "Petzl - Sulkulenkki",
               "category": 1,
               "subcategory": "remmit",
               "id": "petzlblack",
@@ -2836,7 +3163,7 @@
               "linktext": ""
             },
             {
-              "name": "Rock Empire - Teräksinen sulkulenkki",
+              "name": "Rock Empire - Sulkulenkki",
               "category": 1,
               "subcategory": "remmit",
               "id": "rockempireoval",
@@ -2913,7 +3240,7 @@
               "linktext": ""
             },
             {
-              "name": "Petzl - Teräksinen sulkulenkki (musta)",
+              "name": "Petzl - Sulkulenkki",
               "category": 1,
               "subcategory": "riggaus",
               "id": "petzlblack",
@@ -2930,7 +3257,7 @@
               "linktext": ""
             },
             {
-              "name": "Rock Empire - Teräksinen sulkulenkki",
+              "name": "Rock Empire - Sulkulenkki",
               "category": 1,
               "subcategory": "riggaus",
               "id": "rockempireoval",
@@ -2991,7 +3318,7 @@
               "text": "Armeijan ja pelastusyksiköiden suosima teräksestä valmistettu \"kasi\" vertikaalikankaan ripustamiseen. Kiipeilykasi on kevyempi, edullisempi ja pienemmän kokoinen ripustusvaihtoehto perinteiselle kangaskellolle, ja se onkin näiden ominaisuuksiensa puolesta nykyisin suositumpi vaihtoehto kankaan ripustamiseen. Teräskasi on kaikin puolin miltei tuhoutumaton ripustusväline. Teräskasin kiinnittämiseksi tarvitset mahdollisesti kiipeilyyn tarkoitetun sulkulenkin (karabiini) ja nauhalenkin (slingi).",
               "text2": "Korkeus 17 cm / Leveys 16 cm / Paksuus 1 cm / Paino 543 g",
               "text3": "Murtumispainoraja 4000 kg",
-              "text4": "",
+              "text4": "Tilaustuote",
               "text5": "",
               "options": null,
               "link": "",
@@ -3035,9 +3362,9 @@
               "subcategory": "yksipyoraiset",
               "id": "quaxonlyone",
               "pic": "/product-pics-2/quaxonlyone.jpg",
-              "pics": [],
-              "price": 95,
-              "text": "Edullinen perustavan laatuinen yksipyöräinen aloittelijalle. QU-AX valmistaa tunnetusti maailman parhaat yksipyöräiset. 36 pinnaa 20 tuuman renkaassa. Peruspolkimet hyvällä pidolla. Satula vaihdettavilla puskureilla. Näppärä korkeudensäätö. Saatavana punaisena, valkoisena, sinisenä, keltaisena ja mustana.",
+              "pics": ["/product-pics-2/quaxonlyone2.jpg"],
+              "price": 99,
+              "text": "Edullinen laadukas perusyksipyöräinen aloittelijalle. QU-AX valmistaa tunnetusti maailman parhaat yksipyöräiset. 36 pinnaa 20 tuuman renkaassa. Peruspolkimet hyvällä pidolla. Satula vaihdettavilla puskureilla. Näppärä korkeudensäätö. Saatavana punaisena ja sinisenä sekä tilauksesta valkoisena, keltaisena ja mustana.",
               "text2": "Ajajan suositeltu maksimipaino 75 kg.",
               "text3": "Ajajan suositeltu minimi haarakorkeus noin 60 cm.",
               "text4": "Paino 6 kg",
@@ -3045,29 +3372,14 @@
               "choice": "Väri",
               "options": [
                 {
-                  "name": "Valkoinen",
-                  "id": "quaxonlyone-valkoinen",
-                  "price": 95
-                },
-                {
                   "name": "Punainen",
                   "id": "quaxonlyone-punainen",
-                  "price": 95
+                  "price": 99
                 },
                 {
                   "name": "Sininen",
                   "id": "quaxonlyone-sininen",
-                  "price": 95
-                },
-                {
-                  "name": "Keltainen",
-                  "id": "quaxonlyone-keltainen",
-                  "price": 95
-                },
-                {
-                  "name": "Musta",
-                  "id": "quaxonlyone-musta",
-                  "price": 95
+                  "price": 99
                 }
               ],
               "link": "",
@@ -3078,10 +3390,10 @@
               "category": 2,
               "subcategory": "yksipyoraiset",
               "id": "quaxluxus",
-              "pic": "/product-pics-2/quaxluxus.jpg",
-              "pics": [],
-              "price": 145,
-              "text": "Jämerämpi ja laadukkaampi versio QU-AXin peruspyörästä. QU-AX valmistaa tunnetusti maailman parhaat yksipyöräiset. 36 pinnaa 20 tuuman renkaassa. Peruspolkimet hyvällä pidolla. Mukava satula vaihdettavilla puskureilla. Näppärä korkeudensäätö. Luxus mallin mukana saat myös ylimääräisen 20 cm satulaputken pienempiä yksipyöräilijöitä varten, joten säästyt satulaputken sahaukselta. Saatavana punaisena, valkoisena, sinisenä, vihreänä, mustana ja oranssina sekä myös valkoisena seeprakuvioisella karvasatulalla.",
+              "pic": "/product-pics-2/quaxluxus1.jpg",
+              "pics": ["/product-pics-2/quaxluxus.jpg","/product-pics-2/quaxluxus2.jpg"],
+              "price": 149,
+              "text": "Jämerämpi ja laadukkaampi versio QU-AX-peruspyörästä. QU-AX valmistaa tunnetusti maailman parhaat yksipyöräiset. 36 pinnaa 20 tuuman renkaassa. Peruspolkimet hyvällä pidolla. Mukava satula vaihdettavilla puskureilla. Näppärä korkeudensäätö. Luxus mallin mukana saat myös ylimääräisen 20 cm satulaputken pienempiä yksipyöräilijöitä varten, joten säästyt satulaputken sahaukselta. Saatavana oranssina sekä hieman kalliimpana versiona valkoisena karvasatulalla.",
               "text2": "Ajajan suositeltu maksimipaino 85 kg.",
               "text3": "Ajajan suositeltu minimi haarakorkeus noin 60 cm.",
               "text4": "Paino 7,5 kg",
@@ -3089,34 +3401,14 @@
               "choice": "Väri",
               "options": [
                 {
-                  "name": "Valkoinen",
-                  "id": "quaxluxus-valkoinen",
-                  "price": 145
-                },
-                {
-                  "name": "Musta",
-                  "id": "quaxluxus-musta",
-                  "price": 145
-                },
-                {
-                  "name": "Punainen",
-                  "id": "quaxluxus-punainen",
-                  "price": 145
-                },
-                {
-                  "name": "Sininen",
-                  "id": "quaxluxus-sininen",
-                  "price": 145
-                },
-                {
-                  "name": "Vihreä",
-                  "id": "quaxluxus-vihreä",
-                  "price": 145
-                },
-                {
                   "name": "Oranssi",
                   "id": "quaxluxus-oranssi",
-                  "price": 145
+                  "price": 149
+                },
+                {
+                  "name": "Valkoinen karvasatulalla",
+                  "id": "quaxluxus-valkoinen",
+                  "price": 160
                 }
               ],
               "link": "",
@@ -3131,7 +3423,7 @@
               "pics": [],
               "price": 249,
               "text": "Yllä uusiin korkeuksiin! Tähtää korkealle tänä vuonna! Nyt on korkea aika kokeilla jotain uutta! Teidän korkeutenne! Ja niin edelleen.",
-              "text2": "Vaaran tuntua, jännitystä ja näyttävyyttä hakeville kirahvipyörä on oikea valinta. 150 cm korkeassa kirahvipyörässä on vahva teräsrunko, ketjuvälitys, eloksoitu vanne ja keskiö, 36 pinnaa sekä 20\" rengas. Peruspolkimet hyvällä pidolla. Mukava satula vaihdettavilla puskureilla. Näppärä satulan korkeudensäätö. QU-AX takaa laadun.",
+              "text2": "Vaarantunnetta, jännitystä ja näyttävyyttä hakeville kirahvipyörä on oikea valinta. 150 cm korkeassa kirahvipyörässä on vahva teräsrunko, ketjuvälitys, eloksoitu vanne ja keskiö, 36 pinnaa sekä 20\" rengas. Peruspolkimet hyvällä pidolla. Mukava satula vaihdettavilla puskureilla. Näppärä satulan korkeudensäätö. QU-AX takaa laadun.",
               "text3": "Ajajan suositeltu maksimipaino 75 kg.",
               "text4": "Ajajan suositeltu minimi haarakorkeus noin 60 cm.",
               "text5": "Korkeus 150 cm / Paino 10,5 kg",
@@ -3145,16 +3437,16 @@
               "subcategory": "yksipyoraiset",
               "id": "kh20",
               "pic": "/product-pics-2/kh20.jpg",
-              "pics": [],
-              "price": 495,
-              "text": "Rakennettu kestämään pahoinpitelyä ja väärinkäyttöä. Kris Holm nimikkopyörä on suunniteltu nimen omaan trial-ajoon, kovaan katukäyttöön sekä kaupunkitemppuiluun. KH20 on lähes kaikkien kilpailevien Trial-ammattilaisten valinta. Kevyt, laadukas ja äärimmäisen kestävä. Yksipyöräisten eliittiä. Alla olevalta videolta voit todistaa tämän pyörän mahdollisuudet.",
+              "pics": ["/product-pics-2/kh204.jpg","/product-pics-2/kh203.jpg","/product-pics-2/kh207.jpg"],
+              "price": 499,
+              "text": "Rakennettu kestämään pahoinpitelyä ja väärinkäyttöä. Kris Holm -nimikkopyörä on suunniteltu nimenomaan trial-ajoon, kovaan katukäyttöön sekä kaupunkitemppuiluun. KH20 on lähes kaikkien kilpailevien Trial-ammattilaisten valinta. Kevyt, laadukas ja äärimmäisen kestävä. Yksipyöräisten eliittiä. Alla olevalta videolta voit todistaa tämän pyörän mahdollisuudet.",
               "text2": "Ajajan suositeltu maksimipaino 100 kg.",
               "text3": "Ajajan suositeltu minimi haarakorkeus noin 60 cm.",
               "text4": "Paino 5,4 kg",
-              "text5": "",
+              "text5": "TILAUSTUOTE",
               "options": null,
-              "link": "",
-              "linktext": ""
+              "link": "https://vimeo.com/75238440",
+              "linktext": "Vimeo: Max Schulze Uni-Cyclist Mad Man"
             }
           ]
         },
@@ -3171,8 +3463,8 @@
               "subcategory": "slackline",
               "id": "barefoot2",
               "pic": "/product-pics-2/barefoot2.jpg",
-              "pics": [],
-              "price": 60,
+              "pics": ["/product-pics-2/barefoot3.jpg","/product-pics-2/barefoot4.jpg","/product-pics-2/barefoot5.jpg","/product-pics-2/barefoot6.jpg"],
+              "price": 65,
               "text": "Barefoot Slackline tarjoilee tuotteensa upeissa väreissä, hyvin varustelluissa paketeissa ja ennen kaikkea edullisemmin kuin kilpailijansa! Erinomainen paketti kaikenikäisille aloittelijoille ja harrastajille. Laadukas 50mm leveä ja hyvän pidon tarjoava tasapainoliina täyttää myös vaativamman tekijän tarpeet. Mukana kattavat oppaat, puusuojat sekä ohuempi harjoitteluliina, jonka voi asentaa aloittelijan avuksi vähän päätä korkeammalle. Saatavana kolmessa neonvärissä: pinkki, keltainen ja vihreä. Paketin sisältö: 15 metrin tasapainoliina, puusuojat, harjoitteluliina, pystytysohjekirja, aloittelijan opas sekä kantopussukka.",
               "text2": "Pituus 15m / Leveys 50mm",
               "text3": "Työskentelypainoraja 150 kg",
@@ -3183,17 +3475,17 @@
                 {
                   "name": "Vaalenpunainen",
                   "id": "barefoot2-vaaleanpunainen",
-                  "price": 60
-                },
-                {
-                  "name": "Keltainen",
-                  "id": "barefoot2-keltainen",
-                  "price": 60
+                  "price": 65
                 },
                 {
                   "name": "Vihreä",
                   "id": "barefoot2-vihreä",
-                  "price": 60
+                  "price": 65
+                },
+                {
+                  "name": "Keltainen",
+                  "id": "barefoot2-keltainen",
+                  "price": 65
                 }
               ],
               "link": "",
@@ -3205,29 +3497,12 @@
               "subcategory": "slackline",
               "id": "macaco",
               "pic": "/product-pics-2/macaco.jpg",
-              "pics": [],
-              "price": 75,
+              "pics": ["/product-pics-2/macaco1.jpg","/product-pics-2/macaco2.jpg","/product-pics-2/macaco3.jpg","/product-pics-2/macaco3b.jpg","/product-pics-2/macaco4.jpg","/product-pics-2/macaco5.jpg"],
+              "price": 80,
               "text": "Macacon 26 metrin slackline niille, jotka kaipaavat lisää mittaa liinaansa. Laadukas 50mm leveä ja hyvän pidon tarjoava liina täyttää myös vaativamman tekijän tarpeet. Kattava paketti samaten kuin Barefootin lyhyempi slackline, mutta ei sisällä harjoitteluliinaa eikä aloittelijan opasta. Saatavana vain vihreänä. Paketin sisältö: 26 metrin slackline, puusuojat, pystytysohjekirja sekä kantopussukka.",
               "text2": "Pituus 26m / Leveys 50mm / Paino 3kg",
               "text3": "Työskentelypainoraja 150 kg",
-              "text4": "",
-              "text5": "",
-              "options": null,
-              "link": "",
-              "linktext": ""
-            },
-            {
-              "name": "Gibbon Travelline Slackline 15m",
-              "category": 2,
-              "subcategory": "slackline",
-              "id": "gibbontravel",
-              "pic": "/product-pics-2/gibbontravel.jpg",
-              "pics": [],
-              "price": 75,
-              "text": "Gibbon Travelline on pieni ja näppärä, ja se matkustaa mukanasi minne vain. Travelline on ohuempi ja kevyempi vaihtoehto muihin Gibbonin tuotteisiin verrattuna. Se on helppo ottaa mukaan matkalle tai pitää aina mukana. TÜV-sertifioitu tuote. Pakettiin sisältyy 15 metriä pitkä Travelline slackline, kiristysräikkä, räikkäsuojus.",
-              "text2": "Pituus 15m / Leveys 50mm / Paino 2,35 kg",
-              "text3": "Murtumispainoraja 2000 kg",
-              "text4": "",
+              "text4": "Värinä vain vihreä.",
               "text5": "",
               "options": null,
               "link": "",
@@ -3248,16 +3523,68 @@
               "subcategory": "puujalat",
               "id": "stilts",
               "pic": "/product-pics-2/stilts.jpg",
-              "pics": [],
+              "pics": ["/product-pics-2/stilts1.jpg","/product-pics-2/stilts2.jpg","/product-pics-2/stilts3.jpg","/product-pics-2/stilts4.jpg"],
               "price": 250,
               "text": "Nämä ammattimaiset \"puujalat\" on valmistettu alumiinista, ja ne on alunperin suunniteltu maalarien ja hedelmänpoimijoiden työvälineeksi. Kekseliäs jousitus jalkojen rungossa matkii ihmiskehon nilkan toimintaa, ja näillä jaloilla voikin siksi seistä aivan paikallaan ilman jatkuvaa askellusta, joka on ominaista perinteisille puujaloille. Ahkeralla harjoittelulla näillä jaloilla voi jousituksen ansiosta jopa jalkoja liikuttamatta hieman nojailla eri suuntiin. Säädettävä korkeus, jossa jalansija on 60-100cm korkealla. Jalkojen paino on 7 kg.",
-              "text2": "Korkeus 60 - 100 cm / 7 kg",
+              "text2": "Korkeus 60 - 100 cm / paino yhteensä 7 kg",
+              "text3": "Värinä vain metallinharmaa.",
+              "text4": "",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": ""
+            }
+          ]
+        },
+        {
+          "name": "Rolabola",
+          "pic": "/category-pics/rolabola.jpg",
+          "id": "rolabola",
+          "pic2": "",
+          "pic2text": "",
+          "products": [
+            {
+              "name": "Rolabola",
+              "category": 2,
+              "subcategory": "rolabola",
+              "id": "rolabola1",
+              "pic": "/product-pics-2/rolabola.jpg",
+              "pics": ["/product-pics-2/rolabola2.jpg","/product-pics-2/rolabola3.jpg","/product-pics-2/rolabola4.jpg", "/product-pics-2/rolabola5.jpg"],
+              "price": 80,
+              "text": "Playn valmistama laadukas rolabola, joka sopii tositoimiin kuten myös aloittelijalle pienen rullan ansiosta. Rolabolaan kuuluu lauta ja rulla. Laudassa pitoalisäävät urat päällä ja pohjassa päätytopparit, jotka estävät lautaa lentämästä jos tasapaino horjahtaa. Rulla kestävää muoviseosta, jossa kumiset o-renkaat antavat hyvän pidon sekä lautaa että lattiaa vasten. Lautaan on myös saatavana korotuspaloja näyttävyyden lisäämiseksi.",
+              "text2": "Lauta 65 x 25 cm / Rullan halkaisija 12,5 cm",
               "text3": "",
               "text4": "",
               "text5": "",
               "options": null,
               "link": "",
               "linktext": ""
+            }
+          ]
+        },
+        {
+          "name": "Käsilläseisonta",
+          "pic": "/category-pics/kasillaseisonta.jpg",
+          "id": "kasillaseisonta",
+          "pic2": "",
+          "pic2text": "",
+          "products": [
+            {
+              "name": "Käsilläseisontatelineet",
+              "category": 2,
+              "subcategory": "kasillaseisonta",
+              "id": "kasillaseisonta",
+              "pic": "/product-pics-2/kasillaseisonta.jpg",
+              "pics": ["/product-pics-2/kasillaseisonta2.jpg","/product-pics-2/kasillaseisonta3.jpg"],
+              "price": 400,
+              "text": "Toni Torkel Saikkosen käsintehdyt käsilläseisontatelineet ja käsilläseisontapöydät. Vain parasta laatua mittatilauksena viimeistä yksityiskohtaa myöden. Puumateriaalista mittoihin ja tappien määriin kaikki on mahdollista. Kaikki pöydissä voidaan teettää täysin tarpeen mukaan mittatilauksena. Kuvat ja hinta ovat suuntaa-antavia. Ole yhteydessä suoraan seppään itseensä, kerro mitä haluat ja pyydä tarjous. Linkki Torkelin sivuille alla. Välineitä vaihtelevasti valmiina myös Sirkussirkus Putiikilla. Kysy lisää.",
+              "text2": "Hinta ja kuvat ovat suuntaa-antavia. Pyydä tarjous sepältä itseltään.",
+              "text3": "",
+              "text4": "",
+              "text5": "",
+              "options": null,
+              "link": "http://www.torkel.fi",
+              "linktext": "Torkel.fi - Seppä Toni Torkel Saikkosen kotisivut"
             }
           ]
         }
