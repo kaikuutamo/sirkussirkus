@@ -11,3 +11,39 @@ Kuutamo-pallot, värikuvakkeet
             
 
 
+            {
+              "name": "Climbing Technology Teräs-8",
+              "category": 1,
+              "subcategory": "kankaat",
+              "id": "teras8",
+              "pic": "/product-pics-1/teras8.jpg",
+              "pics": [],
+              "price": 75,
+              "text": "Armeijan ja pelastusyksiköiden suosima teräksestä valmistettu \"kasi\" vertikaalikankaan ripustamiseen. Kiipeilykasi on kevyempi, edullisempi ja pienemmän kokoinen ripustusvaihtoehto perinteiselle kangaskellolle, ja se onkin näiden ominaisuuksiensa puolesta nykyisin suositumpi vaihtoehto kankaan ripustamiseen. Teräskasi on kaikin puolin miltei tuhoutumaton ripustusväline. Teräskasin kiinnittämiseksi tarvitset mahdollisesti kiipeilyyn tarkoitetun sulkulenkin (karabiini) ja nauhalenkin (slingi).",
+              "text2": "Korkeus 17 cm / Leveys 16 cm / Paksuus 1 cm / Paino 543 g",
+              "text3": "Murtumispainoraja 4000 kg",
+              "text4": "Tilaustuote",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": ""
+            },
+
+
+            {
+              "name": "All-In-One Classic",
+              "category": 1,
+              "subcategory": "kankaat",
+              "id": "allinoneclassic",
+              "pic": "/product-pics-1/aerialset.jpg",
+              "pics": [],
+              "price": 290,
+              "text": "Vertikaalikangaspaketti joka sisältää 20 metrin kankaan ja kaiken mitä tarvitset kankaan turvalliseen kiinnittämiseen. Paketissa klassinen teräksinen Unicyclen kankaan kiinnityskello, teräksinen Rock Empire -sulkulenkki, Rock Empire -nauhalenkki sekä valitsemasi värinen Duradero-kangas. Voit katsoa tarkemmat tiedot paketin tuotteista ilma-akrobatiasivulta tuotteiden omista selostuksista.",
+              "text2": "",
+              "text3": "",
+              "text4": "",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": ""
+            },
