@@ -1993,7 +1993,7 @@
                 },
                 {
                   "name": "Vaaleanpunainen",
-                  "id": "nunchaku_vaaleanpunainen",
+                  "id": "playpoi_vaaleanpunainen",
                   "price": 15
                 }
               ],
@@ -2024,11 +2024,11 @@
               "subcategory": "muut",
               "id": "nunchaku",
               "pic": "/product-pics-0/nunchaku.jpg",
-              "pics": ["/product-pics-0/nunchaku2.jpg"],
+              "pics": ["/product-pics-0/nunchaku1.jpg","/product-pics-0/nunchaku2.jpg","/product-pics-0/nunchaku3.jpg"],
               "price": 12,
               "choice":"Väri",
-              "text": "Nunchaku on japanilainen kaksiosainen pamppu, jossa perinteisesti naru tai ketju yhdistää kaksi lyhyttä puukeppiä. Nämä Nunchakut ovat tarkoitettu harjoituskäyttöön aloittelijoille. Muovista ydintä ympäröi pehmeä vaahtomuovi. Ketju ja kepit on mitoitettu lapsien käyttöön. Hauska ja näyttävä temppuväline, jolla on myös helppo vahingossa satuttaa muita ja itseään. Käyttö omalla vastuulla.",
-              "text2": "",
+              "text": "Nunchaku on japanilainen kaksiosainen pamppu, jossa perinteisesti naru tai ketju yhdistää kaksi lyhyttä puukeppiä. Nunchaku nähtiin ensimmäistä kertaa valkokankaalla mestarin itsensä Bruce Leen käsissä, ja sen myötä Nunchakusta tuli pysyvä osa länsimaista pop-kulttuuria. Nykynuoriso tuntee Nunchakun ehkä parhaiten Turtles-sarjasta Michaelangelon vakiovarusteena.",
+              "text2": "Nämä Nunchakut ovat tarkoitettu harjoituskäyttöön aloittelijoille. Muovista ydintä ympäröi pehmeä vaahtomuovi. Tässä mallissa ketju ja kepit mitoitettuna aikuisille! Hauska ja näyttävä temppuväline, jolla on myös helppo vahingossa satuttaa muita ja itseään. Käyttö omalla vastuulla.",
               "text3": "",
               "text4": "",
               "text5": "",
@@ -2041,6 +2041,16 @@
                 {
                   "name": "Punainen",
                   "id": "nunchaku_punainen",
+                  "price": 12
+                },
+                {
+                  "name": "Keltainen",
+                  "id": "nunchaku_keltainen",
+                  "price": 12
+                },
+                {
+                  "name": "Vihreä",
+                  "id": "nunchaku_vihrea",
                   "price": 12
                 },
                 {
@@ -2110,8 +2120,8 @@
               "pic": "/product-pics-1/allinonepro.jpg",
               "pics": ["/product-pics-1/allinonepro2.jpg","/product-pics-1/alu8.jpg","/product-pics-1/swivelcamp.jpg","/product-pics-1/steeloval2.jpg","/product-pics-1/sling.jpg","/product-pics-1/kangas0.jpg"],
               "price": 270,
-              "text": "Vertikaalikangaspaketti joka sisältää 20 metrin kankaan, alumiinileikarin ja kaiken mitä tarvitset kankaan turvalliseen kiinnittämiseen. Paketissa CAMP-kiipeilykahdeksikko, CAMP-alumiinileikari, kaksi teräksistä Rock Empire -sulkulenkkiä, Rock Empire -nauhalenkki sekä valitsemasi värinen Duradero-kangas. Paketti on muuten samanlainen kuin \"All-In-One Eight\" paitsi että mukana on pyörimisen mahdollistava alumiinileikari sekä lisäksi tarvittava toinen sulkulenkki. Voit katsoa tarkemmat tiedot paketin tuotteista ilma-akrobatiakankaat sivun tuotekohtaisista selostuksista.",
-              "text2": "",
+              "text": "Vertikaalikangaspaketti joka sisältää 20 metrin kankaan, alumiinileikarin ja kaiken mitä tarvitset kankaan turvalliseen kiinnittämiseen kiinnityspisteeseen(*). Paketissa CAMP-kiipeilykahdeksikko, CAMP-alumiinileikari, kaksi teräksistä Rock Empire -sulkulenkkiä, Rock Empire -nauhalenkki sekä valitsemasi värinen Duradero-kangas. Paketti on muuten samanlainen kuin \"All-In-One Eight\" paitsi että mukana on pyörimisen mahdollistava alumiinileikari sekä lisäksi tarvittava toinen sulkulenkki. Voit katsoa tarkemmat tiedot paketin tuotteista ilma-akrobatiakankaat sivun tuotekohtaisista selostuksista.",
+              "text2": "*Kiinnityspiste ei sisälly hintaan. Kiinnityspisteen jokainen valitsee itse ja sen tulee olla ammattiripustajan (riggaajan) tai rakennusinsinöörin hyväksymä. Itse tehdyt ripustukset ovat aina omalla vastuulla. Sirkussirkus takaa myymiensä välineiden laadun.",
               "text3": "",
               "text4": "",
               "text5": "",
@@ -2174,8 +2184,8 @@
               "pic": "/product-pics-1/allinone8.jpg",
               "pics": ["/product-pics-1/alu8.jpg","/product-pics-1/steeloval.jpg","/product-pics-1/sling.jpg","/product-pics-1/kangas0.jpg"],
               "price": 220,
-              "text": "Vertikaalikangaspaketti joka sisältää 20 metrin kankaan ja kaiken mitä tarvitset kankaan turvalliseen kiinnittämiseen. Paketissa CAMP-kiipeilykahdeksikko, Rock Empire -sulkulenkki, Rock Empire -nauhalenkki sekä valitsemasi värinen Duradero-kangas. Voit katsoa tarkemmat tiedot paketin tuotteista ilma-akrobatiakankaat sivun tuotteiden omista selostuksista.",
-              "text2": "",
+              "text": "Vertikaalikangaspaketti joka sisältää 20 metrin kankaan ja kaiken mitä tarvitset kankaan turvalliseen kiinnittämiseen kiinnityspisteeseen(*). Paketissa CAMP-kiipeilykahdeksikko, Rock Empire -sulkulenkki, Rock Empire -nauhalenkki sekä valitsemasi värinen Duradero-kangas. Voit katsoa tarkemmat tiedot paketin tuotteista ilma-akrobatiakankaat sivun tuotteiden omista selostuksista.",
+              "text2": "*Kiinnityspiste ei sisälly hintaan. Kiinnityspisteen jokainen valitsee itse ja sen tulee olla ammattiripustajan (riggaajan) tai rakennusinsinöörin hyväksymä. Itse tehdyt ripustukset ovat aina omalla vastuulla. Sirkussirkus takaa myymiensä välineiden laadun.",
               "text3": "",
               "text4": "",
               "text5": "",
@@ -2406,14 +2416,14 @@
           "pic2text": "Sanna Vellava, Valokuvaaja: Luis Sartori do Vale",
           "products": [
             {
-              "name": "Firetoys 3-säikeinen ilma-akrobatiaköysi (valkoinen)",
+              "name": "3-säikeinen Köysi - Valkoinen",
               "category": 1,
               "subcategory": "koydet",
               "id": "firetoys-3ply-valkoinen",
-              "pic": "/product-pics-1/firetoys-3ply-valkoinen.jpg",
-              "pics": ["/product-pics-1/firetoys-3ply-valkoinen_1.jpg", "/product-pics-1/firetoys-3ply-valkoinen_2.jpg", "/product-pics-1/firetoys-3ply-valkoinen_3.jpg"],
+              "pic": "/product-pics-1/firetoys-3ply-valkoinen_2.jpg",
+              "pics": ["/product-pics-1/firetoys-3ply-valkoinen.jpg", "/product-pics-1/firetoys-3ply-valkoinen_1.jpg", "/product-pics-1/firetoys-3ply-valkoinen_3.jpg"],
               "price": 170,
-              "text": "Firetoysin valmistama kolmisäikeinen pehmeä, notkea ja joustava ilma-akrobatiaköysi. Tässä kolmisäikeisessä vertikaaliköydessä yhdistyvät ominaisuudet ovat harvinainen yhdistelmä. Erittäin mukava käytettävyys, laadukas viimeistely, tyylikäs ulkomuoto ja edullinen hinta. Köyttä löytyy kolmessa eri värissä ja viidessä eri mitassa. Väri/pituus/hinta-kartta löytyy alapuolelta.",
+              "text": "Firetoysin valmistama kolmisäikeinen pehmeä, notkea ja joustava ilma-akrobatiaköysi. Tässä kolmisäikeisessä vertikaaliköydessä yhdistyvät ominaisuudet ovat harvinainen yhdistelmä. Erittäin mukava käytettävyys, laadukas viimeistely, tyylikäs ulkomuoto ja edullinen hinta. Köyttä löytyy kolmessa eri värissä ja viidessä eri mitassa. Kuvan sulkulenkki (karabiini) ei sisälly hintaan.",
               "text2": "Pituus 6-12 m / Paksuus 35 mm",
               "text3": "Työskentelypainoraja 190 kg",
               "text4": "",
@@ -2426,11 +2436,6 @@
                   "price": 170
                 },
                 {
-                  "name": "7 m",
-                  "id": "firetoys-3ply-valkoinen-7",
-                  "price": 185
-                },
-                {
                   "name": "8 m",
                   "id": "firetoys-3ply-valkoinen-8",
                   "price": 200
@@ -2438,26 +2443,26 @@
                 {
                   "name": "10 m",
                   "id": "firetoys-3ply-valkoinen-10",
-                  "price": 220
+                  "price": 230
                 },
                 {
                   "name": "12 m",
                   "id": "firetoys-3ply-valkoinen-12",
-                  "price": 240
+                  "price": 260
                 }
               ],
               "link": "",
               "linktext": ""
             },
             {
-              "name": "Firetoys 3-säikeinen ilma-akrobatiaköysi (musta)",
+              "name": "3-säikeinen Köysi - Musta",
               "category": 1,
               "subcategory": "koydet",
               "id": "firetoys-3ply-musta",
-              "pic": "/product-pics-1/firetoys-3ply-musta.jpg",
-              "pics": ["/product-pics-1/firetoys-3ply-musta_1.jpg", "/product-pics-1/firetoys-3ply-musta_2.jpg", "/product-pics-1/firetoys-3ply-musta_3.jpg"],
+              "pic": "/product-pics-1/firetoys-3ply-musta_2.jpg",
+              "pics": ["/product-pics-1/firetoys-3ply-musta.jpg", "/product-pics-1/firetoys-3ply-musta_1.jpg", "/product-pics-1/firetoys-3ply-musta_3.jpg"],
               "price": 190,
-              "text": "Firetoysin valmistama kolmisäikeinen pehmeä, notkea ja joustava ilma-akrobatiaköysi. Tässä kolmisäikeisessä vertikaaliköydessä yhdistyvät ominaisuudet ovat harvinainen yhdistelmä. Erittäin mukava käytettävyys, laadukas viimeistely, tyylikäs ulkomuoto ja edullinen hinta. Köyttä löytyy kolmessa eri värissä ja viidessä eri mitassa. Väri/pituus/hinta-kartta löytyy alapuolelta.",
+              "text": "Firetoysin valmistama kolmisäikeinen pehmeä, notkea ja joustava ilma-akrobatiaköysi. Tässä kolmisäikeisessä vertikaaliköydessä yhdistyvät ominaisuudet ovat harvinainen yhdistelmä. Erittäin mukava käytettävyys, laadukas viimeistely, tyylikäs ulkomuoto ja edullinen hinta. Köyttä löytyy kolmessa eri värissä ja viidessä eri mitassa. Kuvan sulkulenkki (karabiini) ei sisälly hintaan.",
               "text2": "Pituus 6-12 m / Paksuus 35 mm",
               "text3": "Työskentelypainoraja 190 kg",
               "text4": "",
@@ -2470,11 +2475,6 @@
                   "price": 190
                 },
                 {
-                  "name": "7 m",
-                  "id": "firetoys-3ply-musta-7",
-                  "price": 205
-                },
-                {
                   "name": "8 m",
                   "id": "firetoys-3ply-musta-8",
                   "price": 220
@@ -2482,26 +2482,26 @@
                 {
                   "name": "10 m",
                   "id": "firetoys-3ply-musta-10",
-                  "price": 245
+                  "price": 250
                 },
                 {
                   "name": "12 m",
                   "id": "firetoys-3ply-musta-12",
-                  "price": 270
+                  "price": 280
                 }
               ],
               "link": "",
               "linktext": ""
             },
             {
-              "name": "Firetoys 3-säikeinen ilma-akrobatiaköysi (punainen)",
+              "name": "3-säikeinen Köysi - Punainen",
               "category": 1,
               "subcategory": "koydet",
               "id": "firetoys-3ply-punainen",
-              "pic": "/product-pics-1/firetoys-3ply-punainen.jpg",
-              "pics": ["/product-pics-1/firetoys-3ply-punainen_1.jpg", "/product-pics-1/firetoys-3ply-punainen_2.jpg", "/product-pics-1/firetoys-3ply-punainen_3.jpg"],
+              "pic": "/product-pics-1/firetoys-3ply-punainen_2.jpg",
+              "pics": ["/product-pics-1/firetoys-3ply-punainen.jpg", "/product-pics-1/firetoys-3ply-punainen_1.jpg", "/product-pics-1/firetoys-3ply-punainen_3.jpg"],
               "price": 190,
-              "text": "Firetoysin valmistama kolmisäikeinen pehmeä, notkea ja joustava ilma-akrobatiaköysi. Tässä kolmisäikeisessä vertikaaliköydessä yhdistyvät ominaisuudet ovat harvinainen yhdistelmä. Erittäin mukava käytettävyys, laadukas viimeistely, tyylikäs ulkomuoto ja edullinen hinta. Köyttä löytyy kolmessa eri värissä ja viidessä eri mitassa. Väri/pituus/hinta-kartta löytyy alapuolelta.",
+              "text": "Firetoysin valmistama kolmisäikeinen pehmeä, notkea ja joustava ilma-akrobatiaköysi. Tässä kolmisäikeisessä vertikaaliköydessä yhdistyvät ominaisuudet ovat harvinainen yhdistelmä. Erittäin mukava käytettävyys, laadukas viimeistely, tyylikäs ulkomuoto ja edullinen hinta. Köyttä löytyy kolmessa eri värissä ja viidessä eri mitassa. Kuvan sulkulenkki (karabiini) ei sisälly hintaan.",
               "text2": "Pituus 6-12 m / Paksuus 35 mm",
               "text3": "Työskentelypainoraja 190 kg",
               "text4": "",
@@ -2514,11 +2514,6 @@
                   "price": 190
                 },
                 {
-                  "name": "7 m",
-                  "id": "firetoys-3ply-punainen-7",
-                  "price": 205
-                },
-                {
                   "name": "8 m",
                   "id": "firetoys-3ply-punainen-8",
                   "price": 220
@@ -2526,23 +2521,23 @@
                 {
                   "name": "10 m",
                   "id": "firetoys-3ply-punainen-10",
-                  "price": 245
+                  "price": 250
                 },
                 {
                   "name": "12 m",
                   "id": "firetoys-3ply-punainen-12",
-                  "price": 270
+                  "price": 280
                 }
               ],
               "link": "",
               "linktext": ""
             },
             {
-              "name": "Catch It -vertikaaliköysi",
+              "name": "Catch It -köysi",
               "category": 1,
               "subcategory": "koydet",
               "id": "catchit",
-              "pic": "/product-pics-1/catchit.jpg",
+              "pic": "/product-pics-1/catchit1.jpg",
               "pics": [],
               "price": 370,
               "text": "Nacho Riccin käsityönä tehty vertikaaliköysi Espanjasta. Perinteisiin vertikaaliköysiin verrattuna tämä köysi on äärimmäisen mukava ja näppärä käyttää. Ohuempi profiili antaa köydelle notkeutta ja tarjoaa erinomaisen otteen pienempikätisillekin. Köyden päällyssukka tuo pehmeyttä ja mukavuutta niin otteeseen kuin myös kiedontatemppuihin. Köysi myös joustaa hieman, ja näin ollen tiputustemput eivät tunnu niin väkivaltaisilta. Värinä luonnonvalkoinen.",
@@ -2555,19 +2550,70 @@
               "linktext": ""
             },
             {
-              "name": "Firetoys - Päällystetty ilma-akrobatiaköysi",
+              "name": "Päällystetty Köysi - Valkoinen",
               "category": 1,
               "subcategory": "koydet",
-              "id": "firetoys-covered",
-              "pic": "/product-pics-1/firetoys-covered.jpg",
-              "pics": [],
+              "id": "firetoys-covered-valkoinen",
+              "pic": "/product-pics-1/firetoys-covered-valkoinen.jpg",
+              "pics": ["/product-pics-1/firetoys-covered-valkoinen0.jpg","/product-pics-1/firetoys-covered-valkoinen1.jpg","/product-pics-1/firetoys-covered-valkoinen2.jpg","/product-pics-1/firetoys-covered-valkoinen22.jpg","/product-pics-1/firetoys-covered-valkoinen3.jpg"],
               "price": 270,
               "text": "Firetoysin valmistama päällystetty ns. sukkaköysi, jossa normaalin köyden päällä on puuvillasta kudottu pehmeä sukka. Sukka lisää käyttömukavuutta entisestään, ja jakaa paineen kehoa vasten tasaisemmin kuin kolmisäikeinen köysi. Päällystetty köysi joustaa vähemmän, ja on sen puolesta tiputuksissa rankempi kuin punottu köysi. Päällyste tosin pehmentää iskuja, ja köyden joustamattomuus tarjoaa parempaa tarkkuutta suorituksiin ja temppuihin, joissa köysi irtoaa hetkellisesti ilma-akrobaatin käsistä. Saatavana kahdessa eri värissä ja kolmessa eri mitassa.",
-              "text2": "Pituus 6-10 m / Paksuus 37 mm",
+              "text2": "Pituus 6-10 m / Paksuus 37-40 mm",
               "text3": "Työskentelypainoraja 250 kg",
               "text4": "",
               "text5": "",
-              "options": null,
+              "choice": "Pituus",
+              "options": [
+                {
+                  "name": "6 m",
+                  "id": "firetoys-covered-valkoinen-6",
+                  "price": 330
+                },
+                {
+                  "name": "8 m",
+                  "id": "firetoys-covered-valkoinen-8",
+                  "price": 310
+                },
+                {
+                  "name": "10 m",
+                  "id": "firetoys-covered-valkoinen-10",
+                  "price": 350
+                }
+              ],
+              "link": "",
+              "linktext": ""
+            },
+            {
+              "name": "Päällystetty Köysi - Punainen",
+              "category": 1,
+              "subcategory": "koydet",
+              "id": "firetoys-covered-punainen",
+              "pic": "/product-pics-1/firetoys-covered-punainen.jpg",
+              "pics": ["/product-pics-1/firetoys-covered-punainen0.jpg","/product-pics-1/firetoys-covered-punainen1.jpg","/product-pics-1/firetoys-covered-punainen2.jpg","/product-pics-1/firetoys-covered-punainen22.jpg","/product-pics-1/firetoys-covered-punainen3.jpg"],
+              "price": 330,
+              "text": "Firetoysin valmistama päällystetty ns. sukkaköysi, jossa normaalin köyden päällä on puuvillasta kudottu pehmeä sukka. Sukka lisää käyttömukavuutta entisestään, ja jakaa paineen kehoa vasten tasaisemmin kuin kolmisäikeinen köysi. Päällystetty köysi joustaa vähemmän, ja on sen puolesta tiputuksissa rankempi kuin punottu köysi. Päällyste tosin pehmentää iskuja, ja köyden joustamattomuus tarjoaa parempaa tarkkuutta suorituksiin ja temppuihin, joissa köysi irtoaa hetkellisesti ilma-akrobaatin käsistä. Saatavana kahdessa eri värissä ja kolmessa eri mitassa.",
+              "text2": "Pituus 6-10 m / Paksuus 37-40 mm",
+              "text3": "Työskentelypainoraja 250 kg",
+              "text4": "",
+              "text5": "",
+              "choice": "Pituus",
+              "options": [
+                {
+                  "name": "6 m",
+                  "id": "firetoys-covered-punainen-6",
+                  "price": 330
+                },
+                {
+                  "name": "8 m",
+                  "id": "firetoys-covered-punainen-8",
+                  "price": 370
+                },
+                {
+                  "name": "10 m",
+                  "id": "firetoys-covered-punainen-10",
+                  "price": 400
+                }
+              ],
               "link": "",
               "linktext": ""
             },
@@ -2649,58 +2695,14 @@
           "pic2text": "Emma Räisänen, Valokuvaaja: Markus Nivala",
           "products": [
             {
-              "name": "Rengastrapetsi - nollapiste (valkoinen)",
-              "category": 1,
-              "subcategory": "rengastrapetsit",
-              "id": "firetoys-trapetsi-valkoinen",
-              "pic": "/product-pics-1/firetoys-trapetsi-valkoinen.jpg",
-              "pics": [],
-              "price": 210,
-              "text": "Rengastrapetsi, jossa ei ole kiinnityspisteitä. Kiinnityspisteettömän rengastrapetsin voit kiinnittää nauhalenkeillä kaikilla eri tavoilla tarpeen mukaan eri käyttötarkoituksiin: Yhdestä kohdasta, kahdesta kohdasta tai useammasta kohdasta myös vaakatasoon kattokruunumaisesti. Saatavana viidessä eri koossa ja kahdessa eri värissä.",
-              "text2": "Putken paksuus 25 mm",
-              "text3": "Työskentelypainoraja 260 kg",
-              "text4": "",
-              "text5": "",
-              "choice": "Koko ja paino",
-              "options": [
-                {
-                  "name": "85 cm / 5.4 kg",
-                  "id": "firetoys-trapetsi-valkoinen-85",
-                  "price": 210
-                },
-                {
-                  "name": "90 cm / 5.6 kg",
-                  "id": "firetoys-trapetsi-valkoinen-90",
-                  "price": 210
-                },
-                {
-                  "name": "95 cm / 6.0 kg",
-                  "id": "firetoys-trapetsi-valkoinen-95",
-                  "price": 210
-                },
-                {
-                  "name": "100 cm / 6.0 kg",
-                  "id": "firetoys-trapetsi-valkoinen-100",
-                  "price": 210
-                },
-                {
-                  "name": "105 cm / 6.4 kg",
-                  "id": "firetoys-trapetsi-valkoinen-105",
-                  "price": 210
-                }
-              ],
-              "link": "",
-              "linktext": ""
-            },
-            {
-              "name": "Rengastrapetsi - nollapiste (musta)",
+              "name": "Rengastrapetsi - Musta 0-piste",
               "category": 1,
               "subcategory": "rengastrapetsit",
               "id": "firetoys-rengas-0-musta",
-              "pic": "/product-pics-1/firetoys-rengas-0-musta.jpg",
-              "pics": [],
-              "price": 200,
-              "text": "Rengastrapetsi, jossa ei ole kiinnityspisteitä. Kiinnityspisteettömän rengastrapetsin voit kiinnittää nauhalenkeillä kaikilla eri tavoilla tarpeen mukaan eri käyttötarkoituksiin: Yhdestä kohdasta, kahdesta kohdasta tai useammasta kohdasta myös vaakatasoon kattokruunumaisesti. Saatavana viidessä eri koossa ja kahdessa eri värissä.",
+              "pic": "/product-pics-1/rengas-nollam.jpg",
+              "pics": ["/product-pics-1/rengas-nollam1.jpg","/product-pics-1/rengas-nollam2.jpg","/product-pics-1/rengas-nollam3.jpg","/product-pics-1/rengas-nollav2.jpg","/product-pics-1/rengas-nollav4.jpg","/product-pics-1/rengas-nollav5.jpg"],
+              "price": 210,
+              "text": "Firetoysin valmistama rengastrapetsi, jossa ei ole kiinnityspisteitä. Kiinnityspisteettömän rengastrapetsin voit kiinnittää nauhalenkeillä kaikilla eri tavoilla tarpeen mukaan eri käyttötarkoituksiin: Yhdestä kohdasta, kahdesta kohdasta tai useammasta kohdasta myös vaakatasoon kattokruunumaisesti. Saatavana viidessä eri koossa ja kahdessa eri värissä. Kuvien kiinnitystarvikkeet eivät sisälly hintaan.",
               "text2": "Putken paksuus 25 mm",
               "text3": "Työskentelypainoraja 260 kg",
               "text4": "",
@@ -2710,41 +2712,76 @@
                 {
                   "name": "85 cm / 5.4 kg",
                   "id": "firetoys-rengas-0-musta-85",
-                  "price": 200
+                  "price": 210
                 },
                 {
                   "name": "90 cm / 5.6 kg",
                   "id": "firetoys-rengas-0-musta-90",
-                  "price": 200
+                  "price": 210
                 },
                 {
                   "name": "95 cm / 6.0 kg",
                   "id": "firetoys-rengas-0-musta-95",
-                  "price": 200
+                  "price": 210
                 },
                 {
                   "name": "100 cm / 6.0 kg",
                   "id": "firetoys-rengas-0-musta-100",
-                  "price": 200
-                },
-                {
-                  "name": "105 cm / 6.4 kg",
-                  "id": "firetoys-rengas-0-musta-105",
-                  "price": 200
+                  "price": 210
                 }
               ],
               "link": "",
               "linktext": ""
             },
             {
-              "name": "Rengastrapetsi - 1 piste (musta)",
+              "name": "Rengastrapetsi - Valkoinen 0-piste",
+              "category": 1,
+              "subcategory": "rengastrapetsit",
+              "id": "firetoys-trapetsi-valkoinen",
+              "pic": "/product-pics-1/rengas-nollav.jpg",
+              "pics": ["/product-pics-1/rengas-nollav1.jpg","/product-pics-1/rengas-nollav2.jpg","/product-pics-1/rengas-nollav3.jpg","/product-pics-1/rengas-nollam2.jpg","/product-pics-1/rengas-nollav4.jpg","/product-pics-1/rengas-nollav5.jpg"],
+              "price": 220,
+              "text": "Rengastrapetsi, jossa ei ole kiinnityspisteitä. Kiinnityspisteettömän rengastrapetsin voit kiinnittää nauhalenkeillä kaikilla eri tavoilla tarpeen mukaan eri käyttötarkoituksiin: Yhdestä kohdasta, kahdesta kohdasta tai useammasta kohdasta myös vaakatasoon kattokruunumaisesti. Saatavana viidessä eri koossa ja kahdessa eri värissä. Kuvien kiinnitystarvikkeet eivät sisälly hintaan.",
+              "text2": "Putken paksuus 25 mm",
+              "text3": "Työskentelypainoraja 260 kg",
+              "text4": "",
+              "text5": "",
+              "choice": "Koko ja paino",
+              "options": [
+                {
+                  "name": "85 cm / 5.4 kg",
+                  "id": "firetoys-trapetsi-valkoinen-85",
+                  "price": 220
+                },
+                {
+                  "name": "90 cm / 5.6 kg",
+                  "id": "firetoys-trapetsi-valkoinen-90",
+                  "price": 220
+                },
+                {
+                  "name": "95 cm / 6.0 kg",
+                  "id": "firetoys-trapetsi-valkoinen-95",
+                  "price": 220
+                },
+                {
+                  "name": "100 cm / 6.0 kg",
+                  "id": "firetoys-trapetsi-valkoinen-100",
+                  "price": 220
+                }
+              ],
+              "link": "",
+              "linktext": ""
+            },
+     
+            {
+              "name": "Rengastrapetsi - Musta 1-piste",
               "category": 1,
               "subcategory": "rengastrapetsit",
               "id": "firetoys-rengas-1-musta",
-              "pic": "/product-pics-1/firetoys-rengas-1-musta.jpg",
-              "pics": [],
-              "price": 200,
-              "text": "Perinteinen yhden kiinnityspisteen rengastrapetsi. Saatavana kahdessa eri värissä. Mustaa löytyy kuudessa eri koossa (80 cm - 105 cm) ja valkoista neljässä koossa (90 cm - 105 cm). Koko on rengastrapetsin ulkohalkaisija.",
+              "pic": "/product-pics-1/rengas-yksim.jpg",
+              "pics": ["/product-pics-1/rengas-yksim0.jpg","/product-pics-1/rengas-yksim1.jpg","/product-pics-1/rengas-yksim2.jpg","/product-pics-1/rengas-yksim3.jpg"],
+              "price": 210,
+              "text": "Firetoysin valmistama perinteinen yhden kiinnityspisteen rengastrapetsi. Saatavana kahdessa eri värissä. Mustaa löytyy kuudessa eri koossa (80 cm - 105 cm) ja valkoista neljässä koossa (90 cm - 105 cm). Koko on rengastrapetsin ulkohalkaisija. Kuvien kiinnitystarvikkeet eivät sisälly hintaan.",
               "text2": "Putken paksuus 25 mm",
               "text3": "Työskentelypainoraja 180 kg",
               "text4": "Halkaisija 80 - 105 cm / Paino 5.4 - 6.6 kg",
@@ -2754,47 +2791,41 @@
                 {
                   "name": "80 cm / 5.4 kg",
                   "id": "firetoys-rengas-1-musta-80",
-                  "price": 200
+                  "price": 210
                 },
                 {
                   "name": "85 cm / 5.6 kg",
                   "id": "firetoys-rengas-1-musta-85",
-                  "price": 200
+                  "price": 210
                 },
                 {
                   "name": "90 cm / 5.8 kg",
                   "id": "firetoys-rengas-1-musta-90",
-                  "price": 200
+                  "price": 210
                 },
                 {
                   "name": "95 cm / 6.2 kg",
                   "id": "firetoys-rengas-1-musta-95",
-                  "price": 200
+                  "price": 210
                 },
                 {
                   "name": "100 cm / 6.4 kg",
                   "id": "firetoys-rengas-1-musta-100",
-                  "price": 200
-                },
-                {
-                  "name": "105 cm / 6.6 kg",
-                  "id": "firetoys-rengas-1-musta-105",
-                  "price": 200
+                  "price": 210
                 }
-
               ],
               "link": "",
               "linktext": ""
             },
             {
-              "name": "Rengastrapetsi - 1 piste (valkoinen)",
+              "name": "Rengastrapetsi - Valkoinen 1-piste",
               "category": 1,
               "subcategory": "rengastrapetsit",
               "id": "firetoys-rengas-1-valkoinen",
-              "pic": "/product-pics-1/firetoys-rengas-1-valkoinen.jpg",
-              "pics": [],
-              "price": 210,
-              "text": "Perinteinen yhden kiinnityspisteen rengastrapetsi. Saatavana kahdessa eri värissä: Musta helmiäinen ja Valkoinen kimalteleva. Mustaa löytyy kuudessa eri koossa (80 cm - 105 cm) ja valkoista neljässä koossa (90 cm - 105 cm). Koko on rengastrapetsin ulkohalkaisija.",
+              "pic": "/product-pics-1/rengas-yksiv.jpg",
+              "pics": ["/product-pics-1/rengas-yksiv0.jpg","/product-pics-1/rengas-yksiv1.jpg","/product-pics-1/rengas-yksim1.jpg","/product-pics-1/rengas-yksiv2.jpg","/product-pics-1/rengas-yksiv3.jpg","/product-pics-1/rengas-yksim3.jpg"],
+              "price": 220,
+              "text": "Firetoysin valmistama perinteinen yhden kiinnityspisteen rengastrapetsi. Saatavana kahdessa eri värissä: Musta helmiäinen ja Valkoinen kimalteleva. Mustaa löytyy kuudessa eri koossa (80 cm - 105 cm) ja valkoista neljässä koossa (90 cm - 105 cm). Koko on rengastrapetsin ulkohalkaisija. Kuvien kiinnitystarvikkeet eivät sisälly hintaan.",
               "text2": "Putken paksuus 25 mm",
               "text3": "Työskentelypainoraja 180 kg",
               "text4": "Halkaisija 90 - 105 cm / Paino 5.8 - 6.6 kg",
@@ -2804,24 +2835,18 @@
                 {
                   "name": "90 cm / 5.8 kg",
                   "id": "firetoys-rengas-1-valkoinen-90",
-                  "price": 210
+                  "price": 220
                 },
                 {
                   "name": "95 cm / 6.2 kg",
                   "id": "firetoys-rengas-1-valkoinen-95",
-                  "price": 210
+                  "price": 220
                 },
                 {
                   "name": "100 cm / 6.4 kg",
                   "id": "firetoys-rengas-1-valkoinen-100",
-                  "price": 210
-                },
-                {
-                  "name": "105 cm / 6.6 kg",
-                  "id": "firetoys-rengas-1-valkoinen-105",
-                  "price": 210
+                  "price": 220
                 }
-
               ],
               "link": "",
               "linktext": ""
@@ -2906,14 +2931,14 @@
           "pic2text": "Susanna Keskikohta-Mäki",
           "products": [
             {
-              "name": "Trapetsi (valkoinen)",
+              "name": "Trapetsi - Valkoinen",
               "category": 1,
               "subcategory": "trapetsit",
               "id": "firetoys-trapetsi-valkoinen",
               "pic": "/product-pics-1/trapeze0.jpg",
               "pics": ["/product-pics-1/trapeze1.jpg","/product-pics-1/trapeze2.jpg","/product-pics-1/trapeze3.jpg","/product-pics-1/trapeze4.jpg","/product-pics-1/trapeze5.jpg"],
               "price": 270,
-              "text": "Laadukkaassa Firetoys-trapetsissa on teräksinen tanko, terässilmukat köysien päissä sekä erityisvahvat köydet. Ennenvanhaan Firetoys-trapetseissa oli aina vaijeriydin köydessä, mutta nykyään tilalla on nelinkertainen kokoköysipunos, joka on notkea, joustava ja kestävä. Hyvä perustrapetsi kaikenlaiseen käyttöön. Trapetsia löytyy kahdessa värissä ja viidessä eri mitassa. Mustapunainen väri on valkoista hieman kalliimpi. Pikalukituskarabiinit sisältyvät hintaan.",
+              "text": "Laadukkaassa Firetoys-trapetsissa on teräksinen tanko, terässilmukat köysien päissä sekä erityisvahvat köydet. Ennenvanhaan Firetoys-trapetseissa oli aina vaijeriydin köydessä, mutta nykyään tilalla on nelinkertainen kokoköysipunos, joka on notkea, joustava ja kestävä. Hyvä perustrapetsi kaikenlaiseen käyttöön. Trapetsia löytyy kahdessa värissä ja viidessä eri mitassa. Musta väri on valkoista hieman kalliimpi. Pikalukituskarabiinit sisältyvät hintaan.",
               "text2": "Leveys 56 cm / Köysien pituus 1 - 3.5 m / Tangon paksuus 24 mm / Paino 2.5 kg (1 m köysillä)",
               "text3": "Työskentelypainoraja 400 kg (karabiinit 250 kg)",
               "text4": "",
@@ -2950,14 +2975,14 @@
               "linktext": ""
             },
             {
-              "name": "Trapetsi (mustapunainen)",
+              "name": "Trapetsi - Musta",
               "category": 1,
               "subcategory": "trapetsit",
               "id": "firetoys-trapetsi-musta",
               "pic": "/product-pics-1/trapezeblack0.jpg",
               "pics": ["/product-pics-1/trapezeblack1.jpg","/product-pics-1/trapezeblack2.jpg","/product-pics-1/trapezeblack3.jpg","/product-pics-1/trapezeblack4.jpg","/product-pics-1/trapezeblack5.jpg"],
               "price": 280,
-              "text": "Laadukkaassa Firetoys-trapetsissa on teräksinen tanko, terässilmukat köysien päissä sekä erityisvahvat köydet. Ennenvanhaan Firetoys-trapetseissa oli aina vaijeriydin köydessä, mutta nykyään tilalla on nelinkertainen kokoköysipunos, joka on notkea, joustava ja kestävä. Hyvä perustrapetsi kaikenlaiseen käyttöön. Trapetsia löytyy kahdessa värissä ja viidessä eri mitassa. Mustapunainen väri on valkoista hieman kalliimpi. Pikalukituskarabiinit sisältyvät hintaan.",
+              "text": "Laadukkaassa Firetoys-trapetsissa on teräksinen tanko, terässilmukat köysien päissä sekä erityisvahvat köydet. Ennenvanhaan Firetoys-trapetseissa oli aina vaijeriydin köydessä, mutta nykyään tilalla on nelinkertainen kokoköysipunos, joka on notkea, joustava ja kestävä. Hyvä perustrapetsi kaikenlaiseen käyttöön. Trapetsia löytyy kahdessa värissä ja viidessä eri mitassa. Musta väri on valkoista hieman kalliimpi. Pikalukituskarabiinit sisältyvät hintaan.",
               "text2": "Leveys 56 cm / Köysien pituus 1 - 3.5 m / Tangon paksuus 24 mm / Paino 2.5 kg (1 m köysillä)",
               "text3": "Työskentelypainoraja 400 kg (karabiinit 250 kg)",
               "text4": "",
@@ -3065,29 +3090,12 @@
           ]
         },
         {
-          "name": "Remmit (Straps)",
+          "name": "Remmit (Aerial Straps)",
           "pic": "/category-pics/remmit.jpg",
           "id": "remmit",
           "pic2": "",
           "pic2text": "",
           "products": [
-            {
-              "name": "Ilma-akrobatiaremmit - All in One -paketti",
-              "category": 1,
-              "subcategory": "remmit",
-              "id": "remmisetti",
-              "pic": "/product-pics-1/remmisetti.jpg",
-              "pics": [],
-              "price": 350,
-              "text": "Paketti sisältää valitsemasi väriset viiden metrin Firetoys ilma-akrobatiaremmit sekä kaiken mitä tarvitset remmien ammattimaiseen kiinnittämiseen. Pakettiin sisältyy Rock Empire -ankkurilevy remmien levittämistä varten, kolme CAMP-alumiinileikaria (svivelit) remmien ja kiinnityksen vapaan pyörimisen mahdollistamiseksi sekä tarvittavat neljä sulkulenkkiä (karabiinit) osien turvalliseen kiinnittämiseen. Katso tarkemmat tuotetiedot tuotteiden omista selosteista alempaa.",
-              "text2": "",
-              "text3": "",
-              "text4": "",
-              "text5": "",
-              "options": null,
-              "link": "",
-              "linktext": ""
-            },
             {
               "name": "Firetoys - Ilma-akrobatiaremmit (valkoinen)",
               "category": 1,
@@ -3124,8 +3132,8 @@
                   "price": 180
                 }
               ],
-              "link": "",
-              "linktext": ""
+              "link": "https://www.youtube.com/watch?v=_uyYPbzV9jU",
+              "linktext": "Katso video remmien esityskäytöstä."
             },
             {
               "name": "Firetoys - Ilma-akrobatiaremmit (musta)",
@@ -3163,8 +3171,8 @@
                   "price": 180
                 }
               ],
-              "link": "",
-              "linktext": ""
+              "link": "https://www.youtube.com/watch?v=_uyYPbzV9jU",
+              "linktext": "Katso video remmien esityskäytöstä."
             },
             {
               "name": "Prodigy - Ilma-akrobatiaremmit",
@@ -3173,7 +3181,7 @@
               "id": "prodigy-remmit",
               "pic": "/product-pics-1/prodigystraps.jpg",
               "pics": ["/product-pics-1/prodigystraps1.jpg", "/product-pics-1/prodigystraps2.jpg", "/product-pics-1/prodigystraps3.jpg", "/product-pics-1/prodigystraps4.jpg"],
-              "price": 150,
+              "price": 160,
               "text": "Prodigyn äärimmäisen mukavat puuvillasukalla päällystetyt remmit. Puuvillaisen sukan sisällä erittäin vahva polyesterinauha. Värinä vain luonnonvalkoinen.",
               "text2": "Pituus 5-10 m / Leveys 50 mm / Lenkki 30 cm",
               "text3": "Murtumispainoraja 2000 kg",
@@ -3197,8 +3205,8 @@
                   "price": 220
                 }
               ],
-              "link": "",
-              "linktext": ""
+              "link": "https://www.youtube.com/watch?v=_uyYPbzV9jU",
+              "linktext": "Katso video remmien esityskäytöstä."
             },
 
             {
@@ -3871,7 +3879,7 @@
               "subcategory": "taika",
               "id": "qualatex",
               "pic": "/product-pics-3/qualatex.jpg",
-              "pics": [],
+              "pics": ["/product-pics-3/qualatex2.jpg","/product-pics-3/qualatex3.jpg"],
               "price": 12,
               "text": "Niin kutsutut koirailmapallot, muotoiluilmapallot tai ilmapalloeläimet. Parasta laatua ilmapalloveistoksiisi! Qualatexin Pokkus-pussissa sekalaisia värejä 100 kpl.",
               "text2": "",
@@ -3890,7 +3898,7 @@
               "pic": "/product-pics-3/pumppu.jpg",
               "pics": [],
               "price": 5,
-              "text": "Qualatex Pokkus -ilmapallojen täyttäminen käy kätevästi tällä itse tarkoitukseen valmistetulla isokokoisella erikoispumpulla. Edullisesta hinnastaan huolimatta tämä malli on markkinoiden paras. Useita eri värejä.",
+              "text": "Qualatex Pokkus -ilmapallojen täyttäminen käy kätevästi tällä itse tarkoitukseen valmistetulla isokokoisella erikoispumpulla. Edullisesta hinnastaan huolimatta tämä malli on markkinoiden paras. Useita eri värejä. Saatavilla olevat värit vaihtelevat.",
               "text2": "",
               "text3": "",
               "text4": "",
@@ -4164,15 +4172,15 @@
               "linktext": ""
             },
             {
-              "name": "Bolottaako? - Sirkus Kumiankka - DVD (2. painos)",
+              "name": "Bolottaako? - DVD (2. painos)",
               "category": 3,
               "subcategory": "media",
               "id": "bolottaako",
               "pic": "/product-pics-3/bolottaako.jpg",
               "pics": [],
               "price": 20,
-              "text": "Ensimmäinen ja toistaiseksi ainoa suomenkielinen diabolo-opetusvideo. Toinen painos. Teos kartoittaa kolmen suomalaisen diabolo-ammattilaisen avulla lajia aina perustekniikoista vaikeampiin temppuihin ja temppuyhdistelmiin. Bolottaako? auttaa nuorta harrastajaa alkuun, ja antaa pidemmälle ehtineille vinkkejä kehitykseen ja esiintymisiin. Videolla nähdään taiteilijat Aaro Kontio, Marko Akkanen ja Samuli Männistö. Toinen painos sisältää myös lisälevyn, jolla on lisää bonusmateriaalia.",
-              "text2": "Suomenkielinen / 32 min + extrat + lisälevy / 2006",
+              "text": "Ensimmäinen ja toistaiseksi ainoa suomenkielinen diabolo-opetusvideo. Toinen painos. Sirkus Kumiankan teos kartoittaa kolmen suomalaisen diabolo-ammattilaisen avulla lajia aina perustekniikoista vaikeampiin temppuihin ja temppuyhdistelmiin. Bolottaako?-dvd auttaa nuorta harrastajaa alkuun, ja antaa pidemmälle ehtineille vinkkejä kehitykseen ja esiintymisiin. Videolla nähdään diabolo-taiteilijat Aaro Kontio, Marko Akkanen ja Samuli Männistö. Toinen painos sisältää myös lisälevyn, jolla on lisää bonusmateriaalia.",
+              "text2": "Sirkus Kumiankka / Suomenkielinen / 32 min + extrat + lisälevy / 2006",
               "text3": "",
               "text4": "",
               "text5": "",
@@ -4187,7 +4195,7 @@
               "id": "patakasi",
               "pic": "/product-pics-3/patakasi.jpg",
               "pics": [],
-              "price": 20,
+              "price": 25,
               "text": "Tämä video sisältää kahdeksan uutta (julkaistu 2005) close-up -korttitemppua Lauri Koskiselta. Videossa on selkeät selitykset jokaiseen temppuun, ja mukana on myös kaksi bonus taikatemppua sekä paljon extra-materiaalia, kuten mm. kuusi välitemppua ja kenttäkameralla kuvattua taikurin arkea. Temppujen oppiminen vaatii vankan teknisen osaamisen korttien käsittelyssä. Levyllä on nimensä mukaisesti kahdeksan temppua, joista jokaisen ympärille on mahdollista rakentaa pitempikin rutiini. Lauri Koskinen on vuoden 2005 ravintolataikuuden Suomen mestari.",
               "text2": "Suomenkielinen / 50 min / 2005",
               "text3": "\"Roimasti ylihintainen, mutta kannattaa ostaa!\" -Pete Poskiparta",
@@ -4207,21 +4215,21 @@
           "pic2text": "",
           "products": [
             {
-              "name": "Multi Bueno -T-paidat",
+              "name": "Multi Bueno -paidat",
               "category": 3,
               "subcategory": "paidat",
               "id": "mbpaita",
-              "pic": "/product-pics-3/mbpaita.jpg",
-              "pics": [],
-              "price": 10,
-              "text": "Jäikö vuoden 2015 Multi Bueno -festivaaleilta t-paita ostamatta? Ei hätää sillä paitoja on vielä jäljellä. Jäikö festivaalitkin välistä? Ei hätää sillä paidat ovat niin hienoja, ettei festivaalista tarvitse edes tietää mitään. Sekalainen valikoima eri kokoisia ja näköisiä paitoja. Kysy lisää. Ja festivaalistahan löytyy tietoa tutusta osoitteesta: www.multibuenofestival.com",
+              "pic": "/product-pics-3/multibueno3.jpg",
+              "pics": ["/product-pics-3/multibueno.jpg","/product-pics-3/multibueno1.jpg","/product-pics-3/multibueno2.jpg","/product-pics-3/multibueno4.jpg","/product-pics-3/multibueno5.jpg"],
+              "price": 15,
+              "text": "Jäikö vuoden 2015 Multi Bueno -festivaaleilta t-paita ostamatta? Ei hätää sillä paitoja on vielä jäljellä. Jäikö festivaalitkin välistä? Ei hätää sillä paidat ovat niin hienoja, ettei festivaalista tarvitse edes tietää mitään. Sekalainen valikoima eri kokoisia ja näköisiä paitoja. Kierrätettyjä paitoja. Käsin painatus silkkipainolla. Kysy lisää. Ja festivaalistahan löytyy tietoa tutusta osoitteesta:",
               "text2": "",
               "text3": "",
               "text4": "",
               "text5": "",
               "options": null,
-              "link": "",
-              "linktext": ""
+              "link": "http://www.multibuenofestival.com",
+              "linktext": "www.multibuenofestival.com"
             }
           ]
         }
