@@ -1764,8 +1764,78 @@
             }
           ]
         },
+        
         {
-          "name": "Muut jongleeraus",
+          "name": "Vanteet",
+          "pic": "/category-pics/vanteet.jpg",
+          "id": "Vanteet",
+          "pic2": "",
+          "pic2text": "",
+          "products": [
+            {
+              "name": "Play - Perfect Hoop 100/20",
+              "category": 0,
+              "subcategory": "Vanteet",
+              "id": "playhoop-100-20",
+              "pic": "/product-pics-0/playhoop-100-20-1.jpg",
+              "pics": ["/product-pics-0/playhoop-100-20-2.jpg","/product-pics-0/playhoop-100-20-3.jpg"],
+              "price": 25,
+              "choice":"Väri",
+              "text": "Rakkaalla lapsella on monta nimeä: Hulavanne (Hula Hoop), sirkusvanne (Circus Hoop), vannetanssivanne (Hoop Dancing), huuppausvanne (Hooping)... Playn valmistama laadukas vanne, joka on erinomaisen mukava käyttää ja lisäksi kokoontaitettava.",
+              "text2": "Materiaalina vanteessa HDPE eli tiivispolyeteeni. Liitoskohta käyristettyä alumiinia. Liitoskohta mahdollistaa kokoontaiton puolet pienempään tilaan, ja siksi tällaisia vanteita kutsutaan myös nimellä matkavanne (travel hoop). Liitoskohdan ansiosta vanteita voi myös ketjuttaa toisiinsa.",
+              "text3": "Paksumpi ja isompi vanne (100 mm / 20 mm) sopii hienosti aloittelijoille ja vannetanssiin, kun taas kevyempi ja pienempi (85 mm / 16 mm) sopii paremmin teknisempään temppuiluun, sirkustyylisiin vannetemppuihin ja useamman vanteen tekniikoihin.",
+              "text4": "Halkaisija 100 mm / Paksuus 20 mm / Paino 350 g",
+              "text5": "",
+              "options": [
+                {
+                  "name": "Valkoinen",
+                  "id": "playhoop-100-20-valkoinen",
+                  "price": 25
+                },
+                {
+                  "name": "Punainen",
+                  "id": "playhoop-100-20-punainen",
+                  "price": 25
+                }
+              ],
+              "link": "",
+              "linktext": ""
+            },
+            {
+              "name": "Play - Perfect Hoop 85/16",
+              "category": 0,
+              "subcategory": "Vanteet",
+              "id": "playhoop-85-16",
+              "pic": "/product-pics-0/playhoop-100-20-1.jpg",
+              "pics": ["/product-pics-0/playhoop-100-20-2.jpg","/product-pics-0/playhoop-100-20-3.jpg"],
+              "price": 25,
+              "choice":"Väri",
+              "text": "Rakkaalla lapsella on monta nimeä: Hulavanne (Hula Hoop), sirkusvanne (Circus Hoop), vannetanssivanne (Hoop Dancing), huuppausvanne (Hooping)... Playn valmistama laadukas vanne, joka on erinomaisen mukava käyttää ja lisäksi kokoontaitettava.",
+              "text2": "Materiaalina vanteessa HDPE eli tiivispolyeteeni. Liitoskohta käyristettyä alumiinia. Liitoskohta mahdollistaa kokoontaiton puolet pienempään tilaan, ja siksi tällaisia vanteita kutsutaan myös nimellä matkavanne (travel hoop). Liitoskohdan ansiosta vanteita voi myös ketjuttaa toisiinsa.",
+              "text3": "Paksumpi ja isompi vanne (100 mm / 20 mm) sopii hienosti aloittelijoille ja vannetanssiin, kun taas kevyempi ja pienempi (85 mm / 16 mm) sopii paremmin teknisempään temppuiluun, sirkustyylisiin vannetemppuihin ja useamman vanteen tekniikoihin.",
+              "text4": "Halkaisija 85 mm / Paksuus 16 mm / Paino 225 g",
+              "text5": "",
+              "options": [
+                {
+                  "name": "Valkoinen",
+                  "id": "playhoop-85-16-valkoinen",
+                  "price": 25
+                },
+                {
+                  "name": "Punainen",
+                  "id": "playhoop-85-16-punainen",
+                  "price": 25
+                }
+              ],
+              "link": "",
+              "linktext": ""
+            }
+
+
+          ]
+        },
+        {
+          "name": "Muut Jongleerausvälineet",
           "pic": "/category-pics/muut.jpg",
           "id": "muut",
           "pic2": "",
@@ -3552,7 +3622,7 @@
               "subcategory": "yksipyoraiset",
               "id": "kh20",
               "pic": "/product-pics-2/kh20.jpg",
-              "pics": ["/product-pics-2/kh204.jpg","/product-pics-2/kh203.jpg","/product-pics-2/kh207.jpg"],
+              "pics": ["/product-pics-2/kh204.jpg","/product-pics-2/kh203.jpg","/product-pics-2/kh207.jpg","/product-pics-2/kh205.jpg","/product-pics-2/kh206.jpg"],
               "price": 499,
               "text": "Rakennettu kestämään pahoinpitelyä ja väärinkäyttöä. Kris Holm -nimikkopyörä on suunniteltu nimenomaan trial-ajoon, kovaan katukäyttöön sekä kaupunkitemppuiluun. KH20 on lähes kaikkien kilpailevien Trial-ammattilaisten valinta. Kevyt, laadukas ja äärimmäisen kestävä. Yksipyöräisten eliittiä. Alla olevalta videolta voit todistaa tämän pyörän mahdollisuudet.",
               "text2": "Ajajan suositeltu maksimipaino 100 kg.",
@@ -4011,6 +4081,79 @@
           "pic2text": "",
           "products": [
             {
+              "name": "The Art of Juggling - Nikolay Ernestovich Bauman",
+              "category": 3,
+              "subcategory": "media",
+              "id": "artofjuggling",
+              "pic": "/product-pics-3/artofjuggling.jpg",
+              "pics": [],
+              "price": 25,
+              "text": "Neuvostoliiton sirkuskoulut kouluttivat jotkut viime vuosisadan parhaista teknisistä jonglööreistä. Jos sinua kiinnostaa jongleeraustaitojesi kehitys, nyt voit vihdoin syventää osaamistasi samasta kirjasta kuin suuret Neuvostojonglöörit aikanaan.",
+              "text2": "Nikolay E. Bauman oli tunnettu Venäläinen jonglööri, joka valmistui Moskovan Valtiollisesta Sirkus- ja Varieteetaiteen koulusta vuonna 1930. Hänestä tuli professori samaiseen kouluun vuonna 1947. Nyt hänen alunperin vuonna 1962 julkaisema kirja on vihdoin käännetty englanniksi. ",
+              "text3": "153 sivua pelkkää asiaa sekä 169 havainnollistavaa piirustusta tarjoavat jokaiselle jonglöörillekin jotain uutta. Tekniikka, ajatusmallit ja harjoitukset käydään läpi perinpohjaisesti. Perusteet, menneiden aikojen unohdetut erikoistemput sekä monien suurten jonglöörien legendaarisia temppuja selitetään ja käydään läpi kirjan sivuilla. Selostusta löytyy myös itserakennetuista välineistä sekä passailusta.",
+              "text4": "Kauttaaltaan korvaamaton ja äärimmäisen kiinnostava teos.",
+              "text5": "Englanninkielinen / 153 sivua / pehmeäkantinen / 2019 (1962)",
+              "options": null,
+              "link": "",
+              "linktext": ""
+            },
+
+            {
+              "name": "Sirkus Nyt - Emma Vainio",
+              "category": 3,
+              "subcategory": "media",
+              "id": "sirkusnyt",
+              "pic": "/product-pics-3/sirkusnyt.jpg",
+              "pics": [],
+              "price": 35,
+              "text": "Sirkus nyt on tietokirja suomalaisesta nykysirkuksesta ja värikkäästä sirkuskulttuurista ja -historiasta. Suomalainen nykysirkus on kansainvälisesti arvostettua, ja sen ensimmäiset uudet ja rohkeat muodot alkoivat kehittyä 1990-luvulla. Nyt sen tarina on koottu kansien väliin, ja myös sirkusammattilaiset pääsevät kertomaan omia ajatuksiaan ja kokemuksiaan. Minkälaista on maailman näyttämöillä häikäisevän nykysirkustaiteilijan kiertolaiselämä ilman kotia? Entä mitä trampoliiniakrobaatti ajattelee ilmassa?",
+              "text2": "Kirjan upeat valokuvat korostavat painovoimaa uhmaavien taiteilijoiden ja illuusioiden mestarien taituruutta.",
+              "text3": "Sirkus nyt sukeltaa myös sirkuslajien historiaan ja sirkuksen kehitykseen vuosien saatossa. Miksi klovnilla on punainen nenä, entä minkälaisia olivat maailman ensimmäiset, eskimoiden mursunnahkaiset trampoliinit?",
+              "text4": "Suomenkielinen / 280 sivua / kovakantinen / 2019",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": ""
+            },
+
+            {
+              "name": "Juggling - From Antiquity to the Middle Ages - Thom Wall",
+              "category": 3,
+              "subcategory": "media",
+              "id": "thomwall",
+              "pic": "/product-pics-3/thomwallbook.jpg",
+              "pics": [],
+              "price": 25,
+              "text": "Ihmiset ovat heitelleet esineitä jo vuosituhansien ajan joka puolella maailmaa viihdyttämisen, leikin ja rituaalien vuoksi. Kirjassaan kansainvälisesti tunnettu jonglööri Thom Wall vie lukijat jännittävälle matkalle jongleerauksen historiaan tutkimalla tätä fyysistä taitoa erilaisissa kulttuureissa eri aikakausina.",
+              "text2": "Teos on lähtökohdiltaan akateeminen, mutta helppolukuinen. Se on yksityiskohtainen katsaus jongleerauksen kehitykseen ja kasvuun suurkaupungeissa sekä syrjäisemmissä kohteissa ympäri maailman. Kirja alkaa muinaisesta Egyptistä ja päättyy keskiajalle. Kirjassa tarkastellaan jongleerauksen historiaa erittäin perusteellisesti lukuisten tieteellisten teosten kautta.",
+              "text3": "Wallin antropologiaa ja historiaa yhdistelevä ainutlaatuinen teos on mukaansatempaavaa luettavaa ja se sopii sirkusammattilaisille sekä maallikoille. ",
+              "text4": "Englanninkielinen / 129 sivua / pehmeäkantinen / 2019",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": ""
+            },
+
+            {
+              "name": "Huijauksen Anatomia - Pete Poskiparta ja Jose Ahonen",
+              "category": 3,
+              "subcategory": "media",
+              "id": "huijaus",
+              "pic": "/product-pics-3/huijauksenanatomia.jpg",
+              "pics": [],
+              "price": 25,
+              "text": "Kaksi ammattimentalistia ja arkihuijauksen asiantuntijaa, Pete Poskiparta ja Jose Ahonen, avaavat huijaamisen maailmaa. Miksi meitä huijataan ja kuka meitä huijaa? Miksi huijarin yksinkertaiset menetelmät tehoavat ja mikä saa meidät suorastaan tarjoamaan itseämme huijareiden käytettäväksi? ",
+              "text2": "Huijaus vie lukijansa kiehtovalle matkalle ihmisten korvien väliin eli sinne missä huijaukset saavat alkunsa ja mihin ne yleensä myös päättyvät. Kirjassa avataan huijareiden menetelmiä, toimintaperiaatteita ja pohditaan lukuisten asiantuntijahaastatteluiden pohjalta huijauksen toimintaa. Oman näkemyksensä antavat mm. Psykiatrisen vankisairaalan ylilääkäri Hannu Lauerma sekä KRP:n psykologi, joka teetti Poskiparralle ja Ahoselle valheenpaljastuskokeen.",
+              "text3": "Mikä paljasti valheen? Voiko ammattihuijari huijatavalheenpaljastuskonetta? Kansien väliin kerätty tieto auttaa tunnistamaan huijarin jo kaukaa. Huijauksen anatomia saattaa siis olla hyödyllisin kirja jonka olet lukenut pitkään aikaan. ",
+              "text4": "Suomenkielinen / 176 sivua / kovakantinen / 2018",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": ""
+            },
+
+
+            {
               "name": "If You Are a Juggler... - Alexander Kiss",
               "category": 3,
               "subcategory": "media",
@@ -4060,60 +4203,7 @@
               "options": null,
               "link": "",
               "linktext": ""
-            },
-            {
-              "name": "Juggling - From Antiquity to the Middle Ages - Thom Wall",
-              "category": 3,
-              "subcategory": "media",
-              "id": "thomwall",
-              "pic": "/product-pics-3/thomwallbook.jpg",
-              "pics": [],
-              "price": 25,
-              "text": "Ihmiset ovat heitelleet esineitä jo vuosituhansien ajan joka puolella maailmaa viihdyttämisen, leikin ja rituaalien vuoksi. Kirjassaan kansainvälisesti tunnettu jonglööri Thom Wall vie lukijat jännittävälle matkalle jongeerauksen historiaan tutkimalla tätä fyysistä taitoa erilaisissa kulttuureissa eri aikakausina.",
-              "text2": "Teos on lähtökohdiltaan akateeminen, mutta helppolukuinen ja se on yksityiskohtainen katsaus jongleerauksen kehitykseen ja kasvuun suurkaupungeissa, sekä syrjäisemmissä kohteissa ympäri maailman. Kirja alkaa muinaisesta egyptistä ja päättyy keskiajalle ja siinä tarkastellaan jongleerauksen historiaa erittäin perusteellisesti lukuisten tieteellisten teosten kautta.",
-              "text3": "Wallin antropologiaa ja historiaa yhdistelevä uniikki teos on mukaansatempaavaa luettavaa ja se sopii sirkusammattilaisille sekä maallikoille. ",
-              "text4": "Englanninkielinen / 129 sivua / pehmeäkantinen / 2019",
-              "text5": "",
-              "options": null,
-              "link": "",
-              "linktext": ""
-            },
-
-            {
-              "name": "Huijauksen Anatomia - Pete Poskiparta ja Jose Ahonen",
-              "category": 3,
-              "subcategory": "media",
-              "id": "huijaus",
-              "pic": "/product-pics-3/huijauksenanatomia.jpg",
-              "pics": [],
-              "price": 25,
-              "text": "Kaksi ammattimentalistia ja arkihuijauksen asiantuntijaa, Pete Poskiparta ja Jose Ahonen, avaavat huijaamisen maailmaa. Miksi meitä huijataan ja kuka meitä huijaa? Miksi huijarin yksinkertaiset menetelmät tehoavat ja mikä saa meidät suorastaan tarjoamaan itseämme huijareiden käytettäväksi? ",
-              "text2": "Huijaus vie lukijansa kiehtovalle matkalle ihmisten korvien väliin eli sinne missä huijaukset saavat alkunsa ja mihin ne yleensä myös päättyvät. Kirjassa avataan huijareiden menetelmiä, toimintaperiaatteita ja pohditaan lukuisten asiantuntijahaastatteluiden pohjalta huijauksen toimintaa. Oman näkemyksensä antavat mm. Psykiatrisen vankisairaalan ylilääkäri Hannu Lauerma sekä KRP:n psykologi, joka teetti Poskiparralle ja Ahoselle valheenpaljastuskokeen.",
-              "text3": "Mikä paljasti valheen? Voiko ammattihuijari huijatavalheenpaljastuskonetta? Kansien väliin kerätty tieto auttaa tunnistamaan huijarin jo kaukaa. Huijauksen anatomia saattaa siis olla hyödyllisin kirja jonka olet lukenut pitkään aikaan. ",
-              "text4": "Suomenkielinen / 176 sivua / kovakantinen / 2018",
-              "text5": "",
-              "options": null,
-              "link": "",
-              "linktext": ""
-            },
-            
-            {
-              "name": "Sirkus Nyt - Emma Vainio",
-              "category": 3,
-              "subcategory": "media",
-              "id": "sirkusnyt",
-              "pic": "/product-pics-3/sirkusnyt.jpg",
-              "pics": [],
-              "price": 35,
-              "text": "Sirkus nyt on tietokirja suomalaisesta nykysirkuksesta ja värikkäästä sirkuskulttuurista ja -historiasta. Suomalainen nykysirkus on kansainvälisesti arvostettua, ja sen ensimmäiset uudet ja rohkeat muodot alkoivat kehittyä 1990-luvulla. Nyt sen tarina on koottu kansien väliin, ja myös sirkusammattilaiset pääsevät kertomaan omia ajatuksiaan ja kokemuksiaan. Minkälaista on maailman näyttämöillä häikäisevän nykysirkustaiteilijan kiertolaiselämä ilman kotia? Entä mitä trampoliiniakrobaatti ajattelee ilmassa?",
-              "text2": "Kirjan upeat valokuvat korostavat painovoimaa uhmaavien taiteilijoiden ja illuusioiden mestarien taituruutta.",
-              "text3": "Sirkus nyt sukeltaa myös sirkuslajien historiaan ja sirkuksen kehitykseen vuosien saatossa. Miksi klovnilla on punainen nenä, entä minkälaisia olivat maailman ensimmäiset, eskimoiden mursunnahkaiset trampoliinit?",
-              "text4": "Suomenkielinen / 280 sivua / kovakantinen / 2019",
-              "text5": "",
-              "options": null,
-              "link": "",
-              "linktext": ""
-            },
+            },            
             
             {
               "name": "Suuri Suomalainen Taikatemppukirja",
@@ -4157,7 +4247,7 @@
               "pic": "/product-pics-3/completejuggler.jpg",
               "pics": [],
               "price": 25,
-              "text": "Jonglöörin raamatuksi kutsuttu teos. Ennen internetin ihmeaikaa tämä oli korvaamaton teos kaikille jongleerauksesta kiinnostuneille. Dave Finnigan käy läpi kirjassaan pallot, keilat, renkaat, diabolot, devilstickin, huivit ja hatut useiden vinkkien ja kikkojen kera. Kaikki on selkeästi kuvitettu koko kirjan mitalta. Läpi käydään myös itse jongleerausta sivuavia aiheita, kuten työpajojen pitäminen, jongleerausleikit, elannon ansaitseminen jongleerauksella, jne.",
+              "text": "Vanha jonglöörin raamatuksi kutsuttu teos. Ennen internetin ihmeaikaa tämä oli korvaamaton teos kaikille jongleerauksesta kiinnostuneille. Dave Finnigan käy läpi kirjassaan pallot, keilat, renkaat, diabolot, devilstickin, huivit ja hatut useiden vinkkien ja kikkojen kera. Kaikki on selkeästi kuvitettu koko kirjan mitalta. Läpi käydään myös itse jongleerausta sivuavia aiheita, kuten työpajojen pitäminen, jongleerausleikit, elannon ansaitseminen jongleerauksella, jne.",
               "text2": "Englanninkielinen / 560 sivua / pehmeäkantinen / 1992",
               "text3": "",
               "text4": "",
