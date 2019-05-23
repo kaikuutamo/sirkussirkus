@@ -2921,6 +2921,93 @@
               "link": "",
               "linktext": ""
             },
+            
+            {
+              "name": "Firetoys - Käsilenkki",
+              "category": 1,
+              "subcategory": "rengastrapetsit",
+              "id": "kasilenkki",
+              "pic": "/product-pics-1/kasilenkki.jpg",
+              "pics": ["/product-pics-1/kasilenkki2.jpg","/product-pics-1/kasilenkki3.jpg","/product-pics-1/kasilenkki4.jpg"],
+              "choice":"Väri",
+              "price": 29,
+              "text": "Erittäin kestävä ja erittäin mukava käsilenkki esimerkiksi rengastrapetsin tai köyden kiinnityspisteen kanssa käytettäväksi. Käsilenkki on päällystetty puuvillasukalla samoin kuin Firetoysin päällystetyt ilma-akrobatiaköydet.",
+              "text2": "Lenkissä on mukana lukkolenkki, jota voi käyttää lisävarmistuksena lipeämisen varalta. Käsilenkkiä voi myös käyttää voimaharjoitteluun tai ranteen kuntoutukseen haluamallaan tavalla.",
+              "text3": "Pituus 49 cm",
+              "text4": "Työskentelypainoraja 1700 kg",
+              "text5": "",
+              "options": [
+                {
+                  "name": "Valkoinen",
+                  "id": "kasilenkki-valkoinen",
+                  "price": 29
+                },
+                {
+                  "name": "Punainen",
+                  "id": "kasilenkki-punainen",
+                  "price": 29
+                },
+                {
+                  "name": "Musta",
+                  "id": "kasilenkki-musta",
+                  "price": 29
+                }
+              ],
+              "link": "",
+              "linktext": ""
+            },
+            {
+              "name": "Trapetsiteippi",
+              "category": 1,
+              "subcategory": "rengastrapetsit",
+              "id": "trapetsiteippi",
+              "pic": "/product-pics-1/trapetsiteippi.jpg",
+              "pics": [],
+              "choice":"Väri",
+              "price": 22,
+              "text": "Pehmeä, mukava, kestävä ja vähän tahmaava teippi trapetsin, rengastrapetsin ja muiden välineiden teippaukseen. Monissa kangasteipeissä ongelmaksi muodostuu ilma-akrobatiavälineiden kanssa teipin liika tahmaisuus tai liiman läpitunkeutuminen sisäpuolelta ulkopuolelle käytössä. Juuri tähän pulmaan Firetoys on tämän trapetsiteipin kehitetty. Vähemmän tahmaa, mutta kuitenkin hyvää pitoa ja mukavaa tuntumaa.",
+              "text2": "Yhdellä 50 metrin rullalla päällystää noin 4 rengastrapetsia. Valmistaja Firetoys.",
+              "text3": "Leveys 25 mm / Pituus 50 m",
+              "text4": "",
+              "text5": "",
+              "options": [
+                {
+                  "name": "Valkoinen",
+                  "id": "trapetsiteippi_valkoinen",
+                  "price": 22
+                },
+                {
+                  "name": "Musta",
+                  "id": "trapetsiteippi_musta",
+                  "price": 22
+                },
+                {
+                  "name": "Keltainen",
+                  "id": "trapetsiteippi_keltainen",
+                  "price": 22
+                },
+                {
+                  "name": "Punainen",
+                  "id": "trapetsiteippi_punainen",
+                  "price": 22
+                },
+                {
+                  "name": "Sininen",
+                  "id": "trapetsiteippi_sininen",
+                  "price": 22
+                },
+                {
+                  "name": "Vihreä",
+                  "id": "trapetsiteippi_vihrea",
+                  "price": 22
+                }
+              ],
+
+              
+              "link": "",
+              "linktext": ""
+            },
+           
             {
               "name": "CAMP - Leikari (sviveli)",
               "category": 1,
@@ -3085,6 +3172,57 @@
                   "price": 260
                 }
               ],
+              "link": "",
+              "linktext": ""
+            },
+            {
+              "name": "Trapetsiteippi",
+              "category": 1,
+              "subcategory": "trapetsit",
+              "id": "trapetsiteippi",
+              "pic": "/product-pics-1/trapetsiteippi.jpg",
+              "pics": [],
+              "choice":"Väri",
+              "price": 22,
+              "text": "Pehmeä, mukava, kestävä ja vähän tahmaava teippi trapetsin, rengastrapetsin ja muiden välineiden teippaukseen. Monissa kangasteipeissä ongelmaksi muodostuu ilma-akrobatiavälineiden kanssa teipin liika tahmaisuus tai liiman läpitunkeutuminen sisäpuolelta ulkopuolelle käytössä. Juuri tähän pulmaan Firetoys on tämän trapetsiteipin kehitetty. Vähemmän tahmaa, mutta kuitenkin hyvää pitoa ja mukavaa tuntumaa.",
+              "text2": "Yhdellä 50 metrin rullalla päällystää noin 4 rengastrapetsia. Valmistaja Firetoys.",
+              "text3": "Leveys 25 mm / Pituus 50 m",
+              "text4": "",
+              "text5": "",
+              "options": [
+                {
+                  "name": "Valkoinen",
+                  "id": "trapetsiteippi_valkoinen",
+                  "price": 22
+                },
+                {
+                  "name": "Musta",
+                  "id": "trapetsiteippi_musta",
+                  "price": 22
+                },
+                {
+                  "name": "Keltainen",
+                  "id": "trapetsiteippi_keltainen",
+                  "price": 22
+                },
+                {
+                  "name": "Punainen",
+                  "id": "trapetsiteippi_punainen",
+                  "price": 22
+                },
+                {
+                  "name": "Sininen",
+                  "id": "trapetsiteippi_sininen",
+                  "price": 22
+                },
+                {
+                  "name": "Vihreä",
+                  "id": "trapetsiteippi_vihrea",
+                  "price": 22
+                }
+              ],
+
+              
               "link": "",
               "linktext": ""
             },
@@ -3591,14 +3729,54 @@
                   "price": 149
                 },
                 {
+                  "name": "Musta",
+                  "id": "quaxluxus-musta",
+                  "price": 149
+                },
+                {
                   "name": "Valkoinen karvasatulalla",
                   "id": "quaxluxus-valkoinen",
-                  "price": 160
+                  "price": 159
                 }
               ],
               "link": "",
               "linktext": ""
             },
+            {
+              "name": "QU-AX Luxus 16\"",
+              "category": 2,
+              "subcategory": "yksipyoraiset",
+              "id": "quaxluxus16",
+              "pic": "/product-pics-2/quaxluxus16.jpg",
+              "pics": [],
+              "price": 129,
+              "text": "Pienemmille lapsille tarkoitettu 16 tuuman renkaalla varustettu yksipyöräinen. QU-AX valmistaa tunnetusti maailman parhaat yksipyöräiset. 28 pinnaa 16 tuuman renkaassa. Peruspolkimet hyvällä pidolla. Mukava satula vaihdettavilla puskureilla. Näppärä korkeudensäätö. Luxus mallin mukana saat kaksi satulaputkea (200 mm ja 300 mm), joten säästyt satulaputken sahaukselta. ",
+              "text2": "",
+              "text3": "Ajajan suositeltu minimi haarakorkeus noin 50 cm.",
+              "text4": "Paino 6,5 kg",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": ""
+            },
+            {
+              "name": "QU-AX Minibike 6\"",
+              "category": 2,
+              "subcategory": "yksipyoraiset",
+              "id": "quaxminibike",
+              "pic": "/product-pics-2/quaxminibike.jpg",
+              "pics": ["/product-pics-2/quaxminibike2.jpg","/product-pics-2/quaxminibike3.jpg"],
+              "price": 249,
+              "text": "6\" minipolkupyörä aikuisille. Kyllä, aikuisille. Ei lapsille. Toki lapsetkin voivat pyörällä ajella. Ei mitenkään järin miellyttävä ajaa, mutta sitäkin hauskempi kulkupeli. Huomiosi on taattu, ja kaikki ehtivät katsella sinua riittävän pitkään, sillä tällä pyörällä matkanteko kestää tuskastuttavan kauan vaikka sotkisit vimmatusti. Huomaa, että valmistaja ei ole antanut mitään paino- tai kokosuosituksia tälle pyörälle. Eli tämä soveltuu sinulle jos olet tarpeeksi kahjo. Tehty kestämään. Käyttö omalla vastuulla.",
+              "text2": "6 tuuman PU-pyörät. Teräskammet ja ketjusuojus. Kromattu ohjaustanko. Satula synteettistä nahkaa niiteillä. Seisontatuki.",
+              "text3": "Hommaa kaverille kanssa, niin voitte pitää kilpailuja!",
+              "text4": "",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": ""
+            },
+            
             {
               "name": "QU-AX Giraffe 20\" -kirahvipyörä",
               "category": 2,
@@ -3781,7 +3959,7 @@
       "subcategories": [
         {
           "name": "Hyppynarut",
-          "pic": "/category-pics/hyppynaru.jpg",
+          "pic": "/category-pics/hyppynarut.jpg",
           "id": "hyppynarut",
           "pic2": "",
           "pic2text": "",
@@ -4230,7 +4408,7 @@
               "pic": "/product-pics-3/karlheinz.jpg",
               "pics": [],
               "price": 185,
-              "text": "Kattavin ikinä julkaistu teos jongleerauksen historiasta alkaen Egyptin hautakammioista vuodesta 1994 ennen ajanlaskun alkua, jatkuen aina moderniin aikaan ja nykyisiin innovaatioihin asti. Melkein 600 sivua kovissa kansissa, joita värittävät yli 1000 kuvaa ja piirustusta suoraan kirjailijan itsensä henkilökohtaisista kokoelmista. Karl-Heinz Ziethen on dokumentoinut jongleerauksen kehitystä jo viiden vuosikymmenen ajan Berliinistä käsin. Teos on sukellus Zithenin intohimoon ja elämäntyöhön historioitsijana ja jongleerauksen ystävänä.",
+              "text": "Kattavin ikinä julkaistu teos jongleerauksen historiasta alkaen Egyptin hautakammioista vuodesta 1994 ennen ajanlaskun alkua, jatkuen aina moderniin aikaan ja nykyisiin innovaatioihin asti. Melkein 600 sivua kovissa kansissa, joita värittävät yli 1000 kuvaa ja piirustusta suoraan kirjailijan itsensä henkilökohtaisista kokoelmista. Karl-Heinz Ziethen on dokumentoinut jongleerauksen kehitystä jo viiden vuosikymmenen ajan Berliinistä käsin. Teos on sukellus Ziethenin intohimoon ja elämäntyöhön historioitsijana ja jongleerauksen ystävänä.",
               "text2": "Englanninkielinen / 596 sivua / kovakantinen / 2017",
               "text3": "",
               "text4": "",
