@@ -12,13 +12,12 @@
           "pic2text": "Kai Kuutamo, Valokuvaaja: Antti Siitonen",
           "products": [
             {
+              
               "name": "Kuutamo 75 mm",
               "category": 0,
               "subcategory": "pallot",
               "pic": "/product-pics-0/kuutamo75.jpg",
-              "pics": [
-                "/product-pics-0/kuutamomeri.jpg"
-              ],
+              "pics": ["/product-pics-0/kuutamomeri.jpg"],
               "id": "kuutamo75",
               "price": 6,
               "choice": "Väri",
@@ -60,9 +59,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Kuutamo 60 mm",
@@ -70,9 +67,7 @@
               "subcategory": "pallot",
               "id": "kuutamo60",
               "pic": "/product-pics-0/kuutamo60.jpg",
-              "pics": [
-                "/product-pics-0/kuutamo60b.jpg"
-              ],
+              "pics": ["/product-pics-0/kuutamo60b.jpg"],
               "price": 6,
               "text": "Pienempi Kuutamo-pallo pienemmille jonglööreille tai jonglööreille, jotka haluavat heittää yli kymmentä palloa. Pallo on niin kutsuttu venäläistyylinen pallo, jossa on ohuen kuoren sisällä vain 1/3 hiekkatäytettä. Vapaasti liikkuva hiekka antaa pallolle vakautta ilmassa pallon kevyestä painosta huolimatta. Keveys taas helpottaa korkeita heittoja ja yli seitsemän pallon jongleerauskuvioita. Lisäksi pudotessaan pallo jää hiekan ansiosta usein aloilleen, eikä vieri niin kauas kuin näyttämö- tai tekstiilipallot. Kuutamo-pallot sopivat erinomaisesti myös aloittelijoille.",
               "text2": "60 mm / 60 g",
@@ -81,9 +76,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Record Beanbag 62mm",
@@ -91,10 +84,7 @@
               "subcategory": "pallot",
               "id": "record",
               "pic": "/product-pics-0/record2.jpg",
-              "pics": [
-                "/product-pics-0/record3.jpg",
-                "/product-pics-0/record1.jpg"
-              ],
+              "pics": ["/product-pics-0/record3.jpg", "/product-pics-0/record1.jpg"],
               "price": 13,
               "text": "Mister Babachen valmistama huippulaadukas tekstiilipallo (beanbag) näyttää hyvältä ja tuntuu mahtavalta! Kestävää ja laadukasta tekonahkaa. Valmiiksi pehmeä ja kokonsa puolesta hyvin pienempäänkin käteen istuva. Nimensä mukaisesti näillä pallolla myös tehdään jongleerausmäärissä ennätyksiä. Kokonsa ja pehmeytensä ansiosta niitä on helppo ahtaa käsiin ennätysmääriä. 6-osainen. Täytteenä hirssi.",
               "text2": "62 mm / 130 g",
@@ -103,9 +93,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Deluxe Beanbag 76 mm",
@@ -113,9 +101,7 @@
               "subcategory": "pallot",
               "id": "deluxebeanbag",
               "pic": "/product-pics-0/deluxe.jpg",
-              "pics": [
-                "/product-pics-0/deluxe2.jpg"
-              ],
+              "pics": ["/product-pics-0/deluxe2.jpg"],
               "price": 9,
               "text": "Henrysin laadukkain tekstiilipallo (beanbag). 4-osainen. Reilun kokoinen ja tuntuvan painoinen aikuiseen käteen tai näyttämölle. Niin sanottua heittosäkkien aatelia! Ehdottomasti yksi parhaista tehdasvalmisteisista tekstiilipalloista. Pintamateriaaliani on mattapintainen laadukas sekä miellyttävä tekonahka ja täytteenä hirssi. Aluksi kovan tuntuinen pallo, joka pehmenee käytössä.",
               "text2": "76 mm / 167 g",
@@ -124,9 +110,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Bubble 63mm",
@@ -142,7 +126,7 @@
               "text3": "",
               "text4": "",
               "text5": "",
-              "options": [
+              "options":[
                 {
                   "name": "Valkoinen",
                   "id": "bubble_valkoinen",
@@ -185,9 +169,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Red Velvet 100mm",
@@ -204,20 +186,16 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
+            
             {
               "name": "Turbo Bouncing Ball 63 mm",
               "category": 0,
               "subcategory": "pallot",
               "id": "turbobouncing63",
               "pic": "/product-pics-0/turbo4.jpg",
-              "pics": [
-                "/product-pics-0/turbo0.jpg",
-                "/product-pics-0/turbo6.jpg"
-              ],
+              "pics": ["/product-pics-0/turbo0.jpg", "/product-pics-0/turbo6.jpg"],
               "price": 15,
               "text": "Mister Babachen edullinen mutta laadukas vaihtoehto kalliille silikonipomppupallolle. Pinnassa miellyttävä viimeistely ja hyvä pito. Pomppu on yhtä hyvä kuin silikonipallossa, mutta pallomateriaali on arka kylmyydelle. +15 asteen lämmöstä alaspäin pomppu huononee huomattavasti. Muutoin erinomainen pomppupallo hyvällä hintalaatusuhteella. Kesäkeleillä ja sisätiloissa toimii moitteetta.",
               "text2": "63 mm / 160 g",
@@ -257,9 +235,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Turbo Bouncing Ball 69 mm",
@@ -267,10 +243,7 @@
               "subcategory": "pallot",
               "id": "turbobouncing69",
               "pic": "/product-pics-0/turbo3.jpg",
-              "pics": [
-                "/product-pics-0/turbo0.jpg",
-                "/product-pics-0/turbo6.jpg"
-              ],
+              "pics": ["/product-pics-0/turbo0.jpg", "/product-pics-0/turbo6.jpg"],
               "price": 17,
               "choice": "Väri",
               "text": "Mister Babachen edullinen mutta laadukas vaihtoehto kalliille silikonipomppupallolle. Pinnassa miellyttävä viimeistely ja hyvä pito. Pomppu on yhtä hyvä kuin silikonipallossa, mutta pallomateriaali on arka kylmyydelle. +15 asteen lämmöstä alaspäin pomppu huononee huomattavasti. Muutoin erinomainen pomppupallo hyvällä hintalaatusuhteella. Kesäkeleillä ja sisätiloissa toimii moitteetta.",
@@ -311,9 +284,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Stage Ball 72mm",
@@ -367,9 +338,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Stage Ball 80mm",
@@ -423,9 +392,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Stage Ball 100mm",
@@ -479,9 +446,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             }
           ]
         },
@@ -498,18 +463,15 @@
               "subcategory": "keilat",
               "id": "delphin",
               "pic": "/product-pics-0/delphin.jpg",
-              "pics": [
-                "/product-pics-0/delphin2.jpg",
-                "/product-pics-0/delphin-custom.jpg"
-              ],
+              "pics": [ "/product-pics-0/delphin2.jpg","/product-pics-0/delphin-custom.jpg"],
               "price": 20,
-              "choice": "Väri",
+              "choice":"Väri",
               "text": "Delphinissä yhdistyvät jongleerauskeilan parhaat ominaisuudet sekä edullinen hinta. Parempaa hintalaatusuhdetta saa hakea. Tätä keilaa käyttävät miltei kaikki vakavasti otettavat Pohjoismaiset jonglöörit. Keilan hoikka vartalo mahdollistaa jongleerauksen aina yhdeksään keilaan asti (Emil Dahl). Saumaton polyeteenikahva on kestävä ja antaa hyvän otteen käden kokoon katsomatta. Saarnipuinen ydin kestää kovemmankin löylytyksen ja myös huonot päivät. Kaiken kukkuraksi keila on vielä helppo korjata tarvittaessa osa kerrallaan. Paras keila niin aloittelijalle kuin ammattilaisellekin. ",
               "text2": "52 cm / 210 g",
               "text3": "",
               "text4": "",
               "text5": "",
-              "options": [
+              "options":[
                 {
                   "name": "Valkoinen",
                   "id": "delphin_valkoinen",
@@ -562,9 +524,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Play One Piece",
@@ -572,17 +532,15 @@
               "subcategory": "keilat",
               "id": "onepiece",
               "pic": "/product-pics-0/onepiece.jpg",
-              "pics": [
-                "/product-pics-0/onepiece2.jpg"
-              ],
+              "pics": ["/product-pics-0/onepiece2.jpg"],
               "price": 10,
-              "choice": "Väri",
+              "choice":"Väri",
               "text": "Nimensä mukaisesti yhdestä palasta koostuva muottiin valettu keila. Tämä keila on paitsi edullinen myös käytännössä miltei tuhoutumaton. Kaiken lisäksi keila kelluu vedessä. Tämä raamatullisen vedenpaisumuksenkin kestävä keila sopii hyvin aloittelijoille, ja miksei myös ammattilaiselle. Tuntuma on tosin erilainen kuin perinteisessä puuydin keilassa, mutta mitä muovikeiloihin tulee: One Piece edustaa mukavuutta ja parasta laatua. Tämän mallin erottaa toisista kilpailevista yhden kappaleen muovikeiloista poikkeuksellisen käsiystävällinen, pehmeä ja joustava muovimateriaali. Helppo koristella hauskan näköiseksi esimerkiksi sähkömiehenteipillä.",
               "text2": "52 cm / 200 g",
               "text3": "",
               "text4": "",
               "text5": "",
-              "options": [
+              "options":[
                 {
                   "name": "Valkoinen",
                   "id": "onepiece_valkoinen",
@@ -623,11 +581,9 @@
                   "id": "onepiece_hohtava",
                   "price": 12
                 }
-              ],
+              ], 
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Henry's Pirouette",
@@ -635,10 +591,7 @@
               "subcategory": "keilat",
               "id": "pirouette",
               "pic": "/product-pics-0/pirouette.jpg",
-              "pics": [
-                "/product-pics-0/pirouette2.jpg",
-                "/product-pics-0/pirouette3.jpg"
-              ],
+              "pics": ["/product-pics-0/pirouette2.jpg", "/product-pics-0/pirouette3.jpg"],
               "price": 34,
               "text": "Taattua Henrysin laatua ja samalla Keski-Euroopan suosituin keila. Vakiovarustus erityisesti ranskalaisilla jonglööreillä. Pirouette-keilassa on samat hyvät ominaisuudet kuin Henrysin Delphin-mallilla paitsi hinta. Keilan vartalo on Delphiniin verrattuna hieman lyhyempi ja kahva vastaavasti pidempi. Kahvana perinteinen kierrekahva Delphinin muottiin valetun kahvan sijaan.  Delphinin ohella Pirouette on suosituin keilamalli ammattilaisten keskuudessa. Paremmuus on makuasia. Keila on helppo korjata osa osalta tarvittaessa.",
               "text2": "52 cm / 215 g",
@@ -647,9 +600,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Babache Jongleerausveitsi",
@@ -657,10 +608,7 @@
               "subcategory": "keilat",
               "id": "mbveitsi",
               "pic": "/product-pics-0/mbveitsi.jpg",
-              "pics": [
-                "/product-pics-0/mbveitsi2.jpg",
-                "/product-pics-0/mbveitsi3.jpg"
-              ],
+              "pics": ["/product-pics-0/mbveitsi2.jpg", "/product-pics-0/mbveitsi3.jpg" ],
               "price": 30,
               "text": "Mister Babachen valmistama alumiininen ja kevyt jongleerausveitsi. Mukava ja pehmeä kierrekahva. Paras veitsi neljän ja viiden veitsen jongleeraukseen. Veitsi ei ole terävä, vaikka näyttää siltä. Varovaisuus on silti hyvä pitää mielessä, sillä vaikka veitsen terä ei ole terävä, se sattuu osuessaan. Veitsen heikoin kohta on terän juuri ja sen kiinnitys. Harjoitella kannattaa pehmeällä alustalla kuten nurmikolla veitsien pitkän iän takaamiseksi. Käyttö omalla vastuulla kuten muidenkin sirkusvälineiden kanssa.",
               "text2": "Pituus 55 cm / Paino 215 g",
@@ -669,9 +617,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Play Jongleerausveitsi",
@@ -679,10 +625,7 @@
               "subcategory": "keilat",
               "id": "playveitsi",
               "pic": "/product-pics-0/playveitsi.jpg",
-              "pics": [
-                "/product-pics-0/playveitsi2.jpg",
-                "/product-pics-0/playveitsi3.jpg"
-              ],
+              "pics": ["/product-pics-0/playveitsi2.jpg", "/product-pics-0/playveitsi3.jpg" ],
               "price": 30,
               "text": "Teräksinen jongleerausveitsi. Painavampi ja kestävämpi kuin Babachen vastaava alumiiniveitsi. Mukava ja pehmeä kierrekahva. Veitsi ei ole terävä, vaikka näyttää siltä. Varovaisuus on silti hyvä pitää mielessä, sillä vaikka veitsen terä ei ole terävä, se sattuu osuessaan. Käyttö omalla vastuulla kuten muidenkin sirkusvälineiden kanssa.",
               "text2": "Pituus 53 cm / Paino 300 g",
@@ -691,9 +634,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Henry's Nite Flite jongleeraussoihtu",
@@ -701,12 +642,7 @@
               "subcategory": "keilat",
               "id": "niteflite",
               "pic": "/product-pics-0/niteflite.jpg",
-              "pics": [
-                "/product-pics-0/niteflite1.jpg",
-                "/product-pics-0/niteflite3.jpg",
-                "/product-pics-0/niteflite2.jpg",
-                "/product-pics-0/niteflite4.jpg"
-              ],
+              "pics": ["/product-pics-0/niteflite1.jpg","/product-pics-0/niteflite3.jpg","/product-pics-0/niteflite2.jpg","/product-pics-0/niteflite4.jpg"],
               "price": 38,
               "text": "Markkinoiden paras jongleeraussoihtu Henrysiltä. Saarnipuista runkoa suojaa kädensijaan asti ulottuva alumiiniputki, joka tekee soihdusta särkymättömän. Laadukkaan viimeistelyn ja kestävän rakenteen lisäksi tämä soihtu omaa hyvän heittotuntuman verrattuna muihin soihtuihin. Erinomainen soihtu niin soolonumeroihin kuin passailuunkin. Tutustu ennen käyttöä yleisiin paloturvallisuusohjeisiin, tulijongleerauksessa käytettäviin palonesteisiin, turvalliseen pukeutumiseen, äläkä koskaan harjoittele yksin. Kevlar-kangas sisältyy hintaan.",
               "text2": "51 cm / 250 g",
@@ -715,9 +651,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Henry's keilan nuppi",
@@ -725,9 +659,7 @@
               "subcategory": "keilat",
               "id": "henrys_nuppi",
               "pic": "/product-pics-0/henrysknobs2.jpg",
-              "pics": [
-                "/product-pics-0/henrysknobs3.jpg"
-              ],
+              "pics": ["/product-pics-0/henrysknobs3.jpg"],
               "price": 3,
               "choice": "Väri",
               "text": "Vaihtonuppi Henrysin keilamalleihin Pirouette ja Delphin. Sisältää ruuvin ja muoviprikan.",
@@ -748,9 +680,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Henry's keilan pääty",
@@ -758,9 +688,7 @@
               "subcategory": "keilat",
               "id": "henry_paaty",
               "pic": "/product-pics-0/henrystops2.jpg",
-              "pics": [
-                "/product-pics-0/henrystops.jpg"
-              ],
+              "pics": ["/product-pics-0/henrystops.jpg"],
               "price": 3,
               "choice": "Väri",
               "text": "Vaihtopääty Henrysin keilamalliin Delphin. Sisältää ruuvin ja metalliprikan.",
@@ -781,9 +709,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Magneettikepulat (3 kpl)",
@@ -800,9 +726,7 @@
               "text5": "",
               "options": null,
               "link": "https://www.youtube.com/watch?v=kBnQDZebKuU",
-              "linktext": "Youtube: Jani Suihkosen Magneettikepulat",
-              "link2": "",
-              "linktext2": ""
+              "linktext": "Youtube: Jani Suihkosen Magneettikepulat"
             },
             {
               "name": "Finnish Poles (3 kpl)",
@@ -819,9 +743,7 @@
               "text5": "",
               "options": null,
               "link": "https://www.youtube.com/watch?v=UofXrINtKrQ",
-              "linktext": "Youtube: Kai Kuutamo juggling the finnish poles 2009",
-              "link2": "",
-              "linktext2": ""
+              "linktext": "Youtube: Kai Kuutamo juggling the finnish poles 2009"
             }
           ]
         },
@@ -838,11 +760,9 @@
               "subcategory": "renkaat",
               "id": "rengas24",
               "pic": "/product-pics-0/rengas24.jpg",
-              "pics": [
-                "/product-pics-0/renkaat.jpg"
-              ],
+              "pics": ["/product-pics-0/renkaat.jpg"],
               "price": 4,
-              "choice": "Väri",
+              "choice":"Väri",
               "text": "Pienet eli niin kutsutut vauvarenkaat. Hauskat renkaat lapsille tai monen renkaan jakautuviin heittoihin (stacks, multiplex). Valmistaja Mister Babache.",
               "text2": "24 cm /  g",
               "text3": "",
@@ -896,9 +816,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Jongleerausrengas 32 cm",
@@ -906,11 +824,9 @@
               "subcategory": "renkaat",
               "id": "rengas32",
               "pic": "/product-pics-0/rengas32.jpg",
-              "pics": [
-                "/product-pics-0/renkaat.jpg"
-              ],
+              "pics": ["/product-pics-0/renkaat.jpg"],
               "price": 4,
-              "choice": "Väri",
+              "choice":"Väri",
               "text": "Kansainväliseksi standardiksi muodostunut perusrengas. Täydelliset renkaat niin aloittelijalle kuin ammattilaiselle. Valmistaja Mister Babache.",
               "text2": "32 cm / 100 g",
               "text3": "",
@@ -964,9 +880,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Iso rengas 40 cm",
@@ -974,11 +888,9 @@
               "subcategory": "renkaat",
               "id": "rengas40",
               "pic": "/product-pics-0/rengas40.jpg",
-              "pics": [
-                "/product-pics-0/renkaat.jpg"
-              ],
+              "pics": ["/product-pics-0/renkaat.jpg"],
               "price": 6,
-              "choice": "Väri",
+              "choice":"Väri",
               "text": "Mister Babache perusrenkaasta isompi, raskaampi ja näyttävämpi versio. Isompi halkaisija mahdollistaa erilaisia temppuja normaalikokoisiin renkaisiin verrattuna, koska renkaan koko on erilaisessa suhteessa kehon mittoihin. Toisaalta se myös sulkee joitain temppuja pois. Raskaampi paino tarkoittaa myös enemmän rasitusta käsille erityisesti kiinniottaessa korkeita heittoja.",
               "text2": "40 cm / 140 g",
               "text3": "",
@@ -1027,9 +939,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Saturn 40 cm",
@@ -1037,11 +947,9 @@
               "subcategory": "renkaat",
               "id": "saturn",
               "pic": "/product-pics-0/saturn.jpg",
-              "pics": [
-                "/product-pics-0/renkaat.jpg"
-              ],
+              "pics": ["/product-pics-0/renkaat.jpg"],
               "price": 6,
-              "choice": "Väri",
+              "choice":"Väri",
               "text": "Play-yhtiön Saturn-renkaiden ulkohalkaisija on saman kokoinen kuin Babachen vastaaavissa isoissa renkaissa, mutta sisähalkaisija on hieman pienempi. Renkaat ovat siis leveämmät Babachen standarimalleihin verrattuina, ja siksi tuntuvat käteen erilaisilta. Suurimman eron kuitenkin tekee valmistusmateriaali, joka on erittäin pehmeä ja joustava. Tämä mahdollistaa renkaiden taivuttelun ja tarjoaa paljon uudenlaisia temppumahdollisuuksia renkaiden käsittelyyn.",
               "text2": "40 cm / 135 g",
               "text3": "",
@@ -1085,9 +993,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Vyöholsterit (40cm renkaille)",
@@ -1095,9 +1001,7 @@
               "subcategory": "renkaat",
               "id": "holsterit",
               "pic": "/product-pics-0/holsterit.jpg",
-              "pics": [
-                "/product-pics-0/holsterit2.jpg"
-              ],
+              "pics": ["/product-pics-0/holsterit2.jpg"],
               "price": 40,
               "text": "Eli suomeksi vyölle asetettavat metalliset rengaskannattimet tai rengaskotelot. Myydään pareittain. Lauri Koskisen suunnittelemat ja seppä Toni Torkel Saikkosen toteuttamat holsterit ovat paitsi kestävät myös tyylikkään yksinkertaiset ja sirot. Holsterit ovat alunperin suunniteltu yli kahdeksan renkaan jongleeraukseen ja muihin vastaaviin tilanteisiin, jossa käsitila tuppaa loppumaan kesken. Saattaa helpottaa lähtöä myös seitsemän ja kahdeksan renkaan jongleerauskuvioihin. Holstereihin sopii Babachen 40 cm jongleerausrengas. Hintaan sisältyy kaksi holsteria (yksi kummallekin puolelle). Hinta ei sisällä vyötä. Toisessa kuvassa holsterit puettuna. Värinä vain hopeinen.",
               "text2": "Pituus 60 cm / 325 g (2 kpl 650 g)",
@@ -1106,9 +1010,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             }
           ]
         },
@@ -1134,9 +1036,7 @@
               "text5": "",
               "options": null,
               "link": "https://www.youtube.com/watch?v=kBnQDZebKuU",
-              "linktext": "Youtube: Jani Suihkosen Magneettikepulat",
-              "link2": "",
-              "linktext2": ""
+              "linktext": "Youtube: Jani Suihkosen Magneettikepulat"
             },
             {
               "name": "Finnish Poles (3 kpl)",
@@ -1153,18 +1053,15 @@
               "text5": "",
               "options": null,
               "link": "https://www.youtube.com/watch?v=UofXrINtKrQ",
-              "linktext": "Youtube: Kai Kuutamon Finnish Poles eli suomalaiset patukat",
-              "link2": "",
-              "linktext2": ""
+              "linktext": "Youtube: Kai Kuutamon Finnish Poles eli suomalaiset patukat"
             },
-            {
+        {
+              
               "name": "Kuutamo 75 mm",
               "category": 0,
               "subcategory": "uniikit",
               "pic": "/product-pics-0/kuutamo75.jpg",
-              "pics": [
-                "/product-pics-0/kuutamomeri.jpg"
-              ],
+              "pics": ["/product-pics-0/kuutamomeri.jpg"],
               "id": "kuutamo75",
               "price": 6,
               "choice": "Väri",
@@ -1206,9 +1103,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Kuutamo 60 mm",
@@ -1216,9 +1111,7 @@
               "subcategory": "uniikit",
               "id": "kuutamo60",
               "pic": "/product-pics-0/kuutamo60.jpg",
-              "pics": [
-                "/product-pics-0/kuutamo60b.jpg"
-              ],
+              "pics": ["/product-pics-0/kuutamo60b.jpg"],
               "price": 6,
               "text": "Pienempi Kuutamo-pallo pienemmille jonglööreille tai jonglööreille, jotka haluavat heittää yli kymmentä palloa. Pallo on niin kutsuttu venäläistyylinen pallo, jossa on ohuen kuoren sisällä vain 1/3 hiekkatäytettä. Vapaasti liikkuva hiekka antaa pallolle vakautta ilmassa pallon kevyestä painosta huolimatta. Keveys taas helpottaa korkeita heittoja ja yli seitsemän pallon jongleerauskuvioita. Lisäksi pudotessaan pallo jää hiekan ansiosta usein aloilleen, eikä vieri niin kauas kuin näyttämö- tai tekstiilipallot. Kuutamo-pallot sopivat erinomaisesti myös aloittelijoille.",
               "text2": "60 mm / 60 g",
@@ -1227,19 +1120,16 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
+    
             {
               "name": "Vyöholsterit (40cm renkaille)",
               "category": 0,
               "subcategory": "uniikit",
               "id": "holsterit",
               "pic": "/product-pics-0/holsterit.jpg",
-              "pics": [
-                "/product-pics-0/holsterit2.jpg"
-              ],
+              "pics": ["/product-pics-0/holsterit2.jpg"],
               "price": 40,
               "text": "Eli suomeksi vyölle asetettavat metalliset rengaskannattimet tai rengaskotelot. Myydään pareittain. Lauri Koskisen suunnittelemat ja seppä Toni Torkel Saikkosen toteuttamat holsterit ovat paitsi kestävät myös tyylikkään yksinkertaiset ja sirot. Holsterit ovat alunperin suunniteltu yli kahdeksan renkaan jongleeraukseen ja muihin vastaaviin tilanteisiin, jossa käsitila tuppaa loppumaan kesken. Saattaa helpottaa lähtöä myös seitsemän ja kahdeksan renkaan jongleerauskuvioihin. Holstereihin sopii Babachen 40 cm jongleerausrengas. Hintaan sisältyy kaksi holsteria (yksi kummallekin puolelle). Hinta ei sisällä vyötä. Toisessa kuvassa holsterit puettuna. Värinä vain hopeinen.",
               "text2": "Pituus 60 cm / 325 g (2 kpl 650 g)",
@@ -1248,10 +1138,9 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             }
+
           ]
         },
         {
@@ -1267,11 +1156,9 @@
               "subcategory": "diabolo",
               "id": "sundia3b",
               "pic": "/product-pics-0/sundia3b2.jpg",
-              "pics": [
-                "/product-pics-0/sundia3b1.jpg"
-              ],
+              "pics": ["/product-pics-0/sundia3b1.jpg"],
               "price": 50,
-              "choice": "Väri",
+              "choice":"Väri",
               "text": "Sundian Shining Triple Bearing edustaa laakeri-diabolojen aatelia. Tämä äänettömästi äärimmäisen pitkään pyörivä laakeroitu diabolo takaa mukavan ja herkän tuntuman. Kuppien materiaali on erittäin kestävää, ja se antaa myös läpinäkyvyytensä ansiosta diabololle hienon olemuksen näyttämövaloissa. Laakerointi mahdollistaa pidemmät temppusarjat osaajille, mutta helpottaa myös vasta-alkajan taivalta ensiaskeleista asti.",
               "text2": "Halkaisija 124 mm / leveys 143 mm / 310 g",
               "text3": "Ei sisällä keppejä.",
@@ -1310,9 +1197,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Sundia Fly Diabolo",
@@ -1320,13 +1205,9 @@
               "subcategory": "diabolo",
               "id": "sundiafly",
               "pic": "/product-pics-0/sundiafly1.jpg",
-              "pics": [
-                "/product-pics-0/sundiafly2.jpg",
-                "/product-pics-0/sundiafly3.jpg",
-                "/product-pics-0/sundiafly4.jpg"
-              ],
+              "pics": ["/product-pics-0/sundiafly2.jpg","/product-pics-0/sundiafly3.jpg","/product-pics-0/sundiafly4.jpg"],
               "price": 33,
-              "choice": "Väri",
+              "choice":"Väri",
               "text": "Sundian Fly on pätevä, mutta edullinen laakeri-diabolo. Laakerilla varustettu diabolo pyörii lujaa ja pitkään. Kuppien materiaali on erittäin kestävää. Laakerointi mahdollistaa pidemmät temppusarjat osaajille, mutta helpottaa myös vasta-alkajan taivalta ensiaskeleista asti.",
               "text2": "Halkaisija 124 mm / leveys 143 mm / 280 g",
               "text3": "Ei sisällä keppejä.",
@@ -1374,25 +1255,20 @@
                   "price": 33
                 }
               ],
-              "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+                          "link": "",
+              "linktext": ""
             },
+
+
             {
               "name": "Finesse G4 Diabolo",
               "category": 0,
               "subcategory": "diabolo",
               "id": "finesse",
               "pic": "/product-pics-0/finesse.jpg",
-              "pics": [
-                "/product-pics-0/finesse1.jpg",
-                "/product-pics-0/finesse3.jpg",
-                "/product-pics-0/finesse4.jpg",
-                "/product-pics-0/finesse2.jpg"
-              ],
+              "pics": ["/product-pics-0/finesse1.jpg","/product-pics-0/finesse3.jpg","/product-pics-0/finesse4.jpg","/product-pics-0/finesse2.jpg"],
               "price": 30,
-              "choice": "Väri",
+              "choice":"Väri",
               "text": "Mister Babachen Finesse on yksi käytetyimmistä diabolo-malleista kautta maailman. Pitkän tuotekehittelyn päätteksi on nyt myynnissä jo neljännen sukupolven Finesse-diabolo, jonka yksityiskohdat on suunniteltu yhdessä parhaiden diabolo-jonglöörien kanssa. Kupit ovat joustavat ja samalla erittäin kestävät. Finesseen on myös mahdollista asentaa erilaisia akselistoja ja muita lisäosia, jotka muuttavat diabolon ominaisuuksia. Finesse on ehdottomasti paras vaihtoehto vasta-alkajalle laakerittomien diabolojen keskuudessa.",
               "text2": "Halkaisija 135 mm / leveys 130 mm / 245 g. Ei sisällä keppejä.",
               "text3": "",
@@ -1444,11 +1320,10 @@
                   "id": "finesse_musta",
                   "price": 30
                 }
+
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Henry's Circus Diabolo",
@@ -1456,12 +1331,9 @@
               "subcategory": "diabolo",
               "id": "circusdiabolo",
               "pic": "/product-pics-0/circusdiabolo4.jpg",
-              "pics": [
-                "/product-pics-0/circusdiabolo3.jpg",
-                "/product-pics-0/circusdiabolo1.jpg"
-              ],
+              "pics": ["/product-pics-0/circusdiabolo3.jpg","/product-pics-0/circusdiabolo1.jpg"],
               "price": 33,
-              "choice": "Väri",
+              "choice":"Väri",
               "text": "Henrys Circus -diabolo on toinen perinteinen vaihtoehto tosiharrastajalle tai ammattilaiselle Finessen ohella. Upeat värit, huippukestävä materiaali, elegantti muotoilu, väkevä tuntuma ja lukematon määrä tarjolla olevia lisäosia eri valmistajilta ovat tehneet tästä diabolosta klassikkomaisen standardin Finessen ohella.",
               "text2": "Halkaisija 130 mm / leveys 140 mm / 300 g. Ei sisällä keppejä",
               "text3": "",
@@ -1513,11 +1385,10 @@
                   "id": "circusdiabolo_musta",
                   "price": 33
                 }
+
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Micro Diabolo",
@@ -1527,7 +1398,7 @@
               "pic": "/product-pics-0/microdiabolo.jpg",
               "pics": [],
               "price": 16,
-              "choice": "Väri",
+              "choice":"Väri",
               "text": "Henrysin Micro diabolo kulkee näppärästi mukana ja tajoaa pienen kokonsa puolesta haastetta temppuihin. Pienin diabolo, jolla on vielä mahdollista tehdä suurin osa perustempuista. Pieni koko ja kevyt paino opettavat tarkkuutta ja herkkyyttä.",
               "text2": "Halkaisija 80 mm / leveys 63 mm / 135 g. Ei sisällä keppejä.",
               "text3": "",
@@ -1561,9 +1432,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Performer Diabolo",
@@ -1571,12 +1440,9 @@
               "subcategory": "diabolo",
               "id": "performerdiabolo",
               "pic": "/product-pics-0/performerdiabolo.jpg",
-              "pics": [
-                "/product-pics-0/performerdiabolo3.jpg",
-                "/product-pics-0/performerdiabolo1.jpg"
-              ],
+              "pics": ["/product-pics-0/performerdiabolo3.jpg","/product-pics-0/performerdiabolo1.jpg"],
               "price": 40,
-              "choice": "Väri",
+              "choice":"Väri",
               "text": "Nimenomaan suurille näyttämöille ammattikäyttöön suunniteltu Perfomer-diabolo on tehdasvalmisteisista diaboloista suurin. Suuri koko tuo mukanaan myös painoa, ja Performer onkin myös painavin diabolo luonnollisessa olotilassaan ilman lisäosia. Näkyvä ja tuntuva vaihtoehto huomiota kaipaaville.",
               "text2": "Halkaisija 160 mm / leveys 185 mm / 360 g. Ei sisällä keppejä.",
               "text3": "",
@@ -1615,9 +1481,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Diabolo-käsikepit - Alumiini",
@@ -1625,13 +1489,9 @@
               "subcategory": "diabolo",
               "id": "alusticks",
               "pic": "/product-pics-0/alusticks.jpg",
-              "pics": [
-                "/product-pics-0/alusticks1.jpg",
-                "/product-pics-0/alusticks3.jpg",
-                "/product-pics-0/alusticks2.jpg"
-              ],
+              "pics": ["/product-pics-0/alusticks1.jpg", "/product-pics-0/alusticks3.jpg", "/product-pics-0/alusticks2.jpg"],
               "price": 12,
-              "choice": "Väri",
+              "choice":"Väri",
               "text": "Perinteiset Henrysin alumiiniset käsikepit diaboloon. Erittäin kestävät ja laadukkaat kepit, jotka sopivat erinomaisen hyvin aloittelijoille ja lapsille. Naru sidotaan kepin päihin. Kepin päissä on varressa upotettu paikka solmulle. Naru sisältyy hintaan.",
               "text2": "33 cm",
               "text3": "",
@@ -1660,9 +1520,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Diabolo-käsikepit - Hiilikuitu",
@@ -1670,12 +1528,9 @@
               "subcategory": "diabolo",
               "id": "carbonsticks",
               "pic": "/product-pics-0/carbonsticks3.jpg",
-              "pics": [
-                "/product-pics-0/carbonsticks2.jpg",
-                "/product-pics-0/carbonsticks4.jpg"
-              ],
+              "pics": [ "/product-pics-0/carbonsticks2.jpg", "/product-pics-0/carbonsticks4.jpg"],
               "price": 22,
-              "choice": "Väri",
+              "choice":"Väri",
               "text": "Hiilikuidusta valmistetut käsikepit diaboloon. Erittäin kevyt ja käsiystävällinen malli ammattilaisille. Pieni jousto ja keveys antavat erinomaisen tuntuman. Kevyt paino suojaa myös kolhuilta kepinpäästötempuissa. Tarkkuutta ja turvaa kestävyyden kustannuksella. Naru kulkee kepin lävitse kärjestä loppuun asti, jonne solmu tehdään. Tarvitset siis 70cm (2x35cm) lisämittaa tavalliseen käyttämääsi narumittaan. Naru sisältyy hintaan.",
               "text2": "35 cm",
               "text3": "",
@@ -1709,9 +1564,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Diabolo-naru - Henry's Original",
@@ -1721,7 +1574,7 @@
               "pic": "/product-pics-0/henrysstring.jpg",
               "pics": [],
               "price": 17,
-              "choice": "Väri",
+              "choice":"Väri",
               "text": "Henrysin aito ja alkuperäinen diabolo-naru. Myydään 25m rullissa.",
               "text2": "0,70 € / metri",
               "text3": "",
@@ -1745,9 +1598,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Diabolo-naru - Performance",
@@ -1757,7 +1608,7 @@
               "pic": "/product-pics-0/performance.jpg",
               "pics": [],
               "price": 12,
-              "choice": "Väri",
+              "choice":"Väri",
               "text": "Mister Babachen valmistama Performace-naru diabololle. 20 metriä.",
               "text2": "0,60 € / metri",
               "text3": "",
@@ -1781,9 +1632,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Finesse Evolution Kit 1",
@@ -1791,9 +1640,7 @@
               "subcategory": "diabolo",
               "id": "ekit1",
               "pic": "/product-pics-0/ekit1.jpg",
-              "pics": [
-                "/product-pics-0/ekit12.jpg"
-              ],
+              "pics": ["/product-pics-0/ekit12.jpg"],
               "price": 10,
               "text": "Finesse-diaboloon sopiva leveämpi vaihtoakseli (levennysakseli). Tarvittavat työkalut sisältyvät pakettiin.",
               "text2": "Akselin pituus 57 mm / paino 35 g.",
@@ -1802,9 +1649,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Finesse Evolution Kit 3 - (6 g)",
@@ -1821,9 +1666,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Finesse Evolution Kit 3 - (10 g)",
@@ -1840,9 +1683,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Finesse Evolution Kit 4 + laturi",
@@ -1850,9 +1691,7 @@
               "subcategory": "diabolo",
               "id": "ekit4",
               "pic": "/product-pics-0/ekit4.jpg",
-              "pics": [
-                "/product-pics-0/ekit41.jpg"
-              ],
+              "pics": ["/product-pics-0/ekit41.jpg"],
               "price": 30,
               "text": "Finesse-diaboloon sopiva valosarja. Paketissa valot diabolon molemmille puolille, tarvittavat työkalut, akkuparistot sekä laturi. Paristot voi joko vaihtaa tai ladata liittämällä laturin valosarjaan. Yhdellä laturilla lataa yhtäaikaa kaksi valosarjan osaa eli molemmat puolet. Laturi ei näy kuvassa.",
               "text2": "Valo-osien paino asennettuna 100 g.",
@@ -1861,9 +1700,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Finesse Evolution Kit 5",
@@ -1880,9 +1717,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             }
           ]
         },
@@ -1899,12 +1734,7 @@
               "subcategory": "tuli",
               "id": "niteflite",
               "pic": "/product-pics-0/niteflite.jpg",
-              "pics": [
-                "/product-pics-0/niteflite1.jpg",
-                "/product-pics-0/niteflite3.jpg",
-                "/product-pics-0/niteflite2.jpg",
-                "/product-pics-0/niteflite4.jpg"
-              ],
+              "pics": ["/product-pics-0/niteflite1.jpg","/product-pics-0/niteflite3.jpg","/product-pics-0/niteflite2.jpg","/product-pics-0/niteflite4.jpg"],
               "price": 38,
               "text": "Markkinoiden paras jongleeraussoihtu Henrysiltä. Saarnipuista runkoa suojaa kädensijaan asti ulottuva alumiiniputki, joka tekee soihdusta särkymättömän. Laadukkaan viimeistelyn ja kestävän rakenteen lisäksi tämä soihtu omaa hyvän heittotuntuman verrattuna muihin soihtuihin. Erinomainen soihtu niin soolonumeroihin kuin passailuunkin. Tutustu ennen käyttöä yleisiin paloturvallisuusohjeisiin, tulijongleerauksessa käytettäviin palonesteisiin, turvalliseen pukeutumiseen, äläkä koskaan harjoittele yksin. Kevlar-kangas sisältyy hintaan.",
               "text2": "51 cm / 250 g",
@@ -1913,19 +1743,15 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
-            {
+  {
               "name": "Tulipoit",
               "category": 0,
               "subcategory": "tuli",
               "id": "tulipoit",
               "pic": "/product-pics-0/tulipoit.jpg",
-              "pics": [
-                "/product-pics-0/tulipoit2.jpg"
-              ],
+              "pics": ["/product-pics-0/tulipoit2.jpg"],
               "price": 40,
               "text": "Mister Babachen valmistamat pyöritettävät tulipoit. Tulipään koon puolesta sopivat poit aloittelevalle tulipoin pyörittäjälle. Tulipään koko 5 cm. Tutustu ennen käyttöä yleisiin paloturvallisuusohjeisiin, tulijongleerauksessa käytettäviin palonesteisiin, turvalliseen pukeutumiseen, äläkä koskaan harjoittele yksin. Kevlar-kangas sisältyy hintaan. Myydään pareittain.",
               "text2": "78 cm / 400 g / tulipää 5 cm",
@@ -1934,14 +1760,82 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             }
           ]
         },
+        
         {
-          "name": "Muut jongleeraus",
+          "name": "Vanteet",
+          "pic": "/category-pics/vanteet.jpg",
+          "id": "Vanteet",
+          "pic2": "",
+          "pic2text": "",
+          "products": [
+            {
+              "name": "Play - Perfect Hoop 100/20",
+              "category": 0,
+              "subcategory": "Vanteet",
+              "id": "playhoop-100-20",
+              "pic": "/product-pics-0/playhoop-100-20-1.jpg",
+              "pics": ["/product-pics-0/playhoop-100-20-2.jpg","/product-pics-0/playhoop-100-20-3.jpg"],
+              "price": 25,
+              "choice":"Väri",
+              "text": "Rakkaalla lapsella on monta nimeä: Hulavanne (Hula Hoop), sirkusvanne (Circus Hoop), vannetanssivanne (Hoop Dancing), huuppausvanne (Hooping)... Playn valmistama laadukas vanne, joka on erinomaisen mukava käyttää ja lisäksi kokoontaitettava.",
+              "text2": "Materiaalina vanteessa HDPE eli tiivispolyeteeni. Liitoskohta käyristettyä alumiinia. Liitoskohta mahdollistaa kokoontaiton puolet pienempään tilaan, ja siksi tällaisia vanteita kutsutaan myös nimellä matkavanne (travel hoop). Liitoskohdan ansiosta vanteita voi myös ketjuttaa toisiinsa.",
+              "text3": "Paksumpi ja isompi vanne (100 mm / 20 mm) sopii hienosti aloittelijoille ja vannetanssiin, kun taas kevyempi ja pienempi (85 mm / 16 mm) sopii paremmin teknisempään temppuiluun, sirkustyylisiin vannetemppuihin ja useamman vanteen tekniikoihin.",
+              "text4": "Halkaisija 100 mm / Paksuus 20 mm / Paino 350 g",
+              "text5": "",
+              "options": [
+                {
+                  "name": "Valkoinen",
+                  "id": "playhoop-100-20-valkoinen",
+                  "price": 25
+                },
+                {
+                  "name": "Punainen",
+                  "id": "playhoop-100-20-punainen",
+                  "price": 25
+                }
+              ],
+              "link": "",
+              "linktext": ""
+            },
+            {
+              "name": "Play - Perfect Hoop 85/16",
+              "category": 0,
+              "subcategory": "Vanteet",
+              "id": "playhoop-85-16",
+              "pic": "/product-pics-0/playhoop-100-20-1.jpg",
+              "pics": ["/product-pics-0/playhoop-100-20-2.jpg","/product-pics-0/playhoop-100-20-3.jpg"],
+              "price": 25,
+              "choice":"Väri",
+              "text": "Rakkaalla lapsella on monta nimeä: Hulavanne (Hula Hoop), sirkusvanne (Circus Hoop), vannetanssivanne (Hoop Dancing), huuppausvanne (Hooping)... Playn valmistama laadukas vanne, joka on erinomaisen mukava käyttää ja lisäksi kokoontaitettava.",
+              "text2": "Materiaalina vanteessa HDPE eli tiivispolyeteeni. Liitoskohta käyristettyä alumiinia. Liitoskohta mahdollistaa kokoontaiton puolet pienempään tilaan, ja siksi tällaisia vanteita kutsutaan myös nimellä matkavanne (travel hoop). Liitoskohdan ansiosta vanteita voi myös ketjuttaa toisiinsa.",
+              "text3": "Paksumpi ja isompi vanne (100 mm / 20 mm) sopii hienosti aloittelijoille ja vannetanssiin, kun taas kevyempi ja pienempi (85 mm / 16 mm) sopii paremmin teknisempään temppuiluun, sirkustyylisiin vannetemppuihin ja useamman vanteen tekniikoihin.",
+              "text4": "Halkaisija 85 mm / Paksuus 16 mm / Paino 225 g",
+              "text5": "",
+              "options": [
+                {
+                  "name": "Valkoinen",
+                  "id": "playhoop-85-16-valkoinen",
+                  "price": 25
+                },
+                {
+                  "name": "Punainen",
+                  "id": "playhoop-85-16-punainen",
+                  "price": 25
+                }
+              ],
+              "link": "",
+              "linktext": ""
+            }
+
+
+          ]
+        },
+        {
+          "name": "Muut Jongleerausvälineet",
           "pic": "/category-pics/muut.jpg",
           "id": "muut",
           "pic2": "",
@@ -1953,11 +1847,7 @@
               "subcategory": "muut",
               "id": "scarf",
               "pic": "/product-pics-0/scarf.jpg",
-              "pics": [
-                "/product-pics-0/scarf1.jpg",
-                "/product-pics-0/scarf3.jpg",
-                "/product-pics-0/scarf2.jpg"
-              ],
+              "pics": ["/product-pics-0/scarf1.jpg","/product-pics-0/scarf3.jpg","/product-pics-0/scarf2.jpg"],
               "price": 10,
               "text": "Henrysin huivipakkauksessa kolme isoa nylon-huivia. Paketin nimi 3+1 ei viittaa ylimääräiseen huiviin, vaan 64-sivuiseen ohjekirjaan, jonka saa kaupan päälle. Ohjekirjassa neuvotaan jongleerauksen salat huiveilla alkuaskeleita myöten. Huivit ovat helpoin tapa tutustua jongleerauksen perusperiaatteisiin.",
               "text2": "Huivin koko 70 x 70 cm",
@@ -1966,23 +1856,17 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
-            },
+              "linktext": ""
+            },            
             {
               "name": "Lautanen + keppi",
               "category": 0,
               "subcategory": "muut",
               "id": "plate",
               "pic": "/product-pics-0/plate1.jpg",
-              "pics": [
-                "/product-pics-0/plate2.jpg",
-                "/product-pics-0/plate3.jpg",
-                "/product-pics-0/plate4.jpg"
-              ],
+              "pics": ["/product-pics-0/plate2.jpg","/product-pics-0/plate3.jpg","/product-pics-0/plate4.jpg"],
               "price": 10,
-              "choice": "Väri",
+              "choice":"Väri",
               "text": "Lautasenpyörityslautanen (Mister Babache). Materiaalina pehmeä muovi. Soveltuu hienosti pientenkin lasten käyttöön. Hintaan sisältyy myös Henrysin valmistama näppärä kokoontaitettava pyörityskeppi.",
               "text2": "Lautasen halkaisija 240 mm / paino 90 g",
               "text3": "",
@@ -2021,9 +1905,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Jongleeraushattu",
@@ -2031,22 +1913,16 @@
               "subcategory": "muut",
               "id": "hattu",
               "pic": "/product-pics-0/hatut.jpg",
-              "pics": [
-                "/product-pics-0/hatut4.jpg",
-                "/product-pics-0/hatut3.jpg",
-                "/product-pics-0/hatut2.jpg"
-              ],
+              "pics": ["/product-pics-0/hatut4.jpg","/product-pics-0/hatut3.jpg", "/product-pics-0/hatut2.jpg"],
               "price": 60,
               "text": "Jongleeraushattu, joka on tarkoitettu nimenomaan hattumanipulaatioon ja hattujongleeraukseen. Kolmikerroksinen huopa, josta hattu on valmistettu, on 100% villaa. Materiaali ei menetä muotoaan tai murru kovassakaan käytössä ja antaa hatulle sopivan painon sekä hyvän miellyttävän ja pitävän pinnan.",
               "text2": "Paino noin 500 g",
               "text3": "TILAUSTUOTE. Lisää koko- ja väritoive ostoskorin viestikenttään.",
-              "text4": "Koot: 57, 58, 59, 60 ja 61",
+              "text4": "Koot: 57, 58, 59, 60 ja 61" ,
               "text5": "Värit: mustapunainen, mustavihreä, mustasininen, mustavalkoinen, kokomusta, punamusta",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Sikarilaatikko",
@@ -2056,7 +1932,7 @@
               "pic": "/product-pics-0/cigarbox.jpg",
               "pics": [],
               "price": 24,
-              "choice": "Väri",
+              "choice":"Väri",
               "text": "Mister Babachen sikarilaatikko on kestävä ja laadukkaasti viimeistelty tuotos. Sopii niin aloittelijalle kuin ammattiesiintyjällekin. Materiaaleina puu ja huopakangas.",
               "text2": "130 x 55 x 195 mm / 295 g",
               "text3": "",
@@ -2090,9 +1966,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Flower Stick - Tulip",
@@ -2100,12 +1974,9 @@
               "subcategory": "muut",
               "id": "flowerstick",
               "pic": "/product-pics-0/flowerstick.jpg",
-              "pics": [
-                "/product-pics-0/flowerstick3.jpg",
-                "/product-pics-0/flowerstick2.jpg"
-              ],
+              "pics": ["/product-pics-0/flowerstick3.jpg","/product-pics-0/flowerstick2.jpg"],
               "price": 30,
-              "choice": "Väri",
+              "choice":"Väri",
               "text": "Flower Stick eli suomeksi kukkakeppi on perinteisestä Devil Stick -sirkusvälineestä helpommin käsiteltävä malli. Kumiset hapsut kepin päissä lisäävät painoa ja ilmanvastusta hidastaen ja helpottaen kepin käsittelyä. Suosittu ja helposti lähestyttävä väline kaikenikäisille kautta maailman! UV-reagoivat värit. Pakettiin sisältyy silikonipäällysteiset käsikepit. Valmistajana Play.",
               "text2": "70 cm / 220 g (itse kukkakepin paino)",
               "text3": "",
@@ -2129,9 +2000,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Devil Stick - Grip",
@@ -2148,9 +2017,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Puiset Käsikepit (pari)",
@@ -2167,9 +2034,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Play Poi (pari)",
@@ -2177,12 +2042,9 @@
               "subcategory": "muut",
               "id": "playpoi",
               "pic": "/product-pics-0/playpoi.jpg",
-              "pics": [
-                "/product-pics-0/playpoi3.jpg",
-                "/product-pics-0/playpoi2.jpg"
-              ],
+              "pics": ["/product-pics-0/playpoi3.jpg","/product-pics-0/playpoi2.jpg"],
               "price": 15,
-              "choice": "Väri",
+              "choice":"Väri",
               "text": "Playn valmistama nauha-poi erilaisiin pyörittelytemppuihin. Mukavat sormilenkit, pehmeä pallo, kierteenestäjä ja lyhyet värikkäät nauhat. Hyvä pehmeä poi pyörittelyn aloittaville ja lapsille. Myydään pareittain. Kangaspussi sisältyy hintaan.",
               "text2": "Noin 80 g / kpl",
               "text3": "",
@@ -2206,9 +2068,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Tulipoit",
@@ -2216,9 +2076,7 @@
               "subcategory": "muut",
               "id": "tulipoit",
               "pic": "/product-pics-0/tulipoit.jpg",
-              "pics": [
-                "/product-pics-0/tulipoit2.jpg"
-              ],
+              "pics": ["/product-pics-0/tulipoit2.jpg"],
               "price": 40,
               "text": "Mister Babachen valmistamat pyöritettävät tulipoit. Tulipään koon puolesta sopivat poit aloittelevalle tulipoin pyörittäjälle. Tulipään koko 5 cm. Tutustu ennen käyttöä yleisiin paloturvallisuusohjeisiin, tulijongleerauksessa käytettäviin palonesteisiin, turvalliseen pukeutumiseen, äläkä koskaan harjoittele yksin. Kevlar-kangas sisältyy hintaan. Myydään pareittain.",
               "text2": "78 cm / 400 g / tulipää 5 cm",
@@ -2227,23 +2085,18 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
+
             {
               "name": "Nunchaku",
               "category": 0,
               "subcategory": "muut",
               "id": "nunchaku",
               "pic": "/product-pics-0/nunchaku.jpg",
-              "pics": [
-                "/product-pics-0/nunchaku1.jpg",
-                "/product-pics-0/nunchaku2.jpg",
-                "/product-pics-0/nunchaku3.jpg"
-              ],
+              "pics": ["/product-pics-0/nunchaku1.jpg","/product-pics-0/nunchaku2.jpg","/product-pics-0/nunchaku3.jpg"],
               "price": 12,
-              "choice": "Väri",
+              "choice":"Väri",
               "text": "Nunchaku on japanilainen kaksiosainen pamppu, jossa perinteisesti naru tai ketju yhdistää kaksi lyhyttä puukeppiä. Nunchaku nähtiin ensimmäistä kertaa valkokankaalla mestarin itsensä Bruce Leen käsissä, ja sen myötä Nunchakusta tuli pysyvä osa länsimaista pop-kulttuuria. Nykynuoriso tuntee Nunchakun ehkä parhaiten Turtles-sarjasta Michaelangelon vakiovarusteena.",
               "text2": "Nämä Nunchakut ovat tarkoitettu harjoituskäyttöön aloittelijoille. Muovista ydintä ympäröi pehmeä vaahtomuovi. Tässä mallissa ketju ja kepit mitoitettuna aikuisille! Hauska ja näyttävä temppuväline, jolla on myös helppo vahingossa satuttaa muita ja itseään. Käyttö omalla vastuulla.",
               "text3": "",
@@ -2277,20 +2130,16 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
+
             {
               "name": "Babache Jongleerausveitsi",
               "category": 0,
               "subcategory": "muut",
               "id": "mbveitsi",
               "pic": "/product-pics-0/mbveitsi.jpg",
-              "pics": [
-                "/product-pics-0/mbveitsi2.jpg",
-                "/product-pics-0/mbveitsi3.jpg"
-              ],
+              "pics": ["/product-pics-0/mbveitsi2.jpg", "/product-pics-0/mbveitsi3.jpg" ],
               "price": 30,
               "text": "Mister Babachen valmistama alumiininen ja kevyt jongleerausveitsi. Mukava ja pehmeä kierrekahva. Paras veitsi neljän ja viiden veitsen jongleeraukseen. Veitsi ei ole terävä, vaikka näyttää siltä. Varovaisuus on silti hyvä pitää mielessä, sillä vaikka veitsen terä ei ole terävä, se sattuu osuessaan. Veitsen heikoin kohta on terän juuri ja sen kiinnitys. Harjoitella kannattaa pehmeällä alustalla kuten nurmikolla veitsien pitkän iän takaamiseksi. Käyttö omalla vastuulla kuten muidenkin sirkusvälineiden kanssa.",
               "text2": "Pituus 55 cm / Paino 215 g",
@@ -2299,9 +2148,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Play Jongleerausveitsi",
@@ -2309,10 +2156,7 @@
               "subcategory": "muut",
               "id": "playveitsi",
               "pic": "/product-pics-0/playveitsi.jpg",
-              "pics": [
-                "/product-pics-0/playveitsi2.jpg",
-                "/product-pics-0/playveitsi3.jpg"
-              ],
+              "pics": ["/product-pics-0/playveitsi2.jpg", "/product-pics-0/playveitsi3.jpg" ],
               "price": 30,
               "text": "Teräksinen jongleerausveitsi. Painavampi ja kestävämpi kuin Babachen vastaava alumiiniveitsi. Mukava ja pehmeä kierrekahva. Veitsi ei ole terävä, vaikka näyttää siltä. Varovaisuus on silti hyvä pitää mielessä, sillä vaikka veitsen terä ei ole terävä, se sattuu osuessaan. Käyttö omalla vastuulla kuten muidenkin sirkusvälineiden kanssa.",
               "text2": "Pituus 53 cm / Paino 300 g",
@@ -2321,9 +2165,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             }
           ]
         }
@@ -2346,14 +2188,7 @@
               "subcategory": "kankaat",
               "id": "allinoneprofessional",
               "pic": "/product-pics-1/allinonepro.jpg",
-              "pics": [
-                "/product-pics-1/allinonepro2.jpg",
-                "/product-pics-1/alu8.jpg",
-                "/product-pics-1/swivelcamp.jpg",
-                "/product-pics-1/steeloval2.jpg",
-                "/product-pics-1/sling.jpg",
-                "/product-pics-1/kangas0.jpg"
-              ],
+              "pics": ["/product-pics-1/allinonepro2.jpg","/product-pics-1/alu8.jpg","/product-pics-1/swivelcamp.jpg","/product-pics-1/steeloval2.jpg","/product-pics-1/sling.jpg","/product-pics-1/kangas0.jpg"],
               "price": 270,
               "text": "Vertikaalikangaspaketti joka sisältää 20 metrin kankaan, alumiinileikarin ja kaiken mitä tarvitset kankaan turvalliseen kiinnittämiseen kiinnityspisteeseen(*). Paketissa CAMP-kiipeilykahdeksikko, CAMP-alumiinileikari, kaksi teräksistä Rock Empire -sulkulenkkiä, Rock Empire -nauhalenkki sekä valitsemasi värinen Duradero-kangas. Paketti on muuten samanlainen kuin \"All-In-One Eight\" paitsi että mukana on pyörimisen mahdollistava alumiinileikari sekä lisäksi tarvittava toinen sulkulenkki. Voit katsoa tarkemmat tiedot paketin tuotteista ilma-akrobatiakankaat sivun tuotekohtaisista selostuksista.",
               "text2": "*Kiinnityspiste ei sisälly hintaan. Kiinnityspisteen jokainen valitsee itse ja sen tulee olla ammattiripustajan (riggaajan) tai rakennusinsinöörin hyväksymä. Itse tehdyt ripustukset ovat aina omalla vastuulla. Sirkussirkus takaa myymiensä välineiden laadun.",
@@ -2409,9 +2244,7 @@
                 }
               ],
               "link": "https://www.youtube.com/watch?v=TiI8mgLXT4U",
-              "linktext": "Katso kankaan solmimisohjeet täältä.",
-              "link2": "",
-              "linktext2": ""
+              "linktext": "Katso kankaan solmimisohjeet täältä."
             },
             {
               "name": "All-In-One Eight",
@@ -2419,12 +2252,7 @@
               "subcategory": "kankaat",
               "id": "allineight",
               "pic": "/product-pics-1/allinone8.jpg",
-              "pics": [
-                "/product-pics-1/alu8.jpg",
-                "/product-pics-1/steeloval.jpg",
-                "/product-pics-1/sling.jpg",
-                "/product-pics-1/kangas0.jpg"
-              ],
+              "pics": ["/product-pics-1/alu8.jpg","/product-pics-1/steeloval.jpg","/product-pics-1/sling.jpg","/product-pics-1/kangas0.jpg"],
               "price": 220,
               "text": "Vertikaalikangaspaketti joka sisältää 20 metrin kankaan ja kaiken mitä tarvitset kankaan turvalliseen kiinnittämiseen kiinnityspisteeseen(*). Paketissa CAMP-kiipeilykahdeksikko, Rock Empire -sulkulenkki, Rock Empire -nauhalenkki sekä valitsemasi värinen Duradero-kangas. Voit katsoa tarkemmat tiedot paketin tuotteista ilma-akrobatiakankaat sivun tuotteiden omista selostuksista.",
               "text2": "*Kiinnityspiste ei sisälly hintaan. Kiinnityspisteen jokainen valitsee itse ja sen tulee olla ammattiripustajan (riggaajan) tai rakennusinsinöörin hyväksymä. Itse tehdyt ripustukset ovat aina omalla vastuulla. Sirkussirkus takaa myymiensä välineiden laadun.",
@@ -2480,9 +2308,7 @@
                 }
               ],
               "link": "https://www.youtube.com/watch?v=TiI8mgLXT4U",
-              "linktext": "Katso kankaan solmimisohjeet täältä.",
-              "link2": "",
-              "linktext2": ""
+              "linktext": "Katso kankaan solmimisohjeet täältä."
             },
             {
               "name": "Duradero-vertikaalikangas 20m",
@@ -2490,17 +2316,7 @@
               "subcategory": "kankaat",
               "id": "duradero",
               "pic": "/product-pics-1/kangas0.jpg",
-              "pics": [
-                "/product-pics-1/kangas1.jpg",
-                "/product-pics-1/kangas2.jpg",
-                "/product-pics-1/kangas3.jpg",
-                "/product-pics-1/kangas4.jpg",
-                "/product-pics-1/kangas5.jpg",
-                "/product-pics-1/kangas6.jpg",
-                "/product-pics-1/kangas7.jpg",
-                "/product-pics-1/kangas8.jpg",
-                "/product-pics-1/kangas9.jpg"
-              ],
+              "pics": ["/product-pics-1/kangas1.jpg","/product-pics-1/kangas2.jpg","/product-pics-1/kangas3.jpg","/product-pics-1/kangas4.jpg","/product-pics-1/kangas5.jpg","/product-pics-1/kangas6.jpg","/product-pics-1/kangas7.jpg","/product-pics-1/kangas8.jpg","/product-pics-1/kangas9.jpg"],
               "price": 160,
               "text": "Espanjalaista laatukangasta ilma-akrobatiaan. Duradero-kankaalla on parhaat ominaisuudet ja edullinen hinta. Kangas on kestävä, pehmeä, sopivan joustava ja materiaalissa on hyvä pito. Kangas ei myöskään nukkaannu. 1.60 metrin leveys tarjoaa hyvän otteen, ja kankaan Non-Slip-viimeistely antaa paremman pidon kuin muut markkinoiden vertikaalikankaat. Kankaan keskinkertainen venyvyys (+/-10%) antaa sopivasti mukavuutta pudotuksiin, mutta tarjoaa silti hyvän kiipeystuntuman. Sopii niin aloittelijalle kuin ammattilaisillekin.",
               "text2": "20 metrin kangas riittää 9 metrin tilaan. Kangas on käytössä kaksinkerroin, solmuun menee hiukan mittaa ja kankaan on hyvä yltää reilusta maahan asti. Väreinä löytyvät valkoinen, punainen, turkoosi, tummansininen, pinkki, oranssi, violetti, vihreä ja musta.",
@@ -2556,9 +2372,7 @@
                 }
               ],
               "link": "https://www.youtube.com/watch?v=TiI8mgLXT4U",
-              "linktext": "Katso kankaan solmimisohjeet täältä.",
-              "link2": "",
-              "linktext2": ""
+              "linktext": "Katso kankaan solmimisohjeet täältä."
             },
             {
               "name": "CAMP - 8",
@@ -2575,9 +2389,7 @@
               "text5": "",
               "options": null,
               "link": "https://www.youtube.com/watch?v=TiI8mgLXT4U",
-              "linktext": "Katso kankaan solmimisohjeet täältä.",
-              "link2": "",
-              "linktext2": ""
+              "linktext": "Katso kankaan solmimisohjeet täältä."
             },
             {
               "name": "Teräksinen kangaskello",
@@ -2594,9 +2406,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "CAMP - Leikari (sviveli)",
@@ -2613,9 +2423,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Petzl - Sulkulenkki (karabiini)",
@@ -2632,9 +2440,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "RE - Sulkulenkki (karabiini)",
@@ -2651,9 +2457,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "RE - Nauhalenkki 80 cm (slingi)",
@@ -2661,20 +2465,16 @@
               "subcategory": "kankaat",
               "id": "sling",
               "pic": "/product-pics-1/sling.jpg",
-              "pics": [
-                "/product-pics-1/sling2.jpg"
-              ],
+              "pics": ["/product-pics-1/sling2.jpg"],
               "price": 10,
               "text": "Rock Empire -merkkinen tuhti korkean paikan työskentelyyn tarkoitettu 80 cm nauhalenkki eli \"slingi\". Sukitettu malli, jonka kulumista on helppoa ja turvallista seurata. Päällyssukka ei ole osa kantavaa lenkkiä, mutta sen kuluttua puhki tulee koko nauhalenkki vaihtaa. Materiaali: polyester. Väri musta. Yksilöllisesti tarkastettu ja numeroitu. (CE EN566, EN795 B)",
               "text2": "Pituus 80 cm / Paino 110 g",
-              "text3": "Murtumispainoraja 3500 kg",
+              "text3": "Murtumispainoraja 3500 kg", 
               "text4": "",
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             }
           ]
         },
@@ -2691,11 +2491,7 @@
               "subcategory": "koydet",
               "id": "firetoys-3ply-valkoinen",
               "pic": "/product-pics-1/firetoys-3ply-valkoinen_2.jpg",
-              "pics": [
-                "/product-pics-1/firetoys-3ply-valkoinen.jpg",
-                "/product-pics-1/firetoys-3ply-valkoinen_1.jpg",
-                "/product-pics-1/firetoys-3ply-valkoinen_3.jpg"
-              ],
+              "pics": ["/product-pics-1/firetoys-3ply-valkoinen.jpg", "/product-pics-1/firetoys-3ply-valkoinen_1.jpg", "/product-pics-1/firetoys-3ply-valkoinen_3.jpg"],
               "price": 170,
               "text": "Firetoysin valmistama kolmisäikeinen pehmeä, notkea ja joustava ilma-akrobatiaköysi. Tässä kolmisäikeisessä vertikaaliköydessä yhdistyvät ominaisuudet ovat harvinainen yhdistelmä. Erittäin mukava käytettävyys, laadukas viimeistely, tyylikäs ulkomuoto ja edullinen hinta. Köyttä löytyy kolmessa eri värissä ja viidessä eri mitassa. Kuvan sulkulenkki (karabiini) ei sisälly hintaan.",
               "text2": "Pituus 6-12 m / Paksuus 35 mm",
@@ -2726,9 +2522,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "3-säikeinen Köysi - Musta",
@@ -2736,11 +2530,7 @@
               "subcategory": "koydet",
               "id": "firetoys-3ply-musta",
               "pic": "/product-pics-1/firetoys-3ply-musta_2.jpg",
-              "pics": [
-                "/product-pics-1/firetoys-3ply-musta.jpg",
-                "/product-pics-1/firetoys-3ply-musta_1.jpg",
-                "/product-pics-1/firetoys-3ply-musta_3.jpg"
-              ],
+              "pics": ["/product-pics-1/firetoys-3ply-musta.jpg", "/product-pics-1/firetoys-3ply-musta_1.jpg", "/product-pics-1/firetoys-3ply-musta_3.jpg"],
               "price": 190,
               "text": "Firetoysin valmistama kolmisäikeinen pehmeä, notkea ja joustava ilma-akrobatiaköysi. Tässä kolmisäikeisessä vertikaaliköydessä yhdistyvät ominaisuudet ovat harvinainen yhdistelmä. Erittäin mukava käytettävyys, laadukas viimeistely, tyylikäs ulkomuoto ja edullinen hinta. Köyttä löytyy kolmessa eri värissä ja viidessä eri mitassa. Kuvan sulkulenkki (karabiini) ei sisälly hintaan.",
               "text2": "Pituus 6-12 m / Paksuus 35 mm",
@@ -2771,9 +2561,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "3-säikeinen Köysi - Punainen",
@@ -2781,11 +2569,7 @@
               "subcategory": "koydet",
               "id": "firetoys-3ply-punainen",
               "pic": "/product-pics-1/firetoys-3ply-punainen_2.jpg",
-              "pics": [
-                "/product-pics-1/firetoys-3ply-punainen.jpg",
-                "/product-pics-1/firetoys-3ply-punainen_1.jpg",
-                "/product-pics-1/firetoys-3ply-punainen_3.jpg"
-              ],
+              "pics": ["/product-pics-1/firetoys-3ply-punainen.jpg", "/product-pics-1/firetoys-3ply-punainen_1.jpg", "/product-pics-1/firetoys-3ply-punainen_3.jpg"],
               "price": 190,
               "text": "Firetoysin valmistama kolmisäikeinen pehmeä, notkea ja joustava ilma-akrobatiaköysi. Tässä kolmisäikeisessä vertikaaliköydessä yhdistyvät ominaisuudet ovat harvinainen yhdistelmä. Erittäin mukava käytettävyys, laadukas viimeistely, tyylikäs ulkomuoto ja edullinen hinta. Köyttä löytyy kolmessa eri värissä ja viidessä eri mitassa. Kuvan sulkulenkki (karabiini) ei sisälly hintaan.",
               "text2": "Pituus 6-12 m / Paksuus 35 mm",
@@ -2816,9 +2600,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Catch It -köysi",
@@ -2835,9 +2617,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Päällystetty Köysi - Valkoinen",
@@ -2845,13 +2625,7 @@
               "subcategory": "koydet",
               "id": "firetoys-covered-valkoinen",
               "pic": "/product-pics-1/firetoys-covered-valkoinen.jpg",
-              "pics": [
-                "/product-pics-1/firetoys-covered-valkoinen0.jpg",
-                "/product-pics-1/firetoys-covered-valkoinen1.jpg",
-                "/product-pics-1/firetoys-covered-valkoinen2.jpg",
-                "/product-pics-1/firetoys-covered-valkoinen22.jpg",
-                "/product-pics-1/firetoys-covered-valkoinen3.jpg"
-              ],
+              "pics": ["/product-pics-1/firetoys-covered-valkoinen0.jpg","/product-pics-1/firetoys-covered-valkoinen1.jpg","/product-pics-1/firetoys-covered-valkoinen2.jpg","/product-pics-1/firetoys-covered-valkoinen22.jpg","/product-pics-1/firetoys-covered-valkoinen3.jpg"],
               "price": 270,
               "text": "Firetoysin valmistama päällystetty ns. sukkaköysi, jossa normaalin köyden päällä on puuvillasta kudottu pehmeä sukka. Sukka lisää käyttömukavuutta entisestään, ja jakaa paineen kehoa vasten tasaisemmin kuin kolmisäikeinen köysi. Päällystetty köysi joustaa vähemmän, ja on sen puolesta tiputuksissa rankempi kuin punottu köysi. Päällyste tosin pehmentää iskuja, ja köyden joustamattomuus tarjoaa parempaa tarkkuutta suorituksiin ja temppuihin, joissa köysi irtoaa hetkellisesti ilma-akrobaatin käsistä. Saatavana kahdessa eri värissä ja kolmessa eri mitassa.",
               "text2": "Pituus 6-10 m / Paksuus 37-40 mm",
@@ -2877,9 +2651,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Päällystetty Köysi - Punainen",
@@ -2887,13 +2659,7 @@
               "subcategory": "koydet",
               "id": "firetoys-covered-punainen",
               "pic": "/product-pics-1/firetoys-covered-punainen.jpg",
-              "pics": [
-                "/product-pics-1/firetoys-covered-punainen0.jpg",
-                "/product-pics-1/firetoys-covered-punainen1.jpg",
-                "/product-pics-1/firetoys-covered-punainen2.jpg",
-                "/product-pics-1/firetoys-covered-punainen22.jpg",
-                "/product-pics-1/firetoys-covered-punainen3.jpg"
-              ],
+              "pics": ["/product-pics-1/firetoys-covered-punainen0.jpg","/product-pics-1/firetoys-covered-punainen1.jpg","/product-pics-1/firetoys-covered-punainen2.jpg","/product-pics-1/firetoys-covered-punainen22.jpg","/product-pics-1/firetoys-covered-punainen3.jpg"],
               "price": 330,
               "text": "Firetoysin valmistama päällystetty ns. sukkaköysi, jossa normaalin köyden päällä on puuvillasta kudottu pehmeä sukka. Sukka lisää käyttömukavuutta entisestään, ja jakaa paineen kehoa vasten tasaisemmin kuin kolmisäikeinen köysi. Päällystetty köysi joustaa vähemmän, ja on sen puolesta tiputuksissa rankempi kuin punottu köysi. Päällyste tosin pehmentää iskuja, ja köyden joustamattomuus tarjoaa parempaa tarkkuutta suorituksiin ja temppuihin, joissa köysi irtoaa hetkellisesti ilma-akrobaatin käsistä. Saatavana kahdessa eri värissä ja kolmessa eri mitassa.",
               "text2": "Pituus 6-10 m / Paksuus 37-40 mm",
@@ -2919,9 +2685,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "CAMP - Leikari (sviveli)",
@@ -2938,9 +2702,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Petzl - Sulkulenkki (karabiini)",
@@ -2957,9 +2719,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "RE - Sulkulenkki (karabiini)",
@@ -2976,9 +2736,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "RE - Nauhalenkki 80 cm (slingi)",
@@ -2986,9 +2744,7 @@
               "subcategory": "koydet",
               "id": "sling",
               "pic": "/product-pics-1/sling.jpg",
-              "pics": [
-                "/product-pics-1/sling2.jpg"
-              ],
+              "pics": ["/product-pics-1/sling2.jpg"],
               "price": 10,
               "text": "Rock Empire -merkkinen tuhti korkean paikan työskentelyyn tarkoitettu 80 cm nauhalenkki eli \"slingi\". Sukitettu malli, jonka kulumista on helppoa ja turvallista seurata. Päällyssukka ei ole osa kantavaa lenkkiä, mutta sen kuluttua puhki tulee koko nauhalenkki vaihtaa. Materiaali: polyester. Väri musta. Yksilöllisesti tarkastettu ja numeroitu. (CE EN566, EN795 B)",
               "text2": "Pituus 80 cm / Paino 110 g",
@@ -2997,9 +2753,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             }
           ]
         },
@@ -3016,14 +2770,7 @@
               "subcategory": "rengastrapetsit",
               "id": "firetoys-rengas-0-musta",
               "pic": "/product-pics-1/rengas-nollam.jpg",
-              "pics": [
-                "/product-pics-1/rengas-nollam1.jpg",
-                "/product-pics-1/rengas-nollam2.jpg",
-                "/product-pics-1/rengas-nollam3.jpg",
-                "/product-pics-1/rengas-nollav2.jpg",
-                "/product-pics-1/rengas-nollav4.jpg",
-                "/product-pics-1/rengas-nollav5.jpg"
-              ],
+              "pics": ["/product-pics-1/rengas-nollam1.jpg","/product-pics-1/rengas-nollam2.jpg","/product-pics-1/rengas-nollam3.jpg","/product-pics-1/rengas-nollav2.jpg","/product-pics-1/rengas-nollav4.jpg","/product-pics-1/rengas-nollav5.jpg"],
               "price": 210,
               "text": "Firetoysin valmistama rengastrapetsi, jossa ei ole kiinnityspisteitä. Kiinnityspisteettömän rengastrapetsin voit kiinnittää nauhalenkeillä kaikilla eri tavoilla tarpeen mukaan eri käyttötarkoituksiin: Yhdestä kohdasta, kahdesta kohdasta tai useammasta kohdasta myös vaakatasoon kattokruunumaisesti. Saatavana viidessä eri koossa ja kahdessa eri värissä. Kuvien kiinnitystarvikkeet eivät sisälly hintaan.",
               "text2": "Putken paksuus 25 mm",
@@ -3054,9 +2801,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Rengastrapetsi - Valkoinen 0-piste",
@@ -3064,14 +2809,7 @@
               "subcategory": "rengastrapetsit",
               "id": "firetoys-trapetsi-valkoinen",
               "pic": "/product-pics-1/rengas-nollav.jpg",
-              "pics": [
-                "/product-pics-1/rengas-nollav1.jpg",
-                "/product-pics-1/rengas-nollav2.jpg",
-                "/product-pics-1/rengas-nollav3.jpg",
-                "/product-pics-1/rengas-nollam2.jpg",
-                "/product-pics-1/rengas-nollav4.jpg",
-                "/product-pics-1/rengas-nollav5.jpg"
-              ],
+              "pics": ["/product-pics-1/rengas-nollav1.jpg","/product-pics-1/rengas-nollav2.jpg","/product-pics-1/rengas-nollav3.jpg","/product-pics-1/rengas-nollam2.jpg","/product-pics-1/rengas-nollav4.jpg","/product-pics-1/rengas-nollav5.jpg"],
               "price": 220,
               "text": "Rengastrapetsi, jossa ei ole kiinnityspisteitä. Kiinnityspisteettömän rengastrapetsin voit kiinnittää nauhalenkeillä kaikilla eri tavoilla tarpeen mukaan eri käyttötarkoituksiin: Yhdestä kohdasta, kahdesta kohdasta tai useammasta kohdasta myös vaakatasoon kattokruunumaisesti. Saatavana viidessä eri koossa ja kahdessa eri värissä. Kuvien kiinnitystarvikkeet eivät sisälly hintaan.",
               "text2": "Putken paksuus 25 mm",
@@ -3102,22 +2840,16 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
+     
             {
               "name": "Rengastrapetsi - Musta 1-piste",
               "category": 1,
               "subcategory": "rengastrapetsit",
               "id": "firetoys-rengas-1-musta",
               "pic": "/product-pics-1/rengas-yksim.jpg",
-              "pics": [
-                "/product-pics-1/rengas-yksim0.jpg",
-                "/product-pics-1/rengas-yksim1.jpg",
-                "/product-pics-1/rengas-yksim2.jpg",
-                "/product-pics-1/rengas-yksim3.jpg"
-              ],
+              "pics": ["/product-pics-1/rengas-yksim0.jpg","/product-pics-1/rengas-yksim1.jpg","/product-pics-1/rengas-yksim2.jpg","/product-pics-1/rengas-yksim3.jpg"],
               "price": 210,
               "text": "Firetoysin valmistama perinteinen yhden kiinnityspisteen rengastrapetsi. Saatavana kahdessa eri värissä. Mustaa löytyy kuudessa eri koossa (80 cm - 105 cm) ja valkoista neljässä koossa (90 cm - 105 cm). Koko on rengastrapetsin ulkohalkaisija. Kuvien kiinnitystarvikkeet eivät sisälly hintaan.",
               "text2": "Putken paksuus 25 mm",
@@ -3153,9 +2885,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Rengastrapetsi - Valkoinen 1-piste",
@@ -3163,14 +2893,7 @@
               "subcategory": "rengastrapetsit",
               "id": "firetoys-rengas-1-valkoinen",
               "pic": "/product-pics-1/rengas-yksiv.jpg",
-              "pics": [
-                "/product-pics-1/rengas-yksiv0.jpg",
-                "/product-pics-1/rengas-yksiv1.jpg",
-                "/product-pics-1/rengas-yksim1.jpg",
-                "/product-pics-1/rengas-yksiv2.jpg",
-                "/product-pics-1/rengas-yksiv3.jpg",
-                "/product-pics-1/rengas-yksim3.jpg"
-              ],
+              "pics": ["/product-pics-1/rengas-yksiv0.jpg","/product-pics-1/rengas-yksiv1.jpg","/product-pics-1/rengas-yksim1.jpg","/product-pics-1/rengas-yksiv2.jpg","/product-pics-1/rengas-yksiv3.jpg","/product-pics-1/rengas-yksim3.jpg"],
               "price": 220,
               "text": "Firetoysin valmistama perinteinen yhden kiinnityspisteen rengastrapetsi. Saatavana kahdessa eri värissä: Musta helmiäinen ja Valkoinen kimalteleva. Mustaa löytyy kuudessa eri koossa (80 cm - 105 cm) ja valkoista neljässä koossa (90 cm - 105 cm). Koko on rengastrapetsin ulkohalkaisija. Kuvien kiinnitystarvikkeet eivät sisälly hintaan.",
               "text2": "Putken paksuus 25 mm",
@@ -3196,10 +2919,95 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
+            
+            {
+              "name": "Firetoys - Käsilenkki",
+              "category": 1,
+              "subcategory": "rengastrapetsit",
+              "id": "kasilenkki",
+              "pic": "/product-pics-1/kasilenkki.jpg",
+              "pics": ["/product-pics-1/kasilenkki2.jpg","/product-pics-1/kasilenkki3.jpg","/product-pics-1/kasilenkki4.jpg"],
+              "choice":"Väri",
+              "price": 29,
+              "text": "Erittäin kestävä ja erittäin mukava käsilenkki esimerkiksi rengastrapetsin tai köyden kiinnityspisteen kanssa käytettäväksi. Käsilenkki on päällystetty puuvillasukalla samoin kuin Firetoysin päällystetyt ilma-akrobatiaköydet.",
+              "text2": "Lenkissä on mukana lukkolenkki, jota voi käyttää lisävarmistuksena lipeämisen varalta. Käsilenkkiä voi myös käyttää voimaharjoitteluun tai ranteen kuntoutukseen haluamallaan tavalla.",
+              "text3": "Pituus 49 cm",
+              "text4": "Työskentelypainoraja 1700 kg",
+              "text5": "",
+              "options": [
+                {
+                  "name": "Valkoinen",
+                  "id": "kasilenkki-valkoinen",
+                  "price": 29
+                },
+                {
+                  "name": "Punainen",
+                  "id": "kasilenkki-punainen",
+                  "price": 29
+                },
+                {
+                  "name": "Musta",
+                  "id": "kasilenkki-musta",
+                  "price": 29
+                }
+              ],
+              "link": "",
+              "linktext": ""
+            },
+            {
+              "name": "Trapetsiteippi",
+              "category": 1,
+              "subcategory": "rengastrapetsit",
+              "id": "trapetsiteippi",
+              "pic": "/product-pics-1/trapetsiteippi.jpg",
+              "pics": [],
+              "choice":"Väri",
+              "price": 22,
+              "text": "Pehmeä, mukava, kestävä ja vähän tahmaava teippi trapetsin, rengastrapetsin ja muiden välineiden teippaukseen. Monissa kangasteipeissä ongelmaksi muodostuu ilma-akrobatiavälineiden kanssa teipin liika tahmaisuus tai liiman läpitunkeutuminen sisäpuolelta ulkopuolelle käytössä. Juuri tähän pulmaan Firetoys on tämän trapetsiteipin kehitetty. Vähemmän tahmaa, mutta kuitenkin hyvää pitoa ja mukavaa tuntumaa.",
+              "text2": "Yhdellä 50 metrin rullalla päällystää noin 4 rengastrapetsia. Valmistaja Firetoys.",
+              "text3": "Leveys 25 mm / Pituus 50 m",
+              "text4": "",
+              "text5": "",
+              "options": [
+                {
+                  "name": "Valkoinen",
+                  "id": "trapetsiteippi_valkoinen",
+                  "price": 22
+                },
+                {
+                  "name": "Musta",
+                  "id": "trapetsiteippi_musta",
+                  "price": 22
+                },
+                {
+                  "name": "Keltainen",
+                  "id": "trapetsiteippi_keltainen",
+                  "price": 22
+                },
+                {
+                  "name": "Punainen",
+                  "id": "trapetsiteippi_punainen",
+                  "price": 22
+                },
+                {
+                  "name": "Sininen",
+                  "id": "trapetsiteippi_sininen",
+                  "price": 22
+                },
+                {
+                  "name": "Vihreä",
+                  "id": "trapetsiteippi_vihrea",
+                  "price": 22
+                }
+              ],
+
+              
+              "link": "",
+              "linktext": ""
+            },
+           
             {
               "name": "CAMP - Leikari (sviveli)",
               "category": 1,
@@ -3215,10 +3023,9 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
+           
             {
               "name": "Petzl - Sulkulenkki (karabiini)",
               "category": 1,
@@ -3234,9 +3041,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "RE - Sulkulenkki (karabiini)",
@@ -3253,9 +3058,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "RE - Nauhalenkki 80 cm (slingi)",
@@ -3263,9 +3066,7 @@
               "subcategory": "rengastrapetsit",
               "id": "sling",
               "pic": "/product-pics-1/sling.jpg",
-              "pics": [
-                "/product-pics-1/sling2.jpg"
-              ],
+              "pics": ["/product-pics-1/sling2.jpg"],
               "price": 10,
               "text": "Rock Empire -merkkinen tuhti korkean paikan työskentelyyn tarkoitettu 80 cm nauhalenkki eli \"slingi\". Sukitettu malli, jonka kulumista on helppoa ja turvallista seurata. Päällyssukka ei ole osa kantavaa lenkkiä, mutta sen kuluttua puhki tulee koko nauhalenkki vaihtaa. Materiaali: polyester. Väri musta. Yksilöllisesti tarkastettu ja numeroitu. (CE EN566, EN795 B)",
               "text2": "Pituus 80 cm / Paino 110 g",
@@ -3274,12 +3075,11 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             }
           ]
         },
+
         {
           "name": "Trapetsit",
           "pic": "/category-pics/trapetsit.jpg",
@@ -3293,13 +3093,7 @@
               "subcategory": "trapetsit",
               "id": "firetoys-trapetsi-valkoinen",
               "pic": "/product-pics-1/trapeze0.jpg",
-              "pics": [
-                "/product-pics-1/trapeze1.jpg",
-                "/product-pics-1/trapeze2.jpg",
-                "/product-pics-1/trapeze3.jpg",
-                "/product-pics-1/trapeze4.jpg",
-                "/product-pics-1/trapeze5.jpg"
-              ],
+              "pics": ["/product-pics-1/trapeze1.jpg","/product-pics-1/trapeze2.jpg","/product-pics-1/trapeze3.jpg","/product-pics-1/trapeze4.jpg","/product-pics-1/trapeze5.jpg"],
               "price": 270,
               "text": "Laadukkaassa Firetoys-trapetsissa on teräksinen tanko, terässilmukat köysien päissä sekä erityisvahvat köydet. Ennenvanhaan Firetoys-trapetseissa oli aina vaijeriydin köydessä, mutta nykyään tilalla on nelinkertainen kokoköysipunos, joka on notkea, joustava ja kestävä. Hyvä perustrapetsi kaikenlaiseen käyttöön. Trapetsia löytyy kahdessa värissä ja viidessä eri mitassa. Musta väri on valkoista hieman kalliimpi. Pikalukituskarabiinit sisältyvät hintaan.",
               "text2": "Leveys 56 cm / Köysien pituus 1 - 3.5 m / Tangon paksuus 24 mm / Paino 2.5 kg (1 m köysillä)",
@@ -3335,9 +3129,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Trapetsi - Musta",
@@ -3345,13 +3137,7 @@
               "subcategory": "trapetsit",
               "id": "firetoys-trapetsi-musta",
               "pic": "/product-pics-1/trapezeblack0.jpg",
-              "pics": [
-                "/product-pics-1/trapezeblack1.jpg",
-                "/product-pics-1/trapezeblack2.jpg",
-                "/product-pics-1/trapezeblack3.jpg",
-                "/product-pics-1/trapezeblack4.jpg",
-                "/product-pics-1/trapezeblack5.jpg"
-              ],
+              "pics": ["/product-pics-1/trapezeblack1.jpg","/product-pics-1/trapezeblack2.jpg","/product-pics-1/trapezeblack3.jpg","/product-pics-1/trapezeblack4.jpg","/product-pics-1/trapezeblack5.jpg"],
               "price": 280,
               "text": "Laadukkaassa Firetoys-trapetsissa on teräksinen tanko, terässilmukat köysien päissä sekä erityisvahvat köydet. Ennenvanhaan Firetoys-trapetseissa oli aina vaijeriydin köydessä, mutta nykyään tilalla on nelinkertainen kokoköysipunos, joka on notkea, joustava ja kestävä. Hyvä perustrapetsi kaikenlaiseen käyttöön. Trapetsia löytyy kahdessa värissä ja viidessä eri mitassa. Musta väri on valkoista hieman kalliimpi. Pikalukituskarabiinit sisältyvät hintaan.",
               "text2": "Leveys 56 cm / Köysien pituus 1 - 3.5 m / Tangon paksuus 24 mm / Paino 2.5 kg (1 m köysillä)",
@@ -3387,10 +3173,60 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
+            {
+              "name": "Trapetsiteippi",
+              "category": 1,
+              "subcategory": "trapetsit",
+              "id": "trapetsiteippi",
+              "pic": "/product-pics-1/trapetsiteippi.jpg",
+              "pics": [],
+              "choice":"Väri",
+              "price": 22,
+              "text": "Pehmeä, mukava, kestävä ja vähän tahmaava teippi trapetsin, rengastrapetsin ja muiden välineiden teippaukseen. Monissa kangasteipeissä ongelmaksi muodostuu ilma-akrobatiavälineiden kanssa teipin liika tahmaisuus tai liiman läpitunkeutuminen sisäpuolelta ulkopuolelle käytössä. Juuri tähän pulmaan Firetoys on tämän trapetsiteipin kehitetty. Vähemmän tahmaa, mutta kuitenkin hyvää pitoa ja mukavaa tuntumaa.",
+              "text2": "Yhdellä 50 metrin rullalla päällystää noin 4 rengastrapetsia. Valmistaja Firetoys.",
+              "text3": "Leveys 25 mm / Pituus 50 m",
+              "text4": "",
+              "text5": "",
+              "options": [
+                {
+                  "name": "Valkoinen",
+                  "id": "trapetsiteippi_valkoinen",
+                  "price": 22
+                },
+                {
+                  "name": "Musta",
+                  "id": "trapetsiteippi_musta",
+                  "price": 22
+                },
+                {
+                  "name": "Keltainen",
+                  "id": "trapetsiteippi_keltainen",
+                  "price": 22
+                },
+                {
+                  "name": "Punainen",
+                  "id": "trapetsiteippi_punainen",
+                  "price": 22
+                },
+                {
+                  "name": "Sininen",
+                  "id": "trapetsiteippi_sininen",
+                  "price": 22
+                },
+                {
+                  "name": "Vihreä",
+                  "id": "trapetsiteippi_vihrea",
+                  "price": 22
+                }
+              ],
+
+              
+              "link": "",
+              "linktext": ""
+            },
+
             {
               "name": "Petzl - Sulkulenkki (karabiini)",
               "category": 1,
@@ -3406,9 +3242,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "RE - Sulkulenkki (karabiini)",
@@ -3425,9 +3259,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "RE - Nauhalenkki 80 cm (slingi)",
@@ -3435,9 +3267,7 @@
               "subcategory": "trapetsit",
               "id": "sling",
               "pic": "/product-pics-1/sling.jpg",
-              "pics": [
-                "/product-pics-1/sling2.jpg"
-              ],
+              "pics": ["/product-pics-1/sling2.jpg"],
               "price": 10,
               "text": "Rock Empire -merkkinen tuhti korkean paikan työskentelyyn tarkoitettu 80 cm nauhalenkki eli \"slingi\". Sukitettu malli, jonka kulumista on helppoa ja turvallista seurata. Päällyssukka ei ole osa kantavaa lenkkiä, mutta sen kuluttua puhki tulee koko nauhalenkki vaihtaa. Materiaali: polyester. Väri musta. Yksilöllisesti tarkastettu ja numeroitu. (CE EN566, EN795 B)",
               "text2": "Pituus 80 cm / Paino 110 g",
@@ -3446,9 +3276,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "CAMP - Leikari (sviveli)",
@@ -3465,9 +3293,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             }
           ]
         },
@@ -3484,9 +3310,7 @@
               "subcategory": "remmit",
               "id": "firetoys-remmit-valkoinen",
               "pic": "/product-pics-1/firetoys-remmit-valkoinen.jpg",
-              "pics": [
-                "/product-pics-1/firetoys-remmit-valkoinen_1.jpg"
-              ],
+              "pics": ["/product-pics-1/firetoys-remmit-valkoinen_1.jpg"],
               "price": 150,
               "text": "Firetoysin valmistamat 100% polyesteria olevat remmit ovat ohuet, kestävät, pehmeät ja edulliset. Pehmeä polyesteri on ohutta, mutta kestävää ja toimii erityisen hyvin kietomistempuissa. Remmeissä on miellyttävä pinta reppuremmimäisestä ulkonäöstä huolimatta. Suuret 30cm päätylenkit mahdollistavat myös helpon jalkojen käytön remmeissä. Remmeissä ei ole joustoa. Remmejä löytyy kahdessa värissä ja neljässä eri mitassa. Hinnat ovat pareittain. Kolmiokarabiinit sisältyvät hintaan.",
               "text2": "Pituus 5-10 m / Leveys 45 mm / Lenkki 30 cm / Paino 1 - 1,6 kg",
@@ -3517,9 +3341,7 @@
                 }
               ],
               "link": "https://www.youtube.com/watch?v=_uyYPbzV9jU",
-              "linktext": "Katso video remmien esityskäytöstä.",
-              "link2": "",
-              "linktext2": ""
+              "linktext": "Katso video remmien esityskäytöstä."
             },
             {
               "name": "Firetoys - Ilma-akrobatiaremmit (musta)",
@@ -3527,9 +3349,7 @@
               "subcategory": "remmit",
               "id": "firetoys-remmit-musta",
               "pic": "/product-pics-1/firetoys-remmit-musta.jpg",
-              "pics": [
-                "/product-pics-1/firetoys-remmit-musta_1.jpg"
-              ],
+              "pics": ["/product-pics-1/firetoys-remmit-musta_1.jpg"],
               "price": 150,
               "text": "Firetoysin valmistamat 100% polyesteria olevat remmit ovat ohuet, kestävät, pehmeät ja edulliset. Pehmeä polyesteri on ohutta, mutta kestävää ja toimii erityisen hyvin kietomistempuissa. Remmeissä on miellyttävä pinta reppuremmimäisestä ulkonäöstä huolimatta. Suuret 30cm päätylenkit mahdollistavat myös helpon jalkojen käytön remmeissä. Remmeissä ei ole joustoa. Remmejä löytyy kahdessa värissä ja neljässä eri mitassa. Hinnat ovat pareittain. Kolmiokarabiinit sisältyvät hintaan.",
               "text2": "Pituus 5-10 m / Leveys 45 mm / Lenkki 30 cm / Paino 1 - 1,6 kg",
@@ -3560,9 +3380,7 @@
                 }
               ],
               "link": "https://www.youtube.com/watch?v=_uyYPbzV9jU",
-              "linktext": "Katso video remmien esityskäytöstä.",
-              "link2": "",
-              "linktext2": ""
+              "linktext": "Katso video remmien esityskäytöstä."
             },
             {
               "name": "Prodigy - Ilma-akrobatiaremmit",
@@ -3570,12 +3388,7 @@
               "subcategory": "remmit",
               "id": "prodigy-remmit",
               "pic": "/product-pics-1/prodigystraps.jpg",
-              "pics": [
-                "/product-pics-1/prodigystraps1.jpg",
-                "/product-pics-1/prodigystraps2.jpg",
-                "/product-pics-1/prodigystraps3.jpg",
-                "/product-pics-1/prodigystraps4.jpg"
-              ],
+              "pics": ["/product-pics-1/prodigystraps1.jpg", "/product-pics-1/prodigystraps2.jpg", "/product-pics-1/prodigystraps3.jpg", "/product-pics-1/prodigystraps4.jpg"],
               "price": 160,
               "text": "Prodigyn äärimmäisen mukavat puuvillasukalla päällystetyt remmit. Puuvillaisen sukan sisällä erittäin vahva polyesterinauha. Värinä vain luonnonvalkoinen.",
               "text2": "Pituus 5-10 m / Leveys 50 mm / Lenkki 30 cm",
@@ -3601,10 +3414,9 @@
                 }
               ],
               "link": "https://www.youtube.com/watch?v=_uyYPbzV9jU",
-              "linktext": "Katso video remmien esityskäytöstä.",
-              "link2": "",
-              "linktext2": ""
+              "linktext": "Katso video remmien esityskäytöstä."
             },
+
             {
               "name": "Rock Empire - Ankkurilevy 3/5",
               "category": 1,
@@ -3620,9 +3432,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Rock Empire - Ankkurilevy 1/3",
@@ -3639,9 +3449,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "CAMP - Leikari (sviveli)",
@@ -3658,9 +3466,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Petzl - Sulkulenkki (karabiini)",
@@ -3677,9 +3483,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "RE - Sulkulenkki (karabiini)",
@@ -3696,9 +3500,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "RE - Nauhalenkki 80 cm (slingi)",
@@ -3706,9 +3508,7 @@
               "subcategory": "remmit",
               "id": "sling",
               "pic": "/product-pics-1/sling.jpg",
-              "pics": [
-                "/product-pics-1/sling2.jpg"
-              ],
+              "pics": ["/product-pics-1/sling2.jpg"],
               "price": 10,
               "text": "Rock Empire -merkkinen tuhti korkean paikan työskentelyyn tarkoitettu 80 cm nauhalenkki eli \"slingi\". Sukitettu malli, jonka kulumista on helppoa ja turvallista seurata. Päällyssukka ei ole osa kantavaa lenkkiä, mutta sen kuluttua puhki tulee koko nauhalenkki vaihtaa. Materiaali: polyester. Väri musta. Yksilöllisesti tarkastettu ja numeroitu. (CE EN566, EN795 B)",
               "text2": "Pituus 80 cm / Paino 110 g",
@@ -3717,9 +3517,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             }
           ]
         },
@@ -3745,9 +3543,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Rock Empire - Ankkurilevy 1/3",
@@ -3764,9 +3560,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "CAMP - Leikari (sviveli)",
@@ -3783,9 +3577,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Petzl - Sulkulenkki (karabiini)",
@@ -3802,9 +3594,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "RE - Sulkulenkki (karabiini)",
@@ -3821,9 +3611,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "RE - Nauhalenkki 80 cm (slingi)",
@@ -3831,9 +3619,7 @@
               "subcategory": "riggaus",
               "id": "sling",
               "pic": "/product-pics-1/sling.jpg",
-              "pics": [
-                "/product-pics-1/sling2.jpg"
-              ],
+              "pics": ["/product-pics-1/sling2.jpg"],
               "price": 10,
               "text": "Rock Empire -merkkinen tuhti korkean paikan työskentelyyn tarkoitettu 80 cm nauhalenkki eli \"slingi\". Sukitettu malli, jonka kulumista on helppoa ja turvallista seurata. Päällyssukka ei ole osa kantavaa lenkkiä, mutta sen kuluttua puhki tulee koko nauhalenkki vaihtaa. Materiaali: polyester. Väri musta. Yksilöllisesti tarkastettu ja numeroitu. (CE EN566, EN795 B)",
               "text2": "Pituus 80 cm / Paino 110 g",
@@ -3842,9 +3628,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "CAMP - 8",
@@ -3861,9 +3645,7 @@
               "text5": "",
               "options": null,
               "link": "https://www.youtube.com/watch?v=TiI8mgLXT4U",
-              "linktext": "Katso kankaan solmimisohjeet täältä.",
-              "link2": "",
-              "linktext2": ""
+              "linktext": "Katso kankaan solmimisohjeet täältä."
             },
             {
               "name": "Teräksinen kangaskello",
@@ -3871,9 +3653,7 @@
               "subcategory": "riggaus",
               "id": "kangaskello",
               "pic": "/product-pics-1/kangaskello.jpg",
-              "pics": [
-                "/product-pics-1/kangaskello2.jpg"
-              ],
+              "pics": ["/product-pics-1/kangaskello2.jpg"],
               "price": 120,
               "text": "Unicycle-yrityksen valmistama kelloksi kutsuttu perinteinen kiinnitysstarvike vertikaalikankaalle. Kangas solmitaan paksun osan ympäri kaksinkerroin samalla tavalla kuin leivonpääsolmu. Kellon kiinnittämiseksi tarvitset mahdollisesti kiipeilyyn tarkoitetun sulkulenkin (karabiini) ja nauhalenkin (slingi).",
               "text2": "Korkeus 24 cm / Leveys 21 cm / Syvyys 8 cm / Paino 1400 g",
@@ -3882,9 +3662,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             }
           ]
         }
@@ -3907,9 +3685,7 @@
               "subcategory": "yksipyoraiset",
               "id": "quaxonlyone",
               "pic": "/product-pics-2/quaxonlyone.jpg",
-              "pics": [
-                "/product-pics-2/quaxonlyone2.jpg"
-              ],
+              "pics": ["/product-pics-2/quaxonlyone2.jpg"],
               "price": 99,
               "text": "Edullinen laadukas perusyksipyöräinen aloittelijalle. QU-AX valmistaa tunnetusti maailman parhaat yksipyöräiset. 36 pinnaa 20 tuuman renkaassa. Peruspolkimet hyvällä pidolla. Satula vaihdettavilla puskureilla. Näppärä korkeudensäätö. Saatavana punaisena ja sinisenä sekä tilauksesta valkoisena, keltaisena ja mustana.",
               "text2": "Ajajan suositeltu maksimipaino 75 kg.",
@@ -3930,9 +3706,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "QU-AX Luxus 20\"",
@@ -3940,10 +3714,7 @@
               "subcategory": "yksipyoraiset",
               "id": "quaxluxus",
               "pic": "/product-pics-2/quaxluxus1.jpg",
-              "pics": [
-                "/product-pics-2/quaxluxus.jpg",
-                "/product-pics-2/quaxluxus2.jpg"
-              ],
+              "pics": ["/product-pics-2/quaxluxus.jpg","/product-pics-2/quaxluxus2.jpg"],
               "price": 149,
               "text": "Jämerämpi ja laadukkaampi versio QU-AX-peruspyörästä. QU-AX valmistaa tunnetusti maailman parhaat yksipyöräiset. 36 pinnaa 20 tuuman renkaassa. Peruspolkimet hyvällä pidolla. Mukava satula vaihdettavilla puskureilla. Näppärä korkeudensäätö. Luxus mallin mukana saat myös ylimääräisen 20 cm satulaputken pienempiä yksipyöräilijöitä varten, joten säästyt satulaputken sahaukselta. Saatavana oranssina sekä hieman kalliimpana versiona valkoisena karvasatulalla.",
               "text2": "Ajajan suositeltu maksimipaino 85 kg.",
@@ -3958,16 +3729,54 @@
                   "price": 149
                 },
                 {
+                  "name": "Musta",
+                  "id": "quaxluxus-musta",
+                  "price": 149
+                },
+                {
                   "name": "Valkoinen karvasatulalla",
                   "id": "quaxluxus-valkoinen",
-                  "price": 160
+                  "price": 159
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
+            {
+              "name": "QU-AX Luxus 16\"",
+              "category": 2,
+              "subcategory": "yksipyoraiset",
+              "id": "quaxluxus16",
+              "pic": "/product-pics-2/quaxluxus16.jpg",
+              "pics": [],
+              "price": 129,
+              "text": "Pienemmille lapsille tarkoitettu 16 tuuman renkaalla varustettu yksipyöräinen. QU-AX valmistaa tunnetusti maailman parhaat yksipyöräiset. 28 pinnaa 16 tuuman renkaassa. Peruspolkimet hyvällä pidolla. Mukava satula vaihdettavilla puskureilla. Näppärä korkeudensäätö. Luxus mallin mukana saat kaksi satulaputkea (200 mm ja 300 mm), joten säästyt satulaputken sahaukselta. ",
+              "text2": "",
+              "text3": "Ajajan suositeltu minimi haarakorkeus noin 50 cm.",
+              "text4": "Paino 6,5 kg",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": ""
+            },
+            {
+              "name": "QU-AX Minibike 6\"",
+              "category": 2,
+              "subcategory": "yksipyoraiset",
+              "id": "quaxminibike",
+              "pic": "/product-pics-2/quaxminibike.jpg",
+              "pics": ["/product-pics-2/quaxminibike2.jpg","/product-pics-2/quaxminibike3.jpg"],
+              "price": 249,
+              "text": "6\" minipolkupyörä aikuisille. Kyllä, aikuisille. Ei lapsille. Toki lapsetkin voivat pyörällä ajella. Ei mitenkään järin miellyttävä ajaa, mutta sitäkin hauskempi kulkupeli. Huomiosi on taattu, ja kaikki ehtivät katsella sinua riittävän pitkään, sillä tällä pyörällä matkanteko kestää tuskastuttavan kauan vaikka sotkisit vimmatusti. Huomaa, että valmistaja ei ole antanut mitään paino- tai kokosuosituksia tälle pyörälle. Eli tämä soveltuu sinulle jos olet tarpeeksi kahjo. Tehty kestämään. Käyttö omalla vastuulla.",
+              "text2": "6 tuuman PU-pyörät. Teräskammet ja ketjusuojus. Kromattu ohjaustanko. Satula synteettistä nahkaa niiteillä. Seisontatuki.",
+              "text3": "Hommaa kaverille kanssa, niin voitte pitää kilpailuja!",
+              "text4": "",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": ""
+            },
+            
             {
               "name": "QU-AX Giraffe 20\" -kirahvipyörä",
               "category": 2,
@@ -3983,9 +3792,7 @@
               "text5": "Korkeus 150 cm / Paino 10,5 kg",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "KH20 Kris Holm Trial",
@@ -3993,11 +3800,7 @@
               "subcategory": "yksipyoraiset",
               "id": "kh20",
               "pic": "/product-pics-2/kh20.jpg",
-              "pics": [
-                "/product-pics-2/kh204.jpg",
-                "/product-pics-2/kh203.jpg",
-                "/product-pics-2/kh207.jpg"
-              ],
+              "pics": ["/product-pics-2/kh204.jpg","/product-pics-2/kh203.jpg","/product-pics-2/kh207.jpg","/product-pics-2/kh205.jpg","/product-pics-2/kh206.jpg"],
               "price": 499,
               "text": "Rakennettu kestämään pahoinpitelyä ja väärinkäyttöä. Kris Holm -nimikkopyörä on suunniteltu nimenomaan trial-ajoon, kovaan katukäyttöön sekä kaupunkitemppuiluun. KH20 on lähes kaikkien kilpailevien Trial-ammattilaisten valinta. Kevyt, laadukas ja äärimmäisen kestävä. Yksipyöräisten eliittiä. Alla olevalta videolta voit todistaa tämän pyörän mahdollisuudet.",
               "text2": "Ajajan suositeltu maksimipaino 100 kg.",
@@ -4006,9 +3809,7 @@
               "text5": "TILAUSTUOTE",
               "options": null,
               "link": "https://vimeo.com/75238440",
-              "linktext": "Vimeo: Max Schulze Uni-Cyclist Mad Man",
-              "link2": "",
-              "linktext2": ""
+              "linktext": "Vimeo: Max Schulze Uni-Cyclist Mad Man"
             }
           ]
         },
@@ -4025,12 +3826,7 @@
               "subcategory": "slackline",
               "id": "barefoot2",
               "pic": "/product-pics-2/barefoot2.jpg",
-              "pics": [
-                "/product-pics-2/barefoot3.jpg",
-                "/product-pics-2/barefoot4.jpg",
-                "/product-pics-2/barefoot5.jpg",
-                "/product-pics-2/barefoot6.jpg"
-              ],
+              "pics": ["/product-pics-2/barefoot3.jpg","/product-pics-2/barefoot4.jpg","/product-pics-2/barefoot5.jpg","/product-pics-2/barefoot6.jpg"],
               "price": 65,
               "text": "Barefoot Slackline tarjoilee tuotteensa upeissa väreissä, hyvin varustelluissa paketeissa ja ennen kaikkea edullisemmin kuin kilpailijansa! Erinomainen paketti kaikenikäisille aloittelijoille ja harrastajille. Laadukas 50mm leveä ja hyvän pidon tarjoava tasapainoliina täyttää myös vaativamman tekijän tarpeet. Mukana kattavat oppaat, puusuojat sekä ohuempi harjoitteluliina, jonka voi asentaa aloittelijan avuksi vähän päätä korkeammalle. Saatavana kolmessa neonvärissä: pinkki, keltainen ja vihreä. Paketin sisältö: 15 metrin tasapainoliina, puusuojat, harjoitteluliina, pystytysohjekirja, aloittelijan opas sekä kantopussukka.",
               "text2": "Pituus 15m / Leveys 50mm",
@@ -4056,9 +3852,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Macaco Slackline 26m",
@@ -4066,14 +3860,7 @@
               "subcategory": "slackline",
               "id": "macaco",
               "pic": "/product-pics-2/macaco.jpg",
-              "pics": [
-                "/product-pics-2/macaco1.jpg",
-                "/product-pics-2/macaco2.jpg",
-                "/product-pics-2/macaco3.jpg",
-                "/product-pics-2/macaco3b.jpg",
-                "/product-pics-2/macaco4.jpg",
-                "/product-pics-2/macaco5.jpg"
-              ],
+              "pics": ["/product-pics-2/macaco1.jpg","/product-pics-2/macaco2.jpg","/product-pics-2/macaco3.jpg","/product-pics-2/macaco3b.jpg","/product-pics-2/macaco4.jpg","/product-pics-2/macaco5.jpg"],
               "price": 80,
               "text": "Macacon 26 metrin slackline niille, jotka kaipaavat lisää mittaa liinaansa. Laadukas 50mm leveä ja hyvän pidon tarjoava liina täyttää myös vaativamman tekijän tarpeet. Kattava paketti samaten kuin Barefootin lyhyempi slackline, mutta ei sisällä harjoitteluliinaa eikä aloittelijan opasta. Saatavana vain vihreänä. Paketin sisältö: 26 metrin slackline, puusuojat, pystytysohjekirja sekä kantopussukka.",
               "text2": "Pituus 26m / Leveys 50mm / Paino 3kg",
@@ -4082,9 +3869,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             }
           ]
         },
@@ -4101,12 +3886,7 @@
               "subcategory": "puujalat",
               "id": "stilts",
               "pic": "/product-pics-2/stilts.jpg",
-              "pics": [
-                "/product-pics-2/stilts1.jpg",
-                "/product-pics-2/stilts2.jpg",
-                "/product-pics-2/stilts3.jpg",
-                "/product-pics-2/stilts4.jpg"
-              ],
+              "pics": ["/product-pics-2/stilts1.jpg","/product-pics-2/stilts2.jpg","/product-pics-2/stilts3.jpg","/product-pics-2/stilts4.jpg"],
               "price": 250,
               "text": "Nämä ammattimaiset \"puujalat\" on valmistettu alumiinista, ja ne on alunperin suunniteltu maalarien ja hedelmänpoimijoiden työvälineeksi. Kekseliäs jousitus jalkojen rungossa matkii ihmiskehon nilkan toimintaa, ja näillä jaloilla voikin siksi seistä aivan paikallaan ilman jatkuvaa askellusta, joka on ominaista perinteisille puujaloille. Ahkeralla harjoittelulla näillä jaloilla voi jousituksen ansiosta jopa jalkoja liikuttamatta hieman nojailla eri suuntiin. Säädettävä korkeus, jossa jalansija on 60-100cm korkealla. Jalkojen paino on 7 kg.",
               "text2": "Korkeus 60 - 100 cm / paino yhteensä 7 kg",
@@ -4115,9 +3895,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             }
           ]
         },
@@ -4134,12 +3912,7 @@
               "subcategory": "rolabola",
               "id": "rolabola1",
               "pic": "/product-pics-2/rolabola.jpg",
-              "pics": [
-                "/product-pics-2/rolabola2.jpg",
-                "/product-pics-2/rolabola3.jpg",
-                "/product-pics-2/rolabola4.jpg",
-                "/product-pics-2/rolabola5.jpg"
-              ],
+              "pics": ["/product-pics-2/rolabola2.jpg","/product-pics-2/rolabola3.jpg","/product-pics-2/rolabola4.jpg", "/product-pics-2/rolabola5.jpg"],
               "price": 80,
               "text": "Playn valmistama laadukas rolabola, joka sopii tositoimiin kuten myös aloittelijalle pienen rullan ansiosta. Rolabolaan kuuluu lauta ja rulla. Laudassa pitoalisäävät urat päällä ja pohjassa päätytopparit, jotka estävät lautaa lentämästä jos tasapaino horjahtaa. Rulla kestävää muoviseosta, jossa kumiset o-renkaat antavat hyvän pidon sekä lautaa että lattiaa vasten. Lautaan on myös saatavana korotuspaloja näyttävyyden lisäämiseksi.",
               "text2": "Lauta 65 x 25 cm / Rullan halkaisija 12,5 cm",
@@ -4148,9 +3921,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             }
           ]
         },
@@ -4167,10 +3938,7 @@
               "subcategory": "kasillaseisonta",
               "id": "kasillaseisonta",
               "pic": "/product-pics-2/kasillaseisonta.jpg",
-              "pics": [
-                "/product-pics-2/kasillaseisonta2.jpg",
-                "/product-pics-2/kasillaseisonta3.jpg"
-              ],
+              "pics": ["/product-pics-2/kasillaseisonta2.jpg","/product-pics-2/kasillaseisonta3.jpg"],
               "price": 400,
               "text": "Toni Torkel Saikkosen käsintehdyt käsilläseisontatelineet ja käsilläseisontapöydät. Vain parasta laatua mittatilauksena viimeistä yksityiskohtaa myöden. Puumateriaalista mittoihin ja tappien määriin kaikki on mahdollista. Kaikki pöydissä voidaan teettää täysin tarpeen mukaan mittatilauksena. Kuvat ja hinta ovat suuntaa-antavia. Ole yhteydessä suoraan seppään itseensä, kerro mitä haluat ja pyydä tarjous. Linkki Torkelin sivuille alla. Välineitä vaihtelevasti valmiina myös Sirkussirkus Putiikilla. Kysy lisää.",
               "text2": "Hinta ja kuvat ovat suuntaa-antavia. Pyydä tarjous sepältä itseltään.",
@@ -4179,9 +3947,7 @@
               "text5": "",
               "options": null,
               "link": "http://www.torkel.fi",
-              "linktext": "Torkel.fi - Seppä Toni Torkel Saikkosen kotisivut",
-              "link2": "",
-              "linktext2": ""
+              "linktext": "Torkel.fi - Seppä Toni Torkel Saikkosen kotisivut"
             }
           ]
         }
@@ -4193,7 +3959,7 @@
       "subcategories": [
         {
           "name": "Hyppynarut",
-          "pic": "/category-pics/hyppynaru.jpg",
+          "pic": "/category-pics/hyppynarut.jpg",
           "id": "hyppynarut",
           "pic2": "",
           "pic2text": "",
@@ -4213,9 +3979,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Freestyle-hyppynaru",
@@ -4223,10 +3987,7 @@
               "subcategory": "hyppynarut",
               "id": "samesmile-freewhite",
               "pic": "/product-pics-3/samesmile2-1.jpg",
-              "pics": [
-                "/product-pics-3/samesmile2-2.jpg",
-                "/product-pics-3/samesmile2-3.jpg"
-              ],
+              "pics": ["/product-pics-3/samesmile2-2.jpg","/product-pics-3/samesmile2-3.jpg"],
               "price": 15,
               "text": "Freestyle White on rope skipping ammattilaisten käyttämä temppuhyppynaru. Pitkät kahvat ja ohut naru mahdollistavat monien näyttävien temppuyhdistelmien harjoittelun sekä tehokkaan treenin niin kotona kuin salilla. Hyppiksessä on kätevät pikalukot, joiden avulla narun pituus säädetään hyppijän pituuden mukaisesti. Freestyle white on kahden suomalaisen sirkusammattilaisen (Kimmo Hietanen ja Maiju Mustonen) omaa tuotantoa.",
               "text2": "Mitat: kahvan pituus 22 cm, narun pituus 270 cm",
@@ -4235,9 +3996,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Freestyle-hyppynaru",
@@ -4245,10 +4004,7 @@
               "subcategory": "hyppynarut",
               "id": "samesmile-freeblack",
               "pic": "/product-pics-3/hyppynaru3-1.jpg",
-              "pics": [
-                "/product-pics-3/hyppynaru3-2.jpg",
-                "/product-pics-3/hyppynaru3-3.jpg"
-              ],
+              "pics": ["/product-pics-3/hyppynaru3-2.jpg","/product-pics-3/hyppynaru3-3.jpg"],
               "price": 15,
               "text": "Freestyle Black on rope skipping ammattilaisten käyttämä temppuhyppynaru. Pitkät kahvat ja ohut naru mahdollistavat monien näyttävien temppuyhdistelmien harjoittelun sekä tehokkaan treenin niin kotona kuin salilla. Hyppiksessä on kätevät pikalukot, joiden avulla narun pituus säädetään hyppijän pituuden mukaisesti. Freestyle white on kahden suomalaisen sirkusammattilaisen (Kimmo Hietanen ja Maiju Mustonen) omaa tuotantoa.",
               "text2": "Mitat: kahvan pituus 22 cm, narun pituus 270 cm",
@@ -4257,9 +4013,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "",
@@ -4276,9 +4030,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             }
           ]
         },
@@ -4304,9 +4056,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "KROM X BEAMS O.K. Kendama",
@@ -4335,9 +4085,7 @@
                 }
               ],
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Krom Kamo Kendama",
@@ -4354,9 +4102,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "KROM Noia 1 Kendama",
@@ -4373,9 +4119,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "KROM Noia 2 Kendama",
@@ -4392,9 +4136,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "KROM Noia 3 Kendama",
@@ -4411,9 +4153,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "KROM Pop Kendama",
@@ -4430,9 +4170,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             }
           ]
         },
@@ -4458,9 +4196,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Qualatex Pokkus -ilmapallot",
@@ -4468,10 +4204,7 @@
               "subcategory": "taika",
               "id": "qualatex",
               "pic": "/product-pics-3/qualatex.jpg",
-              "pics": [
-                "/product-pics-3/qualatex2.jpg",
-                "/product-pics-3/qualatex3.jpg"
-              ],
+              "pics": ["/product-pics-3/qualatex2.jpg","/product-pics-3/qualatex3.jpg"],
               "price": 12,
               "text": "Niin kutsutut koirailmapallot, muotoiluilmapallot tai ilmapalloeläimet. Parasta laatua ilmapalloveistoksiisi! Qualatexin Pokkus-pussissa sekalaisia värejä 100 kpl.",
               "text2": "",
@@ -4480,9 +4213,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Ilmapallopumppu",
@@ -4499,9 +4230,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Taikurin köysi",
@@ -4518,9 +4247,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             }
           ]
         },
@@ -4531,6 +4258,79 @@
           "pic2": "",
           "pic2text": "",
           "products": [
+            {
+              "name": "The Art of Juggling - Nikolay Ernestovich Bauman",
+              "category": 3,
+              "subcategory": "media",
+              "id": "artofjuggling",
+              "pic": "/product-pics-3/artofjuggling.jpg",
+              "pics": [],
+              "price": 25,
+              "text": "Neuvostoliiton sirkuskoulut kouluttivat jotkut viime vuosisadan parhaista teknisistä jonglööreistä. Jos sinua kiinnostaa jongleeraustaitojesi kehitys, nyt voit vihdoin syventää osaamistasi samasta kirjasta kuin suuret Neuvostojonglöörit aikanaan.",
+              "text2": "Nikolay E. Bauman oli tunnettu Venäläinen jonglööri, joka valmistui Moskovan Valtiollisesta Sirkus- ja Varieteetaiteen koulusta vuonna 1930. Hänestä tuli professori samaiseen kouluun vuonna 1947. Nyt hänen alunperin vuonna 1962 julkaisema kirja on vihdoin käännetty englanniksi. ",
+              "text3": "153 sivua pelkkää asiaa sekä 169 havainnollistavaa piirustusta tarjoavat jokaiselle jonglöörillekin jotain uutta. Tekniikka, ajatusmallit ja harjoitukset käydään läpi perinpohjaisesti. Perusteet, menneiden aikojen unohdetut erikoistemput sekä monien suurten jonglöörien legendaarisia temppuja selitetään ja käydään läpi kirjan sivuilla. Selostusta löytyy myös itserakennetuista välineistä sekä passailusta.",
+              "text4": "Kauttaaltaan korvaamaton ja äärimmäisen kiinnostava teos.",
+              "text5": "Englanninkielinen / 153 sivua / pehmeäkantinen / 2019 (1962)",
+              "options": null,
+              "link": "",
+              "linktext": ""
+            },
+
+            {
+              "name": "Sirkus Nyt - Emma Vainio",
+              "category": 3,
+              "subcategory": "media",
+              "id": "sirkusnyt",
+              "pic": "/product-pics-3/sirkusnyt.jpg",
+              "pics": [],
+              "price": 35,
+              "text": "Sirkus nyt on tietokirja suomalaisesta nykysirkuksesta ja värikkäästä sirkuskulttuurista ja -historiasta. Suomalainen nykysirkus on kansainvälisesti arvostettua, ja sen ensimmäiset uudet ja rohkeat muodot alkoivat kehittyä 1990-luvulla. Nyt sen tarina on koottu kansien väliin, ja myös sirkusammattilaiset pääsevät kertomaan omia ajatuksiaan ja kokemuksiaan. Minkälaista on maailman näyttämöillä häikäisevän nykysirkustaiteilijan kiertolaiselämä ilman kotia? Entä mitä trampoliiniakrobaatti ajattelee ilmassa?",
+              "text2": "Kirjan upeat valokuvat korostavat painovoimaa uhmaavien taiteilijoiden ja illuusioiden mestarien taituruutta.",
+              "text3": "Sirkus nyt sukeltaa myös sirkuslajien historiaan ja sirkuksen kehitykseen vuosien saatossa. Miksi klovnilla on punainen nenä, entä minkälaisia olivat maailman ensimmäiset, eskimoiden mursunnahkaiset trampoliinit?",
+              "text4": "Suomenkielinen / 280 sivua / kovakantinen / 2019",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": ""
+            },
+
+            {
+              "name": "Juggling - From Antiquity to the Middle Ages - Thom Wall",
+              "category": 3,
+              "subcategory": "media",
+              "id": "thomwall",
+              "pic": "/product-pics-3/thomwallbook.jpg",
+              "pics": [],
+              "price": 25,
+              "text": "Ihmiset ovat heitelleet esineitä jo vuosituhansien ajan joka puolella maailmaa viihdyttämisen, leikin ja rituaalien vuoksi. Kirjassaan kansainvälisesti tunnettu jonglööri Thom Wall vie lukijat jännittävälle matkalle jongleerauksen historiaan tutkimalla tätä fyysistä taitoa erilaisissa kulttuureissa eri aikakausina.",
+              "text2": "Teos on lähtökohdiltaan akateeminen, mutta helppolukuinen. Se on yksityiskohtainen katsaus jongleerauksen kehitykseen ja kasvuun suurkaupungeissa sekä syrjäisemmissä kohteissa ympäri maailman. Kirja alkaa muinaisesta Egyptistä ja päättyy keskiajalle. Kirjassa tarkastellaan jongleerauksen historiaa erittäin perusteellisesti lukuisten tieteellisten teosten kautta.",
+              "text3": "Wallin antropologiaa ja historiaa yhdistelevä ainutlaatuinen teos on mukaansatempaavaa luettavaa ja se sopii sirkusammattilaisille sekä maallikoille. ",
+              "text4": "Englanninkielinen / 129 sivua / pehmeäkantinen / 2019",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": ""
+            },
+
+            {
+              "name": "Huijauksen Anatomia - Pete Poskiparta ja Jose Ahonen",
+              "category": 3,
+              "subcategory": "media",
+              "id": "huijaus",
+              "pic": "/product-pics-3/huijauksenanatomia.jpg",
+              "pics": [],
+              "price": 25,
+              "text": "Kaksi ammattimentalistia ja arkihuijauksen asiantuntijaa, Pete Poskiparta ja Jose Ahonen, avaavat huijaamisen maailmaa. Miksi meitä huijataan ja kuka meitä huijaa? Miksi huijarin yksinkertaiset menetelmät tehoavat ja mikä saa meidät suorastaan tarjoamaan itseämme huijareiden käytettäväksi? ",
+              "text2": "Huijaus vie lukijansa kiehtovalle matkalle ihmisten korvien väliin eli sinne missä huijaukset saavat alkunsa ja mihin ne yleensä myös päättyvät. Kirjassa avataan huijareiden menetelmiä, toimintaperiaatteita ja pohditaan lukuisten asiantuntijahaastatteluiden pohjalta huijauksen toimintaa. Oman näkemyksensä antavat mm. Psykiatrisen vankisairaalan ylilääkäri Hannu Lauerma sekä KRP:n psykologi, joka teetti Poskiparralle ja Ahoselle valheenpaljastuskokeen.",
+              "text3": "Mikä paljasti valheen? Voiko ammattihuijari huijatavalheenpaljastuskonetta? Kansien väliin kerätty tieto auttaa tunnistamaan huijarin jo kaukaa. Huijauksen anatomia saattaa siis olla hyödyllisin kirja jonka olet lukenut pitkään aikaan. ",
+              "text4": "Suomenkielinen / 176 sivua / kovakantinen / 2018",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": ""
+            },
+
+
             {
               "name": "If You Are a Juggler... - Alexander Kiss",
               "category": 3,
@@ -4546,9 +4346,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Arjen mentalisti - Pete Poskiparta",
@@ -4565,9 +4363,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Learn to Juggle - Niels Duinker",
@@ -4584,67 +4380,9 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
-            },
-            {
-              "name": "Juggling - From Antiquity to the Middle Ages - Thom Wall",
-              "category": 3,
-              "subcategory": "media",
-              "id": "thomwall",
-              "pic": "/product-pics-3/thomwallbook.jpg",
-              "pics": [],
-              "price": 25,
-              "text": "Ihmiset ovat heitelleet esineitä jo vuosituhansien ajan joka puolella maailmaa viihdyttämisen, leikin ja rituaalien vuoksi. Kirjassaan kansainvälisesti tunnettu jonglööri Thom Wall vie lukijat jännittävälle matkalle jongeerauksen historiaan tutkimalla tätä fyysistä taitoa erilaisissa kulttuureissa eri aikakausina.",
-              "text2": "Teos on lähtökohdiltaan akateeminen, mutta helppolukuinen ja se on yksityiskohtainen katsaus jongleerauksen kehitykseen ja kasvuun suurkaupungeissa, sekä syrjäisemmissä kohteissa ympäri maailman. Kirja alkaa muinaisesta egyptistä ja päättyy keskiajalle ja siinä tarkastellaan jongleerauksen historiaa erittäin perusteellisesti lukuisten tieteellisten teosten kautta.",
-              "text3": "Wallin antropologiaa ja historiaa yhdistelevä uniikki teos on mukaansatempaavaa luettavaa ja se sopii sirkusammattilaisille sekä maallikoille. ",
-              "text4": "Englanninkielinen / 129 sivua / pehmeäkantinen / 2019",
-              "text5": "",
-              "options": null,
-              "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
-            },
-            {
-              "name": "Huijauksen Anatomia - Pete Poskiparta ja Jose Ahonen",
-              "category": 3,
-              "subcategory": "media",
-              "id": "huijaus",
-              "pic": "/product-pics-3/huijauksenanatomia.jpg",
-              "pics": [],
-              "price": 25,
-              "text": "Kaksi ammattimentalistia ja arkihuijauksen asiantuntijaa, Pete Poskiparta ja Jose Ahonen, avaavat huijaamisen maailmaa. Miksi meitä huijataan ja kuka meitä huijaa? Miksi huijarin yksinkertaiset menetelmät tehoavat ja mikä saa meidät suorastaan tarjoamaan itseämme huijareiden käytettäväksi? ",
-              "text2": "Huijaus vie lukijansa kiehtovalle matkalle ihmisten korvien väliin eli sinne missä huijaukset saavat alkunsa ja mihin ne yleensä myös päättyvät. Kirjassa avataan huijareiden menetelmiä, toimintaperiaatteita ja pohditaan lukuisten asiantuntijahaastatteluiden pohjalta huijauksen toimintaa. Oman näkemyksensä antavat mm. Psykiatrisen vankisairaalan ylilääkäri Hannu Lauerma sekä KRP:n psykologi, joka teetti Poskiparralle ja Ahoselle valheenpaljastuskokeen.",
-              "text3": "Mikä paljasti valheen? Voiko ammattihuijari huijatavalheenpaljastuskonetta? Kansien väliin kerätty tieto auttaa tunnistamaan huijarin jo kaukaa. Huijauksen anatomia saattaa siis olla hyödyllisin kirja jonka olet lukenut pitkään aikaan. ",
-              "text4": "Suomenkielinen / 176 sivua / kovakantinen / 2018",
-              "text5": "",
-              "options": null,
-              "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
-            },
-            {
-              "name": "Sirkus Nyt - Emma Vainio",
-              "category": 3,
-              "subcategory": "media",
-              "id": "sirkusnyt",
-              "pic": "/product-pics-3/sirkusnyt.jpg",
-              "pics": [],
-              "price": 35,
-              "text": "Sirkus nyt on tietokirja suomalaisesta nykysirkuksesta ja värikkäästä sirkuskulttuurista ja -historiasta. Suomalainen nykysirkus on kansainvälisesti arvostettua, ja sen ensimmäiset uudet ja rohkeat muodot alkoivat kehittyä 1990-luvulla. Nyt sen tarina on koottu kansien väliin, ja myös sirkusammattilaiset pääsevät kertomaan omia ajatuksiaan ja kokemuksiaan. Minkälaista on maailman näyttämöillä häikäisevän nykysirkustaiteilijan kiertolaiselämä ilman kotia? Entä mitä trampoliiniakrobaatti ajattelee ilmassa?",
-              "text2": "Kirjan upeat valokuvat korostavat painovoimaa uhmaavien taiteilijoiden ja illuusioiden mestarien taituruutta.",
-              "text3": "Sirkus nyt sukeltaa myös sirkuslajien historiaan ja sirkuksen kehitykseen vuosien saatossa. Miksi klovnilla on punainen nenä, entä minkälaisia olivat maailman ensimmäiset, eskimoiden mursunnahkaiset trampoliinit?",
-              "text4": "Suomenkielinen / 280 sivua / kovakantinen / 2019",
-              "text5": "",
-              "options": null,
-              "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
-            },
+              "linktext": ""
+            },            
+            
             {
               "name": "Suuri Suomalainen Taikatemppukirja",
               "category": 3,
@@ -4660,9 +4398,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Juggling - The Past and Future - Karl-Heinz Ziethen",
@@ -4672,16 +4408,14 @@
               "pic": "/product-pics-3/karlheinz.jpg",
               "pics": [],
               "price": 185,
-              "text": "Kattavin ikinä julkaistu teos jongleerauksen historiasta alkaen Egyptin hautakammioista vuodesta 1994 ennen ajanlaskun alkua, jatkuen aina moderniin aikaan ja nykyisiin innovaatioihin asti. Melkein 600 sivua kovissa kansissa, joita värittävät yli 1000 kuvaa ja piirustusta suoraan kirjailijan itsensä henkilökohtaisista kokoelmista. Karl-Heinz Ziethen on dokumentoinut jongleerauksen kehitystä jo viiden vuosikymmenen ajan Berliinistä käsin. Teos on sukellus Zithenin intohimoon ja elämäntyöhön historioitsijana ja jongleerauksen ystävänä.",
+              "text": "Kattavin ikinä julkaistu teos jongleerauksen historiasta alkaen Egyptin hautakammioista vuodesta 1994 ennen ajanlaskun alkua, jatkuen aina moderniin aikaan ja nykyisiin innovaatioihin asti. Melkein 600 sivua kovissa kansissa, joita värittävät yli 1000 kuvaa ja piirustusta suoraan kirjailijan itsensä henkilökohtaisista kokoelmista. Karl-Heinz Ziethen on dokumentoinut jongleerauksen kehitystä jo viiden vuosikymmenen ajan Berliinistä käsin. Teos on sukellus Ziethenin intohimoon ja elämäntyöhön historioitsijana ja jongleerauksen ystävänä.",
               "text2": "Englanninkielinen / 596 sivua / kovakantinen / 2017",
               "text3": "",
               "text4": "",
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "The Complete Juggler - Dave Finnigan",
@@ -4691,16 +4425,14 @@
               "pic": "/product-pics-3/completejuggler.jpg",
               "pics": [],
               "price": 25,
-              "text": "Jonglöörin raamatuksi kutsuttu teos. Ennen internetin ihmeaikaa tämä oli korvaamaton teos kaikille jongleerauksesta kiinnostuneille. Dave Finnigan käy läpi kirjassaan pallot, keilat, renkaat, diabolot, devilstickin, huivit ja hatut useiden vinkkien ja kikkojen kera. Kaikki on selkeästi kuvitettu koko kirjan mitalta. Läpi käydään myös itse jongleerausta sivuavia aiheita, kuten työpajojen pitäminen, jongleerausleikit, elannon ansaitseminen jongleerauksella, jne.",
+              "text": "Vanha jonglöörin raamatuksi kutsuttu teos. Ennen internetin ihmeaikaa tämä oli korvaamaton teos kaikille jongleerauksesta kiinnostuneille. Dave Finnigan käy läpi kirjassaan pallot, keilat, renkaat, diabolot, devilstickin, huivit ja hatut useiden vinkkien ja kikkojen kera. Kaikki on selkeästi kuvitettu koko kirjan mitalta. Läpi käydään myös itse jongleerausta sivuavia aiheita, kuten työpajojen pitäminen, jongleerausleikit, elannon ansaitseminen jongleerauksella, jne.",
               "text2": "Englanninkielinen / 560 sivua / pehmeäkantinen / 1992",
               "text3": "",
               "text4": "",
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Taikuuden oppikirja - Motion Magic - Tatu Tyni",
@@ -4717,9 +4449,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Ihmeen väkeä! - Tomi Purovaara",
@@ -4736,9 +4466,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Nykysirkus - Tomi Purovaara",
@@ -4755,9 +4483,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Sirkuksen vallankumous - Jean-Michel Guy",
@@ -4774,9 +4500,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Klovnerian käsikirja - Jari Siljamäki",
@@ -4793,9 +4517,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Ballerina hevosen selässä - Edit Sandor Kleinbarth",
@@ -4812,9 +4534,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Object Episodes - Never Give Up - DVD",
@@ -4831,9 +4551,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "NJC 2009 - DVD",
@@ -4850,9 +4568,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Diabology - Tupla DVD",
@@ -4869,9 +4585,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Bolottaako? - DVD (2. painos)",
@@ -4888,9 +4602,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             },
             {
               "name": "Lauri Koskisen Patakasi - DVD",
@@ -4907,9 +4619,7 @@
               "text5": "",
               "options": null,
               "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "linktext": ""
             }
           ]
         },
@@ -4926,13 +4636,7 @@
               "subcategory": "paidat",
               "id": "mbpaita",
               "pic": "/product-pics-3/multibueno3.jpg",
-              "pics": [
-                "/product-pics-3/multibueno.jpg",
-                "/product-pics-3/multibueno1.jpg",
-                "/product-pics-3/multibueno2.jpg",
-                "/product-pics-3/multibueno4.jpg",
-                "/product-pics-3/multibueno5.jpg"
-              ],
+              "pics": ["/product-pics-3/multibueno.jpg","/product-pics-3/multibueno1.jpg","/product-pics-3/multibueno2.jpg","/product-pics-3/multibueno4.jpg","/product-pics-3/multibueno5.jpg"],
               "price": 15,
               "text": "Jäikö vuoden 2015 Multi Bueno -festivaaleilta t-paita ostamatta? Ei hätää sillä paitoja on vielä jäljellä. Jäikö festivaalitkin välistä? Ei hätää sillä paidat ovat niin hienoja, ettei festivaalista tarvitse edes tietää mitään. Sekalainen valikoima eri kokoisia ja näköisiä paitoja. Kierrätettyjä paitoja. Käsin painatus silkkipainolla. Kysy lisää. Ja festivaalistahan löytyy tietoa tutusta osoitteesta:",
               "text2": "",
@@ -4941,9 +4645,7 @@
               "text5": "",
               "options": null,
               "link": "http://www.multibuenofestival.com",
-              "linktext": "www.multibuenofestival.com",
-              "link2": "",
-              "linktext2": ""
+              "linktext": "www.multibuenofestival.com"
             }
           ]
         }
