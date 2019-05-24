@@ -76,7 +76,7 @@ const categoryTiles = products.products.map(function (x){
 
 return (
     
-    <Link className="tile-wrap" key={x.name}  to={path + x.id} >
+    <Link className="tile-wrap" key={x.id}  to={path + x.id} >
     
             <div className="category-tile">
             <div className="category-tile-empty"></div>

@@ -322,7 +322,30 @@ window.scrollTo(0, 0);
 
 /*------------- Opacity and start of the autoscroll ----------------------*/
 
+
+
 var catPics = document.getElementsByClassName("frontpage-pic");
+
+var images = document.getElementsByClassName("img-commercial");
+
+var logoPics = document.getElementsByClassName("logofooter-pic");
+
+
+var count = 0;
+
+var finalCount = catPics.length + images.length + logoPics.length;
+
+
+var startScroll = ()  => {
+
+if (count === finalCount) {
+    this.autoScroll();
+    
+}
+
+}
+
+
 
 var opacity = (k) => {
 
@@ -332,6 +355,9 @@ var opacity = (k) => {
             if (this._mounted === true) {
                 
             catPics[k].style = "transition: opacity 1.5s, filter 0.2s; opacity: 1"; 
+
+            count = count + 1;
+            startScroll();
         }
 
         })
@@ -343,9 +369,6 @@ for (var k = 0; k < catPics.length; k ++) {
 }
 
 
-var images = document.getElementsByClassName("img-commercial");
-
-var count = 0;
 
 var opacity2 = (s) => {
     
@@ -356,23 +379,37 @@ var opacity2 = (s) => {
             if (this._mounted === true) {
                 
             images[s].style = "transition: opacity 1.5s; opacity: 1";
+            count = count + 1;
+            startScroll();
+            
             }
 
         })
-        count = count + 1;
-        if (count === 4) {
-                       this.autoScroll();
-                            }
-
-   
+        
 
 
 }
 
 for (var s = 0; s < images.length; s ++) {
     opacity2(s);
+    
 }
 
+
+var logoPicFunc = (i) => {
+    
+    logoPics[i].addEventListener("load", function () {
+        count = count + 1;
+        startScroll();
+    })
+
+}
+
+for (var i = 0; i < logoPics.length; i++) {
+
+    logoPicFunc(i);
+
+}
 
 
 }
