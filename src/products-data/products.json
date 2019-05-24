@@ -2758,7 +2758,7 @@
           ]
         },
         {
-          "name": "Rengsrengastrapetsit",
+          "name": "Rengastrapetsit",
           "pic": "/category-pics/rengastrapetsit.jpg",
           "id": "rengastrapetsit",
           "pic2": "/category-pics/emmaraisanen.jpg",
@@ -3221,8 +3221,6 @@
                   "price": 22
                 }
               ],
-
-              
               "link": "",
               "linktext": ""
             },
