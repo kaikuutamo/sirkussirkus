@@ -1,7 +1,7 @@
 
 import React from 'react';
 import './frontpage.css';
-
+// this is a frontpage 1
 import LogoFooter from './logofooter';
 import SocialFooter from './socialfooter';
 

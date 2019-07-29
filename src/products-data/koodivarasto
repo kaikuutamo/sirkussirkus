@@ -66,4 +66,47 @@ Kuutamo-pallot, värikuvakkeet
               "link": "",
               "linktext": ""
             },
+
+
+
+            
+            {
+              "name": "Bolottaako? - DVD (2. painos)",
+              "category": 3,
+              "subcategory": "media",
+              "id": "bolottaako",
+              "pic": "/product-pics-3/bolottaako.jpg",
+              "pics": [],
+              "price": 20,
+              "text": "Ensimmäinen ja toistaiseksi ainoa suomenkielinen diabolo-opetusvideo. Toinen painos. Sirkus Kumiankan teos kartoittaa kolmen suomalaisen diabolo-ammattilaisen avulla lajia aina perustekniikoista vaikeampiin temppuihin ja temppuyhdistelmiin. Bolottaako?-dvd auttaa nuorta harrastajaa alkuun, ja antaa pidemmälle ehtineille vinkkejä kehitykseen ja esiintymisiin. Videolla nähdään diabolo-taiteilijat Aaro Kontio, Marko Akkanen ja Samuli Männistö. Toinen painos sisältää myös lisälevyn, jolla on lisää bonusmateriaalia.",
+              "text2": "Sirkus Kumiankka / Suomenkielinen / 32 min + extrat + lisälevy / 2006",
+              "text3": "",
+              "text4": "",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+            {
+              "name": "Lauri Koskisen Patakasi - DVD",
+              "category": 3,
+              "subcategory": "media",
+              "id": "patakasi",
+              "pic": "/product-pics-3/patakasi.jpg",
+              "pics": [],
+              "price": 25,
+              "text": "Tämä video sisältää kahdeksan uutta (julkaistu 2005) close-up -korttitemppua Lauri Koskiselta. Videossa on selkeät selitykset jokaiseen temppuun, ja mukana on myös kaksi bonus taikatemppua sekä paljon extra-materiaalia, kuten mm. kuusi välitemppua ja kenttäkameralla kuvattua taikurin arkea. Temppujen oppiminen vaatii vankan teknisen osaamisen korttien käsittelyssä. Levyllä on nimensä mukaisesti kahdeksan temppua, joista jokaisen ympärille on mahdollista rakentaa pitempikin rutiini. Lauri Koskinen on vuoden 2005 ravintolataikuuden Suomen mestari.",
+              "text2": "Suomenkielinen / 50 min / 2005",
+              "text3": "\"Roimasti ylihintainen, mutta kannattaa ostaa!\" -Pete Poskiparta",
+              "text4": "",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            }
+
             
