@@ -99,13 +99,13 @@
               "text": "Mister Babachen valmistama huippulaadukas tekstiilipallo (beanbag) näyttää hyvältä ja tuntuu mahtavalta! Kestävää ja laadukasta tekonahkaa. Valmiiksi pehmeä ja kokonsa puolesta hyvin pienempäänkin käteen istuva. Nimensä mukaisesti näillä pallolla myös tehdään jongleerausmäärissä ennätyksiä. Kokonsa ja pehmeytensä ansiosta niitä on helppo ahtaa käsiin ennätysmääriä. 6-osainen. Täytteenä hirssi.",
               "text2": "62 mm / 130 g",
               "text3": "Värinä vain valkoinen.",
-              "text4": "",
+              "text4": "Tätä palloa käyttää muun muassa maineikas Les Objets Volants -ryhmä Dropline-esityksessä. Katso video linkistä:",
               "text5": "",
               "options": null,
               "link": "",
               "linktext": "",
-              "link2": "",
-              "linktext2": ""
+              "link2": "https://www.youtube.com/watch?v=4EKEoUOokkA",
+              "linktext2": "Dropline - Les Objets Volants"
             },
             {
               "name": "Deluxe Beanbag 76 mm",
@@ -987,42 +987,42 @@
               "options": [
                 {
                   "name": "Valkoinen",
-                  "id": "rengas32_valkoinen",
+                  "id": "rengas40_valkoinen",
                   "price": 6
                 },
                 {
                   "name": "Keltainen",
-                  "id": "rengas32_keltainen",
+                  "id": "rengas40_keltainen",
                   "price": 6
                 },
                 {
                   "name": "Oranssi",
-                  "id": "rengas32_oranssi",
+                  "id": "rengas40_oranssi",
                   "price": 6
                 },
                 {
                   "name": "Punainen",
-                  "id": "rengas32_punainen",
+                  "id": "rengas40_punainen",
                   "price": 6
                 },
                 {
                   "name": "Vaaleanpunainen",
-                  "id": "rengas32_vaaleanpunainen",
+                  "id": "rengas40_vaaleanpunainen",
                   "price": 6
                 },
                 {
                   "name": "Sininen",
-                  "id": "rengas32_sininen",
+                  "id": "rengas40_sininen",
                   "price": 6
                 },
                 {
                   "name": "Vihreä",
-                  "id": "rengas32_vihrea",
+                  "id": "rengas40_vihrea",
                   "price": 6
                 },
                 {
                   "name": "Musta",
-                  "id": "rengas32_musta",
+                  "id": "rengas40_musta",
                   "price": 6
                 }
               ],
@@ -1944,11 +1944,57 @@
           "name": "Vanteet",
           "pic": "/category-pics/vanteet.jpg",
           "id": "Vanteet",
-          "pic2": "",
-          "pic2text": "",
+          "pic2": "/category-pics/elinavessonen.jpg",
+          "pic2text": "Elina Vessonen",
           "products": [
             {
-              "name": "Play - Perfect Hoop 100/20",
+              "name": "Echo Hoop - Matkavanne",
+              "category": 0,
+              "subcategory": "Vanteet",
+              "id": "echohoop",
+              "pic": "/product-pics-0/echohoop1.jpg",
+              "pics": [
+                "/product-pics-0/echohoop7.jpg",
+                "/product-pics-0/echohoop3.jpg",
+                "/product-pics-0/echohoop4.jpg",
+                "/product-pics-0/echohoop2.jpg",
+                "/product-pics-0/echohoop8.jpg",
+                "/product-pics-0/echohoop9.jpg",
+                "/product-pics-0/echohoop5.jpg",
+                "/product-pics-0/echohoop6.jpg"
+              ],
+              "price": 35,
+              "choice": "Väri",
+              "text": "Rakkaalla lapsella on monta nimeä: Hulavanne (Hula Hoop), sirkusvanne (Circus Hoop), vannetanssivanne (Hoop Dancing), huuppausvanne (Hooping)... Echo Hoopin valmistama erittäin siististi teipattu laatuvanne, joka on kokoontaitettava.",
+              "text2": "Materiaalina vanteessa HDPE eli tiivispolyeteeni. Liitoskohta käyristettyä alumiinia. Liitoskohta mahdollistaa kokoontaiton puolet pienempään tilaan, ja siksi tällaisia vanteita kutsutaan myös nimellä matkavanne (travel hoop). Liitoskohdan ansiosta vanteita voi myös ketjuttaa toisiinsa.",
+              "text3": "Teippaus antaa vanteelle hienon ulkonäön, hyvän pidon ja hieman lisää painoa tarjoten hyvän tuntuman perinteisiin ja vannetanssitemppuihin.",
+              "text4": "Kirkkaat teippaukset ovat myös fluorisoivia eli ne reagoivat UV-valoon. Mustasininen ei ole fluorisoiva, mutta hyvänä puolena se ei likaannu näkyvästi yhtä helposti kuin kirkkaat värit ja sopii täten hienosti ulkokäyttöön.",
+              "text5": "Halkaisija 90 cm / Paksuus 20 mm / Paino 400 g",
+              "options": [
+                {
+                  "name": "Oranssi-Keltainen (UV)",
+                  "id": "echohoop-oranssikeltainen",
+                  "price": 35
+                },
+                {
+                  "name": "Pinkki-Vihreä (UV)",
+                  "id": "echohoop-pinkkivihrea",
+                  "price": 35
+                },
+                {
+                  "name": "Musta-Sininen",
+                  "id": "echohoop-mustasininen",
+                  "price": 35
+                }
+
+              ],
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+            {
+              "name": "Play - Perfect Hoop 100 cm",
               "category": 0,
               "subcategory": "Vanteet",
               "id": "playhoop-100-20",
@@ -1962,7 +2008,7 @@
               "text": "Rakkaalla lapsella on monta nimeä: Hulavanne (Hula Hoop), sirkusvanne (Circus Hoop), vannetanssivanne (Hoop Dancing), huuppausvanne (Hooping)... Playn valmistama laadukas vanne, joka on erinomaisen mukava käyttää ja lisäksi kokoontaitettava.",
               "text2": "Materiaalina vanteessa HDPE eli tiivispolyeteeni. Liitoskohta käyristettyä alumiinia. Liitoskohta mahdollistaa kokoontaiton puolet pienempään tilaan, ja siksi tällaisia vanteita kutsutaan myös nimellä matkavanne (travel hoop). Liitoskohdan ansiosta vanteita voi myös ketjuttaa toisiinsa.",
               "text3": "Paksumpi ja isompi vanne (100 mm / 20 mm) sopii hienosti aloittelijoille ja vannetanssiin, kun taas kevyempi ja pienempi (85 mm / 16 mm) sopii paremmin teknisempään temppuiluun, sirkustyylisiin vannetemppuihin ja useamman vanteen tekniikoihin.",
-              "text4": "Halkaisija 100 mm / Paksuus 20 mm / Paino 350 g",
+              "text4": "Halkaisija 100 cm / Paksuus 20 mm / Paino 350 g",
               "text5": "",
               "options": [
                 {
@@ -1982,7 +2028,7 @@
               "linktext2": ""
             },
             {
-              "name": "Play - Perfect Hoop 85/16",
+              "name": "Play - Perfect Hoop 85 cm",
               "category": 0,
               "subcategory": "Vanteet",
               "id": "playhoop-85-16",
@@ -1996,7 +2042,7 @@
               "text": "Rakkaalla lapsella on monta nimeä: Hulavanne (Hula Hoop), sirkusvanne (Circus Hoop), vannetanssivanne (Hoop Dancing), huuppausvanne (Hooping)... Playn valmistama laadukas vanne, joka on erinomaisen mukava käyttää ja lisäksi kokoontaitettava.",
               "text2": "Materiaalina vanteessa HDPE eli tiivispolyeteeni. Liitoskohta käyristettyä alumiinia. Liitoskohta mahdollistaa kokoontaiton puolet pienempään tilaan, ja siksi tällaisia vanteita kutsutaan myös nimellä matkavanne (travel hoop). Liitoskohdan ansiosta vanteita voi myös ketjuttaa toisiinsa.",
               "text3": "Paksumpi ja isompi vanne (100 mm / 20 mm) sopii hienosti aloittelijoille ja vannetanssiin, kun taas kevyempi ja pienempi (85 mm / 16 mm) sopii paremmin teknisempään temppuiluun, sirkustyylisiin vannetemppuihin ja useamman vanteen tekniikoihin.",
-              "text4": "Halkaisija 85 mm / Paksuus 16 mm / Paino 225 g",
+              "text4": "Halkaisija 85 cm / Paksuus 16 mm / Paino 225 g",
               "text5": "",
               "options": [
                 {
@@ -2411,7 +2457,7 @@
       "id": "ilmaakro",
       "subcategories": [
         {
-          "name": "Kankaat",
+          "name": "Ilma-akrobatiakankaat",
           "pic": "/category-pics/kankaat.jpg",
           "id": "kankaat",
           "pic2": "/category-pics/maaritutriainen.jpg",
@@ -2721,7 +2767,7 @@
               "pic": "/product-pics-1/steeloval.jpg",
               "pics": [],
               "price": 12,
-              "text": "Rock Empire -merkkinen teräksinen ruuvilukitteinen ovaalilukkosulkulenkki eli \"karabiini\". Erittäin korkealaatuista terästä, soveltuu vaikeisiin olosuhteisiin. Sulkulenkissä patentoitu K-Lock -portti. Portin avauma 21 mm. Ruuviosan väri saattaa vaihdella. Yksilöllisesti tarkastettu ja numeroitu. (CE EN362)",
+              "text": "Rock Empire -merkkinen teräksinen ruuvilukitteinen ovaalilukkosulkulenkki eli \"karabiini\". Erittäin korkealaatuista terästä, soveltuu vaikeisiin olosuhteisiin. Sulkulenkissä patentoitu K-Lock -portti. Portin avauma 21 mm. Yksilöllisesti tarkastettu ja numeroitu. (CE EN362)",
               "text2": "Pituus 110 mm / Leveys 62 mm / Paino 173 g",
               "text3": "Murtumispainoraja pituussuunnassa 2800 kg. Murtumispainoraja porttia vasten 1800 kg. Murtumispainoraja pituussuunnassa avonaisena 1000 kg.",
               "text4": "",
@@ -2756,12 +2802,31 @@
           ]
         },
         {
-          "name": "Köydet",
+          "name": "Ilma-akrobatiaköydet",
           "pic": "/category-pics/koydet.jpg",
           "id": "koydet",
           "pic2": "/category-pics/sannavellava.jpg",
           "pic2text": "Sanna Vellava, Valokuvaaja: Luis Sartori do Vale",
           "products": [
+            {
+              "name": "Catch It -Köysi",
+              "category": 1,
+              "subcategory": "koydet",
+              "id": "catchit",
+              "pic": "/product-pics-1/catchit1.jpg",
+              "pics": ["/product-pics-1/catchit.jpg"],
+              "price": 370,
+              "text": "Nacho Riccin käsityönä tehty vertikaaliköysi Espanjasta. Perinteisiin vertikaaliköysiin verrattuna tämä köysi on äärimmäisen mukava ja näppärä käyttää. Ohuempi profiili antaa köydelle notkeutta ja tarjoaa erinomaisen otteen pienempikätisillekin. Köyden päällyssukka tuo pehmeyttä ja mukavuutta niin otteeseen kuin myös kiedontatemppuihin. Köysi myös joustaa hieman, ja näin ollen tiputustemput eivät tunnu niin väkivaltaisilta. Värinä luonnonvalkoinen.",
+              "text2": "Pituus 9 m / Paksuus 34 mm / Paino noin 4,5 kg",
+              "text3": "Murtumispainorja 2000 kg",
+              "text4": "Työskentelypainoraja 107 kg",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
             {
               "name": "3-säikeinen Köysi - Valkoinen",
               "category": 1,
@@ -2898,25 +2963,6 @@
               "linktext2": ""
             },
             {
-              "name": "Catch It -köysi",
-              "category": 1,
-              "subcategory": "koydet",
-              "id": "catchit",
-              "pic": "/product-pics-1/catchit1.jpg",
-              "pics": [],
-              "price": 370,
-              "text": "Nacho Riccin käsityönä tehty vertikaaliköysi Espanjasta. Perinteisiin vertikaaliköysiin verrattuna tämä köysi on äärimmäisen mukava ja näppärä käyttää. Ohuempi profiili antaa köydelle notkeutta ja tarjoaa erinomaisen otteen pienempikätisillekin. Köyden päällyssukka tuo pehmeyttä ja mukavuutta niin otteeseen kuin myös kiedontatemppuihin. Köysi myös joustaa hieman, ja näin ollen tiputustemput eivät tunnu niin väkivaltaisilta. Värinä luonnonvalkoinen.",
-              "text2": "Pituus 9 m / Paksuus 34 mm / Paino noin 4,5 kg",
-              "text3": "Murtumispainorja 2000 kg",
-              "text4": "Työskentelypainoraja 107 kg",
-              "text5": "",
-              "options": null,
-              "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
-            },
-            {
               "name": "Päällystetty Köysi - Valkoinen",
               "category": 1,
               "subcategory": "koydet",
@@ -2940,7 +2986,7 @@
                 {
                   "name": "6 m",
                   "id": "firetoys-covered-valkoinen-6",
-                  "price": 330
+                  "price": 270
                 },
                 {
                   "name": "8 m",
@@ -3046,7 +3092,7 @@
               "pic": "/product-pics-1/steeloval.jpg",
               "pics": [],
               "price": 12,
-              "text": "Rock Empire -merkkinen teräksinen ruuvilukitteinen ovaalilukkosulkulenkki eli \"karabiini\". Erittäin korkealaatuista terästä, soveltuu vaikeisiin olosuhteisiin. Sulkulenkissä patentoitu K-Lock -portti. Portin avauma 21 mm. Ruuviosan väri saattaa vaihdella. Yksilöllisesti tarkastettu ja numeroitu. (CE EN362)",
+              "text": "Rock Empire -merkkinen teräksinen ruuvilukitteinen ovaalilukkosulkulenkki eli \"karabiini\". Erittäin korkealaatuista terästä, soveltuu vaikeisiin olosuhteisiin. Sulkulenkissä patentoitu K-Lock -portti. Portin avauma 21 mm. Yksilöllisesti tarkastettu ja numeroitu. (CE EN362)",
               "text2": "Pituus 110 mm / Leveys 62 mm / Paino 173 g",
               "text3": "Murtumispainoraja pituussuunnassa 2800 kg. Murtumispainoraja porttia vasten 1800 kg. Murtumispainoraja pituussuunnassa avonaisena 1000 kg.",
               "text4": "",
@@ -3081,11 +3127,11 @@
           ]
         },
         {
-          "name": "Rengsrengastrapetsit",
+          "name": "Rengastrapetsit",
           "pic": "/category-pics/rengastrapetsit.jpg",
           "id": "rengastrapetsit",
-          "pic2": "/category-pics/emmaraisanen.jpg",
-          "pic2text": "Emma Räisänen, Valokuvaaja: Markus Nivala",
+          "pic2": "/category-pics/pinjaschonberg.jpg",
+          "pic2text": "Pinja Schönberg",
           "products": [
             {
               "name": "Rengastrapetsi - Musta 0-piste",
@@ -3120,7 +3166,7 @@
                   "price": 210
                 },
                 {
-                  "name": "95 cm / 6.0 kg",
+                  "name": "95 cm / 5.8 kg",
                   "id": "firetoys-rengas-0-musta-95",
                   "price": 210
                 },
@@ -3128,7 +3174,13 @@
                   "name": "100 cm / 6.0 kg",
                   "id": "firetoys-rengas-0-musta-100",
                   "price": 210
+                },
+                {
+                  "name": "105 cm / 6.2 kg",
+                  "id": "firetoys-rengas-0-musta-105",
+                  "price": 210
                 }
+ 
               ],
               "link": "",
               "linktext": "",
@@ -3168,7 +3220,7 @@
                   "price": 220
                 },
                 {
-                  "name": "95 cm / 6.0 kg",
+                  "name": "95 cm / 5.8 kg",
                   "id": "firetoys-trapetsi-valkoinen-95",
                   "price": 220
                 },
@@ -3176,7 +3228,13 @@
                   "name": "100 cm / 6.0 kg",
                   "id": "firetoys-trapetsi-valkoinen-100",
                   "price": 220
+                },
+                {
+                  "name": "105 cm / 6.2 kg",
+                  "id": "firetoys-trapetsi-valkoinen-105",
+                  "price": 220
                 }
+                
               ],
               "link": "",
               "linktext": "",
@@ -3196,18 +3254,13 @@
                 "/product-pics-1/rengas-yksim3.jpg"
               ],
               "price": 210,
-              "text": "Firetoysin valmistama perinteinen yhden kiinnityspisteen rengastrapetsi. Saatavana kahdessa eri värissä. Mustaa löytyy kuudessa eri koossa (80 cm - 105 cm) ja valkoista neljässä koossa (90 cm - 105 cm). Koko on rengastrapetsin ulkohalkaisija. Kuvien kiinnitystarvikkeet eivät sisälly hintaan.",
+              "text": "Firetoysin valmistama perinteinen yhden kiinnityspisteen rengastrapetsi. Saatavana kahdessa eri värissä. Mustaa löytyy viidessä eri koossa (80 cm - 105 cm) ja valkoista neljässä koossa (90 cm - 105 cm). Koko on rengastrapetsin ulkohalkaisija. Kuvien kiinnitystarvikkeet eivät sisälly hintaan.",
               "text2": "Putken paksuus 25 mm",
               "text3": "Työskentelypainoraja 180 kg",
-              "text4": "Halkaisija 80 - 105 cm / Paino 5.4 - 6.6 kg",
+              "text4": "Halkaisija 80 - 105 cm / Paino 5.6 - 6.6 kg",
               "text5": "",
               "choice": "Koko",
               "options": [
-                {
-                  "name": "80 cm / 5.4 kg",
-                  "id": "firetoys-rengas-1-musta-80",
-                  "price": 210
-                },
                 {
                   "name": "85 cm / 5.6 kg",
                   "id": "firetoys-rengas-1-musta-85",
@@ -3227,7 +3280,13 @@
                   "name": "100 cm / 6.4 kg",
                   "id": "firetoys-rengas-1-musta-100",
                   "price": 210
+                },
+                {
+                  "name": "105 cm / 6.6 kg",
+                  "id": "firetoys-rengas-1-musta-105",
+                  "price": 210
                 }
+
               ],
               "link": "",
               "linktext": "",
@@ -3249,7 +3308,7 @@
                 "/product-pics-1/rengas-yksim3.jpg"
               ],
               "price": 220,
-              "text": "Firetoysin valmistama perinteinen yhden kiinnityspisteen rengastrapetsi. Saatavana kahdessa eri värissä: Musta helmiäinen ja Valkoinen kimalteleva. Mustaa löytyy kuudessa eri koossa (80 cm - 105 cm) ja valkoista neljässä koossa (90 cm - 105 cm). Koko on rengastrapetsin ulkohalkaisija. Kuvien kiinnitystarvikkeet eivät sisälly hintaan.",
+              "text": "Firetoysin valmistama perinteinen yhden kiinnityspisteen rengastrapetsi. Saatavana kahdessa eri värissä: Musta helmiäinen ja Valkoinen kimalteleva. Mustaa löytyy viidessä eri koossa (85 cm - 105 cm) ja valkoista neljässä koossa (90 cm - 105 cm). Koko on rengastrapetsin ulkohalkaisija. Kuvien kiinnitystarvikkeet eivät sisälly hintaan.",
               "text2": "Putken paksuus 25 mm",
               "text3": "Työskentelypainoraja 180 kg",
               "text4": "Halkaisija 90 - 105 cm / Paino 5.8 - 6.6 kg",
@@ -3270,7 +3329,13 @@
                   "name": "100 cm / 6.4 kg",
                   "id": "firetoys-rengas-1-valkoinen-100",
                   "price": 220
+                },
+                {
+                  "name": "105 cm / 6.6 kg",
+                  "id": "firetoys-rengas-1-valkoinen-105",
+                  "price": 220
                 }
+ 
               ],
               "link": "",
               "linktext": "",
@@ -3282,11 +3347,11 @@
               "category": 1,
               "subcategory": "rengastrapetsit",
               "id": "kasilenkki",
-              "pic": "/product-pics-1/kasilenkki.jpg",
+              "pic": "/product-pics-1/kasilenkki4.jpg",
               "pics": [
                 "/product-pics-1/kasilenkki2.jpg",
                 "/product-pics-1/kasilenkki3.jpg",
-                "/product-pics-1/kasilenkki4.jpg"
+                "/product-pics-1/kasilenkki.jpg"
               ],
               "choice": "Väri",
               "price": 29,
@@ -3323,13 +3388,13 @@
               "subcategory": "rengastrapetsit",
               "id": "trapetsiteippi",
               "pic": "/product-pics-1/trapetsiteippi.jpg",
-              "pics": [],
+              "pics": ["/product-pics-1/trapetsiteippi2.jpg","/product-pics-1/trapetsiteippi3.jpg","/product-pics-1/trapetsiteippi4.jpg","/product-pics-1/trapetsiteippi5.jpg"],
               "choice": "Väri",
               "price": 22,
-              "text": "Pehmeä, mukava, kestävä ja vähän tahmaava teippi trapetsin, rengastrapetsin ja muiden välineiden teippaukseen. Monissa kangasteipeissä ongelmaksi muodostuu ilma-akrobatiavälineiden kanssa teipin liika tahmaisuus tai liiman läpitunkeutuminen sisäpuolelta ulkopuolelle käytössä. Juuri tähän pulmaan Firetoys on tämän trapetsiteipin kehitetty. Vähemmän tahmaa, mutta kuitenkin hyvää pitoa ja mukavaa tuntumaa.",
+              "text": "Pehmeä, mukava, kestävä ja vähän-tahmaava viskoosikangasteippi trapetsin, rengastrapetsin ja muiden välineiden teippaukseen. Monissa kangasteipeissä ongelmaksi muodostuu ilma-akrobatiavälineiden kanssa teipin liika tahmaisuus tai liiman läpitunkeutuminen sisäpuolelta ulkopuolelle käytössä. Juuri tähän pulmaan on Firetoys-trapetsiteippi kehittänyt. Vähemmän tahmaa, mutta kuitenkin hyvää pitoa ja mukavaa tuntumaa.",
               "text2": "Yhdellä 50 metrin rullalla päällystää noin 4 rengastrapetsia. Valmistaja Firetoys.",
               "text3": "Leveys 25 mm / Pituus 50 m",
-              "text4": "",
+              "text4": "Materiaali: Viskoosi",
               "text5": "",
               "options": [
                 {
@@ -3368,6 +3433,49 @@
               "link2": "",
               "linktext2": ""
             },
+            
+            {
+              "name": "Ripustusliina 0.5 - 2.0m",
+              "category": 1,
+              "subcategory": "rengastrapetsit",
+              "id": "ripustusliina",
+              "pic": "/product-pics-1/ripustusliina1.jpg",
+              "pics": ["/product-pics-1/ripustusliina3.jpg", "/product-pics-1/ripustusliina2.jpg"],
+              "price": 15,              
+              "text": "Tavallista nauhalenkkiä jykevämpi raskaan sarjan liina, jota löytyy monessa mitassa tarpeen mukaan. Sopii erityisen hyvin nollapisterengastrapetsin kiinnittämiseen. Korkeisiin ripustuksiin ripustuliinoja on myös helppo ketjuttaa sulkulenkkien avulla. Väri: musta. Materiaali: polyesteri. CE-merkitty.",
+              "text2": "Pituus 0.5 - 2.0 m",
+              "text3": "Murtumispainoraja 1000 kg",
+              "text4": "",
+              "text5": "",
+              "choice": "Pituus",
+              "options": [
+                {
+                  "name": "0.5m",
+                  "id": "ripustusliina05",
+                  "price": 15
+                },
+                {
+                  "name": "1.0 m",
+                  "id": "ripustusliina10",
+                  "price": 20
+                },
+                {
+                  "name": "1.5 m",
+                  "id": "ripustusliina15",
+                  "price": 25
+                },
+                {
+                  "name": "2.0 m",
+                  "id": "ripustusliina15",
+                  "price": 30
+                }
+              ],
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+            
             {
               "name": "CAMP - Leikari (sviveli)",
               "category": 1,
@@ -3414,7 +3522,7 @@
               "pic": "/product-pics-1/steeloval.jpg",
               "pics": [],
               "price": 12,
-              "text": "Rock Empire -merkkinen teräksinen ruuvilukitteinen ovaalilukkosulkulenkki eli \"karabiini\". Erittäin korkealaatuista terästä, soveltuu vaikeisiin olosuhteisiin. Sulkulenkissä patentoitu K-Lock -portti. Portin avauma 21 mm. Ruuviosan väri saattaa vaihdella. Yksilöllisesti tarkastettu ja numeroitu. (CE EN362)",
+              "text": "Rock Empire -merkkinen teräksinen ruuvilukitteinen ovaalilukkosulkulenkki eli \"karabiini\". Erittäin korkealaatuista terästä, soveltuu vaikeisiin olosuhteisiin. Sulkulenkissä patentoitu K-Lock -portti. Portin avauma 21 mm. Yksilöllisesti tarkastettu ja numeroitu. (CE EN362)",
               "text2": "Pituus 110 mm / Leveys 62 mm / Paino 173 g",
               "text3": "Murtumispainoraja pituussuunnassa 2800 kg. Murtumispainoraja porttia vasten 1800 kg. Murtumispainoraja pituussuunnassa avonaisena 1000 kg.",
               "text4": "",
@@ -3460,46 +3568,36 @@
               "category": 1,
               "subcategory": "trapetsit",
               "id": "firetoys-trapetsi-valkoinen",
-              "pic": "/product-pics-1/trapeze0.jpg",
+              "pic": "/product-pics-1/trapetsi1.jpg",
               "pics": [
-                "/product-pics-1/trapeze1.jpg",
-                "/product-pics-1/trapeze2.jpg",
-                "/product-pics-1/trapeze3.jpg",
-                "/product-pics-1/trapeze4.jpg",
-                "/product-pics-1/trapeze5.jpg"
+                "/product-pics-1/trapetsi0.jpg",
+                "/product-pics-1/trapetsi2.jpg",
+                "/product-pics-1/trapetsi3.jpg",
+                "/product-pics-1/trapetsi4.jpg",
+                "/product-pics-1/trapetsi5.jpg"
               ],
-              "price": 270,
-              "text": "Laadukkaassa Firetoys-trapetsissa on teräksinen tanko, terässilmukat köysien päissä sekä erityisvahvat köydet. Ennenvanhaan Firetoys-trapetseissa oli aina vaijeriydin köydessä, mutta nykyään tilalla on nelinkertainen kokoköysipunos, joka on notkea, joustava ja kestävä. Hyvä perustrapetsi kaikenlaiseen käyttöön. Trapetsia löytyy kahdessa värissä ja viidessä eri mitassa. Musta väri on valkoista hieman kalliimpi. Pikalukituskarabiinit sisältyvät hintaan.",
-              "text2": "Leveys 56 cm / Köysien pituus 1 - 3.5 m / Tangon paksuus 24 mm / Paino 2.5 kg (1 m köysillä)",
+              "price": 280,
+              "text": "Laadukkaassa Firetoys-trapetsissa on teräksinen tanko, terässilmukat köysien päissä sekä erityisvahvat köydet. Ennenvanhaan Firetoys-trapetseissa oli aina vaijeriydin köydessä, mutta nykyään tilalla on nelinkertainen kokoköysipunos, joka on notkea, joustava ja kestävä. Hyvä perustrapetsi kaikenlaiseen käyttöön. Aloitustrapetsi, tanssitrapetsi, opetus- ja esityskäyttö. Trapetsia löytyy kahdessa värissä. Pikalukituskarabiinit sisältyvät hintaan.",
+              "text2": "Köysien pituus 1.5 - 2.5 m / Tangon leveys 56 cm / Tangon paksuus 24 mm",
               "text3": "Työskentelypainoraja 400 kg (karabiinit 250 kg)",
               "text4": "",
               "text5": "",
               "choice": "Köysien pituus",
               "options": [
                 {
-                  "name": "3.5 metriä",
-                  "id": "firetoys-trapetsi-valkoinen-35m",
-                  "price": 290
-                },
-                {
-                  "name": "3 metriä",
-                  "id": "firetoys-trapetsi-valkoinen-3m",
-                  "price": 280
-                },
-                {
                   "name": "2.5 metriä",
                   "id": "firetoys-trapetsi-valkoinen-25m",
-                  "price": 270
+                  "price": 280
                 },
                 {
                   "name": "2 metriä",
                   "id": "firetoys-trapetsi-valkoinen-2m",
-                  "price": 260
+                  "price": 270
                 },
                 {
                   "name": "1.5 metriä",
                   "id": "firetoys-trapetsi-valkoinen-15m",
-                  "price": 250
+                  "price": 260
                 }
               ],
               "link": "",
@@ -3512,32 +3610,22 @@
               "category": 1,
               "subcategory": "trapetsit",
               "id": "firetoys-trapetsi-musta",
-              "pic": "/product-pics-1/trapezeblack0.jpg",
+              "pic": "/product-pics-1/trapetsiblack0.jpg",
               "pics": [
-                "/product-pics-1/trapezeblack1.jpg",
-                "/product-pics-1/trapezeblack2.jpg",
-                "/product-pics-1/trapezeblack3.jpg",
-                "/product-pics-1/trapezeblack4.jpg",
-                "/product-pics-1/trapezeblack5.jpg"
+                "/product-pics-1/trapetsiblack1.jpg",
+                "/product-pics-1/trapetsiblack2.jpg",
+                "/product-pics-1/trapetsiblack3.jpg",
+                "/product-pics-1/paritrapetsim7.jpg",
+                "/product-pics-1/trapetsiblack5.jpg"
               ],
               "price": 280,
-              "text": "Laadukkaassa Firetoys-trapetsissa on teräksinen tanko, terässilmukat köysien päissä sekä erityisvahvat köydet. Ennenvanhaan Firetoys-trapetseissa oli aina vaijeriydin köydessä, mutta nykyään tilalla on nelinkertainen kokoköysipunos, joka on notkea, joustava ja kestävä. Hyvä perustrapetsi kaikenlaiseen käyttöön. Trapetsia löytyy kahdessa värissä ja viidessä eri mitassa. Musta väri on valkoista hieman kalliimpi. Pikalukituskarabiinit sisältyvät hintaan.",
-              "text2": "Leveys 56 cm / Köysien pituus 1 - 3.5 m / Tangon paksuus 24 mm / Paino 2.5 kg (1 m köysillä)",
+              "text": "Laadukkaassa Firetoys-trapetsissa on teräksinen tanko, terässilmukat köysien päissä sekä erityisvahvat köydet. Ennenvanhaan Firetoys-trapetseissa oli aina vaijeriydin köydessä, mutta nykyään tilalla on nelinkertainen kokoköysipunos, joka on notkea, joustava ja kestävä. Hyvä perustrapetsi kaikenlaiseen käyttöön. Aloitustrapetsi, tanssitrapetsi, opetus- ja esityskäyttö. Trapetsia löytyy kahdessa värissä. Pikalukituskarabiinit sisältyvät hintaan.",
+              "text2": "Köysien pituus 1.5 - 2.5 m / Tangon leveys 56 cm / Tangon paksuus 24 mm",
               "text3": "Työskentelypainoraja 400 kg (karabiinit 250 kg)",
               "text4": "",
               "text5": "",
               "choice": "Köysien pituus",
               "options": [
-                {
-                  "name": "3.5 metriä",
-                  "id": "firetoys-trapetsi-musta-35m",
-                  "price": 300
-                },
-                {
-                  "name": "3 metriä",
-                  "id": "firetoys-trapetsi-musta-3m",
-                  "price": 290
-                },
                 {
                   "name": "2.5 metriä",
                   "id": "firetoys-trapetsi-musta-25m",
@@ -3560,15 +3648,67 @@
               "linktext2": ""
             },
             {
+              "name": "Paritrapetsi - Valkoinen",
+              "category": 1,
+              "subcategory": "trapetsit",
+              "id": "firetoys-paritrapetsi-valkoinen",
+              "pic": "/product-pics-1/paritrapetsi2.jpg",
+              "pics": [
+                "/product-pics-1/paritrapetsi1.jpg",
+                "/product-pics-1/paritrapetsi4.jpg",
+                "/product-pics-1/paritrapetsi5.jpg",
+                "/product-pics-1/paritrapetsi6.jpg",
+                "/product-pics-1/paritrapetsi7.jpg",
+                "/product-pics-1/paritrapetsi3.jpg"
+              ],
+              "price": 299,
+              "text": "Laadukkaassa Firetoys-paritrapetsissa on teräksinen tanko, terässilmukat köysien päissä sekä erityisvahvat köydet. Ennenvanhaan Firetoys-trapetseissa oli aina vaijeriydin köydessä, mutta nykyään tilalla on nelinkertainen kokoköysipunos, joka on notkea, joustava ja kestävä. Hyvä perustrapetsi kaikenlaiseen käyttöön. Aloitustrapetsi, tanssitrapetsi, opetus- ja esityskäyttö. Paritrapetsia löytyy kahdessa värissä. Pikalukituskarabiinit (sulkulenkit) sisältyvät hintaan.",
+              "text2": "",
+              "text3": "Köysien pituus 2.5 m / Tangon leveys 90 cm / Tangon paksuus 24 mm",
+              "text4": "Työskentelypainoraja 400 kg (karabiinit 250 kg)",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+            {
+              "name": "Paritrapetsi - Musta",
+              "category": 1,
+              "subcategory": "trapetsit",
+              "id": "firetoys-paritrapetsi-musta",
+              "pic": "/product-pics-1/paritrapetsim2.jpg",
+              "pics": [
+                "/product-pics-1/paritrapetsim1.jpg",
+                "/product-pics-1/paritrapetsim4.jpg",
+                "/product-pics-1/paritrapetsim5.jpg",
+                "/product-pics-1/paritrapetsim6.jpg",
+                "/product-pics-1/paritrapetsim7.jpg",
+                "/product-pics-1/paritrapetsim3.jpg"
+              ],
+              "price": 299,
+              "text": "Laadukkaassa Firetoys-paritrapetsissa on teräksinen tanko, terässilmukat köysien päissä sekä erityisvahvat köydet. Ennenvanhaan Firetoys-trapetseissa oli aina vaijeriydin köydessä, mutta nykyään tilalla on nelinkertainen kokoköysipunos, joka on notkea, joustava ja kestävä. Hyvä perustrapetsi kaikenlaiseen käyttöön. Aloitustrapetsi, tanssitrapetsi, opetus- ja esityskäyttö. Paritrapetsia löytyy kahdessa värissä. Pikalukituskarabiinit (sulkulenkit) sisältyvät hintaan.",
+              "text2": "",
+              "text3": "Köysien pituus 2.5 m / Tangon leveys 90 cm / Tangon paksuus 24 mm",
+              "text4": "Työskentelypainoraja 400 kg (karabiinit 250 kg)",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+            {
               "name": "Trapetsiteippi",
               "category": 1,
               "subcategory": "trapetsit",
               "id": "trapetsiteippi",
               "pic": "/product-pics-1/trapetsiteippi.jpg",
-              "pics": [],
+              "pics": ["/product-pics-1/trapetsiteippi2.jpg","/product-pics-1/trapetsiteippi3.jpg","/product-pics-1/trapetsiteippi4.jpg","/product-pics-1/trapetsiteippi5.jpg"],
               "choice": "Väri",
               "price": 22,
-              "text": "Pehmeä, mukava, kestävä ja vähän tahmaava teippi trapetsin, rengastrapetsin ja muiden välineiden teippaukseen. Monissa kangasteipeissä ongelmaksi muodostuu ilma-akrobatiavälineiden kanssa teipin liika tahmaisuus tai liiman läpitunkeutuminen sisäpuolelta ulkopuolelle käytössä. Juuri tähän pulmaan Firetoys on tämän trapetsiteipin kehitetty. Vähemmän tahmaa, mutta kuitenkin hyvää pitoa ja mukavaa tuntumaa.",
+              "text": "Pehmeä, mukava, kestävä ja vähän tahmaava teippi trapetsin, rengastrapetsin ja muiden välineiden teippaukseen. Monissa kangasteipeissä ongelmaksi muodostuu ilma-akrobatiavälineiden kanssa teipin liika tahmaisuus tai liiman läpitunkeutuminen sisäpuolelta ulkopuolelle käytössä. Juuri tähän pulmaan Firetoys on tämän trapetsiteipin kehittänyt. Vähemmän tahmaa, mutta kuitenkin hyvää pitoa ja mukavaa tuntumaa.",
               "text2": "Yhdellä 50 metrin rullalla päällystää noin 4 rengastrapetsia. Valmistaja Firetoys.",
               "text3": "Leveys 25 mm / Pituus 50 m",
               "text4": "",
@@ -3637,7 +3777,7 @@
               "pic": "/product-pics-1/steeloval.jpg",
               "pics": [],
               "price": 12,
-              "text": "Rock Empire -merkkinen teräksinen ruuvilukitteinen ovaalilukkosulkulenkki eli \"karabiini\". Erittäin korkealaatuista terästä, soveltuu vaikeisiin olosuhteisiin. Sulkulenkissä patentoitu K-Lock -portti. Portin avauma 21 mm. Ruuviosan väri saattaa vaihdella. Yksilöllisesti tarkastettu ja numeroitu. (CE EN362)",
+              "text": "Rock Empire -merkkinen teräksinen ruuvilukitteinen ovaalilukkosulkulenkki eli \"karabiini\". Erittäin korkealaatuista terästä, soveltuu vaikeisiin olosuhteisiin. Sulkulenkissä patentoitu K-Lock -portti. Portin avauma 21 mm. Yksilöllisesti tarkastettu ja numeroitu. (CE EN362)",
               "text2": "Pituus 110 mm / Leveys 62 mm / Paino 173 g",
               "text3": "Murtumispainoraja pituussuunnassa 2800 kg. Murtumispainoraja porttia vasten 1800 kg. Murtumispainoraja pituussuunnassa avonaisena 1000 kg.",
               "text4": "",
@@ -3908,7 +4048,7 @@
               "pic": "/product-pics-1/steeloval.jpg",
               "pics": [],
               "price": 12,
-              "text": "Rock Empire -merkkinen teräksinen ruuvilukitteinen ovaalilukkosulkulenkki eli \"karabiini\". Erittäin korkealaatuista terästä, soveltuu vaikeisiin olosuhteisiin. Sulkulenkissä patentoitu K-Lock -portti. Portin avauma 21 mm. Ruuviosan väri saattaa vaihdella. Yksilöllisesti tarkastettu ja numeroitu. (CE EN362)",
+              "text": "Rock Empire -merkkinen teräksinen ruuvilukitteinen ovaalilukkosulkulenkki eli \"karabiini\". Erittäin korkealaatuista terästä, soveltuu vaikeisiin olosuhteisiin. Sulkulenkissä patentoitu K-Lock -portti. Portin avauma 21 mm. Yksilöllisesti tarkastettu ja numeroitu. (CE EN362)",
               "text2": "Pituus 110 mm / Leveys 62 mm / Paino 173 g",
               "text3": "Murtumispainoraja pituussuunnassa 2800 kg. Murtumispainoraja porttia vasten 1800 kg. Murtumispainoraja pituussuunnassa avonaisena 1000 kg.",
               "text4": "",
@@ -3943,7 +4083,7 @@
           ]
         },
         {
-          "name": "Riggaus",
+          "name": "Ripustus (Riggaus)",
           "pic": "/category-pics/riggaus.jpg",
           "id": "riggaus",
           "pic2": "",
@@ -4033,7 +4173,7 @@
               "pic": "/product-pics-1/steeloval.jpg",
               "pics": [],
               "price": 12,
-              "text": "Rock Empire -merkkinen teräksinen ruuvilukitteinen ovaalilukkosulkulenkki eli \"karabiini\". Erittäin korkealaatuista terästä, soveltuu vaikeisiin olosuhteisiin. Sulkulenkissä patentoitu K-Lock -portti. Portin avauma 21 mm. Ruuviosan väri saattaa vaihdella. Yksilöllisesti tarkastettu ja numeroitu. (CE EN362)",
+              "text": "Rock Empire -merkkinen teräksinen ruuvilukitteinen ovaalilukkosulkulenkki eli \"karabiini\". Erittäin korkealaatuista terästä, soveltuu vaikeisiin olosuhteisiin. Sulkulenkissä patentoitu K-Lock -portti. Portin avauma 21 mm. Yksilöllisesti tarkastettu ja numeroitu. (CE EN362)",
               "text2": "Pituus 110 mm / Leveys 62 mm / Paino 173 g",
               "text3": "Murtumispainoraja pituussuunnassa 2800 kg. Murtumispainoraja porttia vasten 1800 kg. Murtumispainoraja pituussuunnassa avonaisena 1000 kg.",
               "text4": "",
@@ -4065,6 +4205,48 @@
               "link2": "",
               "linktext2": ""
             },
+            {
+              "name": "Ripustusliina 0.5 - 2.0m",
+              "category": 1,
+              "subcategory": "riggaus",
+              "id": "ripustusliina",
+              "pic": "/product-pics-1/ripustusliina1.jpg",
+              "pics": ["/product-pics-1/ripustusliina3.jpg", "/product-pics-1/ripustusliina2.jpg"],
+              "price": 15,              
+              "text": "Tavallista nauhalenkkiä jykevämpi raskaan sarjan liina, jota löytyy monessa mitassa tarpeen mukaan. Sopii erityisen hyvin nollapisterengastrapetsin kiinnittämiseen. Korkeisiin ripustuksiin ripustuliinoja on myös helppo ketjuttaa sulkulenkkien avulla. Väri: musta. Materiaali: polyesteri. CE-merkitty.",
+              "text2": "Pituus 0.5 - 2.0 m",
+              "text3": "Murtumispainoraja 1000 kg",
+              "text4": "",
+              "text5": "",
+              "choice": "Pituus",
+              "options": [
+                {
+                  "name": "0.5m",
+                  "id": "ripustusliina05",
+                  "price": 15
+                },
+                {
+                  "name": "1.0 m",
+                  "id": "ripustusliina10",
+                  "price": 20
+                },
+                {
+                  "name": "1.5 m",
+                  "id": "ripustusliina15",
+                  "price": 25
+                },
+                {
+                  "name": "2.0 m",
+                  "id": "ripustusliina15",
+                  "price": 30
+                }
+              ],
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+            
             {
               "name": "CAMP - 8",
               "category": 1,
@@ -4217,13 +4399,10 @@
               "subcategory": "yksipyoraiset",
               "id": "quaxminibike",
               "pic": "/product-pics-2/quaxminibike.jpg",
-              "pics": [
-                "/product-pics-2/quaxminibike2.jpg",
-                "/product-pics-2/quaxminibike3.jpg"
-              ],
+              "pics": ["/product-pics-2/quaxminibike2.jpg","/product-pics-2/quaxminibike3.jpg"],
               "price": 249,
               "text": "6\" minipolkupyörä aikuisille. Kyllä, aikuisille. Ei lapsille. Toki lapsetkin voivat pyörällä ajella. Ei mitenkään järin miellyttävä ajaa, mutta sitäkin hauskempi kulkupeli. Huomiosi on taattu, ja kaikki ehtivät katsella sinua riittävän pitkään, sillä tällä pyörällä matkanteko kestää tuskastuttavan kauan vaikka sotkisit vimmatusti. Huomaa, että valmistaja ei ole antanut mitään paino- tai kokosuosituksia tälle pyörälle. Eli tämä soveltuu sinulle jos olet tarpeeksi kahjo. Tehty kestämään. Käyttö omalla vastuulla.",
-              "text2": "6 tuuman PU-pyörät. Teräskammet ja ketjusuojus. Kromattu ohjaustanko. Satula synteettistä nahkaa niiteillä. Seisontatuki.",
+              "text2": "Kuuden tuuman polyuretaanirenkaat. Teräskammet ja ketjusuojus. Kromattu ohjaustanko. Satula synteettistä nahkaa niiteillä. Seisontatuki.",
               "text3": "Hommaa kaverille kanssa, niin voitte pitää kilpailuja!",
               "text4": "",
               "text5": "",
@@ -4338,7 +4517,6 @@
                 "/product-pics-2/macaco2.jpg",
                 "/product-pics-2/macaco3.jpg",
                 "/product-pics-2/macaco3b.jpg",
-                "/product-pics-2/macaco4.jpg",
                 "/product-pics-2/macaco5.jpg"
               ],
               "price": 80,
@@ -4529,7 +4707,7 @@
               "linktext2": ""
             },
             {
-              "name": "",
+              "name": "Nopeushyppynaru",
               "category": 3,
               "subcategory": "hyppynarut",
               "id": "samesmile4",
@@ -4557,14 +4735,14 @@
           "pic2text": "",
           "products": [
             {
-              "name": "KROM Slaydawg 7 Year Bday Kendama",
+              "name": "KROM 7 Year Bday",
               "category": 3,
               "subcategory": "kendama",
               "id": "krom7",
               "pic": "/product-pics-3/krom7.jpg",
               "pics": [],
               "price": 60,
-              "text": "Krom Kendaman 7-vuotis juhla-Kendama! Kiireestä kantapäähän äärimmilleen hiottua yksityiskohtaa ja laatua. Slawdawg-tyypin Ken. Pakkaukseen sisältyy juhla-Kendama, varanaru, varajyvä, tarrapakkaus ja minijuliste.",
+              "text": "Krom Kendaman 7-vuotis juhla-Kendama! Kiireestä kantapäähän äärimmilleen hiottua yksityiskohtaa ja laatua. Slaydawg-tyypin Ken, laakeroitu jyvä ja porauksella tasapainotettu Ken. Pakkaukseen sisältyy juhla-Kendama, varanaru, varajyvä, tarrapakkaus ja minijuliste.",
               "text2": "",
               "text3": "",
               "text4": "",
@@ -4576,12 +4754,12 @@
               "linktext2": ""
             },
             {
-              "name": "KROM X BEAMS O.K. Kendama",
+              "name": "KROM X BEAMS O.K.",
               "category": 3,
               "subcategory": "kendama",
               "id": "kromx",
-              "pic": "/product-pics-3/kromx.jpg",
-              "pics": [],
+              "pic": "/product-pics-3/kromx0.jpg",
+              "pics": ["/product-pics-3/kromx3.jpg","/product-pics-3/kromx1.jpg","/product-pics-3/kromx8.jpg","/product-pics-3/kromx4.jpg","/product-pics-3/kromx5.jpg","/product-pics-3/kromx6.jpg","/product-pics-3/kromx7.jpg","/product-pics-3/kromx2.jpg"],
               "price": 50,
               "text": "Kendama, jolla on tarina. Jokaisesta myydystä KROM X BEAMS O.K. -mallista lahjoitetaan 3 dollaria Tohokun kylään Japaniin Fukushiman surullisenkuuluisalle maanjäristysalueelle. Tämä Kendama-malli on erittäin laadukas, persoonallisen näköinen ja oiva tapa auttaa muita hauskan harrastuksen kautta. Kädensijan varteen on kirjoitettu kuuluisa lause, joka kuvaa Tohokun alueella paperimassasta käsityönä valmistettavia Okigari Koboshi -hahmoja sekä Fukushiman alueen nykyisten ja entisten asukkaiden periksiantamatonta elämänasennetta: \"7 times down 8 times up\"",
               "text2": "",
@@ -4612,14 +4790,31 @@
               "subcategory": "kendama",
               "id": "kromkamo",
               "pic": "/product-pics-3/kromkamo.jpg",
-              "pics": [],
-              "price": 48,
-              "text": "",
+              "pics": ["/product-pics-3/kromkamo1.jpg","/product-pics-3/kromkamo2.jpg","/product-pics-3/kromkamo3.jpg","/product-pics-3/kromkamo4.jpg","/product-pics-3/kromkamo5.jpg","/product-pics-3/kromkamo6.jpg","/product-pics-3/kromkamo7.jpg"],
+              "price": 45,
+              "choice":"Väri",
+              "text": "Kromin Kamo on läpeensä hiottua tyyliä, yksityiskohtaa ja käytettävyyttä. Laserkaiverrettu maastokuosi varressa ja kupeissa, Kromin BL-muotoiltu Ken, tasapainotusporaus lunar-temppuja varten, uniikki maastokuviointi Damassa ja laakeroitu jyvä takaavat ikimuistoiset Kendama-hetket. Mukana varanaru, varajyvä ja tarrapakkaus.",
               "text2": "",
               "text3": "",
               "text4": "",
               "text5": "",
-              "options": null,
+              "options": [
+                {
+                  "name": "Violetti",
+                  "id": "kromkamo_violetti",
+                  "price": 45
+                },
+                {
+                  "name": "Vihreä",
+                  "id": "kromkamo_vihrea",
+                  "price": 45
+                },
+                {
+                  "name": "Oranssi",
+                  "id": "kromkamo_oranssi",
+                  "price": 45
+                }
+              ],
               "link": "",
               "linktext": "",
               "link2": "",
@@ -4632,8 +4827,8 @@
               "id": "kromnoia",
               "pic": "/product-pics-3/kromnoia.jpg",
               "pics": [],
-              "price": 38,
-              "text": "",
+              "price": 45,
+              "text": "Poistuva tuote. Valmistus lopetettu.",
               "text2": "",
               "text3": "",
               "text4": "",
@@ -4651,27 +4846,8 @@
               "id": "kromnoia2",
               "pic": "/product-pics-3/kromnoia2.jpg",
               "pics": [],
-              "price": 38,
-              "text": "",
-              "text2": "",
-              "text3": "",
-              "text4": "",
-              "text5": "",
-              "options": null,
-              "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
-            },
-            {
-              "name": "KROM Noia 3 Kendama",
-              "category": 3,
-              "subcategory": "kendama",
-              "id": "kromnoia3",
-              "pic": "/product-pics-3/kromnoia3.jpg",
-              "pics": [],
-              "price": 38,
-              "text": "",
+              "price": 45,
+              "text": "Poistuva tuote. Valmistus lopetettu.",
               "text2": "",
               "text3": "",
               "text4": "",
@@ -4688,14 +4864,61 @@
               "subcategory": "kendama",
               "id": "krompop",
               "pic": "/product-pics-3/krompop.jpg",
-              "pics": [],
+              "pics": ["/product-pics-3/krompop1.jpg","/product-pics-3/krompop2.jpg","/product-pics-3/krompop3.jpg","/product-pics-3/krompop4.jpg","/product-pics-3/krompop5.jpg","/product-pics-3/krompop6.jpg","/product-pics-3/krompop7.jpg","/product-pics-3/krompop8.jpg","/product-pics-3/krompop9.jpg","/product-pics-3/krompop11.jpg","/product-pics-3/krompop91.jpg"],
               "price": 24,
-              "text": "Kromin uusi huippuunsa hiottu perus-Kendama-malli. Saatavana yhdeksässä eri värissä! Damassa miellyttävä kumimattamaaliviimeistely. Pakkaukseen sisältyy Kendama, varanaru, varajyvä, tarroja ja minijuliste. Parasta Krom-laatua ja kaupantekijäisiä edullisesti!",
+              "choice":"Väri",
+              "text": "Kromin uusi huippuunsa hiottu Kendaman uuden ajan perusmalli. Saatavana yhdeksässä eri värissä! Damassa miellyttävä kumimattaviimeistely ja selkeä maali reiän ympärillä. Ken taattua Krom-laatua erinomaisella muotoilulla. Pakkaukseen sisältyy Kendama, varanaru, varajyvä, tarroja ja minijuliste. Parasta Krom-laatua ja kaupantekijäisiä edullisesti niin aloittejalle kuin myös kisoihin!",
               "text2": "",
               "text3": "",
               "text4": "",
               "text5": "",
-              "options": null,
+              "options": [
+                {
+                  "name": "Vaaleansininen",
+                  "id": "krompop_vaaleansininen",
+                  "price": 24
+                },
+                {
+                  "name": "Keltainen",
+                  "id": "krompop_keltainen",
+                  "price": 24
+                },
+                {
+                  "name": "Oranssi",
+                  "id": "krompop_oranssi",
+                  "price": 24
+                },
+                {
+                  "name": "Vaaleanpunainen",
+                  "id": "krompop_vaaleanpunainen",
+                  "price": 24
+                },
+                {
+                  "name": "Punainen",
+                  "id": "krompop_punainen",
+                  "price": 24
+                },
+                {
+                  "name": "Sininen",
+                  "id": "krompop_sininen",
+                  "price": 24
+                },
+                {
+                  "name": "Vihreä",
+                  "id": "krompop_vihrea",
+                  "price": 24
+                },
+                {
+                  "name": "Vaaleanvihreä",
+                  "id": "krompop_vaaleanvihrea",
+                  "price": 24
+                },
+                {
+                  "name": "Liila",
+                  "id": "krompop_liila",
+                  "price": 24
+                }
+              ],
               "link": "",
               "linktext": "",
               "link2": "",
@@ -4711,14 +4934,14 @@
           "pic2text": "",
           "products": [
             {
-              "name": "Bicycle -korttipakka",
+              "name": "Bicycle-korttipakka",
               "category": 3,
               "subcategory": "taika",
               "id": "bicycle",
               "pic": "/product-pics-3/bicycle.jpg",
               "pics": [],
               "price": 3,
-              "text": "Tavallinen laadukas taikurien suosima standardi korttipakka Rider-taustalla. Käytetty kortti mm. Las Vegasin kasinoilla. Taustan väreinä punainen tai sininen.",
+              "text": "Tavallinen ja laadukas taikurien suosima standardi Bicycle-korttipakka Rider-taustalla. Käytetty korttipakka taikaesitysten lisäksi mm. Las Vegasin kasinoilla. Taustan väreinä punainen tai sininen.",
               "text2": "",
               "text3": "",
               "text4": "",
@@ -4791,6 +5014,34 @@
             }
           ]
         },
+        {
+          "name": "Verkkokurssit",
+          "pic": "/category-pics/verkkokurssit.jpg",
+          "id": "verkkokurssit",
+          "pic2": "",
+          "pic2text": "",
+          "products": [
+            {
+              "name": "Risto Leppänen - Taikurikoulu",
+              "category": 3,
+              "subcategory": "verkkokurssit",
+              "id": "taikurikoulu",
+              "pic": "/product-pics-3/taikurikoulu.jpg",
+              "pics": ["/product-pics-3/taikurikoulu2.jpg"],
+              "price": 0,
+              "text1": "Paras tapa opiskella taikuutta verkossa!",
+              "text2": "Tässä muutama hyvä syy investoida Risto Leppäsen verkkokurssi: USEASTI PALKITTU OPETTAJA, SUOMENKIELISET VIDEOT JA MATERIAALIT, KURSSIN TEMPUT PARANTAVAT KÄDEN JA SILMÄN KOORDINAATIOTA, VUOROVAIKUTUS- JA ESIINTYMISTAIDOT KEHITTYVÄT, KATTAVA OPETUSMATERIAALI, KURSSEIHIN SISÄLTYVÄT VÄLINEET.",
+              "text3": "Kurssien hinnat Taikurikoulun omilla verkkosivuilla.",
+              "text4": "Lue lisää ja osta verkkokurssi allaolevan linkin kautta.",
+              "text5": "10% ALENNUSTA KAIKISTA TAIKURIKOULUN KURSSEISTA ALENNUSKOODILLA: sirkussirkus",
+              "options": null,
+              "link": "",
+              "linktext": "",
+              "link2": "http://www.taikurikoulu.com",
+              "linktext2": "Osta Taikurikoulu täältä!"
+            }
+          ]
+        }, 
         {
           "name": "Kirjat ja dvd:t",
           "pic": "/category-pics/media.jpg",
@@ -5071,7 +5322,7 @@
               "id": "klovneriankasikirja",
               "pic": "/product-pics-3/klovneriankasikirja.jpg",
               "pics": [],
-              "price": 25,
+              "price": 29,
               "text": "Yleinen harhaluulo on, että klovniksi tullaan hankkimalla punainen nenä, peruukki ja lapionkokoiset kengät. Klovnerius ei kuitenkaan tarkoita ulkoisia tekijöitä, vaan se on henkinen, sisäinen tila, joka löytyy kunkin klovniksi haluavan omasta persoonasta. Paras klovni on aito, oma itsensä. Klovnerian käsikirja on ensimmäinen suomalainen klovnerian esiintymisopas. Se käsittelee klovnerian perusasioita lähtien liikkeelle katsauksesta klovnerian historiaan sekä erilaisiin klovnityyppeihin, edeten oman klovnihahmon löytymiseen sekä esityksen suunnitteluun ja niihin periaatteisiin, jotka tekevät klovnista klovnin. Oman lukunsa kirjassa saavat myös mimiikka, slapstick-tekniikat sekä klovnin rutiinit ja gägit.",
               "text2": "Suomenkielinen / 131 sivua / kovakantinen / 2010",
               "text3": "",
@@ -5109,7 +5360,7 @@
               "id": "nevergiveup",
               "pic": "/product-pics-3/nevergiveup.jpg",
               "pics": [],
-              "price": 20,
+              "price": 25,
               "text": "Object Episodes -sarjan kolme ensimmäistä osaa samassa paketissa. Vuodet 2005-2007. Mukana mm. Ruotsista Erik Åberg, Mattias Jönsson, Elias Hedlund, Viktor Gyllenberg. Suomesta Jouni Temonen, Matias Salmenaho. Argentiinasta Victor Rubilar. Japanista Tempei Arakawa, Masaki Hirano, Atsushi Kikyo, Takashi Kikyo. Levyllä on yksi Matias Jönssonin suorittama temppu, joka on yleisen tiedon mukaan tehty vain yhden kerran koko maailmassa. Varastossa vielä muutama kappale. Loppuunmyyty artikkeli muissa nettikaupoissa.",
               "text2": "60 min / 2008",
               "text3": "",
@@ -5147,48 +5398,10 @@
               "id": "diabology",
               "pic": "/product-pics-3/diabology.jpg",
               "pics": [],
-              "price": 20,
+              "price": 25,
               "text": "The Mad French Posse -ryhmän kokoelmatuplalevy, jossa toinen levy on pelkkää freestyle-juhlaa ja esityksiä (noin 100 minuuttia), ja toinen levy keskittyy diabolo-opetukseen yhden diabolon perusteista lähtien aina kolmen diabolon perusteisiin asti (noin 40 minuuttia). Tämän teoksen sanotaan innoittaneen uuden diabolo-taiteen sukupolven syntyä vuonna 2004, jolloin se ilmestyi. Opetusosio on yhä pätevä, ja freestyle-osio tarjoaa varmasti jotakin uutta ja innostavaa jokaiselle alan harrastajalle yli 10 vuoden iästään huolimatta. Kielenä englanti.",
               "text2": "Englanninkielinen / tuplalevy 140 min / 2004",
               "text3": "",
-              "text4": "",
-              "text5": "",
-              "options": null,
-              "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
-            },
-            {
-              "name": "Bolottaako? - DVD (2. painos)",
-              "category": 3,
-              "subcategory": "media",
-              "id": "bolottaako",
-              "pic": "/product-pics-3/bolottaako.jpg",
-              "pics": [],
-              "price": 20,
-              "text": "Ensimmäinen ja toistaiseksi ainoa suomenkielinen diabolo-opetusvideo. Toinen painos. Sirkus Kumiankan teos kartoittaa kolmen suomalaisen diabolo-ammattilaisen avulla lajia aina perustekniikoista vaikeampiin temppuihin ja temppuyhdistelmiin. Bolottaako?-dvd auttaa nuorta harrastajaa alkuun, ja antaa pidemmälle ehtineille vinkkejä kehitykseen ja esiintymisiin. Videolla nähdään diabolo-taiteilijat Aaro Kontio, Marko Akkanen ja Samuli Männistö. Toinen painos sisältää myös lisälevyn, jolla on lisää bonusmateriaalia.",
-              "text2": "Sirkus Kumiankka / Suomenkielinen / 32 min + extrat + lisälevy / 2006",
-              "text3": "",
-              "text4": "",
-              "text5": "",
-              "options": null,
-              "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
-            },
-            {
-              "name": "Lauri Koskisen Patakasi - DVD",
-              "category": 3,
-              "subcategory": "media",
-              "id": "patakasi",
-              "pic": "/product-pics-3/patakasi.jpg",
-              "pics": [],
-              "price": 25,
-              "text": "Tämä video sisältää kahdeksan uutta (julkaistu 2005) close-up -korttitemppua Lauri Koskiselta. Videossa on selkeät selitykset jokaiseen temppuun, ja mukana on myös kaksi bonus taikatemppua sekä paljon extra-materiaalia, kuten mm. kuusi välitemppua ja kenttäkameralla kuvattua taikurin arkea. Temppujen oppiminen vaatii vankan teknisen osaamisen korttien käsittelyssä. Levyllä on nimensä mukaisesti kahdeksan temppua, joista jokaisen ympärille on mahdollista rakentaa pitempikin rutiini. Lauri Koskinen on vuoden 2005 ravintolataikuuden Suomen mestari.",
-              "text2": "Suomenkielinen / 50 min / 2005",
-              "text3": "\"Roimasti ylihintainen, mutta kannattaa ostaa!\" -Pete Poskiparta",
               "text4": "",
               "text5": "",
               "options": null,
