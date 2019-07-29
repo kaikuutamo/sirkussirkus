@@ -557,7 +557,7 @@
                 },
                 {
                   "name": "Sirkussirkus-custom (tilaustuote)",
-                  "id": "delphin_violetti",
+                  "id": "delphin_custom",
                   "price": 25
                 }
               ],
@@ -4250,7 +4250,7 @@
             {
               "name": "CAMP - 8",
               "category": 1,
-              "subcategory": "kankaat",
+              "subcategory": "riggaus",
               "id": "alu8",
               "pic": "/product-pics-1/alu8.jpg",
               "pics": [],

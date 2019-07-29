@@ -102,10 +102,15 @@ nav a {
 }
 
 
-#cartlogo-wrapper img {
+#cartlogo1 {
     height: 18px;
     margin-right: 10px;
+        
 }
+
+
+
+
 
 #cartlogo-wrapper p {
     font-size: 1rem;
@@ -201,10 +206,10 @@ align-items: center;
     padding: 3px;
     }
 
-#cartlogo-mobile2 img {
+#cartlogo2 {
     height: 18px;
     margin-right: 10px;
-    
+    transition: 1.5s transform;
 }
 
 #cartlogo-mobile p {

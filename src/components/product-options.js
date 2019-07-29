@@ -25,6 +25,8 @@ constructor(props) {
         pictures: ""
     }
 
+    this.rotatevalue = 0;
+
 }
 
 handleChange = (arg) => {
@@ -83,6 +85,10 @@ sendToStore = () => {
     }
 
     this.props.addProduct(object);
+
+    this.rotatevalue = this.rotatevalue + 360;
+
+    document.getElementsByClassName("shopcartpic")[0].style.transform = "rotate("+this.rotatevalue+"deg)";
 }
 
 
@@ -240,7 +246,7 @@ return (
         </div>
 
         <div className="add-cart">
-            <button onClick={this.sendToStore}><img alt="Shopping Cart" src={cartPic}></img>Lisää ostoskoriin</button>
+            <button onClick={this.sendToStore}><img className="shopcartpic" alt="Shopping Cart" src={cartPic}></img>Lisää ostoskoriin</button>
         </div>
 
         
