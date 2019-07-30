@@ -12,12 +12,27 @@ var toDecimals = convertNum.toDecimals;
 
 class OrderConfirmation extends React.Component {
 
+
+
 componentDidMount () {
     window.scrollTo(0, 0);
+
+
 }
 
 render () {
 
+var deliveryText;
+
+if (this.props.delivery === "Nouto") {
+        
+    deliveryText = "NOUTOTEKSTI Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque maximus at velit quis fermentum. Sed ut vehicula purus. Aliquam sit amet arcu efficitur, varius orci a, vulputate tellus. Nullam at erat vulputate, pulvinar nunc eu, accumsan arcu. Proin ut turpis nec arcu posuere rutrum. Pellentesque aliquam enim id lectus convallis porta. Mauris dapibus est diam, at rutrum tellus tempor sed. Nunc ultrices finibus posuere. Donec finibus urna cursus, dictum massa nec, commodo enim. Sed pharetra id libero in ultricies. Pellentesque diam lectus, aliquet a mattis sed, sagittis vitae mi."
+}
+
+if (this.props.delivery === "Matkahuolto") {
+        
+    deliveryText = "MATKAHUOLTOTEKSTI Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque maximus at velit quis fermentum. Sed ut vehicula purus. Aliquam sit amet arcu efficitur, varius orci a, vulputate tellus. Nullam at erat vulputate, pulvinar nunc eu, accumsan arcu. Proin ut turpis nec arcu posuere rutrum. Pellentesque aliquam enim id lectus convallis porta. Mauris dapibus est diam, at rutrum tellus tempor sed. Nunc ultrices finibus posuere. Donec finibus urna cursus, dictum massa nec, commodo enim. Sed pharetra id libero in ultricies. Pellentesque diam lectus, aliquet a mattis sed, sagittis vitae mi."
+}
 
 var products = this.props.shoppingcart;
 var totalSum = 0;
@@ -107,14 +122,11 @@ return (
             <div id="order-terms-text2">
             <h3>Toimitus- ja maksuehdot</h3>
             <p>
-            Toimitus postitse tai matkahuollolla paketin koon ja painon mukaan.
-            Toimituskulut lisätään hintaan. Paketin koosta riippuen 6-20€.
-            Lasku lähetetään sähköpostiin, kun paketti on matkassa.
+            {this.props.delivery}
             </p>
             <br></br>
             <p>
-            Nouto on mahdollista osoitteesta Lonttistentie 14, 20100 Turku sopimuksen mukaan.
-            Aukiolo satunnaisesti ja sopimuksen mukaan. Maksu paikan päällä käteisellä tai kortilla.
+            {deliveryText}
             </p>
             </div>
         </div>
@@ -138,7 +150,8 @@ const mapStateToProps = (state) => {
     return {
         information: state.information,
         shoppingcart: state.shoppingCart,
-        text: state.text
+        text: state.text,
+        delivery: state.delivery
     }
 }
 

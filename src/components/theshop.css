@@ -54,6 +54,7 @@
 }
 
 #theshop-stuff img {
+    flex-basis: 0;
     width: 100%;
     max-width: 800px;
 

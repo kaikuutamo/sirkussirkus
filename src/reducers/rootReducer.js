@@ -52,7 +52,8 @@ if (status === "no") {
             phonenumber: "",
             email: ""
         },
-        text: ""
+        text: "",
+        delivery: ""
     }
 
 }
@@ -71,7 +72,8 @@ else if (typeof localStorage.getItem("sirkussirkus_state") !== "string") {
             phonenumber: "",
             email: ""
         },
-        text: ""
+        text: "",
+        delivery: ""
     }
 
 }
@@ -85,7 +87,6 @@ var localS;
 
 const rootReducer = (state=initState, action) => {
     
-    //console.log(action)
     
 
     if (action.type === "add") {
@@ -222,6 +223,33 @@ const rootReducer = (state=initState, action) => {
         }
     }
 
+
+    if (action.type === "updatedelivery") {
+
+        var delitemp = action.thedelivery.slice();
+        
+        if (status !==  "no") {
+
+        
+            localS = {
+                ...state,
+                delivery: delitemp
+            }
+    
+            localS = JSON.stringify(localS);
+            localStorage.clear();
+            localStorage.setItem('sirkussirkus_state', localS)
+
+        }
+
+        return {
+            ...state,
+            delivery: delitemp
+        }
+
+    }
+
+
     if (action.type === "remove") {
 
         if (status !== "no") {
@@ -238,7 +266,8 @@ const rootReducer = (state=initState, action) => {
                     phonenumber: "",
                     email: ""
                 },
-                text: ""
+                text: "",
+                delivery: ""
             }
     
             localS = JSON.stringify(localS);
@@ -246,7 +275,6 @@ const rootReducer = (state=initState, action) => {
             localStorage.setItem('shopstate', localS)
 
         }
-
 
 
 
@@ -262,14 +290,15 @@ const rootReducer = (state=initState, action) => {
                 phonenumber: "",
                 email: ""
             },
-            text: ""
+            text: "",
+            delivery: ""
         }
 
-
+        
            
     }
 
-    
+
     
     return state;
 

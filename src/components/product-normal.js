@@ -84,13 +84,13 @@ sendToStore = () => {
 
 componentDidMount() {
 
+    window.scrollTo(0, 0);
+
     document.getElementById("cartlogo1").style.transition = "0s transform";
     document.getElementById("cartlogo1").style.transform = "rotate(0deg)";
 
     document.getElementById("cartlogo2").style.transition = "0s transform";
     document.getElementById("cartlogo2").style.transform = "rotate(0deg)";
-
-    window.scrollTo(0, 0);
 
     var pictures = this.props.product.pics;
 
