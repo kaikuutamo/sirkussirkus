@@ -209,6 +209,25 @@
               "linktext2": ""
             },
             {
+              "name": "Akryylipallo 100 mm",
+              "category": 0,
+              "subcategory": "pallot",
+              "id": "akryyli100",
+              "pic": "/product-pics-0/akryyli1.jpg",
+              "pics": ["/product-pics-0/akryyli2.jpg","/product-pics-0/akryyli3.jpg","/product-pics-0/akryyli4.jpg"],
+              "price": 45,
+              "text": "Myös kristallipallona tunnettu akryylipallo kontaktijongleeraukseen. Kaunis, painava ja kestävä pallo erilaisiin kontaktijongleeraustemppuihin. Ei saa jättää auringonvaloon. Hinta sisältää säilytyspussin. Sadan millimetrin pallo on kauttaaltaan suosituin koko. Muita kokoja saatavilla myös tilauksesta. ",
+              "text2": "Hinta sisältää pehmustetun säilytyspussin.",
+              "text3": "100 mm / 650 g",
+              "text4": "HUOM! Palloa ei saa jättää auringonvaloon. Pallo toimii erittäin tehokkaana suurennuslasina ja voi aiheuttaa tulipalon auringonvalossa. Sirkussirkus ei vastaa mahdollisista aiheutuneista tulipaloista tai muista aineellisista vahingoista tai henkilövahingoista.",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+            {
               "name": "Turbo Bouncing Ball 63 mm",
               "category": 0,
               "subcategory": "pallot",
@@ -219,6 +238,7 @@
                 "/product-pics-0/turbo6.jpg"
               ],
               "price": 15,
+              "choice":"Väri",
               "text": "Mister Babachen edullinen mutta laadukas vaihtoehto kalliille silikonipomppupallolle. Pinnassa miellyttävä viimeistely ja hyvä pito. Pomppu on yhtä hyvä kuin silikonipallossa, mutta pallomateriaali on arka kylmyydelle. +15 asteen lämmöstä alaspäin pomppu huononee huomattavasti. Muutoin erinomainen pomppupallo hyvällä hintalaatusuhteella. Kesäkeleillä ja sisätiloissa toimii moitteetta.",
               "text2": "63 mm / 160 g",
               "text3": "",
@@ -3475,7 +3495,6 @@
               "link2": "",
               "linktext2": ""
             },
-            
             {
               "name": "CAMP - Leikari (sviveli)",
               "category": 1,
