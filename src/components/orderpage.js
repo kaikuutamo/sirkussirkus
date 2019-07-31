@@ -144,7 +144,7 @@ return (
         </div>
 
     <div id="order-continue-buttons">
-       <Link style={{ textDecoration: 'none' }} to="/shoppingcart"><button>Takaisin</button></Link><Link style={{ textDecoration: 'none' }} to="/orderconfirmation"><button style={this.state.style}>Jatka</button></Link><p style={this.state.style2} id="fillall">Täytä yhteystiedot!</p>
+       <Link style={{ textDecoration: 'none' }} to="/shoppingcart"><button>Takaisin</button></Link><Link style={{ textDecoration: 'none' }} to="/orderconfirmation"><button style={this.state.style}>Jatka</button></Link><p style={this.state.style2} id="fillall">Täytä kaikki yhteystiedot!</p>
     </div>
 
     </div>

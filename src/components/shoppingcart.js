@@ -35,6 +35,36 @@ changeText = (arg) => {
 }
 
 
+checkDeliveryAndCart = () => {
+
+    
+    setTimeout(() => {
+        
+        if (this.props.shoppingCart.length !== 0 && this.props.delivery !== "") {
+        
+            this.setState({
+                style: {"display": "flex"},
+                style2: {"display": "none"}
+            })
+    
+        }
+    
+        else {
+    
+            this.setState({
+                style: {"display": "none"},
+                style2: {"display": "initial"}
+            })
+    
+        }
+
+    }, 100);
+
+ 
+
+}
+
+
 removeProduct = (arg) => {
 
 var temporary = this.state.cart.slice();
@@ -43,6 +73,8 @@ temporary.splice(arg.target.value, 1);
 
 this.props.updateCart(temporary);
 this.renderCart(temporary);
+
+this.checkDeliveryAndCart();
 
 }
 
@@ -181,16 +213,7 @@ delivery = (e) => {
 
     this.props.updateDelivery(e.target.value);
 
-    if (this.props.shoppingCart.length !== 0) {
-        
-        this.setState({
-            style: {"display": "flex"},
-            style2: {"display": "none"}
-        })
-
-    }
-
-
+    this.checkDeliveryAndCart();
 }
 
 
@@ -222,7 +245,9 @@ componentDidMount () {
 
 }
 
-
+componentDidUpdate() {
+    
+}
 
 render () {
 
@@ -291,7 +316,7 @@ return (
         </div>
 
         <div  id="continue-order">
-            <Link style={{ textDecoration: 'none' }} to="/orderpage"><button style={this.state.style}>Jatka tilausta</button></Link><p style={this.state.style2}>Valitse tuotteet ja toimitustapa!</p>
+            <Link style={{ textDecoration: 'none' }} to="/orderpage"><button style={this.state.style}>Jatka tilausta</button></Link><p id="selectprodel" style={this.state.style2}>Valitse tuotteet ja toimitustapa!</p>
         </div>
 
         </div>
