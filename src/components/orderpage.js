@@ -8,7 +8,16 @@ import './orderpage.css';
 
 class OrderPage extends React.Component {
 
+    constructor(props) {
+        super(props);
 
+        this.state = {
+            style: {"display": "none"},
+            style2: {"display": "initial"}
+        }
+
+
+        }
 
  changeText = (arg) => {
     this.props.updateText(arg.target.value);
@@ -22,12 +31,61 @@ class OrderPage extends React.Component {
 
     info[temp] = arg.target.value;
 
-   this.props.updateInformation(info);
+    this.props.updateInformation(info);
+
+    var stat = "yes";
+    var inputs = document.getElementsByTagName("input");
+    for (var k = 0; k < inputs.length; k++) {
+        if (inputs[k].value.length === 0) {
+            stat = "no";
+        }
+    }
+
+    if (stat === "yes") {
+        
+        this.setState({
+            style: {"display": "flex"},
+            style2: {"display": "none"}
+        })
+    }
+
+   else if (stat === "no") {
+        
+        this.setState({
+            style: {"display": "none"},
+            style2: {"display": "initial"}
+        })
+    }
 
   }
 
 componentDidMount () {
     window.scrollTo(0, 0);
+
+    var stat = "yes";
+    var inputs = document.getElementsByTagName("input");
+    for (var k = 0; k < inputs.length; k++) {
+        if (inputs[k].value.length === 0) {
+            stat = "no";
+        }
+    }
+
+    if (stat === "yes") {
+        
+        this.setState({
+            style: {"display": "flex"},
+            style2: {"display": "none"}
+        })
+    }
+
+   else if (stat === "no") {
+        
+        this.setState({
+            style: {"display": "none"},
+            style2: {"display": "initial"}
+        })
+    }
+
 }
 
 
@@ -86,7 +144,7 @@ return (
         </div>
 
     <div id="order-continue-buttons">
-       <Link style={{ textDecoration: 'none' }} to="/shoppingcart"><button>Takaisin</button></Link><Link style={{ textDecoration: 'none' }} to="/orderconfirmation"><button>Jatka</button></Link>
+       <Link style={{ textDecoration: 'none' }} to="/shoppingcart"><button>Takaisin</button></Link><Link style={{ textDecoration: 'none' }} to="/orderconfirmation"><button style={this.state.style}>Jatka</button></Link><p style={this.state.style2} id="fillall">Täytä kaikki yhteystiedot!</p>
     </div>
 
     </div>

@@ -60,13 +60,13 @@ h1, h2, p{
 }
 
 .product-pic {
-    height: auto;
-    padding-bottom: 20px;
+     padding-bottom: 20px;
+
 }
 
 .the-pic {
     width: 100%;
-    
+
 }
 
 
@@ -161,13 +161,16 @@ h1, h2, p{
     letter-spacing: 1px;
 }
 
-.add-cart img {
+.shopcartpic {
     height: 19px;
     margin-right: 10px;
+    transition: 1.5s transform;
 }
+
 
 .add-cart button:hover {
     cursor: pointer;
+    
 }
 
 .add-cart button:active {
@@ -175,7 +178,6 @@ h1, h2, p{
     outline: none;
     filter: brightness(70%);
 }
-
 
 
 .product-text {
@@ -240,6 +242,7 @@ h1, h2, p{
     
     .the-pic {
         max-width: 450px;
+        max-height: 450px;
     }
 
     .product-info h1 {

@@ -22,6 +22,8 @@ class Navbar extends React.Component {
             status: "ready"
         }
 
+        this.rotatevalue = 0;
+
     }
 
 
@@ -129,7 +131,18 @@ componentDidUpdate () {
         this.setState({
             cartNum: newQ
         })
+
+        if (newQ > oldQ) {
+
+            this.rotatevalue = this.rotatevalue + 360;
+
+
+        }
+
+
     }
+
+
 
 }
 
@@ -142,6 +155,8 @@ componentDidMount () {
     this.setState({
         cartNum: cartNumber
     })
+
+
 
 
 }
@@ -165,7 +180,7 @@ return (
 
             <div id="firstnav-wrapper">
             <div id="firstnav-wrapper2">
-            <Link id="cartlogo-wrapper" to="/shoppingcart"><div id="cartlogo-wrapper2"><img alt="Cart logo" src={cartlogo}></img><p>{this.state.cartNum}</p></div></Link>
+            <Link id="cartlogo-wrapper" to="/shoppingcart"><div id="cartlogo-wrapper2"><img id="cartlogo1" alt="Cart logo" src={cartlogo}></img><p>{this.state.cartNum}</p></div></Link>
            <div id="navbar">
            <ul>
                 <li><Link to="/">ETUSIVU</Link></li>
@@ -208,7 +223,7 @@ return (
     </div>
 
     <div id="mobilecart">
-    <Link id="cartlogo-mobile" to="/shoppingcart"><div id="cartlogo-mobile2"><img alt="Cart logo" src={cartlogo}></img><p>{this.state.cartNum}</p></div></Link> 
+    <Link id="cartlogo-mobile" to="/shoppingcart"><div id="cartlogo-mobile2"><img id="cartlogo2" alt="Cart logo" src={cartlogo}></img><p>{this.state.cartNum}</p></div></Link> 
     </div>
 
     <div id="mobile-hamburger">

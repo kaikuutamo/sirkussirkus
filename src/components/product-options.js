@@ -25,6 +25,8 @@ constructor(props) {
         pictures: ""
     }
 
+    this.rotatevalue = 0;
+
 }
 
 handleChange = (arg) => {
@@ -83,12 +85,29 @@ sendToStore = () => {
     }
 
     this.props.addProduct(object);
+
+    this.rotatevalue = this.rotatevalue + 360;
+
+    document.getElementsByClassName("shopcartpic")[0].style.transform = "rotate("+this.rotatevalue+"deg)";
+
+    document.getElementById("cartlogo1").style.transition = "1.5s transform";
+    document.getElementById("cartlogo1").style.transform = "rotate("+this.rotatevalue+"deg)";
+
+    document.getElementById("cartlogo2").style.transition = "1.5s transform";
+    document.getElementById("cartlogo2").style.transform = "rotate("+this.rotatevalue+"deg)";
 }
 
 
 componentDidMount () {
 
     window.scrollTo(0, 0);
+
+    document.getElementById("cartlogo1").style.transition = "0s transform";
+    document.getElementById("cartlogo1").style.transform = "rotate(0deg)";
+
+    document.getElementById("cartlogo2").style.transition = "0s transform";
+    document.getElementById("cartlogo2").style.transform = "rotate(0deg)";
+
 
     var pictures = this.props.product.pics.slice();
 
@@ -240,7 +259,7 @@ return (
         </div>
 
         <div className="add-cart">
-            <button onClick={this.sendToStore}><img alt="Shopping Cart" src={cartPic}></img>Lisää ostoskoriin</button>
+            <button onClick={this.sendToStore}><img className="shopcartpic" alt="Shopping Cart" src={cartPic}></img>Lisää ostoskoriin</button>
         </div>
 
         

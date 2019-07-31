@@ -52,7 +52,8 @@ if (status === "no") {
             phonenumber: "",
             email: ""
         },
-        text: ""
+        text: "",
+        delivery: ""
     }
 
 }
@@ -71,7 +72,8 @@ else if (typeof localStorage.getItem("sirkussirkus_state") !== "string") {
             phonenumber: "",
             email: ""
         },
-        text: ""
+        text: "",
+        delivery: ""
     }
 
 }
@@ -85,12 +87,51 @@ var localS;
 
 const rootReducer = (state=initState, action) => {
     
-    //console.log(action)
+    
 
     if (action.type === "add") {
 
-        var temp = state.shoppingCart.slice();
+    var temp = state.shoppingCart.slice();;
+    var quantity;
+    var productstatus = "no";
+
+    if (temp.length === 0) {
         temp.push(action.product);
+    }
+
+    else {
+
+
+        for (var k in temp) {
+        
+                if (action.product.product.id === temp[k].product.id) {
+                    
+                    
+
+                    if (action.product.selected === null) {
+                        quantity = action.product.quantity;
+                        temp[k].quantity += quantity;
+                        productstatus = "yes";
+                    }
+
+                    else if (action.product.selected === temp[k].selected) {
+                        quantity = action.product.quantity;
+                        temp[k].quantity += quantity;
+                        productstatus = "yes";
+                    }
+
+
+                }
+
+
+        }
+
+    if (productstatus === "no") {
+        temp.push(action.product);
+    }
+
+    }
+        
 
         if (status !== "no") {
 
@@ -101,7 +142,7 @@ const rootReducer = (state=initState, action) => {
     
             localS = JSON.stringify(localS);
             localStorage.clear();
-            localStorage.setItem('sirkussirkus_state', localS)
+            localStorage.setItem('sirkussirkus_state', localS);
 
         }
 
@@ -182,6 +223,33 @@ const rootReducer = (state=initState, action) => {
         }
     }
 
+
+    if (action.type === "updatedelivery") {
+
+        var delitemp = action.thedelivery.slice();
+        
+        if (status !==  "no") {
+
+        
+            localS = {
+                ...state,
+                delivery: delitemp
+            }
+    
+            localS = JSON.stringify(localS);
+            localStorage.clear();
+            localStorage.setItem('sirkussirkus_state', localS)
+
+        }
+
+        return {
+            ...state,
+            delivery: delitemp
+        }
+
+    }
+
+
     if (action.type === "remove") {
 
         if (status !== "no") {
@@ -198,7 +266,8 @@ const rootReducer = (state=initState, action) => {
                     phonenumber: "",
                     email: ""
                 },
-                text: ""
+                text: "",
+                delivery: ""
             }
     
             localS = JSON.stringify(localS);
@@ -206,7 +275,6 @@ const rootReducer = (state=initState, action) => {
             localStorage.setItem('shopstate', localS)
 
         }
-
 
 
 
@@ -222,14 +290,15 @@ const rootReducer = (state=initState, action) => {
                 phonenumber: "",
                 email: ""
             },
-            text: ""
+            text: "",
+            delivery: ""
         }
 
-
+        
            
     }
 
-    
+
     
     return state;
 

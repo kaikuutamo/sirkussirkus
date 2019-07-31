@@ -101,6 +101,10 @@ Viesti:
 
 ${this.props.text}
 
+Toimitus:
+
+${this.props.delivery}
+
 `;
 
 /* ---------Form and sending----------- */
@@ -154,7 +158,8 @@ const mapStateToProps = (state) => {
     return {
         information: state.information,
         shoppingcart: state.shoppingCart,
-        text: state.text
+        text: state.text,
+        delivery: state.delivery
     }
 }
 

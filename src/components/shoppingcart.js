@@ -20,15 +20,48 @@ constructor(props) {
         cart: [],
         cartrender: [],
         total: 0,
-        text: ""
-    }
+        text: "",
+        style: {"display": "none"},
+        style2: {"display": "initial"}
+            }
 
+    
 }
 
 
 changeText = (arg) => {
 
     this.props.updateText(arg.target.value);
+}
+
+
+checkDeliveryAndCart = () => {
+
+    
+    setTimeout(() => {
+        
+        if (this.props.shoppingCart.length !== 0 && this.props.delivery !== "") {
+        
+            this.setState({
+                style: {"display": "flex"},
+                style2: {"display": "none"}
+            })
+    
+        }
+    
+        else {
+    
+            this.setState({
+                style: {"display": "none"},
+                style2: {"display": "initial"}
+            })
+    
+        }
+
+    }, 100);
+
+ 
+
 }
 
 
@@ -40,6 +73,8 @@ temporary.splice(arg.target.value, 1);
 
 this.props.updateCart(temporary);
 this.renderCart(temporary);
+
+this.checkDeliveryAndCart();
 
 }
 
@@ -174,6 +209,13 @@ else return (
 }
 
 
+delivery = (e) => {
+
+    this.props.updateDelivery(e.target.value);
+
+    this.checkDeliveryAndCart();
+}
+
 
 /*--------------------------------------------------------------*/
 
@@ -183,21 +225,32 @@ componentDidMount () {
 
     this.renderCart()
    
+    
+    if (this.props.delivery === "Nouto") {
+        document.getElementById("i1").checked = true;
+    }
+
+    if (this.props.delivery === "Matkahuolto") {
+        document.getElementById("i2").checked = true;
+    }
+
+    if (this.props.shoppingCart.length !== 0 && this.props.delivery !== "") {
+        this.setState({
+            style: {"display": "flex"},
+            style2: {"display": "none"}
+        })
+    }
+    
+
+
 }
 
-
+componentDidUpdate() {
+    
+}
 
 render () {
 
-
-
-var style = {};
-
-if (this.props.shoppingCart.length === 0) {
-    style = {
-        display: "none"
-    }
-}
 
 
 return (
@@ -231,21 +284,39 @@ return (
         <div id="order-terms">
             <div id="order-terms-text">
             <h3>Toimitus- ja maksuehdot</h3>
-            <p>
-            Toimitus postitse tai matkahuollolla paketin koon ja painon mukaan.
-            Toimituskulut lisätään hintaan. Paketin koosta riippuen 6-20€.
-            Lasku lähetetään sähköpostiin, kun paketti on matkassa.
-            </p>
+            
+            <form id="deliveryform">
+
+            <div className="dselect">
+            <div className ="dselect2">
+            <input id="i1" type="radio" name="delivery" value="Nouto" onChange={this.delivery}></input><p>Nouto</p>
+            </div>
+            </div>
             <br></br>
-            <p>
-            Nouto on mahdollista osoitteesta Lonttistentie 14, 20100 Turku sopimuksen mukaan.
-            Aukiolo satunnaisesti ja sopimuksen mukaan. Maksu paikan päällä käteisellä tai kortilla.
+            <p className="deliverytext">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque maximus at velit quis fermentum. Sed ut vehicula purus. Aliquam sit amet arcu efficitur, varius orci a, vulputate tellus. Nullam at erat vulputate, pulvinar nunc eu, accumsan arcu. Proin ut turpis nec arcu posuere rutrum. Pellentesque aliquam enim id lectus convallis porta. Mauris dapibus est diam, at rutrum tellus tempor sed. Nunc ultrices finibus posuere. Donec finibus urna cursus, dictum massa nec, commodo enim. Sed pharetra id libero in ultricies. Pellentesque diam lectus, aliquet a mattis sed, sagittis vitae mi.
             </p>
+
+            <br></br><br></br>
+
+            <div className="dselect">
+            <div className ="dselect2">
+            <input id="i2" type="radio" name="delivery" value="Matkahuolto" onChange={this.delivery}></input><p>Matkahuolto</p>
+            </div>
+            </div>
+
+            <br></br>
+            <p className="deliverytext">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque maximus at velit quis fermentum. Sed ut vehicula purus. Aliquam sit amet arcu efficitur, varius orci a, vulputate tellus. Nullam at erat vulputate, pulvinar nunc eu, accumsan arcu. Proin ut turpis nec arcu posuere rutrum. Pellentesque aliquam enim id lectus convallis porta. Mauris dapibus est diam, at rutrum tellus tempor sed. Nunc ultrices finibus posuere. Donec finibus urna cursus, dictum massa nec, commodo enim. Sed pharetra id libero in ultricies. Pellentesque diam lectus, aliquet a mattis sed, sagittis vitae mi.
+            </p>
+
+            </form>
+
             </div>
         </div>
 
-        <div style={style} id="continue-order">
-            <Link style={{ textDecoration: 'none' }} to="/orderpage"><button>Jatka tilausta</button></Link>
+        <div  id="continue-order">
+            <Link style={{ textDecoration: 'none' }} to="/orderpage"><button style={this.state.style}>Jatka tilausta</button></Link><p id="selectprodel" style={this.state.style2}>Valitse tuotteet ja toimitustapa!</p>
         </div>
 
         </div>
@@ -262,7 +333,8 @@ const mapStateToProps = (state) => {
     return {
         products: state.products,
         shoppingCart: state.shoppingCart,
-        text: state.text
+        text: state.text,
+        delivery: state.delivery
     }
 }
 
@@ -277,6 +349,11 @@ function mapDispatchToProps (dispatch) {
       updateText: function (arg) {dispatch({
           type: "updatetext",
           thetext: arg
+      })},
+
+      updateDelivery: function (arg) {dispatch({
+          type: "updatedelivery",
+          thedelivery: arg
       })}
       
     }
