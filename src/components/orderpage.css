@@ -103,8 +103,15 @@ align-items: center;
 }
 
 #fillall {
+    border: solid var(--color1) 2px;
+    outline: none;
+    border-radius: 5px;
+    background: white;
+    color:black;
+    padding: 8px;
+    font-size: 1.1rem;
+    letter-spacing: 1px;
     text-align: center;
-    font-size: 1rem;
 }
 
 
