@@ -26,12 +26,12 @@ var deliveryText;
 
 if (this.props.delivery === "Nouto") {
         
-    deliveryText = "NOUTOTEKSTI Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque maximus at velit quis fermentum. Sed ut vehicula purus. Aliquam sit amet arcu efficitur, varius orci a, vulputate tellus. Nullam at erat vulputate, pulvinar nunc eu, accumsan arcu. Proin ut turpis nec arcu posuere rutrum. Pellentesque aliquam enim id lectus convallis porta. Mauris dapibus est diam, at rutrum tellus tempor sed. Nunc ultrices finibus posuere. Donec finibus urna cursus, dictum massa nec, commodo enim. Sed pharetra id libero in ultricies. Pellentesque diam lectus, aliquet a mattis sed, sagittis vitae mi."
+    deliveryText = "NOUTO 0 €. Nouto Putiikista Lonttisista Keskiviikkoisin klo 15-18. Muina aikoina nouto on mahdollista sopimuksen mukaan. Lonttistentie 14, 20240 Turku. Maksu paikan päällä käteisellä tai kortilla."
 }
 
 if (this.props.delivery === "Matkahuolto") {
         
-    deliveryText = "MATKAHUOLTOTEKSTI Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque maximus at velit quis fermentum. Sed ut vehicula purus. Aliquam sit amet arcu efficitur, varius orci a, vulputate tellus. Nullam at erat vulputate, pulvinar nunc eu, accumsan arcu. Proin ut turpis nec arcu posuere rutrum. Pellentesque aliquam enim id lectus convallis porta. Mauris dapibus est diam, at rutrum tellus tempor sed. Nunc ultrices finibus posuere. Donec finibus urna cursus, dictum massa nec, commodo enim. Sed pharetra id libero in ultricies. Pellentesque diam lectus, aliquet a mattis sed, sagittis vitae mi."
+    deliveryText = "MATKAHUOLTO alkaen 5 €. Toimitus Matkahuollon paketissa. Hinta 5€ jokaista max 10 kg pakettia kohti. Lasku sähköpostiin."
 }
 
 var products = this.props.shoppingcart;
