@@ -24,10 +24,14 @@ render () {
         
             <div id="theshop-main">
 
+                <div id="title">
                 <h1>Sirkussirkus Putiikki</h1>
+                <p>Rehellistä kauppaa ja vain parhaita sirkusvälineitä jo vuodesta 2005!</p>
+                </div>
+
+
                 <div id="theshop-stuff">
-                <p><center>                        Rehellistä kauppaa ja vain parhaita sirkusvälineitä jo vuodesta 2005!
-</center></p>
+                
 
                 <div id="theshop-contact-text">
                     <p>Lonttistentie 14, 20100 Turku.</p>
@@ -63,21 +67,16 @@ render () {
                 </div>
                 </div>    
 
-                    <div id="theshop-img-wrapper">
+                    <div className="theshop-img-wrapper">
                     <img src="/sponsor-pics/julkisivu.jpg" alt="Julkisivu"></img>
                     </div>
 
-                    <br></br><br></br> 
 
-                    <br></br><br></br> 
 
-                    <div id="theshop-img-wrapper">
+                    <div className="theshop-img-wrapper">
                     <img src="/sponsor-pics/putiikki.jpg" alt="Sirkussirkus sisältä"></img>
                     </div>
 
-                    <br></br><br></br> 
-
-                    <br></br><br></br> 
 
                         <div id="theshop-text-wrap2">
                         <div id="theshop-text2">
@@ -89,9 +88,6 @@ render () {
 
                         </p>
 
-                        <br></br><br></br> 
-
-                        <br></br><br></br> 
                         </div>
 
                     </div>

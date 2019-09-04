@@ -18,11 +18,21 @@
 
 }
 
-#theshop-main h1 {
+
+#title {
+    height: auto;
+}
+
+#title h1 {
     font-size: 1.6rem;
     padding-top: 30px;
     padding-bottom: 30px;
     text-align: center;
+}
+
+#title p {
+    text-align: center;
+    font-size: 1rem;
 }
 
 #theshop-stuff {
@@ -47,10 +57,11 @@
     margin-bottom: 15px;
 }
 
-#theshop-img-wrapper {
+.theshop-img-wrapper {
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-bottom: 50px;
 }
 
 #theshop-stuff img {
@@ -100,13 +111,14 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    
 }
 
 #theshop-text2 {
     line-height: 1.4rem;
     max-width: 600px;
-    margin-bottom: 50px;
     text-align: center;
+    margin-bottom: 50px;
 }
 
 #theshop-text2 h2 {
