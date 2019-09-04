@@ -86,7 +86,7 @@
               "linktext2": ""
             },
             {
-              "name": "Record Beanbag 62mm",
+              "name": "Record Beanbag 65mm",
               "category": 0,
               "subcategory": "pallot",
               "id": "record",
@@ -97,7 +97,7 @@
               ],
               "price": 13,
               "text": "Mister Babachen valmistama huippulaadukas tekstiilipallo (beanbag) näyttää hyvältä ja tuntuu mahtavalta! Kestävää ja laadukasta tekonahkaa. Valmiiksi pehmeä ja kokonsa puolesta hyvin pienempäänkin käteen istuva. Nimensä mukaisesti näillä pallolla myös tehdään jongleerausmäärissä ennätyksiä. Kokonsa ja pehmeytensä ansiosta niitä on helppo ahtaa käsiin ennätysmääriä. 6-osainen. Täytteenä hirssi.",
-              "text2": "62 mm / 130 g",
+              "text2": "65 mm / 130 g",
               "text3": "Värinä vain valkoinen.",
               "text4": "Tätä palloa käyttää muun muassa maineikas Les Objets Volants -ryhmä Dropline-esityksessä. Katso video linkistä:",
               "text5": "",
@@ -209,6 +209,25 @@
               "linktext2": ""
             },
             {
+              "name": "Akryylipallo 100 mm",
+              "category": 0,
+              "subcategory": "pallot",
+              "id": "akryyli100",
+              "pic": "/product-pics-0/akryyli1.jpg",
+              "pics": ["/product-pics-0/akryyli2.jpg","/product-pics-0/akryyli3.jpg","/product-pics-0/akryyli4.jpg"],
+              "price": 45,
+              "text": "Myös kristallipallona tunnettu akryylipallo kontaktijongleeraukseen. Kaunis, painava ja kestävä pallo erilaisiin kontaktijongleeraustemppuihin. Ei saa jättää auringonvaloon. Hinta sisältää säilytyspussin. Sadan millimetrin pallo on kauttaaltaan suosituin koko. Muita kokoja saatavilla myös tilauksesta. ",
+              "text2": "Hinta sisältää pehmustetun säilytyspussin.",
+              "text3": "100 mm / 650 g",
+              "text4": "HUOM! Palloa ei saa jättää auringonvaloon. Pallo toimii erittäin tehokkaana suurennuslasina ja voi aiheuttaa tulipalon auringonvalossa. Sirkussirkus ei vastaa mahdollisista aiheutuneista tulipaloista tai muista aineellisista vahingoista tai henkilövahingoista.",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+            {
               "name": "Turbo Bouncing Ball 63 mm",
               "category": 0,
               "subcategory": "pallot",
@@ -219,6 +238,7 @@
                 "/product-pics-0/turbo6.jpg"
               ],
               "price": 15,
+              "choice":"Väri",
               "text": "Mister Babachen edullinen mutta laadukas vaihtoehto kalliille silikonipomppupallolle. Pinnassa miellyttävä viimeistely ja hyvä pito. Pomppu on yhtä hyvä kuin silikonipallossa, mutta pallomateriaali on arka kylmyydelle. +15 asteen lämmöstä alaspäin pomppu huononee huomattavasti. Muutoin erinomainen pomppupallo hyvällä hintalaatusuhteella. Kesäkeleillä ja sisätiloissa toimii moitteetta.",
               "text2": "63 mm / 160 g",
               "text3": "",
@@ -2625,11 +2645,11 @@
                 "/product-pics-1/kangas9.jpg"
               ],
               "price": 160,
-              "text": "Espanjalaista laatukangasta ilma-akrobatiaan. Duradero-kankaalla on parhaat ominaisuudet ja edullinen hinta. Kangas on kestävä, pehmeä, sopivan joustava ja materiaalissa on hyvä pito. Kangas ei myöskään nukkaannu. 1.60 metrin leveys tarjoaa hyvän otteen, ja kankaan Non-Slip-viimeistely antaa paremman pidon kuin muut markkinoiden vertikaalikankaat. Kankaan keskinkertainen venyvyys (+/-10%) antaa sopivasti mukavuutta pudotuksiin, mutta tarjoaa silti hyvän kiipeystuntuman. Sopii niin aloittelijalle kuin ammattilaisillekin.",
-              "text2": "20 metrin kangas riittää 9 metrin tilaan. Kangas on käytössä kaksinkerroin, solmuun menee hiukan mittaa ja kankaan on hyvä yltää reilusta maahan asti. Väreinä löytyvät valkoinen, punainen, turkoosi, tummansininen, pinkki, oranssi, violetti, vihreä ja musta.",
+              "text": "Espanjalaista laatukangasta ilma-akrobatiaan. Duradero-kankaalla on parhaat ominaisuudet ja edullinen hinta. Kangas on kestävä, pehmeä, sopivan joustava ja materiaalissa on hyvä pito. Kangas ei myöskään nukkaannu. 1.60 metrin leveys tarjoaa hyvän otteen, ja kankaan Non-Slip-viimeistely antaa paremman pidon kuin muut markkinoiden vertikaalikankaat. Kankaan keskinkertainen venyvyys (+/-10%) antaa sopivasti mukavuutta pudotuksiin, mutta tarjoaa silti hyvän kiipeystuntuman. Sopii niin aloittelijalle kuin ammattilaisellekin.",
+              "text2": "20 metrin kangas riittää 9 metriä korkeaan tilaan. Kangas on käytössä kaksinkerroin, solmuun menee hiukan mittaa ja kankaan on hyvä yltää reilusta maahan asti. Väreinä löytyvät valkoinen, punainen, turkoosi, tummansininen, pinkki, oranssi, violetti, vihreä ja musta.",
               "text3": "Pituus 20 m / leveys 1.6 m / paino 3-4 kg.",
               "text4": "Työskentelypainoraja 95 kg, murtumispainoraja 1000 kg.",
-              "text5": "8.00 € / metri",
+              "text5": "Metrihinta 8.00 €. Puolitus 10 metrin kankaaseen onnistuu pyynnöstä. Hajamitat tilaamme erikseen, välttääksemme hukkapalat. Hajamitoissa toimitusaika 1-2 viikkoa.",
               "choice": "Väri",
               "options": [
                 {
@@ -3475,7 +3495,6 @@
               "link2": "",
               "linktext2": ""
             },
-            
             {
               "name": "CAMP - Leikari (sviveli)",
               "category": 1,
@@ -4299,7 +4318,7 @@
           "name": "Yksipyöräiset",
           "pic": "/category-pics/yksipyoraiset.jpg",
           "id": "yksipyoraiset",
-          "pic2": "",
+          "pic2": "/category-pics/rasmuswitikka.jpg",
           "pic2text": "",
           "products": [
             {
@@ -4556,7 +4575,7 @@
               "text": "Nämä ammattimaiset \"puujalat\" on valmistettu alumiinista, ja ne on alunperin suunniteltu maalarien ja hedelmänpoimijoiden työvälineeksi. Kekseliäs jousitus jalkojen rungossa matkii ihmiskehon nilkan toimintaa, ja näillä jaloilla voikin siksi seistä aivan paikallaan ilman jatkuvaa askellusta, joka on ominaista perinteisille puujaloille. Ahkeralla harjoittelulla näillä jaloilla voi jousituksen ansiosta jopa jalkoja liikuttamatta hieman nojailla eri suuntiin. Säädettävä korkeus, jossa jalansija on 60-100cm korkealla. Jalkojen paino on 7 kg.",
               "text2": "Korkeus 60 - 100 cm / paino yhteensä 7 kg",
               "text3": "Värinä vain metallinharmaa.",
-              "text4": "",
+              "text4": "Myydään pareittain. Hinta sisältää kaksi jalkaa.",
               "text5": "",
               "options": null,
               "link": "",
@@ -4963,7 +4982,7 @@
                 "/product-pics-3/qualatex3.jpg"
               ],
               "price": 12,
-              "text": "Niin kutsutut koirailmapallot, muotoiluilmapallot tai ilmapalloeläimet. Parasta laatua ilmapalloveistoksiisi! Qualatexin Pokkus-pussissa sekalaisia värejä 100 kpl.",
+              "text": "Niin kutsutut taikuri-ilmapallot, muotoiluilmapallot, koirailmapallot tai ilmapalloeläimet. Parasta laatua ilmapalloveistoksiisi! Qualatexin Pokkus-pussissa 100 ilmapalloa sekalaisia värejä.",
               "text2": "",
               "text3": "",
               "text4": "",
@@ -5107,6 +5126,25 @@
               "linktext2": ""
             },
             {
+              "name": "Suuri Ukulelekirja - Markus Rantanen",
+              "category": 3,
+              "subcategory": "media",
+              "id": "suuriukulele",
+              "pic": "/product-pics-3/suuriukulelekirja.jpg",
+              "pics": [],
+              "price": 38,
+              "text": "Suuri ukulelekirja on inspiroiva tietolähde jokaiselle tämän koko maailman tunteman minisoittimen historiasta tai soitosta kiinnostuneelle. Kirja kertoo ukulelen tarinan Madeiralta Havaijin kautta maailmalle, ja opastaa aloittelijat mukavalle matkalle musiikin maailmaan. Lukuelämystä siivittävät lukuisat värikuvat.",
+              "text2": "Ehkä muistat, millainen oli amerikkalaiskoomikoiden Stan Laurelin ja Oliver Hardyn rooli ukulelen historiassa. Mutta tiesitkö, että suomalainen kuplettimestari ja sota-ajan suosikkilaulaja Matti Jurva kirjoitti aikanaan ensimmäisen suomenkielisen ukuleleoppaan?",
+              "text3": "Historiaosuutta täydentää tasavahvasti suomalaisten ukeharrastajien tarpeisiin luotu opetusosuus. Se on suunnattu erityisesti soittoharrastustaan aloitteleville. Ukulele-tuntijat ja -opettajat Arto Julkunen ja Markus Rantanen ovat koonneet suomalaisille tuhdin tieto- ja opetuspaketin, josta pääsevät nauttimaan niin lapset kuin aikuisetkin.",
+              "text4": "Suomenkielinen / 360 sivua / kovakantinen / 2019",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+            {
               "name": "Huijauksen Anatomia - Pete Poskiparta ja Jose Ahonen",
               "category": 3,
               "subcategory": "media",
@@ -5208,7 +5246,7 @@
               "id": "karlheinz",
               "pic": "/product-pics-3/karlheinz.jpg",
               "pics": [],
-              "price": 185,
+              "price": 195,
               "text": "Kattavin ikinä julkaistu teos jongleerauksen historiasta alkaen Egyptin hautakammioista vuodesta 1994 ennen ajanlaskun alkua, jatkuen aina moderniin aikaan ja nykyisiin innovaatioihin asti. Melkein 600 sivua kovissa kansissa, joita värittävät yli 1000 kuvaa ja piirustusta suoraan kirjailijan itsensä henkilökohtaisista kokoelmista. Karl-Heinz Ziethen on dokumentoinut jongleerauksen kehitystä jo viiden vuosikymmenen ajan Berliinistä käsin. Teos on sukellus Ziethenin intohimoon ja elämäntyöhön historioitsijana ja jongleerauksen ystävänä.",
               "text2": "Englanninkielinen / 596 sivua / kovakantinen / 2017",
               "text3": "",

@@ -24,15 +24,29 @@ render () {
         
             <div id="theshop-main">
 
-                <h1>Putiikki</h1>
-
-
+                <h1>Sirkussirkus Putiikki</h1>
                 <div id="theshop-stuff">
+                <p><center>                        Rehellistä kauppaa ja vain parhaita sirkusvälineitä jo vuodesta 2005!
+</center></p>
+
+                <div id="theshop-contact-text">
+                    <p>Lonttistentie 14, 20100 Turku.</p>
+                    <p>Noin 500 metriä Turun Linja-autoasemalta.</p>
+                    <p>Olemme paikalla keskiviikkoisin klo 15-18 sekä muulloin sopimuksen ja mahdollisuuksien mukaan.</p>
+                    <p>Kai Kuutamo 040 754 6182 | kauppa@sirkussirkus.com</p>
+                    </div>
+
+                    <div id="iframe-wrap-main">
+                    <div id="iframe-wrapper">
+                    <iframe title="Shop Location" id="themap" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1967.1484914941814!2d22.272313816061224!3d60.459271682068426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x468c76f15283dc33%3A0xbbef5306019624bd!2sLonttistentie+14%2C+20100+Turku!5e0!3m2!1sfi!2sfi!4v1552640759098"></iframe>
+                    </div>
+                    </div>
+
 
                 <div id="theshop-text-wrap">  
                 <div id="theshop-text">
                 
-                        <h2>Tervetuloa Sirkussirkus Putiikkiin!</h2>
+                        <h2>Tervetuloa Sirkussirkukseen!</h2>
                         <br></br>
                         <p>Sirkussirkus ei pyri tarjoamaan laajinta valikoimaa, vaan pikemminkin vain parasta laatua.</p> 
                         <br></br>
@@ -50,32 +64,34 @@ render () {
                 </div>    
 
                     <div id="theshop-img-wrapper">
-                    <img src="/sponsor-pics/putiikki.jpg" alt="The Shop"></img>
+                    <img src="/sponsor-pics/julkisivu.jpg" alt="Julkisivu"></img>
                     </div>
 
-                    <div id="theshop-contact-text">
-                    <p>Sirkussirkus Putiikki</p>
-                    <p>Lonttistentie 14, 20100 Turku.</p>
-                    <p>700 metriä Turun Linja-autoasemalta.</p>
-                    <p>Aukiolo satunnaisesti ja sopimuksen mukaan.</p>
-                    <p>040 754 6182 | kauppa@sirkussirkus.com</p>
+                    <br></br><br></br> 
+
+                    <br></br><br></br> 
+
+                    <div id="theshop-img-wrapper">
+                    <img src="/sponsor-pics/putiikki.jpg" alt="Sirkussirkus sisältä"></img>
                     </div>
 
-                    <div id="iframe-wrap-main">
-                    <div id="iframe-wrapper">
-                    <iframe title="Shop Location" id="themap" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1967.1484914941814!2d22.272313816061224!3d60.459271682068426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x468c76f15283dc33%3A0xbbef5306019624bd!2sLonttistentie+14%2C+20100+Turku!5e0!3m2!1sfi!2sfi!4v1552640759098"></iframe>
-                    </div>
-                    </div>
+                    <br></br><br></br> 
+
+                    <br></br><br></br> 
 
                         <div id="theshop-text-wrap2">
                         <div id="theshop-text2">
                         <h2>Historia</h2>
                         <p>
-                        Putiikki sijaitsi alkuaikoina Jarrumiehenkadulla Turussa.
-                        Putiikki oli suljettuna kokonaan vuodet 2011-2015 ulkomailla työskentelyn johdosta,
-                        ja se avattiin uudestaan pelkkänä verkkokauppana maaliskuussa vuonna 2016.
-                        Marraskuussa 2017 uusi Putiikki avattiin osoitteeseen Lonttistentie 14, Turku. 
+                        Sirkustaiteilija Kai Kuutamo perusti Sirkussirkus Putiikin alunperin Jarrumiehenkadulle Turkuun vuonna 2005. Putiikki toimi tässä tilassa aina vuoteen 2010 asti. Sirkussirkus Putiikki oli suljettuna kokonaan vuodet 2011-2015 Aasiassa tapahtuvan esitys- ja opetustyön johdosta ja se avattiin suomeentumisen myötä uudestaan verkkokauppana maaliskuussa vuonna 2016. Marraskuussa 2017 Sirkussirkus muutti uuteen osoitteeseen Lonttistentie 14, Turku ja toistaiseksi toimimme tästä osoitteesta käsin. 
+                        <br></br><br></br>
+                        Sirkussirkus Putiikin tila on myös Kai Kuutamon toimisto, työtila ja varasto. Pyrimme pitämään yllä kotoisaa tunnelmaa ja tarjoamaan asiakkaille yksilöllistä palvelua. Sirkussirkus Putiikissa palvelee myös usein Kai Kuutamon lisäksi sirkustaiteilija ja myyjä Marianne Vaalimaa.
+
                         </p>
+
+                        <br></br><br></br> 
+
+                        <br></br><br></br> 
                         </div>
 
                     </div>

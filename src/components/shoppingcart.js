@@ -289,25 +289,31 @@ return (
 
             <div className="dselect">
             <div className ="dselect2">
-            <input id="i1" type="radio" name="delivery" value="Nouto" onChange={this.delivery}></input><p>Nouto</p>
+            <input id="i1" type="radio" name="delivery" value="Nouto" onChange={this.delivery}></input><p>NOUTO 0€</p>
             </div>
             </div>
             <br></br>
+
             <p className="deliverytext">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque maximus at velit quis fermentum. Sed ut vehicula purus. Aliquam sit amet arcu efficitur, varius orci a, vulputate tellus. Nullam at erat vulputate, pulvinar nunc eu, accumsan arcu. Proin ut turpis nec arcu posuere rutrum. Pellentesque aliquam enim id lectus convallis porta. Mauris dapibus est diam, at rutrum tellus tempor sed. Nunc ultrices finibus posuere. Donec finibus urna cursus, dictum massa nec, commodo enim. Sed pharetra id libero in ultricies. Pellentesque diam lectus, aliquet a mattis sed, sagittis vitae mi.
+            Nouto Putiikista Keskiviikkoisin klo 15-18. <br></br>
+            Muina aikoina nouto on mahdollista sopimuksen mukaan.<br></br> 
+            Lonttistentie 14, 20240 Turku.<br></br>
+            Maksu paikan päällä käteisellä tai kortilla.<br></br>
             </p>
 
             <br></br><br></br>
 
             <div className="dselect">
             <div className ="dselect2">
-            <input id="i2" type="radio" name="delivery" value="Matkahuolto" onChange={this.delivery}></input><p>Matkahuolto</p>
+            <input id="i2" type="radio" name="delivery" value="Matkahuolto" onChange={this.delivery}></input><p>MATKAHUOLTO alkaen 5€</p>
             </div>
             </div>
 
             <br></br>
             <p className="deliverytext">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque maximus at velit quis fermentum. Sed ut vehicula purus. Aliquam sit amet arcu efficitur, varius orci a, vulputate tellus. Nullam at erat vulputate, pulvinar nunc eu, accumsan arcu. Proin ut turpis nec arcu posuere rutrum. Pellentesque aliquam enim id lectus convallis porta. Mauris dapibus est diam, at rutrum tellus tempor sed. Nunc ultrices finibus posuere. Donec finibus urna cursus, dictum massa nec, commodo enim. Sed pharetra id libero in ultricies. Pellentesque diam lectus, aliquet a mattis sed, sagittis vitae mi.
+            Toimitus Matkahuollon lähimpään toimituspisteeseen. <br></br>
+            Hinta 5€ jokaista max 10 kg pakettia kohti.<br></br>
+            Lasku sähköpostiin.<br></br>
             </p>
 
             </form>
