@@ -184,7 +184,7 @@ return (
            <div id="navbar">
            <ul>
                 <li><Link to="/">ETUSIVU</Link></li>
-                <li><Link to="/putiikki">PUTIIKKI</Link></li>
+                <li><Link to="/putiikki">INFO</Link></li>
                 <li><Link to="/sponsors">SPONSOROINTI</Link></li>
                 <li><Link to="/categories">SIRKUSVÄLINEET</Link></li>
             </ul>
@@ -241,7 +241,7 @@ return (
         <ul id="mobile-list">
 
                 <li onClick={this.dropDown}><Link to="/">ETUSIVU</Link></li>
-                <li onClick={this.dropDown}><Link to="/putiikki">PUTIIKKI</Link></li>
+                <li onClick={this.dropDown}><Link to="/putiikki">INFO</Link></li>
                 <li onClick={this.dropDown}><Link to="/sponsors">SPONSOROINTI</Link></li>
                 <li onClick={this.dropDown}><Link to="/categories">SIRKUSVÄLINEET</Link></li>
                 <li onClick={this.dropDown}><Link to="/categories/?jongleeraus">Jongleeraus</Link></li>
