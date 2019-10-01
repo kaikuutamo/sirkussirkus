@@ -198,10 +198,10 @@ return (
 
            <div id="navbar2">
            <ul>
-                <li><Link to="/categories/?jongleeraus">Jongleeraus</Link></li>
-                <li><Link to="/categories/?ilmaakro">Ilma-akrobatia</Link></li>
-                <li><Link to="/categories/?tasapainoilu">Tasapainoilu</Link></li>
-                <li><Link to="/categories/?muut">Muut</Link></li>
+                <li><Link to="/category/?jongleeraus">Jongleeraus</Link></li>
+                <li><Link to="/category/?ilmaakro">Ilma-akrobatia</Link></li>
+                <li><Link to="/category/?tasapainoilu">Tasapainoilu</Link></li>
+                <li><Link to="/category/?muut">Muut</Link></li>
             </ul>
 
            </div>
@@ -244,10 +244,10 @@ return (
                 <li onClick={this.dropDown}><Link to="/putiikki">PUTIIKKI</Link></li>
                 <li onClick={this.dropDown}><Link to="/sponsors">SPONSOROINTI</Link></li>
                 <li onClick={this.dropDown}><Link to="/categories">SIRKUSVÄLINEET</Link></li>
-                <li onClick={this.dropDown}><Link to="/categories/?jongleeraus">Jongleeraus</Link></li>
-                <li onClick={this.dropDown}><Link to="/categories/?ilmaakro">Ilma-akrobatia</Link></li>
-                <li onClick={this.dropDown}><Link to="/categories/?tasapainoilu">Tasapainoilu</Link></li>
-                <li onClick={this.dropDown}><Link to="/categories/?muut">Muut</Link></li>
+                <li onClick={this.dropDown}><Link to="/category/?jongleeraus">Jongleeraus</Link></li>
+                <li onClick={this.dropDown}><Link to="/category/?ilmaakro">Ilma-akrobatia</Link></li>
+                <li onClick={this.dropDown}><Link to="/category/?tasapainoilu">Tasapainoilu</Link></li>
+                <li onClick={this.dropDown}><Link to="/category/?muut">Muut</Link></li>
 
         </ul>
         </nav>

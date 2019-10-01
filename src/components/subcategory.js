@@ -105,7 +105,7 @@ if (products.pic2.length !== 0) {
     )
 }
 
-var pathSub = "/categories?" + this.props.products.categories[category].id;
+var pathSub = "/category?" + this.props.products.categories[category].id;
 var pathSubName = this.props.products.categories[category].name;
 
 return (

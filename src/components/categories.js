@@ -14,26 +14,7 @@ class Categories extends React.Component {
 
 scrollTo = () => {
     
-
-    if (window.location.search === "?jongleeraus") {
-        window.scrollTo(0, document.getElementById("jongleeraus").offsetTop - document.getElementById("navbar-mobile").clientHeight -6);
-    }
-
-   else if (window.location.search === "?ilmaakro") {
-         window.scrollTo(0, document.getElementById("ilma-akrobatia").offsetTop - document.getElementById("navbar-mobile").clientHeight -6);
-   }
-
-   else if (window.location.search === "?tasapainoilu") {
-    window.scrollTo(0, document.getElementById("tasapainoilu").offsetTop - document.getElementById("navbar-mobile").clientHeight -6);
-}
-
-    else if (window.location.search === "?muut") {
-    window.scrollTo(0, document.getElementById("muut").offsetTop - document.getElementById("navbar-mobile").clientHeight -6);
-}
-
-    else {
         window.scrollTo(0, 0);
-    }
     
 }
 

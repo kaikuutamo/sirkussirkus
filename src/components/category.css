@@ -1,0 +1,70 @@
+
+/* Most of the settings come from subcategory.css and categories.css */
+
+#cat-wrapper {
+    height: auto;    
+}
+
+#cat-mainwrapper {
+    margin: 0 auto;
+    max-width: 1060px;
+    padding: var(--padding1);
+    background: white;
+}
+
+
+
+#pathlinksubtext2 {
+    color: var(--color1);
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 0.9rem;
+}
+
+#category-text {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 30px;
+    font-size: 1rem;
+    line-height: 2rem;
+}
+
+
+/* --------------------------------- */
+
+@media (max-width: 700px) {
+
+
+    #category-text {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+}
+
+
+/* --------------------------------- */
+
+@media (max-width: 600px) {
+
+
+
+    #category-text {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+}
+
+/* --------------------------------- */
+
+@media (max-width: 500px) {
+
+
+
+    #category-text {
+        padding-left: 12px;
+        padding-right: 12px;
+    }
+
+}
