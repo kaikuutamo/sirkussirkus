@@ -1972,7 +1972,7 @@
               "category": 0,
               "subcategory": "Vanteet",
               "id": "echohoop",
-              "pic": "/product-pics-0/echohoop1ale.jpg",
+              "pic": "/product-pics-0/echohoop1.jpg",
               "pics": [
                 "/product-pics-0/echohoop7.jpg",
                 "/product-pics-0/echohoop3.jpg",
@@ -1983,7 +1983,7 @@
                 "/product-pics-0/echohoop5.jpg",
                 "/product-pics-0/echohoop6.jpg"
               ],
-              "price": 28,
+              "price": 35,
               "choice": "Väri",
               "text": "Rakkaalla lapsella on monta nimeä: Hulavanne (Hula Hoop), sirkusvanne (Circus Hoop), vannetanssivanne (Hoop Dancing), huuppausvanne (Hooping)... Echo Hoopin valmistama erittäin siististi teipattu laatuvanne, joka on kokoontaitettava.",
               "text2": "Materiaalina vanteessa HDPE eli tiivispolyeteeni. Liitoskohta käyristettyä alumiinia. Liitoskohta mahdollistaa kokoontaiton puolet pienempään tilaan, ja siksi tällaisia vanteita kutsutaan myös nimellä matkavanne (travel hoop). Liitoskohdan ansiosta vanteita voi myös ketjuttaa toisiinsa.",
@@ -1992,19 +1992,19 @@
               "text5": "Halkaisija 90 cm / Paksuus 20 mm / Paino 400 g",
               "options": [
                 {
-                  "name": "Oranssi-Keltainen (UV) (norm. 35€)",
+                  "name": "Oranssi-Keltainen (UV)",
                   "id": "echohoop-oranssikeltainen",
-                  "price": 28
+                  "price": 35
                 },
                 {
-                  "name": "Pinkki-Vihreä (UV) (norm. 35€)",
+                  "name": "Pinkki-Vihreä (UV)",
                   "id": "echohoop-pinkkivihrea",
-                  "price": 28
+                  "price": 35
                 },
                 {
-                  "name": "Musta-Sininen (norm. 35€)",
+                  "name": "Musta-Sininen",
                   "id": "echohoop-mustasininen",
-                  "price": 28
+                  "price": 35
                 }
 
               ],
@@ -5469,6 +5469,35 @@
             }
           ]
         },
+        {
+          "name": "Ulkoleikit",
+          "pic": "/category-pics/ulkoleikit.jpg",
+          "id": "ulkoleikit",
+          "pic2": "",
+          "pic2text": "",
+          "products": [
+            {
+              "name": "Formula-Neppis - Kisasetti",
+              "category": 3,
+              "subcategory": "ulkoleikit",
+              "id": "neppissetti",
+              "pic": "/product-pics-3/neppissetti1.jpg",
+              "pics": ["/product-pics-3/neppissetti2.jpg", "/product-pics-3/neppissetti3.jpg", "/product-pics-3/neppissetti5.jpg", "/product-pics-3/neppissetti4.jpg"],
+              "price": 15,
+              "text": "Nyt kaikki joukolla Neppaamaan! Neppis-autopaketti, jossa mukana neljä autoa, hiekkalapio, maalilippu sekä tarroja. Autojen värit paketissa vaihtelevat vuosittain. Vuosimallin 2019 paketissa mukana seuraavat värit: kultainen, hopeinen, punainen, sininen. Formula-Neppis-autoja on valmistettu 1950-luvulta saakka ja ne tehdään yhä Suomessa! CE-hyväksytty.",
+              "text2": "Tutustu tähän suureen suomalaiseen perinneleikkiin tällä kattavalla varustuksella! Hiekkalaatikolla ja rannalla vain mielikuvitus on rajana ratojen kehittelyssä. Talvella voi myös keksiä kaikenlaisia ratoja sisätiloissa käyttäen esimerkiksi mattoja, huonekaluja ja pahvia. Suosittu ja hauska ajanviete sekä harrastus kaikenikäisille! Myös hieno lahjaidea nostalgianjanoiselle aikuiselle tai autoista pitävälle lapselle.",
+              "text3": "Jos neppauskilpailut kiinnostavat, Suomalaisia neppisliigoja ovat muun muassa Superneppis, Spedeneppis ja Neppisweekly. Vuosittain toukokuun puolivälissä järjestetään Suomenlinnan Gran Prix -neppiskilpailu. Suomenlinnan ajot on järjestetty joka vuosi vuodesta 1996 alkaen.",
+              "text4": "Auton mitta 8 cm.",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": "",
+              "link2": "https://fi.wikipedia.org/wiki/Neppis",
+              "linktext2": "Eikö Neppis ole tuttua? Lue artikkeli Wikipediasta."
+            }
+          ]
+        }, 
+
         {
           "name": "Paidat",
           "pic": "/category-pics/paidat.jpg",
