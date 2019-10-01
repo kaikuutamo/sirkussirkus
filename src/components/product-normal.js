@@ -176,7 +176,7 @@ for (var k in subCategories) {
     }
 }
 
-var path1 = "/categories/?" + this.props.products.categories[product.category].id;
+var path1 = "/category/?" + this.props.products.categories[product.category].id;
 var path2 = "/sub-category?category=" + product.category + "&subcategory=" + product.subcategory;
 
 
