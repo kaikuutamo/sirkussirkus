@@ -313,6 +313,7 @@ return (
             <p className="deliverytext">
             Toimitus Matkahuollon lähimpään toimituspisteeseen. <br></br>
             Hinta 5€ jokaista max 10 kg pakettia kohti.<br></br>
+            Toimitusaika 1-4 päivää.<br></br>
             Lasku sähköpostiin.<br></br>
             </p>
 
