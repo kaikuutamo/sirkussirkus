@@ -130,10 +130,15 @@ return (
 
     <div id="categories-main-wrapper">
 
+    <div id="categories-texts">
+        <h1>Sirkusvälineet</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+    </div>
+
     <div id="categories-wrapper1">
 
         <div className="categories-line-top"></div>
-        <h1 id="jongleeraus">Jongleeraus</h1>
+        <h2 id="jongleeraus">Jongleeraus</h2>
         <div className="categories-line-top2"></div>
 
         <div className="categories-tiles">
@@ -141,7 +146,7 @@ return (
         </div>
 
         <div className="categories-line"></div>
-        <h1 id="ilma-akrobatia">Ilma-akrobatia</h1>
+        <h2 id="ilma-akrobatia">Ilma-akrobatia</h2>
         <div className="categories-line-top2"></div>
 
         <div className="categories-tiles">
@@ -149,7 +154,7 @@ return (
         </div>
 
         <div className="categories-line"></div>
-        <h1 id="tasapainoilu">Tasapainoilu</h1>
+        <h2 id="tasapainoilu">Tasapainoilu</h2>
         <div className="categories-line-top2"></div>
 
         <div className="categories-tiles">
@@ -157,7 +162,7 @@ return (
         </div>
 
         <div className="categories-line"></div>
-        <h1 id="muut">Muut</h1>
+        <h2 id="muut">Muut</h2>
         <div className="categories-line-top2"></div>
 
         <div className="categories-tiles">
