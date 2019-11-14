@@ -105,15 +105,21 @@ Toimitus:
 
 ${this.props.delivery}
 
+Olemme vastaanottaneet tilauksenne. Ilmoitamme, kun paketti on toimituksessa. Lähetämme laskun sähköpostiinne.
+
 `;
 
 /* ---------Form and sending----------- */
 
 var data = new FormDat();
 var fileName = Date.now() + "";
+var customerMail = info.email;
+
 
 data.append("id", fileName);
 data.append("order", emailText);
+data.append("customermail", customerMail)
+
 
 var request = new XMLHttpRequest();
 request.open("POST", "upload.php", true);
