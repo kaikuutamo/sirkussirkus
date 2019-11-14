@@ -132,7 +132,7 @@ return (
 
     <div id="categories-texts">
         <h1>Sirkusvälineet</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        <p>Tältä sivulta näet kaikki pääkategoriat ja niiden alakategoriat.</p>
     </div>
 
     <div id="categories-wrapper1">

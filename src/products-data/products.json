@@ -864,7 +864,7 @@
               "price": 4,
               "choice": "Väri",
               "text": "Pienet eli niin kutsutut vauvarenkaat. Hauskat renkaat lapsille tai monen renkaan jakautuviin heittoihin (stacks, multiplex). Valmistaja Mister Babache.",
-              "text2": "24 cm /  g",
+              "text2": "Halkaisija 24,2 cm / leveys 31 mm / paksuus 3 mm / 58 g",
               "text3": "",
               "text4": "",
               "text5": "",
@@ -932,7 +932,7 @@
               "price": 4,
               "choice": "Väri",
               "text": "Kansainväliseksi standardiksi muodostunut perusrengas. Täydelliset renkaat niin aloittelijalle kuin ammattilaiselle. Valmistaja Mister Babache.",
-              "text2": "32 cm / 100 g",
+              "text2": "Halkaisija 32,5 cm / leveys 35 mm / paksuus 4 mm / 100 g",
               "text3": "",
               "text4": "",
               "text5": "",
@@ -989,6 +989,72 @@
               "linktext2": ""
             },
             {
+              "name": "Play Strong 32 cm",
+              "category": 0,
+              "subcategory": "renkaat",
+              "id": "playrengas32",
+              "pic": "/product-pics-0/playrengas32.jpg",
+              "pics": ["/product-pics-0/playrengas32-1.jpg", "/product-pics-0/playrengas32-2.jpg"],
+              "price": 5,
+              "choice": "Väri",
+              "text": "Playn versio standardiksi muodostuneesta perusrenkaasta, jonka paras ominaisuus on kestävyys. Playn renkaat ovat hieman painavammat ja renkaan profiili on erilainen. Pyöristettyjen kulmien sijaan, renkaan reunat ovat kulmikkaammat. Paino ja reunan leveämpi muoto tuovat vakautta ja parempaa tuntumaa erityisesti erilaisiin kehorullaustemppuihin. Muotonsa ansiosta renkaat myös pomppaavat paremmin ja varmemmin myös kovalla alustalla. Yksi syy renkaan muotoon on myös se, että renkaalle haettiin suunnitteluvaiheessa erityistä ominaisuutta: Hajoamattomuutta. Lopputuloksessa onnistuttiin hyvin. Emme ole toistaiseksi kuulleet koskaan keltään, että tällainen rengas olisi katkennut. Täydelliset renkaat niin aloittelijalle kuin ammattilaiselle.",
+              "text2": "Halkaisija 32 cm / leveys 35 mm / paksuus 4 mm / 115 g",
+              "text3": "",
+              "text4": "",
+              "text5": "",
+              "options": [
+                {
+                  "name": "Valkoinen",
+                  "id": "playrengas32_valkoinen",
+                  "price": 5
+                },
+                {
+                  "name": "Keltainen (UV)",
+                  "id": "playrengas32_keltainen",
+                  "price": 5
+                },
+                {
+                  "name": "Oranssi (UV)",
+                  "id": "playrengas32_oranssi",
+                  "price": 5
+                },
+                {
+                  "name": "Vaaleanpunainen (UV)",
+                  "id": "playrengas32_vaaleanpunainen",
+                  "price": 5
+                },
+                {
+                  "name": "Vaalean keltainen",
+                  "id": "playrengas32_vaaleankeltainen",
+                  "price": 5
+                },
+                {
+                  "name": "Vaalean sininen",
+                  "id": "playrengas32_vaaleansininen",
+                  "price": 5
+                },
+                {
+                  "name": "Vihreä (UV)",
+                  "id": "playrengas32_vihrea",
+                  "price": 5
+                },
+                {
+                  "name": "Mintun vihreä",
+                  "id": "playrengas32_minttu",
+                  "price": 5
+                },
+                {
+                  "name": "Pimeässä hohtava (UV)",
+                  "id": "playrengas32_fosfori",
+                  "price": 6
+                }
+              ],
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+            {
               "name": "Iso rengas 40 cm",
               "category": 0,
               "subcategory": "renkaat",
@@ -1000,7 +1066,7 @@
               "price": 6,
               "choice": "Väri",
               "text": "Mister Babache perusrenkaasta isompi, raskaampi ja näyttävämpi versio. Isompi halkaisija mahdollistaa erilaisia temppuja normaalikokoisiin renkaisiin verrattuna, koska renkaan koko on erilaisessa suhteessa kehon mittoihin. Toisaalta se myös sulkee joitain temppuja pois. Raskaampi paino tarkoittaa myös enemmän rasitusta käsille erityisesti kiinniottaessa korkeita heittoja.",
-              "text2": "40 cm / 140 g",
+              "text2": "Halkaisija 40,7 cm / leveys 35 mm / paksuus 4 mm / 145 g",
               "text3": "",
               "text4": "",
               "text5": "",
@@ -1052,7 +1118,7 @@
               "linktext2": ""
             },
             {
-              "name": "Saturn 40 cm",
+              "name": "Play Saturn 40 cm",
               "category": 0,
               "subcategory": "renkaat",
               "id": "saturn",
@@ -1062,8 +1128,8 @@
               ],
               "price": 6,
               "choice": "Väri",
-              "text": "Play-yhtiön Saturn-renkaiden ulkohalkaisija on saman kokoinen kuin Babachen vastaaavissa isoissa renkaissa, mutta sisähalkaisija on hieman pienempi. Renkaat ovat siis leveämmät Babachen standarimalleihin verrattuina, ja siksi tuntuvat käteen erilaisilta. Suurimman eron kuitenkin tekee valmistusmateriaali, joka on erittäin pehmeä ja joustava. Tämä mahdollistaa renkaiden taivuttelun ja tarjoaa paljon uudenlaisia temppumahdollisuuksia renkaiden käsittelyyn.",
-              "text2": "40 cm / 135 g",
+              "text": "Play-yhtiön Saturn-renkaiden ulkohalkaisija on saman kokoinen kuin Babachen vastaaavissa isoissa renkaissa,mutta sisähalkaisija on hieman pienempi. Renkaat ovat siis leveämmät Babachen standarimalleihin verrattuina, ja siksi tuntuvat käteen erilaisilta. Suurimman eron kuitenkin tekee valmistusmateriaali, joka on erittäin pehmeä ja joustava. Tämä mahdollistaa renkaiden taivuttelun ja tarjoaa paljon uudenlaisia temppumahdollisuuksia renkaiden käsittelyyn. Leveämmästä muodostaan huolimatta renkaat ovat materiaalin ansiosta kevyemmät kuin Babachen 40 cm renkaat.",
+              "text2": "Halkaisija 40 cm / leveys 40 mm / paksuus 4 mm / 125 g",
               "text3": "",
               "text4": "",
               "text5": "",
@@ -4675,97 +4741,6 @@
       "id": "muut",
       "subcategories": [
         {
-          "name": "Hyppynarut",
-          "pic": "/category-pics/hyppynarut.jpg",
-          "id": "hyppynarut",
-          "pic2": "",
-          "pic2text": "",
-          "products": [
-            {
-              "name": "Helminaru",
-              "category": 3,
-              "subcategory": "hyppynarut",
-              "id": "samesmile-helmi",
-              "pic": "/product-pics-3/samesmile1.jpg",
-              "pics": [],
-              "price": 18,
-              "text": "Helminaru pyörii helposti, antaa mukavasti vastusta ja on mahtavan näköinen. Soveltuu ulko- ja sisäliikuntaan. Suomi osallistuu ensimmäistä kertaa hyppynarun MM kisoihin vuonna 2019. MM-kisojen kunniaksi loimme Finnish Flag Edition-narun.",
-              "text2": "2,7m. (9ft.) Helminaru Naru säädettävissä hyppijöiden pituuden mukaan. Soveltuu yhdelle hyppijälle. Kahvan väri: valkoinen Helmien väri: sini-valkoinen",
-              "text3": "Ei alle 3-vuotiaille. Sisältää pieniä osia. Tuotteen käyttötarkoitus on liikuntaväline.",
-              "text4": "SAME SMILE - Missiomme on tarjota omaperäisiä tuotteita ja palveluita, jotka tuottavat hyvinvointia ja onnellisuutta. Mielestämme onnen tunteita elämään tuovat mm. puuhastelu perheen ja ystävien kanssa, terveys, liikunta, tasavertaisuus ja erilaisuus.",
-              "text5": "",
-              "options": null,
-              "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
-            },
-            {
-              "name": "Freestyle-hyppynaru",
-              "category": 3,
-              "subcategory": "hyppynarut",
-              "id": "samesmile-freewhite",
-              "pic": "/product-pics-3/samesmile2-1.jpg",
-              "pics": [
-                "/product-pics-3/samesmile2-2.jpg",
-                "/product-pics-3/samesmile2-3.jpg"
-              ],
-              "price": 15,
-              "text": "Freestyle White on rope skipping ammattilaisten käyttämä temppuhyppynaru. Pitkät kahvat ja ohut naru mahdollistavat monien näyttävien temppuyhdistelmien harjoittelun sekä tehokkaan treenin niin kotona kuin salilla. Hyppiksessä on kätevät pikalukot, joiden avulla narun pituus säädetään hyppijän pituuden mukaisesti. Freestyle white on kahden suomalaisen sirkusammattilaisen (Kimmo Hietanen ja Maiju Mustonen) omaa tuotantoa.",
-              "text2": "Mitat: kahvan pituus 22 cm, narun pituus 270 cm",
-              "text3": "Erityisyys: nopeasti säädettävä lukko. ​Materiaali: kahvat muovia, naru PVC-muovia (myrkytön)",
-              "text4": "SAME SMILE - Missiomme on tarjota omaperäisiä tuotteita ja palveluita, jotka tuottavat hyvinvointia ja onnellisuutta. Mielestämme onnen tunteita elämään tuovat mm. puuhastelu perheen ja ystävien kanssa, terveys, liikunta, tasavertaisuus ja erilaisuus.",
-              "text5": "",
-              "options": null,
-              "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
-            },
-            {
-              "name": "Freestyle-hyppynaru",
-              "category": 3,
-              "subcategory": "hyppynarut",
-              "id": "samesmile-freeblack",
-              "pic": "/product-pics-3/hyppynaru3-1.jpg",
-              "pics": [
-                "/product-pics-3/hyppynaru3-2.jpg",
-                "/product-pics-3/hyppynaru3-3.jpg"
-              ],
-              "price": 15,
-              "text": "Freestyle Black on rope skipping ammattilaisten käyttämä temppuhyppynaru. Pitkät kahvat ja ohut naru mahdollistavat monien näyttävien temppuyhdistelmien harjoittelun sekä tehokkaan treenin niin kotona kuin salilla. Hyppiksessä on kätevät pikalukot, joiden avulla narun pituus säädetään hyppijän pituuden mukaisesti. Freestyle white on kahden suomalaisen sirkusammattilaisen (Kimmo Hietanen ja Maiju Mustonen) omaa tuotantoa.",
-              "text2": "Mitat: kahvan pituus 22 cm, narun pituus 270 cm",
-              "text3": "Erityisyys: nopeasti säädettävä lukko. ​Materiaali: kahvat muovia, naru PVC-muovia (myrkytön)",
-              "text4": "SAME SMILE - Missiomme on tarjota omaperäisiä tuotteita ja palveluita, jotka tuottavat hyvinvointia ja onnellisuutta. Mielestämme onnen tunteita elämään tuovat mm. puuhastelu perheen ja ystävien kanssa, terveys, liikunta, tasavertaisuus ja erilaisuus.",
-              "text5": "",
-              "options": null,
-              "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
-            },
-            {
-              "name": "Nopeushyppynaru",
-              "category": 3,
-              "subcategory": "hyppynarut",
-              "id": "samesmile4",
-              "pic": "/product-pics-3/jumpcirq1.jpg",
-              "pics": [],
-              "price": 10,
-              "text": "Treenaa itsesi huippukuntoon! Lyhyet kahvat ja ohut naru mahdollistavat nopeusharjoittelun. Hyppiksessä on kätevät pikalukot, joiden avulla narun pituus säädetään hyppijän pituuden mukaisesti. Nopeusnaru on kahden suomalaisen sirkusammattilaisen (Kimmo Hietanen ja Maiju Mustonen) omaa tuotantoa.",
-              "text2": " Mitat: kahvan pituus 15 cm, narun pituus 274 cm (9FT.)",
-              "text3": " Kahvan väri: punainen. Erityisyys: nopeasti säädettävä lukko. Materiaali: kahvat muovia, naru PVC-muovia (myrkytön).",
-              "text4": "",
-              "text5": "",
-              "options": null,
-              "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
-            }
-          ]
-        },
-        {
           "name": "Kendama",
           "pic": "/category-pics/kendama.jpg",
           "id": "kendama",
@@ -4773,19 +4748,60 @@
           "pic2text": "",
           "products": [
             {
-              "name": "KROM 7 Year Bday",
+              "name": "KROM 8 Year Bday",
               "category": 3,
               "subcategory": "kendama",
-              "id": "krom7",
-              "pic": "/product-pics-3/krom7.jpg",
-              "pics": [],
-              "price": 60,
-              "text": "Krom Kendaman 7-vuotis juhla-Kendama! Kiireestä kantapäähän äärimmilleen hiottua yksityiskohtaa ja laatua. Slaydawg-tyypin Ken, laakeroitu jyvä ja porauksella tasapainotettu Ken. Pakkaukseen sisältyy juhla-Kendama, varanaru, varajyvä, tarrapakkaus ja minijuliste.",
-              "text2": "",
-              "text3": "",
+              "id": "krombday8",
+              "pic": "/product-pics-3/krombday81.jpg",
+              "pics": ["/product-pics-3/krombday8.jpg","/product-pics-3/krombday82.jpg","/product-pics-3/krombday83.jpg","/product-pics-3/krombday84.jpg","/product-pics-3/krombday85.jpg","/product-pics-3/krombday86.jpg","/product-pics-3/krombday87.jpg"],
+              "price": 65,
+              "text": "Krom Kendaman 8-vuotisjuhla-Kendama! Kiireestä kantapäähän äärimmilleen hiottua yksityiskohtaa ja tarkkaa viimeistelyä. Pakkaukseen sisältyy juhla-Kendama, varanaru, varajyvä, tarrapakkaus ja minijuliste.",
+              "text2": "Ominaisuudet: Uusi Slaydawg2-muotoiltu Ken, laserkaiverretut grafiikat, suurennettu porattu kantakuppireikä, laakeroitu jyvä, LOL Clear -pinta, kimaltava kameleonttimaali, materiaalina vaahtera.",
+              "text3": "Monien mielestä paras Kendama, minkä rahalla saa.",
               "text4": "",
               "text5": "",
               "options": null,
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+            {
+              "name": "KROM Headshot Pro Mod Walnut",
+              "category": 3,
+              "subcategory": "kendama",
+              "id": "promodwalnut",
+              "pic": "/product-pics-3/promodwalnut.jpg",
+              "pics": ["/product-pics-3/promodwalnut1.jpg","/product-pics-3/promodwalnut2.jpg","/product-pics-3/promodwalnut3.jpg","/product-pics-3/promodwalnut4.jpg","/product-pics-3/promodwalnut5.jpg","/product-pics-3/promodwalnut6.jpg","/product-pics-3/promodwalnut7.jpg","/product-pics-3/promodwalnut8.jpg","/product-pics-3/promodwalnut9.jpg","/product-pics-3/promodwalnut10.jpg"],
+              "price": 55,
+              "choice":"Malli",
+              "text": "KROM-tallipelaajien uudet, siistit ja yksityiskohtaiset pro-mallit nyt pähkinäpuusta veistettynä. Erinomainen viimeistely jokaista yksityiskohtaa myöden. Pähkinäpuu tuo materiaalina mallille vielä lisää arvokasta ulkonäköä ja painonsa puolesta se antaa parhaan mahdollisen käyttösuhteen Kenille ja Damalle. Paketissa Kendama, tarroja, varanaru.",
+              "text2": "Ominaisuudet: KROM SLAYDAWG 2 -muotoiltu Ken, Warp hole -kantareikä, kokopuurakenne, KROM 20% scope, 23,5mm bevel-viiste, LOL clear super sticky -päällyste, KROM minilaakeri jyvänä, tuoreet kaiverrukset, kiva paketti. Kendaman materiaalina pähkinäpuu.",
+              "text3": "Neljä mallia: Hiroki \"IJI\" Iijima, Rolf Sandvigganer, Bonz Atron ja Jake Fischer.",
+              "text4": "",
+              "text5": "",
+              "options": [
+                {
+                  "name": "IJI",
+                  "id": "promodwalnut_iji",
+                  "price": 55
+                },
+                {
+                  "name": "ROLF",
+                  "id": "promodwalnut_rolf",
+                  "price": 55
+                },
+                {
+                  "name": "BONZ",
+                  "id": "promodwalnut_bonz",
+                  "price": 55
+                },
+                {
+                  "name": "FISCHER",
+                  "id": "promodwalnut_fischer",
+                  "price": 55
+                }
+              ],
               "link": "",
               "linktext": "",
               "link2": "",
@@ -4829,9 +4845,9 @@
               "id": "kromkamo",
               "pic": "/product-pics-3/kromkamo.jpg",
               "pics": ["/product-pics-3/kromkamo1.jpg","/product-pics-3/kromkamo2.jpg","/product-pics-3/kromkamo3.jpg","/product-pics-3/kromkamo4.jpg","/product-pics-3/kromkamo5.jpg","/product-pics-3/kromkamo6.jpg","/product-pics-3/kromkamo7.jpg"],
-              "price": 45,
+              "price": 42,
               "choice":"Väri",
-              "text": "Kromin Kamo on läpeensä hiottua tyyliä, yksityiskohtaa ja käytettävyyttä. Laserkaiverrettu maastokuosi varressa ja kupeissa, Kromin BL-muotoiltu Ken, tasapainotusporaus lunar-temppuja varten, uniikki maastokuviointi Damassa ja laakeroitu jyvä takaavat ikimuistoiset Kendama-hetket. Mukana varanaru, varajyvä ja tarrapakkaus.",
+              "text": "Kromin Kamo on läpeensä hiottua tyyliä, yksityiskohtaa ja käytettävyyttä. Jo klassikoksi muodostunut Kromin erikoismalli, joka peittoaa joka saralla monen muun Kendaman. Laserkaiverrettu maastokuosi varressa ja kupeissa, Kromin BL-muotoiltu Ken, tasapainoporaus kannassa lunar-temppuja varten, uniikki maastokuviointi Damassa ja laakeroitu jyvä takaavat parhaan tuntuman. Mukana varanaru, varajyvä ja tarrapakkaus.",
               "text2": "",
               "text3": "",
               "text4": "",
@@ -4840,19 +4856,314 @@
                 {
                   "name": "Violetti",
                   "id": "kromkamo_violetti",
-                  "price": 45
+                  "price": 42
                 },
                 {
                   "name": "Vihreä",
                   "id": "kromkamo_vihrea",
-                  "price": 45
+                  "price": 42
                 },
                 {
                   "name": "Oranssi",
                   "id": "kromkamo_oranssi",
-                  "price": 45
+                  "price": 42
                 }
               ],
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+            {
+              "name": "Krom Strogo Kendama",
+              "category": 3,
+              "subcategory": "kendama",
+              "id": "kromstrogo",
+              "pic": "/product-pics-3/kromstrogo1.jpg",
+              "pics": ["/product-pics-3/kromstrogo2.jpg","/product-pics-3/kromstrogo3.jpg","/product-pics-3/kromstrogo4.jpg","/product-pics-3/kromstrogo5.jpg","/product-pics-3/kromstrogo6.jpg","/product-pics-3/kromstrogo7.jpg","/product-pics-3/kromstrogo8.jpg","/product-pics-3/kromstrogo9.jpg"],
+              "price": 33,
+              "choice":"Väri",
+              "text": "Kromin uusi Strogo-malli tulee nyt neljässä värissä sekä rajoitettuna 1%-mallina (katso omalta tuotesivulta). Mustavalkoiset Strogo-mallit ovat olleet suosiossa, ja siksi Krom tuotti myös värilliset versiot. Innoittajana ovat toimineet New Yorkin ja Tokion taksien värit, joista nimet Krom Strogo NYC Cab ja Krom Strogo Tokyo Cab. Mukana varanaru, varajyvä, tarrapakkaus sekä esite.",
+              "text2": "Ominaisuudet: Krom BL Ken, Bullseye Scope -maali reiän ympärillä, Super Sticky LOL Clear -pinta, laakeroitu jyvä, materiaalina pyökki, pakkaus valmistettu 100% kierrätetystä paperista.",
+              "text3": "",
+              "text4": "",
+              "text5": "",
+              "options": [
+                {
+                  "name": "Valkoinen",
+                  "id": "kromstrogo_valkoinen",
+                  "price": 33
+                },
+                {
+                  "name": "Musta",
+                  "id": "kromstrogo_musta",
+                  "price": 33
+                },
+                {
+                  "name": "Keltainen",
+                  "id": "kromstrogo_keltainen",
+                  "price": 33
+                },
+                {
+                  "name": "Vaaleansininen",
+                  "id": "kromstrogo_vaaleansininen",
+                  "price": 33
+                }
+              ],
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+            {
+              "name": "Krom Strogo 1% LE Kendama ",
+              "category": 3,
+              "subcategory": "kendama",
+              "id": "strogospecial",
+              "pic": "/product-pics-3/strogospecial.jpg",
+              "pics": ["/product-pics-3/strogospecial1.jpg","/product-pics-3/strogospecial2.jpg","/product-pics-3/strogospecial3.jpg","/product-pics-3/strogospecial4.jpg","/product-pics-3/strogospecial5.jpg","/product-pics-3/strogospecial6.jpg","/product-pics-3/strogospecial7.jpg"],
+              "price": 52,
+              "choice":"Väri",
+              "text": "Kromin uusi Strogo-malli rajoitettuna 1%-mallina tyylikkäällä kimallemaalilla kahdessa eri värissä. Strogon parhaat ominaisuudet hienostuneemmalla Ken-muotoiluilla sekä uudella Warp Hole -kantakupilla. Parasta Krom-laatua! Mukana varanaru, varajyvä, tarrat sekä esite.",
+              "text2": "Ominaisuudet: KROM 1& Ken-malli, uusi Warp Hole -malli kantakupissa, Bullseye Scope -maali reiän ympärillä, uusi Prism-maali sekä Super Sticky LOL Clear -pinta, laakeroitu jyvä, materiaalina kestävä vaahtera, pakkaus valmistettu 100% kierrätetystä paperista.",
+              "text3": "",
+              "text4": "",
+              "text5": "",
+              "options": [
+                {
+                  "name": "Cassiopeia (Violetti) ",
+                  "id": "strogospecial_violetti",
+                  "price": 52
+                },
+                {
+                  "name": "Bioluminescence (Vihreä)",
+                  "id": "strogospecial_vihreä",
+                  "price": 52
+                }
+             ],
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+            {
+              "name": "KROM POP Kendama",
+              "category": 3,
+              "subcategory": "kendama",
+              "id": "krompop",
+              "pic": "/product-pics-3/krompop.jpg",
+              "pics": ["/product-pics-3/krompop21.jpg","/product-pics-3/krompop22.jpg","/product-pics-3/krompop1.jpg","/product-pics-3/krompop2.jpg","/product-pics-3/krompop3.jpg","/product-pics-3/krompop4.jpg","/product-pics-3/krompop5.jpg","/product-pics-3/krompop6.jpg","/product-pics-3/krompop7.jpg","/product-pics-3/krompop8.jpg","/product-pics-3/krompop9.jpg","/product-pics-3/krompop11.jpg","/product-pics-3/krompop91.jpg","/product-pics-3/krompop92.jpg"],
+              "price": 22,
+              "choice":"Väri",
+              "text": "Kromin huippuunsa hiottu Kendaman uuden ajan perusmalli. Saatavana yhdeksässä eri perusvärissä sekä kahdessa rajoitetun erän värissä. Yhteensä yhdessätoista eri värissä! Damassa miellyttävä kumimattaviimeistely ja selkeä maali reiän ympärillä. Ken taattua Krom-laatua erinomaisella muotoilulla. Pakkaukseen sisältyy Kendama, varanaru, varajyvä, tarroja ja minijuliste. Parasta Krom-laatua edullisesti niin aloittelijalle kuin myös kisoihin!",
+              "text2": "Mitat ja ominaisuudet: Ohut piikki ja leveä dama-reikä, selkeä maali reiän ympärillä, kuminen mattamaali damassa, leveät kupit, materiaalina kestävä pyökki.",
+              "text3": "",
+              "text4": "",
+              "text5": "",
+              "options": [
+                {
+                  "name": "Naked (puunvärinen) Limited Edition",
+                  "id": "krompop_naked",
+                  "price": 22
+                },
+                {
+                  "name": "Golden Sands (beige) Limited Edition",
+                  "id": "krompop_goldensands",
+                  "price": 22
+                },
+                {
+                  "name": "Vaaleansininen",
+                  "id": "krompop_vaaleansininen",
+                  "price": 22
+                },
+                {
+                  "name": "Keltainen",
+                  "id": "krompop_keltainen",
+                  "price": 22
+                },
+                {
+                  "name": "Oranssi",
+                  "id": "krompop_oranssi",
+                  "price": 22
+                },
+                {
+                  "name": "Vaaleanpunainen",
+                  "id": "krompop_vaaleanpunainen",
+                  "price": 22
+                },
+                {
+                  "name": "Punainen",
+                  "id": "krompop_punainen",
+                  "price": 22
+                },
+                {
+                  "name": "Sininen",
+                  "id": "krompop_sininen",
+                  "price": 22
+                },
+                {
+                  "name": "Vihreä",
+                  "id": "krompop_vihrea",
+                  "price": 22
+                },
+                {
+                  "name": "Vaaleanvihreä",
+                  "id": "krompop_vaaleanvihrea",
+                  "price": 22
+                },
+                {
+                  "name": "Liila",
+                  "id": "krompop_liila",
+                  "price": 22
+                }              
+              ],
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+            {
+              "name": "SunRise Performer Jumbo Kendama",
+              "category": 3,
+              "subcategory": "kendama",
+              "id": "sunrisejumbo",
+              "pic": "/product-pics-3/sunrisejumbo4.jpg",
+              "pics": ["/product-pics-3/sunrisejumbo1.jpg","/product-pics-3/sunrisejumbo2.jpg","/product-pics-3/sunrisejumbo5.jpg","/product-pics-3/sunrisejumbo6.jpg","/product-pics-3/sunrisejumbo3.jpg"],
+              "price": 25,
+              "choice":"Väri",
+              "text": "Suuri Jumbo-kokoluokan Kendama. Korkeus 25 cm. Tuntuva ja näkyvä Kendama isompaan käteen tai vaikeiden uusien tekniikoiden harjoitteluun. Valmistettu Amsterdamissa laadukkaalla viimeistelyllä. Damassa hyvä kiiltävä, näyttävä ja pitävä lakkapinta. Värivalikoima vaihtelee.",
+              "text2": "Ominaisuudet: Korkeus 25 cm, pallon halkaisija 80 mm, materiaalina pyökki.",
+              "text3": "",
+              "text4": "",
+              "text5": "",
+              "options": [
+                {
+                  "name": "Keltainen",
+                  "id": "sunrisejumbo_keltainen",
+                  "price": 25
+                },
+                {
+                  "name": "Oranssi",
+                  "id": "sunrisejumbo_oranssi",
+                  "price": 25
+                },
+                {
+                  "name": "Vaaleanpunainen",
+                  "id": "sunrisejumbo_vaaleanpunainen",
+                  "price": 25
+                },
+                {
+                  "name": "Punainen",
+                  "id": "sunrisejumbo_punainen",
+                  "price": 25
+                },
+                {
+                  "name": "Sininen",
+                  "id": "sunrisejumbo_sininen",
+                  "price": 25
+                },
+                {
+                  "name": "Vihreä",
+                  "id": "sunrisejumbo_vihrea",
+                  "price": 25
+                },
+                {
+                  "name": "Musta",
+                  "id": "sunrisejumbo_musta",
+                  "price": 25
+                }              
+              ],
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+            {
+              "name": "Terra Pill",
+              "category": 3,
+              "subcategory": "kendama",
+              "id": "terrapill",
+              "pic": "/product-pics-3/terrapill.jpg",
+              "pics": ["/product-pics-3/terrapill6.jpg","/product-pics-3/terrapill7.jpg","/product-pics-3/terrapill4.jpg","/product-pics-3/terrapill5.jpg","/product-pics-3/terrapill1.jpg","/product-pics-3/terrapill2.jpg","/product-pics-3/terrapill3.jpg"],
+              "price": 16,
+              "choice":"Väri",
+              "text": "Terra Kendaman suunnittelema ja valmistama pilleri-Kendama. Yksinkertaistettu versio normaalista Kendamasta pillerin muodossa. Pillerin puolikkaissa siis toisessa piikki ja toisessa reikä. Kuppeja ei ole lainkaan. Hauska erikoisuus harrastajalle tai hyvä väline aloittelijalle. Pahvinen lahjapakkaus, jossa mukana itse pilleri-Kendama, tarroja ja varanaru.",
+              "text2": "Materiaalina pyökki.",
+              "text3": "",
+              "text4": "",
+              "text5": "",
+              "options": [
+                {
+                  "name": "Violetti",
+                  "id": "terrapill_violetti",
+                  "price": 16
+                },
+                {
+                  "name": "Puunvärinen",
+                  "id": "terrapill_puunvarinen",
+                  "price": 16
+                },
+                {
+                  "name": "Oranssi",
+                  "id": "terrapill_oranssi",
+                  "price": 16
+                }
+              ],
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },  
+            {
+              "name": "Cliff John - Kendama-teline",
+              "category": 3,
+              "subcategory": "kendama",
+              "id": "cliffjohn",
+              "pic": "/product-pics-3/cliffjohn1.jpg",
+              "pics": ["/product-pics-3/cliffjohn2.jpg","/product-pics-3/cliffjohn3.jpg","/product-pics-3/cliffjohn4.jpg","/product-pics-3/cliffjohn5.jpg","/product-pics-3/cliffjohn6.jpg","/product-pics-3/cliffjohn7.jpg","/product-pics-3/cliffjohn8.jpg"],
+              "price": 20,
+              "choice":"Materiaali",
+              "text": "Cliff John on Kromin suunnittelema yksinkertainen ja tyylikäs Kendama-teline, joka täydellistää  muotitietoisen Kendama-sisustajan kodin. Telineeseen mahtuu viisi normaalia kilpailukokoista tai Viking-kokoista Kendamaa. Telineessä Kendamat pysyvät hyvin seinällä ja näyttävät hienoilta. Ripusta parhaat Kendamasi esille! Saatavana kolmessa eri materiaalissa. Erinomainen lahjaidea Kendama-pelaajalle, jolla on jo kaikkea.",
+              "text2": "Mitat: leveys, korkeus, syvyys",
+              "text3": "Mukana kiinnitysruuvit ja muoviproput.",
+              "text4": "",
+              "text5": "",
+              "options": [
+                {
+                  "name": "Ash / Saarni",
+                  "id": "cliffjohn_saarni",
+                  "price": 20
+                },
+                {
+                  "name": "Mahogany / Mahonki",
+                  "id": "cliffjohn_mahonki",
+                  "price": 20
+                },
+                {
+                  "name": "Walnut / Pähkinäpuu",
+                  "id": "cliffjohn_pahkinapuu",
+                  "price": 20
+                }
+              ],
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+            {
+              "name": "KROM 7 Year Bday",
+              "category": 3,
+              "subcategory": "kendama",
+              "id": "krombday7",
+              "pic": "/product-pics-3/krom7.jpg",
+              "pics": [],
+              "price": 60,
+              "text": "Krom Kendaman 7-vuotis juhla-Kendama! Kiireestä kantapäähän äärimmilleen hiottua yksityiskohtaa ja laatua. Slaydawg-tyypin Ken, laakeroitu jyvä ja porauksella tasapainotettu Ken. Pakkaukseen sisältyy juhla-Kendama, varanaru, varajyvä, tarrapakkaus ja minijuliste.",
+              "text2": "",
+              "text3": "",
+              "text4": "",
+              "text5": "",
+              "options": null,
               "link": "",
               "linktext": "",
               "link2": "",
@@ -4895,73 +5206,8 @@
               "linktext": "",
               "link2": "",
               "linktext2": ""
-            },
-            {
-              "name": "KROM Pop Kendama",
-              "category": 3,
-              "subcategory": "kendama",
-              "id": "krompop",
-              "pic": "/product-pics-3/krompop.jpg",
-              "pics": ["/product-pics-3/krompop1.jpg","/product-pics-3/krompop2.jpg","/product-pics-3/krompop3.jpg","/product-pics-3/krompop4.jpg","/product-pics-3/krompop5.jpg","/product-pics-3/krompop6.jpg","/product-pics-3/krompop7.jpg","/product-pics-3/krompop8.jpg","/product-pics-3/krompop9.jpg","/product-pics-3/krompop11.jpg","/product-pics-3/krompop91.jpg"],
-              "price": 24,
-              "choice":"Väri",
-              "text": "Kromin uusi huippuunsa hiottu Kendaman uuden ajan perusmalli. Saatavana yhdeksässä eri värissä! Damassa miellyttävä kumimattaviimeistely ja selkeä maali reiän ympärillä. Ken taattua Krom-laatua erinomaisella muotoilulla. Pakkaukseen sisältyy Kendama, varanaru, varajyvä, tarroja ja minijuliste. Parasta Krom-laatua ja kaupantekijäisiä edullisesti niin aloittejalle kuin myös kisoihin!",
-              "text2": "",
-              "text3": "",
-              "text4": "",
-              "text5": "",
-              "options": [
-                {
-                  "name": "Vaaleansininen",
-                  "id": "krompop_vaaleansininen",
-                  "price": 24
-                },
-                {
-                  "name": "Keltainen",
-                  "id": "krompop_keltainen",
-                  "price": 24
-                },
-                {
-                  "name": "Oranssi",
-                  "id": "krompop_oranssi",
-                  "price": 24
-                },
-                {
-                  "name": "Vaaleanpunainen",
-                  "id": "krompop_vaaleanpunainen",
-                  "price": 24
-                },
-                {
-                  "name": "Punainen",
-                  "id": "krompop_punainen",
-                  "price": 24
-                },
-                {
-                  "name": "Sininen",
-                  "id": "krompop_sininen",
-                  "price": 24
-                },
-                {
-                  "name": "Vihreä",
-                  "id": "krompop_vihrea",
-                  "price": 24
-                },
-                {
-                  "name": "Vaaleanvihreä",
-                  "id": "krompop_vaaleanvihrea",
-                  "price": 24
-                },
-                {
-                  "name": "Liila",
-                  "id": "krompop_liila",
-                  "price": 24
-                }
-              ],
-              "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
             }
+
           ]
         },
         {
@@ -5052,34 +5298,6 @@
             }
           ]
         },
-        {
-          "name": "Verkkokurssit",
-          "pic": "/category-pics/verkkokurssit.jpg",
-          "id": "verkkokurssit",
-          "pic2": "",
-          "pic2text": "",
-          "products": [
-            {
-              "name": "Risto Leppänen - Taikurikoulu",
-              "category": 3,
-              "subcategory": "verkkokurssit",
-              "id": "taikurikoulu",
-              "pic": "/product-pics-3/taikurikoulu.jpg",
-              "pics": ["/product-pics-3/taikurikoulu2.jpg"],
-              "price": 0,
-              "text1": "Paras tapa opiskella taikuutta verkossa!",
-              "text2": "Tässä muutama hyvä syy investoida Risto Leppäsen verkkokurssi: USEASTI PALKITTU OPETTAJA, SUOMENKIELISET VIDEOT JA MATERIAALIT, KURSSIN TEMPUT PARANTAVAT KÄDEN JA SILMÄN KOORDINAATIOTA, VUOROVAIKUTUS- JA ESIINTYMISTAIDOT KEHITTYVÄT, KATTAVA OPETUSMATERIAALI, KURSSEIHIN SISÄLTYVÄT VÄLINEET.",
-              "text3": "Kurssien hinnat Taikurikoulun omilla verkkosivuilla.",
-              "text4": "Lue lisää ja osta verkkokurssi allaolevan linkin kautta.",
-              "text5": "10% ALENNUSTA KAIKISTA TAIKURIKOULUN KURSSEISTA ALENNUSKOODILLA: sirkussirkus",
-              "options": null,
-              "link": "",
-              "linktext": "",
-              "link2": "http://www.taikurikoulu.com",
-              "linktext2": "Osta Taikurikoulu täältä!"
-            }
-          ]
-        }, 
         {
           "name": "Kirjat ja dvd:t",
           "pic": "/category-pics/media.jpg",
@@ -5278,25 +5496,6 @@
               "linktext2": ""
             },
             {
-              "name": "The Complete Juggler - Dave Finnigan",
-              "category": 3,
-              "subcategory": "media",
-              "id": "completejuggler",
-              "pic": "/product-pics-3/completejuggler.jpg",
-              "pics": [],
-              "price": 25,
-              "text": "Vanha jonglöörin raamatuksi kutsuttu teos. Ennen internetin ihmeaikaa tämä oli korvaamaton teos kaikille jongleerauksesta kiinnostuneille. Dave Finnigan käy läpi kirjassaan pallot, keilat, renkaat, diabolot, devilstickin, huivit ja hatut useiden vinkkien ja kikkojen kera. Kaikki on selkeästi kuvitettu koko kirjan mitalta. Läpi käydään myös itse jongleerausta sivuavia aiheita, kuten työpajojen pitäminen, jongleerausleikit, elannon ansaitseminen jongleerauksella, jne.",
-              "text2": "Englanninkielinen / 560 sivua / pehmeäkantinen / 1992",
-              "text3": "",
-              "text4": "",
-              "text5": "",
-              "options": null,
-              "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
-            },
-            {
               "name": "Taikuuden oppikirja - Motion Magic - Tatu Tyni",
               "category": 3,
               "subcategory": "media",
@@ -5316,25 +5515,6 @@
               "linktext2": ""
             },
             {
-              "name": "Ihmeen väkeä! - Tomi Purovaara",
-              "category": 3,
-              "subcategory": "media",
-              "id": "ihmeenvakea",
-              "pic": "/product-pics-3/ihmeenvakea.jpg",
-              "pics": [],
-              "price": 30,
-              "text": "2000-luku on merkinnyt suomalaiselle sirkukselle suurta kulttuurista muutosta. Yhä paremmin voivan perinteisen sirkuksen rinnalla vaikuttavat maailmalla kiitävät nykysirkustaiteilijat, joiden teosten estetiikka syntyy niin musiikin, tanssin kuin elokuvan innoittamana. Miten on mahdollista, että suomalaisesta sirkuksesta on kehittynyt kuin yhdessä rysäyksessä kansainvälisesti tunnustettu modernin esittävän taiteen muoto, jonka hedelmistä nauttivat vuosittain tuhannet katsojat yli maiden rajojen? Ihmeen väkeä! tarjoaa vankkaa taustatietoa aikamme sirkussankaruudelle. Kirja sisältää laajan otoksen suomalaisen sirkuksen tekijöistä, taustoista ja vaiheista.",
-              "text2": "Suomenkielinen / 261 sivua / pehmeäkantinen / 2008",
-              "text3": "",
-              "text4": "",
-              "text5": "",
-              "options": null,
-              "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
-            },
-            {
               "name": "Nykysirkus - Tomi Purovaara",
               "category": 3,
               "subcategory": "media",
@@ -5344,25 +5524,6 @@
               "price": 20,
               "text": "Ensimmäinen suomalainen nykysirkusta käsittelevä kirja antaa lukijalle perusteelliset avaimet uuden sirkuksen maailmaan. Kirja esittelee tarinallisesti edeten sirkuksen historiaa, muutoksen taustoja sekä yhteyksiä muihin taiteenlajeihin. Odotettu alan perusteos tuo näkyväksi keskeisiä taiteilijoita ja ryhmiä Suomessa ja maailmalla – nykysirkuksessa näemme ikivanhan perinteen tämän hetken silmin.",
               "text2": "Suomenkielinen / 251 sivua / pehmeäkantinen / 2005",
-              "text3": "",
-              "text4": "",
-              "text5": "",
-              "options": null,
-              "link": "",
-              "linktext": "",
-              "link2": "",
-              "linktext2": ""
-            },
-            {
-              "name": "Sirkuksen vallankumous - Jean-Michel Guy",
-              "category": 3,
-              "subcategory": "media",
-              "id": "sirkuksenvallankumous",
-              "pic": "/product-pics-3/sirkuksenvallankumous.jpg",
-              "pics": [],
-              "price": 20,
-              "text": "Uuden ranskalaisen sirkustutkimuksen klassikkoteoksessa alan parhaat kirjoittajat kuvaavat sirkuksen nykypäivää, taustoja ja suhdetta muihin taiteenaloihin. Kirja kokoaa yhteen 1970-luvulla Ranskassa syntyneen uuden sirkuksen keskeiset piirteet sekä esittelee sirkuslajien – jongleerauksen, akrobatian ja klovnerian – itsenäistymisen vaiheita ja tärkeimpiä taiteilijoita. Nykysirkuksen omaleimainen runollisuus sekä erikoisten aistimaailmoiden rakentaminen luovat luonnolliset yhteydet muihin esittäviin taiteisiin. Sirkuksen kulttuurisesta monisäikeisyydestä nostetaan esiin niin taiteellinen, pedagoginen, sosiologinen kuin taloudellinenkin näkökulma.",
-              "text2": "Suomenkielinen / 237 sivua / pehmeäkantinen / 2005",
               "text3": "",
               "text4": "",
               "text5": "",
@@ -5466,9 +5627,95 @@
               "linktext": "",
               "link2": "",
               "linktext2": ""
+            },
+            {
+              "name": "The Complete Juggler - Dave Finnigan (LOPPU)",
+              "category": 3,
+              "subcategory": "media",
+              "id": "completejuggler",
+              "pic": "/product-pics-3/completejuggler.jpg",
+              "pics": [],
+              "price": 35,
+              "text": "Vanha jonglöörin raamatuksi kutsuttu teos. Ennen internetin ihmeaikaa tämä oli korvaamaton teos kaikille jongleerauksesta kiinnostuneille. Dave Finnigan käy läpi kirjassaan pallot, keilat, renkaat, diabolot, devilstickin, huivit ja hatut useiden vinkkien ja kikkojen kera. Kaikki on selkeästi kuvitettu koko kirjan mitalta. Läpi käydään myös itse jongleerausta sivuavia aiheita, kuten työpajojen pitäminen, jongleerausleikit, elannon ansaitseminen jongleerauksella, jne.",
+              "text2": "Englanninkielinen / 560 sivua / pehmeäkantinen / 1992",
+              "text3": "TOISTAISEKSI LOPPU!",
+              "text4": "",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+            {
+              "name": "Ihmeen väkeä! - Tomi Purovaara (LOPPU)",
+              "category": 3,
+              "subcategory": "media",
+              "id": "ihmeenvakea",
+              "pic": "/product-pics-3/ihmeenvakea.jpg",
+              "pics": [],
+              "price": 30,
+              "text": "2000-luku on merkinnyt suomalaiselle sirkukselle suurta kulttuurista muutosta. Yhä paremmin voivan perinteisen sirkuksen rinnalla vaikuttavat maailmalla kiitävät nykysirkustaiteilijat, joiden teosten estetiikka syntyy niin musiikin, tanssin kuin elokuvan innoittamana. Miten on mahdollista, että suomalaisesta sirkuksesta on kehittynyt kuin yhdessä rysäyksessä kansainvälisesti tunnustettu modernin esittävän taiteen muoto, jonka hedelmistä nauttivat vuosittain tuhannet katsojat yli maiden rajojen? Ihmeen väkeä! tarjoaa vankkaa taustatietoa aikamme sirkussankaruudelle. Kirja sisältää laajan otoksen suomalaisen sirkuksen tekijöistä, taustoista ja vaiheista.",
+              "text2": "Suomenkielinen / 261 sivua / pehmeäkantinen / 2008",
+              "text3": "TOISTAISEKSI LOPPU!",
+              "text4": "",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+            {
+              "name": "Sirkuksen vallankumous - Jean-Michel Guy  (LOPPU)",
+              "category": 3,
+              "subcategory": "media",
+              "id": "sirkuksenvallankumous",
+              "pic": "/product-pics-3/sirkuksenvallankumous.jpg",
+              "pics": [],
+              "price": 20,
+              "text": "Uuden ranskalaisen sirkustutkimuksen klassikkoteoksessa alan parhaat kirjoittajat kuvaavat sirkuksen nykypäivää, taustoja ja suhdetta muihin taiteenaloihin. Kirja kokoaa yhteen 1970-luvulla Ranskassa syntyneen uuden sirkuksen keskeiset piirteet sekä esittelee sirkuslajien – jongleerauksen, akrobatian ja klovnerian – itsenäistymisen vaiheita ja tärkeimpiä taiteilijoita. Nykysirkuksen omaleimainen runollisuus sekä erikoisten aistimaailmoiden rakentaminen luovat luonnolliset yhteydet muihin esittäviin taiteisiin. Sirkuksen kulttuurisesta monisäikeisyydestä nostetaan esiin niin taiteellinen, pedagoginen, sosiologinen kuin taloudellinenkin näkökulma.",
+              "text2": "Suomenkielinen / 237 sivua / pehmeäkantinen / 2005",
+              "text3": "TOISTAISEKSI LOPPU!",
+              "text4": "",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
             }
           ]
         },
+        {
+          "name": "Verkkokurssit",
+          "pic": "/category-pics/verkkokurssit.jpg",
+          "id": "verkkokurssit",
+          "pic2": "",
+          "pic2text": "",
+          "products": [
+            {
+              "name": "Risto Leppänen - Taikurikoulu",
+              "category": 3,
+              "subcategory": "verkkokurssit",
+              "id": "taikurikoulu",
+              "pic": "/product-pics-3/taikurikoulu.jpg",
+              "pics": ["/product-pics-3/taikurikoulu2.jpg"],
+              "price": 0,
+              "text1": "Paras tapa opiskella taikuutta verkossa!",
+              "text2": "Tässä muutama hyvä syy investoida Risto Leppäsen verkkokurssi: USEASTI PALKITTU OPETTAJA, SUOMENKIELISET VIDEOT JA MATERIAALIT, KURSSIN TEMPUT PARANTAVAT KÄDEN JA SILMÄN KOORDINAATIOTA, VUOROVAIKUTUS- JA ESIINTYMISTAIDOT KEHITTYVÄT, KATTAVA OPETUSMATERIAALI, KURSSEIHIN SISÄLTYVÄT VÄLINEET.",
+              "text3": "Kurssien hinnat Taikurikoulun omilla verkkosivuilla.",
+              "text4": "Lue lisää ja osta verkkokurssi allaolevan linkin kautta.",
+              "text5": "10% ALENNUSTA KAIKISTA TAIKURIKOULUN KURSSEISTA ALENNUSKOODILLA: sirkussirkus",
+              "options": null,
+              "link": "",
+              "linktext": "",
+              "link2": "http://www.taikurikoulu.com",
+              "linktext2": "Osta Taikurikoulu täältä!"
+            }
+          ]
+        }, 
+
         {
           "name": "Ulkoleikit",
           "pic": "/category-pics/ulkoleikit.jpg",
@@ -5477,17 +5724,36 @@
           "pic2text": "",
           "products": [
             {
-              "name": "Formula-Neppis - Kisasetti",
+              "name": "Formula Neppis - Kisasetti",
               "category": 3,
               "subcategory": "ulkoleikit",
               "id": "neppissetti",
-              "pic": "/product-pics-3/neppissetti1.jpg",
-              "pics": ["/product-pics-3/neppissetti2.jpg", "/product-pics-3/neppissetti3.jpg", "/product-pics-3/neppissetti5.jpg", "/product-pics-3/neppissetti4.jpg"],
+              "pic": "/product-pics-3/neppissetti.jpg",
+              "pics": ["/product-pics-3/neppissetti1.jpg", "/product-pics-3/neppissetti2.jpg", "/product-pics-3/neppissetti3.jpg", "/product-pics-3/neppissetti5.jpg", "/product-pics-3/neppissetti4.jpg"],
               "price": 15,
               "text": "Nyt kaikki joukolla Neppaamaan! Neppis-autopaketti, jossa mukana neljä autoa, hiekkalapio, maalilippu sekä tarroja. Autojen värit paketissa vaihtelevat vuosittain. Vuosimallin 2019 paketissa mukana seuraavat värit: kultainen, hopeinen, punainen, sininen. Formula-Neppis-autoja on valmistettu 1950-luvulta saakka ja ne tehdään yhä Suomessa! CE-hyväksytty.",
               "text2": "Tutustu tähän suureen suomalaiseen perinneleikkiin tällä kattavalla varustuksella! Hiekkalaatikolla ja rannalla vain mielikuvitus on rajana ratojen kehittelyssä. Talvella voi myös keksiä kaikenlaisia ratoja sisätiloissa käyttäen esimerkiksi mattoja, huonekaluja ja pahvia. Suosittu ja hauska ajanviete sekä harrastus kaikenikäisille! Myös hieno lahjaidea nostalgianjanoiselle aikuiselle tai autoista pitävälle lapselle.",
               "text3": "Jos neppauskilpailut kiinnostavat, Suomalaisia neppisliigoja ovat muun muassa Superneppis, Spedeneppis ja Neppisweekly. Vuosittain toukokuun puolivälissä järjestetään Suomenlinnan Gran Prix -neppiskilpailu. Suomenlinnan ajot on järjestetty joka vuosi vuodesta 1996 alkaen.",
               "text4": "Auton mitta 8 cm.",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": "",
+              "link2": "https://fi.wikipedia.org/wiki/Neppis",
+              "linktext2": "Eikö Neppis ole tuttua? Lue artikkeli Wikipediasta."
+            },
+            {
+              "name": "Kelkkis",
+              "category": 3,
+              "subcategory": "ulkoleikit",
+              "id": "kelkkis",
+              "pic": "/product-pics-3/kelkkis.jpg",
+              "pics": ["/product-pics-3/kelkkis2.jpg", "/product-pics-3/kelkkis3.jpg"],
+              "price": 5,
+              "text": "Rallien seuraajaksi muodostui Neppis-sarjassa talvikeleille kelkkailu eli Kelkkis. Kelkkis-kelkalla neppailet myös talvella!",
+              "text2": "Viralliset Kelkkis-kilpailuohjeet: Rakenna lumeen 15 cm leveä rata, johon voit muovailla kaarteita ja hyppyreitä. Kukin kilpailija “neppaa”eli napakasti koukistetun etusormen sivulla töytäisee Kelkkiksensä liikkeelle arvotussa järjestyksessä. Kun kaikki ovat nepanneet kierroksen, alkaa uusi kierros. Uuden kierroksen aloittaa johdossa oleva, seuraavaksi toisena oleva, jne. Ensimmäisenä maaliin saapuva on voittaja.",
+              "text3": "Kelkoille on myös hauska tehdä kouruja lumisiin mäkiin. Hyvän kourun saa muovattua esimerkiksi pulloa tai tölkkiä apuna käyttäen. Kapealla radalla voi ottaa aikoja ja leveämmällä voi laskea useampi kelkka samaan aikaan.",
+              "text4": "Kelkan mitta 12 cm. Myydään kappaleittain.",
               "text5": "",
               "options": null,
               "link": "",
@@ -5527,6 +5793,97 @@
               "options": null,
               "link": "http://www.multibuenofestival.com",
               "linktext": "www.multibuenofestival.com",
+              "link2": "",
+              "linktext2": ""
+            }
+          ]
+        },
+        {
+          "name": "Hyppynarut",
+          "pic": "/category-pics/hyppynarut.jpg",
+          "id": "hyppynarut",
+          "pic2": "",
+          "pic2text": "",
+          "products": [
+            {
+              "name": "Helminaru",
+              "category": 3,
+              "subcategory": "hyppynarut",
+              "id": "samesmile-helmi",
+              "pic": "/product-pics-3/samesmile1.jpg",
+              "pics": [],
+              "price": 18,
+              "text": "Helminaru pyörii helposti, antaa mukavasti vastusta ja on mahtavan näköinen. Soveltuu ulko- ja sisäliikuntaan. Suomi osallistuu ensimmäistä kertaa hyppynarun MM kisoihin vuonna 2019. MM-kisojen kunniaksi loimme Finnish Flag Edition-narun.",
+              "text2": "2,7m. (9ft.) Helminaru Naru säädettävissä hyppijöiden pituuden mukaan. Soveltuu yhdelle hyppijälle. Kahvan väri: valkoinen Helmien väri: sini-valkoinen",
+              "text3": "Ei alle 3-vuotiaille. Sisältää pieniä osia. Tuotteen käyttötarkoitus on liikuntaväline.",
+              "text4": "SAME SMILE - Missiomme on tarjota omaperäisiä tuotteita ja palveluita, jotka tuottavat hyvinvointia ja onnellisuutta. Mielestämme onnen tunteita elämään tuovat mm. puuhastelu perheen ja ystävien kanssa, terveys, liikunta, tasavertaisuus ja erilaisuus.",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+            {
+              "name": "Freestyle-hyppynaru",
+              "category": 3,
+              "subcategory": "hyppynarut",
+              "id": "samesmile-freewhite",
+              "pic": "/product-pics-3/samesmile2-1.jpg",
+              "pics": [
+                "/product-pics-3/samesmile2-2.jpg",
+                "/product-pics-3/samesmile2-3.jpg"
+              ],
+              "price": 15,
+              "text": "Freestyle White on rope skipping ammattilaisten käyttämä temppuhyppynaru. Pitkät kahvat ja ohut naru mahdollistavat monien näyttävien temppuyhdistelmien harjoittelun sekä tehokkaan treenin niin kotona kuin salilla. Hyppiksessä on kätevät pikalukot, joiden avulla narun pituus säädetään hyppijän pituuden mukaisesti. Freestyle white on kahden suomalaisen sirkusammattilaisen (Kimmo Hietanen ja Maiju Mustonen) omaa tuotantoa.",
+              "text2": "Mitat: kahvan pituus 22 cm, narun pituus 270 cm",
+              "text3": "Erityisyys: nopeasti säädettävä lukko. ​Materiaali: kahvat muovia, naru PVC-muovia (myrkytön)",
+              "text4": "SAME SMILE - Missiomme on tarjota omaperäisiä tuotteita ja palveluita, jotka tuottavat hyvinvointia ja onnellisuutta. Mielestämme onnen tunteita elämään tuovat mm. puuhastelu perheen ja ystävien kanssa, terveys, liikunta, tasavertaisuus ja erilaisuus.",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+            {
+              "name": "Freestyle-hyppynaru",
+              "category": 3,
+              "subcategory": "hyppynarut",
+              "id": "samesmile-freeblack",
+              "pic": "/product-pics-3/hyppynaru3-1.jpg",
+              "pics": [
+                "/product-pics-3/hyppynaru3-2.jpg",
+                "/product-pics-3/hyppynaru3-3.jpg"
+              ],
+              "price": 15,
+              "text": "Freestyle Black on rope skipping ammattilaisten käyttämä temppuhyppynaru. Pitkät kahvat ja ohut naru mahdollistavat monien näyttävien temppuyhdistelmien harjoittelun sekä tehokkaan treenin niin kotona kuin salilla. Hyppiksessä on kätevät pikalukot, joiden avulla narun pituus säädetään hyppijän pituuden mukaisesti. Freestyle white on kahden suomalaisen sirkusammattilaisen (Kimmo Hietanen ja Maiju Mustonen) omaa tuotantoa.",
+              "text2": "Mitat: kahvan pituus 22 cm, narun pituus 270 cm",
+              "text3": "Erityisyys: nopeasti säädettävä lukko. ​Materiaali: kahvat muovia, naru PVC-muovia (myrkytön)",
+              "text4": "SAME SMILE - Missiomme on tarjota omaperäisiä tuotteita ja palveluita, jotka tuottavat hyvinvointia ja onnellisuutta. Mielestämme onnen tunteita elämään tuovat mm. puuhastelu perheen ja ystävien kanssa, terveys, liikunta, tasavertaisuus ja erilaisuus.",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+            {
+              "name": "Nopeushyppynaru",
+              "category": 3,
+              "subcategory": "hyppynarut",
+              "id": "samesmile4",
+              "pic": "/product-pics-3/jumpcirq1.jpg",
+              "pics": [],
+              "price": 10,
+              "text": "Treenaa itsesi huippukuntoon! Lyhyet kahvat ja ohut naru mahdollistavat nopeusharjoittelun. Hyppiksessä on kätevät pikalukot, joiden avulla narun pituus säädetään hyppijän pituuden mukaisesti. Nopeusnaru on kahden suomalaisen sirkusammattilaisen (Kimmo Hietanen ja Maiju Mustonen) omaa tuotantoa.",
+              "text2": " Mitat: kahvan pituus 15 cm, narun pituus 274 cm (9FT.)",
+              "text3": " Kahvan väri: punainen. Erityisyys: nopeasti säädettävä lukko. Materiaali: kahvat muovia, naru PVC-muovia (myrkytön).",
+              "text4": "",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": "",
               "link2": "",
               "linktext2": ""
             }

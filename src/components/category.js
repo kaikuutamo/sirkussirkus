@@ -98,25 +98,25 @@ componentDidUpdate () {
 
     if (window.location.search === "?jongleeraus") {
         products = this.props.products.categories[0];
-        categoryText = "JONGLEERAUS. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
+        categoryText = "JONGLEERAUS (juggling) on tuhansia vuosia vanha taito, joka käsittää tänä päivänä paitsi heittojongleerauksen myös monta muuta esinemanipulaation (object manipulation) muotoa. Jongleerauspallot, -keilat ja renkaat kuuluvat perinteisiin jongleerausvälineisiin, ja nykyään jongleerauksen piiriin käsitetään myös lautasenpyöritys, diabolo, vanteiden käsittely (vannejongleeraus, vannetaide, huuppaus, jne.), hattumanipulaatio, sikarilaatikkotemput, devil stick, flower stick ja monet muut välineet ja käsittelytavat.";
         num = "0";
     }
 
     else if (window.location.search === "?ilmaakro") {
         products = this.props.products.categories[1];
-        categoryText = "ILMA-AKROBATIA. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
+        categoryText = "ILMA-AKROBATIA (aerial acrobatics) käsittää akrobatian, joka tapahtuu jonkin ripustetun välineen varassa. Ilma-akrobatiavälineitä ovat mm. vertikaalikankaat (aerial silk), vertikaali köysi (aerial rope), trapetsi (trapeze), rengastrapetsi (aerial hoop) ja remmit (aerial straps). Ilma-akrobatiasta on 2010-luvulla tullut suosittu osa fitness- ja tanssistudioiden tarjontaa, ja ammattilaisten lisäksi yhä useammat harrastajat haluavat hankkia omat välineensä. Ilma-akrobatiaan ryhdyttäessä tulee ensin tutustua huolellisesti välineisiin ja ennenkaikkea turvallisuusohjeisiin. Älä koskaan harjoittele yksin ja käytä aina alastulopatjaa.";
         num = "1";
     }
 
     else if (window.location.search === "?tasapainoilu") {
         products = this.props.products.categories[2];
-        categoryText = "TASAPAINOILU. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
+        categoryText = "TASAPAINOILU on ihmiselle luonnollinen taiteilun laji ja sirkuksessa se on saanut vuosien saatossa mitä erikoisempia muotoja. Tasapainoilun piiriin luetaan yksipyöräily (unicycling), tasapainolauta (rolabola), tasapainopallo (walking globe), puujalat (stilt walking), käsilläseisonta (handstand), tasapainoliina (slackline) ja nuorallakävely (tightrope walking / looserope walking).";
         num = "2";
     }
 
     else if (window.location.search === "?muut") {
         products = this.props.products.categories[3]
-        categoryText = "MUUT. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
+        categoryText = "MUUT - Tästä kategoriasta löydät muihin kategorioihin sopimattomat sirkusvälineet (Taikuustarvikkeet), sirkustemppuilua sivuavat välineet ja lelut (Kendama) sekä sirkukseen liittyvät oheistuotteet (Kirjat ja DVD:t). Haluamme tarjota asiakkaillemme myös muutakin meistä hauskaa ajanvietettä ja harrastetta sekä laadukasta aihepiiriin sopivaa kirjallisuutta. Uusimpana alakategoriana Ulkoleikit, johon kuuluu Formula-Neppis-sarjan autot sekä Kelkkis-kelkat.";
         num = "3";
     }
 
