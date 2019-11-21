@@ -27,15 +27,15 @@ class Sponsors extends React.Component {
                     
                     <div id="sponsor-pics">
 
-                    <a href="http://www.herrakoskinen.com/" target="_blank" rel="noopener noreferrer"><img alt="Sponsor" src="/sponsor-pics/sponsor1.jpg"></img></a>
+                    <a href="http://www.kaikuutamo.com" target="_blank" rel="noopener noreferrer"><img alt="Sponsor" src="/sponsor-pics/sponsor8.jpg"></img></a>
                     <a href="http://www.petterwadsten.com/" target="_blank" rel="noopener noreferrer"><img alt="Sponsor" src="/sponsor-pics/sponsor2.jpg"></img></a>
-                    <a href="http://www.jukkasalminen.com/" target="_blank" rel="noopener noreferrer"><img alt="Sponsor" src="/sponsor-pics/sponsor3.jpg"></img></a>
+                    <a href="http://www.herrakoskinen.com/" target="_blank" rel="noopener noreferrer"><img alt="Sponsor" src="/sponsor-pics/sponsor1.jpg"></img></a>
                     <a href="http://www.sirkussirkus.com/circuskampot/" target="_blank" rel="noopener noreferrer"><img alt="Sponsor" src="/sponsor-pics/sponsor4.jpg"></img></a>
                     <a href="http://koti.kapsi.fi/~hel5am/sds/" target="_blank" rel="noopener noreferrer"><img alt="Sponsor" src="/sponsor-pics/sponsor5.jpg"></img></a>
                     <a href="http://www.sirkussirkus.com/njc" target="_blank" rel="noopener noreferrer"><img alt="Sponsor" src="/sponsor-pics/sponsor6.jpg"></img></a>
                     <a href="http://supiainen.com/?page_id=94" target="_blank" rel="noopener noreferrer"><img alt="Sponsor" src="/sponsor-pics/sponsor7.jpg"></img></a>
-                    <a href="http://www.kaikuutamo.com" target="_blank" rel="noopener noreferrer"><img alt="Sponsor" src="/sponsor-pics/sponsor8.jpg"></img></a>
-
+                    <a href="http://www.jukkasalminen.com/" target="_blank" rel="noopener noreferrer"><img alt="Sponsor" src="/sponsor-pics/sponsor3.jpg"></img></a>
+                    
                     </div>
 
                     </div>
