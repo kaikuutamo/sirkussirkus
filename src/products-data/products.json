@@ -2023,7 +2023,26 @@
               "linktext": "",
               "link2": "",
               "linktext2": ""
-            }
+            },
+            {
+                  "name": "Kevlar-kangas 100 mm",
+                  "category": 0,
+                  "subcategory": "tuli",
+                  "id": "kevlarkangas10",
+                  "pic": "/product-pics-0/kevlarkangas100.jpg",
+                  "pics": [],
+                  "price": 12,
+                  "text": "100 mm leveää pitkäikäistä Kevlar-nauhaa tulivälineiden tulipäiden uusimiseen. Tällä leveällä nauhalla saat suuret tulipäät helposti esimerkiksi tulikeppeihin. Pienempiin tulipäihin kankaan voi nauhan laittaa kaksinkerroin, jolloin saa aikaan lyhyellä mitalla 50 mm leveät tulipäät. Tutustu ennen käyttöä yleisiin paloturvallisuusohjeisiin, tulijongleerauksessa käytettäviin palonesteisiin, turvalliseen pukeutumiseen, äläkä koskaan harjoittele yksin. Metrihinta.",
+                  "text2": "Leveys 100 mm, Paksuus 3 mm",
+                  "text3": "Myydään metreittäin. Hinta per metri.",
+                  "text4": "",
+                  "text5": "",
+                  "options": null,
+                  "link": "",
+                  "linktext": "",
+                  "link2": "",
+                  "linktext2": ""
+              }
           ]
         },
         {
@@ -3552,7 +3571,7 @@
                 },
                 {
                   "name": "2.0 m",
-                  "id": "ripustusliina15",
+                  "id": "ripustusliina20",
                   "price": 30
                 }
               ],
@@ -3680,7 +3699,7 @@
                   "price": 270
                 },
                 {
-                  "name": "1.5 metriä",
+                  "name": "1.5 metriä (TILAUSTUOTE)",
                   "id": "firetoys-trapetsi-valkoinen-15m",
                   "price": 260
                 }
@@ -3722,7 +3741,7 @@
                   "price": 270
                 },
                 {
-                  "name": "1.5 metriä",
+                  "name": "1.5 metriä (TILAUSTUOTE)",
                   "id": "firetoys-trapetsi-musta-15m",
                   "price": 260
                 }
@@ -3748,9 +3767,9 @@
               ],
               "price": 299,
               "text": "Laadukkaassa Firetoys-paritrapetsissa on teräksinen tanko, terässilmukat köysien päissä sekä erityisvahvat köydet. Ennenvanhaan Firetoys-trapetseissa oli aina vaijeriydin köydessä, mutta nykyään tilalla on nelinkertainen kokoköysipunos, joka on notkea, joustava ja kestävä. Hyvä perustrapetsi kaikenlaiseen käyttöön. Aloitustrapetsi, tanssitrapetsi, opetus- ja esityskäyttö. Paritrapetsia löytyy kahdessa värissä. Pikalukituskarabiinit (sulkulenkit) sisältyvät hintaan.",
-              "text2": "",
-              "text3": "Köysien pituus 2.5 m / Tangon leveys 90 cm / Tangon paksuus 24 mm",
-              "text4": "Työskentelypainoraja 400 kg (karabiinit 250 kg)",
+              "text2": "Köysien pituus 2.5 m / Tangon leveys 90 cm / Tangon paksuus 24 mm",
+              "text3": "Työskentelypainoraja 400 kg (karabiinit 250 kg)",
+              "text4": "(Varastossa aina 2.5 metrin köysillä. Muut mitat tilauksesta.)",
               "text5": "",
               "options": null,
               "link": "",
@@ -3774,9 +3793,9 @@
               ],
               "price": 299,
               "text": "Laadukkaassa Firetoys-paritrapetsissa on teräksinen tanko, terässilmukat köysien päissä sekä erityisvahvat köydet. Ennenvanhaan Firetoys-trapetseissa oli aina vaijeriydin köydessä, mutta nykyään tilalla on nelinkertainen kokoköysipunos, joka on notkea, joustava ja kestävä. Hyvä perustrapetsi kaikenlaiseen käyttöön. Aloitustrapetsi, tanssitrapetsi, opetus- ja esityskäyttö. Paritrapetsia löytyy kahdessa värissä. Pikalukituskarabiinit (sulkulenkit) sisältyvät hintaan.",
-              "text2": "",
-              "text3": "Köysien pituus 2.5 m / Tangon leveys 90 cm / Tangon paksuus 24 mm",
-              "text4": "Työskentelypainoraja 400 kg (karabiinit 250 kg)",
+              "text2": "Köysien pituus 2.5 m / Tangon leveys 90 cm / Tangon paksuus 24 mm",
+              "text3": "Työskentelypainoraja 400 kg (karabiinit 250 kg)",
+              "text4": "(Varastossa aina 2.5 metrin köysillä. Muut mitat tilauksesta.)",
               "text5": "",
               "options": null,
               "link": "",
@@ -4341,7 +4360,7 @@
                 },
                 {
                   "name": "2.0 m",
-                  "id": "ripustusliina15",
+                  "id": "ripustusliina20",
                   "price": 30
                 }
               ],
@@ -4772,7 +4791,7 @@
               "subcategory": "kendama",
               "id": "promodwalnut",
               "pic": "/product-pics-3/promodwalnut.jpg",
-              "pics": ["/product-pics-3/promodwalnut1.jpg","/product-pics-3/promodwalnut2.jpg","/product-pics-3/promodwalnut3.jpg","/product-pics-3/promodwalnut4.jpg","/product-pics-3/promodwalnut5.jpg","/product-pics-3/promodwalnut6.jpg","/product-pics-3/promodwalnut7.jpg","/product-pics-3/promodwalnut8.jpg","/product-pics-3/promodwalnut9.jpg","/product-pics-3/promodwalnut10.jpg"],
+              "pics": ["/product-pics-3/promodwalnut1.jpg","/product-pics-3/promodwalnut2.jpg","/product-pics-3/promodwalnut3.jpg","/product-pics-3/promodwalnut4.jpg","/product-pics-3/promodwalnut5.jpg","/product-pics-3/promodwalnut6.jpg","/product-pics-3/promodwalnut7.jpg","/product-pics-3/promodwalnut8.jpg","/product-pics-3/promodwalnut9.jpg","/product-pics-3/promodwalnut10.jpg","/product-pics-3/promodwalnut11.jpg"],
               "price": 55,
               "choice":"Malli",
               "text": "KROM-tallipelaajien uudet, siistit ja yksityiskohtaiset pro-mallit nyt pähkinäpuusta veistettynä. Erinomainen viimeistely jokaista yksityiskohtaa myöden. Pähkinäpuu tuo materiaalina mallille vielä lisää arvokasta ulkonäköä ja painonsa puolesta se antaa parhaan mahdollisen käyttösuhteen Kenille ja Damalle. Paketissa Kendama, tarroja, varanaru.",
@@ -5124,7 +5143,7 @@
               "price": 20,
               "choice":"Materiaali",
               "text": "Cliff John on Kromin suunnittelema yksinkertainen ja tyylikäs Kendama-teline, joka täydellistää  muotitietoisen Kendama-sisustajan kodin. Telineeseen mahtuu viisi normaalia kilpailukokoista tai Viking-kokoista Kendamaa. Telineessä Kendamat pysyvät hyvin seinällä ja näyttävät hienoilta. Ripusta parhaat Kendamasi esille! Saatavana kolmessa eri materiaalissa. Erinomainen lahjaidea Kendama-pelaajalle, jolla on jo kaikkea.",
-              "text2": "Mitat: leveys, korkeus, syvyys",
+              "text2": "Mitat: leveys 330 mm, korkeus 23 mm, syvyys 43 mm",
               "text3": "Mukana kiinnitysruuvit ja muoviproput.",
               "text4": "",
               "text5": "",
