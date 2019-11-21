@@ -81,6 +81,7 @@ totalSum = toDecimals(totalSum);
 var info = this.props.information;
 
 var emailText = `
+Olemme vastaanottaneet tilauksenne. Ilmoitamme, kun paketti on toimituksessa. Lähetämme laskun sähköpostiinne.
 
 Yhteystiedot:
 
@@ -104,9 +105,6 @@ ${this.props.text}
 Toimitus:
 
 ${this.props.delivery}
-
-Olemme vastaanottaneet tilauksenne. Ilmoitamme, kun paketti on toimituksessa. Lähetämme laskun sähköpostiinne.
-
 `;
 
 /* ---------Form and sending----------- */
