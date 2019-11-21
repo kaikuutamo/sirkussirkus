@@ -105,7 +105,7 @@ Toimitus:
 
 ${this.props.delivery}
 
-Olemme vastaanottaneet tilauksenne. Ilmoitamme, kun paketti on toimituksessa. Lähetämme laskun sähköpostiinne.
+Olemme vastaanottaneet tilauksenne. Saatte laskun sähköpostiinne. Ilmoitamme, kun paketti on toimituksessa.
 
 `;
 
