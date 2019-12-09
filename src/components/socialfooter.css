@@ -22,6 +22,7 @@
 }
 
 #social-text {
+    padding-bottom: 30px;
     line-height: 1.8rem;
     padding-left: 7px;
     padding-right: 7px;
@@ -30,6 +31,27 @@
     color: white;
 }
 
+#uutiskirje {
+    line-height: 1.8rem;
+    padding-left: 7px;
+    padding-right: 7px;
+    text-align: center;
+    font-size: 1.1rem;
+    color: white;
+}
+
+a.uutiset:link, a.uutiset:visited {
+    background-color: grey;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a.uutiset:hover, a.uutiset:active {
+    background-color: red;
+  }
 
 @media (max-width: 850px) {
 

@@ -19,11 +19,17 @@ return (
         </div>
 
         <div id="social-text">
+            <p>Sirkussirkus</p>
             <p>Lonttistentie 14, Turku</p>
             <p>Olemme paikalla KE klo 15-18</p>
             <p>Kai Kuutamo | 040 754 6182</p>
             <p>kauppa@sirkussirkus.com</p>
         </div>
+
+        <div id="uutiskirje">
+            <a class="uutiset" href="https://mailchi.mp/be8508f69685/sirkussirkus" target="uutiskirje" rel="noopener noreferrer">Tilaa Uutiskirje</a>
+        </div>
+
 
     </div>
 

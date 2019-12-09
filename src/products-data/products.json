@@ -2583,9 +2583,9 @@
                 "/product-pics-1/kangas0.jpg"
               ],
               "price": 270,
-              "text": "Pakettihinta! Säästä 14 euroa! Vertikaalikangaspaketti joka sisältää 20 metrin kankaan, alumiinileikarin ja kaiken mitä tarvitset kankaan turvalliseen kiinnittämiseen kiinnityspisteeseen(*). Paketissa CAMP-kiipeilykahdeksikko, CAMP-alumiinileikari, kaksi teräksistä Rock Empire -sulkulenkkiä, 80 cm Rock Empire -nauhalenkki sekä valitsemasi värinen 20 metrin Duradero-kangas (noin 9 metrin käyttömitta). Paketti on muuten samanlainen kuin \"All-In-One Eight\" paitsi että mukana on pyörimisen mahdollistava alumiinileikari sekä lisäksi tarvittava toinen sulkulenkki. Voit katsoa tarkemmat tiedot paketin tuotteista ilma-akrobatiakankaat sivun tuotekohtaisista selostuksista.",
+              "text": "Vertikaalikangaspaketti joka sisältää 20 metrin kankaan, alumiinileikarin ja kaiken mitä tarvitset kankaan turvalliseen kiinnittämiseen kiinnityspisteeseen(*). Paketissa CAMP-kiipeilykahdeksikko, CAMP-alumiinileikari, kaksi teräksistä Rock Empire -sulkulenkkiä, 80 cm Rock Empire -nauhalenkki sekä valitsemasi värinen 20 metrin Duradero-kangas (noin 9 metrin käyttömitta). Paketti on muuten samanlainen kuin \"All-In-One Eight\" paitsi että mukana on pyörimisen mahdollistava alumiinileikari sekä lisäksi tarvittava toinen sulkulenkki. Voit katsoa tarkemmat tiedot paketin tuotteista ilma-akrobatiakankaat sivun tuotekohtaisista selostuksista.",
               "text2": "*Kiinnityspiste ei sisälly hintaan. Kiinnityspisteestä jokainen huolehtii itse ja sen tulee olla ammattiripustajan (riggaajan) tai rakennusinsinöörin hyväksymä. Omin päin tehdyt kiinnityspisteet ovat aina myös omalla vastuulla.",
-              "text3": "",
+              "text3": "Pakettihinta. Säästä 14€.",
               "text4": "",
               "text5": "",
               "choice": "Väri",
@@ -2656,7 +2656,7 @@
               "price": 220,
               "text": "Vertikaalikangaspaketti joka sisältää 20 metrin kankaan ja kaiken mitä tarvitset kankaan turvalliseen kiinnittämiseen kiinnityspisteeseen(*). Paketissa CAMP-kiipeilykahdeksikko, Rock Empire -sulkulenkki, 80 cm Rock Empire -nauhalenkki sekä valitsemasi värinen 20 metrin Duradero-kangas (noin 9 metrin käyttömitta). Voit katsoa tarkemmat tiedot paketin tuotteista ilma-akrobatiakankaat sivun tuotteiden omista selostuksista.",
               "text2": "*Kiinnityspiste ei sisälly hintaan. Kiinnityspisteestä jokainen huolehtii itse ja sen tulee olla ammattiripustajan (riggaajan) tai rakennusinsinöörin hyväksymä. Omin päin tehdyt kiinnityspisteet ovat aina myös omalla vastuulla.",
-              "text3": "",
+              "text3": "Pakettihinta. Säästä 7€.",
               "text4": "",
               "text5": "",
               "choice": "Väri",
@@ -2734,7 +2734,7 @@
               "text2": "20 metrin kangas riittää 9 metriä korkeaan tilaan. Kangas on käytössä kaksinkerroin, solmuun menee hiukan mittaa ja kankaan on hyvä yltää reilusta maahan asti. Väreinä löytyvät valkoinen, punainen, turkoosi, tummansininen, pinkki, oranssi, violetti, vihreä ja musta.",
               "text3": "Pituus 20 m / leveys 1.6 m / paino 3-4 kg.",
               "text4": "Työskentelypainoraja 95 kg, murtumispainoraja 1000 kg.",
-              "text5": "Metrihinta 8.00 €. Puolitus 10 metrin kankaaseen onnistuu pyynnöstä. Hajamitat tilaamme erikseen, välttääksemme hukkapalat. Hajamitoissa toimitusaika 1-2 viikkoa.",
+              "text5": "Metrihinta 8.00 €. Puolitus 10 metrin kankaaseen onnistuu pyynnöstä. Hajamitat tilaamme erikseen, välttääksemme hukkapalat. Hajamitoissa toimitusaika sopimuksen mukaan.",
               "choice": "Väri",
               "options": [
                 {
@@ -2899,6 +2899,47 @@
               "text4": "",
               "text5": "",
               "options": null,
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+            {
+              "name": "Ripustusliina 0.5 - 2.0m",
+              "category": 1,
+              "subcategory": "kankaat",
+              "id": "ripustusliina",
+              "pic": "/product-pics-1/ripustusliina1.jpg",
+              "pics": ["/product-pics-1/ripustusliina3.jpg", "/product-pics-1/ripustusliina2.jpg"],
+              "price": 15,              
+              "text": "Tavallista nauhalenkkiä jykevämpi raskaan sarjan liina, jota löytyy monessa mitassa tarpeen mukaan. Sopii erityisen hyvin nollapisterengastrapetsin kiinnittämiseen. Korkeisiin ripustuksiin ripustuliinoja on myös helppo ketjuttaa sulkulenkkien avulla. Väri: musta. Materiaali: polyesteri. CE-merkitty.",
+              "text2": "Pituus 0.5 - 2.0 m",
+              "text3": "Murtumispainoraja 1000 kg",
+              "text4": "",
+              "text5": "",
+              "choice": "Pituus",
+              "options": [
+                {
+                  "name": "0.5m",
+                  "id": "ripustusliina05",
+                  "price": 15
+                },
+                {
+                  "name": "1.0 m",
+                  "id": "ripustusliina10",
+                  "price": 20
+                },
+                {
+                  "name": "1.5 m",
+                  "id": "ripustusliina15",
+                  "price": 25
+                },
+                {
+                  "name": "2.0 m",
+                  "id": "ripustusliina20",
+                  "price": 30
+                }
+              ],
               "link": "",
               "linktext": "",
               "link2": "",
@@ -3228,7 +3269,49 @@
               "linktext": "",
               "link2": "",
               "linktext2": ""
+            },
+            {
+              "name": "Ripustusliina 0.5 - 2.0m",
+              "category": 1,
+              "subcategory": "koydet",
+              "id": "ripustusliina",
+              "pic": "/product-pics-1/ripustusliina1.jpg",
+              "pics": ["/product-pics-1/ripustusliina3.jpg", "/product-pics-1/ripustusliina2.jpg"],
+              "price": 15,              
+              "text": "Tavallista nauhalenkkiä jykevämpi raskaan sarjan liina, jota löytyy monessa mitassa tarpeen mukaan. Sopii erityisen hyvin nollapisterengastrapetsin kiinnittämiseen. Korkeisiin ripustuksiin ripustuliinoja on myös helppo ketjuttaa sulkulenkkien avulla. Väri: musta. Materiaali: polyesteri. CE-merkitty.",
+              "text2": "Pituus 0.5 - 2.0 m",
+              "text3": "Murtumispainoraja 1000 kg",
+              "text4": "",
+              "text5": "",
+              "choice": "Pituus",
+              "options": [
+                {
+                  "name": "0.5m",
+                  "id": "ripustusliina05",
+                  "price": 15
+                },
+                {
+                  "name": "1.0 m",
+                  "id": "ripustusliina10",
+                  "price": 20
+                },
+                {
+                  "name": "1.5 m",
+                  "id": "ripustusliina15",
+                  "price": 25
+                },
+                {
+                  "name": "2.0 m",
+                  "id": "ripustusliina20",
+                  "price": 30
+                }
+              ],
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
             }
+
           ]
         },
         {
@@ -3496,8 +3579,8 @@
               "pics": ["/product-pics-1/trapetsiteippi2.jpg","/product-pics-1/trapetsiteippi3.jpg","/product-pics-1/trapetsiteippi4.jpg","/product-pics-1/trapetsiteippi5.jpg"],
               "choice": "Väri",
               "price": 22,
-              "text": "Pehmeä, mukava, kestävä ja vähän-tahmaava viskoosikangasteippi trapetsin, rengastrapetsin ja muiden välineiden teippaukseen. Monissa kangasteipeissä ongelmaksi muodostuu ilma-akrobatiavälineiden kanssa teipin liika tahmaisuus tai liiman läpitunkeutuminen sisäpuolelta ulkopuolelle käytössä. Juuri tähän pulmaan on Firetoys-trapetsiteippi kehittänyt. Vähemmän tahmaa, mutta kuitenkin hyvää pitoa ja mukavaa tuntumaa.",
-              "text2": "Yhdellä 50 metrin rullalla päällystää noin 4 rengastrapetsia. Valmistaja Firetoys.",
+              "text": "Pehmeä, mukava, kestävä ja vähän-tahmaava viskoosikangasteippi trapetsin, rengastrapetsin ja muiden välineiden teippaukseen. Monissa kangasteipeissä ongelmaksi muodostuu ilma-akrobatiavälineiden kanssa teipin liika tahmaisuus tai liiman läpitunkeutuminen sisäpuolelta ulkopuolelle käytössä. Juuri tähän pulmaan on Firetoys-trapetsiteippi kehitetty. Vähemmän tahmaa, mutta kuitenkin hyvää pitoa ja mukavaa tuntumaa.",
+              "text2": "Yhdellä 50 metrin rullalla päällystää noin 3 rengastrapetsia. Valmistaja Firetoys.",
               "text3": "Leveys 25 mm / Pituus 50 m",
               "text4": "Materiaali: Viskoosi",
               "text5": "",
@@ -3931,7 +4014,49 @@
               "linktext": "",
               "link2": "",
               "linktext2": ""
+            },
+            {
+              "name": "Ripustusliina 0.5 - 2.0m",
+              "category": 1,
+              "subcategory": "trapetsit",
+              "id": "ripustusliina",
+              "pic": "/product-pics-1/ripustusliina1.jpg",
+              "pics": ["/product-pics-1/ripustusliina3.jpg", "/product-pics-1/ripustusliina2.jpg"],
+              "price": 15,              
+              "text": "Tavallista nauhalenkkiä jykevämpi raskaan sarjan liina, jota löytyy monessa mitassa tarpeen mukaan. Sopii erityisen hyvin nollapisterengastrapetsin kiinnittämiseen. Korkeisiin ripustuksiin ripustuliinoja on myös helppo ketjuttaa sulkulenkkien avulla. Väri: musta. Materiaali: polyesteri. CE-merkitty.",
+              "text2": "Pituus 0.5 - 2.0 m",
+              "text3": "Murtumispainoraja 1000 kg",
+              "text4": "",
+              "text5": "",
+              "choice": "Pituus",
+              "options": [
+                {
+                  "name": "0.5m",
+                  "id": "ripustusliina05",
+                  "price": 15
+                },
+                {
+                  "name": "1.0 m",
+                  "id": "ripustusliina10",
+                  "price": 20
+                },
+                {
+                  "name": "1.5 m",
+                  "id": "ripustusliina15",
+                  "price": 25
+                },
+                {
+                  "name": "2.0 m",
+                  "id": "ripustusliina20",
+                  "price": 30
+                }
+              ],
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
             }
+
           ]
         },
         {
@@ -4163,6 +4288,7 @@
               "link2": "",
               "linktext2": ""
             },
+            
             {
               "name": "RE - Nauhalenkki 80 cm (slingi)",
               "category": 1,
@@ -4183,7 +4309,49 @@
               "linktext": "",
               "link2": "",
               "linktext2": ""
+            },
+            {
+              "name": "Ripustusliina 0.5 - 2.0m",
+              "category": 1,
+              "subcategory": "remmit",
+              "id": "ripustusliina",
+              "pic": "/product-pics-1/ripustusliina1.jpg",
+              "pics": ["/product-pics-1/ripustusliina3.jpg", "/product-pics-1/ripustusliina2.jpg"],
+              "price": 15,              
+              "text": "Tavallista nauhalenkkiä jykevämpi raskaan sarjan liina, jota löytyy monessa mitassa tarpeen mukaan. Sopii erityisen hyvin nollapisterengastrapetsin kiinnittämiseen. Korkeisiin ripustuksiin ripustuliinoja on myös helppo ketjuttaa sulkulenkkien avulla. Väri: musta. Materiaali: polyesteri. CE-merkitty.",
+              "text2": "Pituus 0.5 - 2.0 m",
+              "text3": "Murtumispainoraja 1000 kg",
+              "text4": "",
+              "text5": "",
+              "choice": "Pituus",
+              "options": [
+                {
+                  "name": "0.5m",
+                  "id": "ripustusliina05",
+                  "price": 15
+                },
+                {
+                  "name": "1.0 m",
+                  "id": "ripustusliina10",
+                  "price": 20
+                },
+                {
+                  "name": "1.5 m",
+                  "id": "ripustusliina15",
+                  "price": 25
+                },
+                {
+                  "name": "2.0 m",
+                  "id": "ripustusliina20",
+                  "price": 30
+                }
+              ],
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
             }
+
           ]
         },
         {
@@ -5042,16 +5210,55 @@
               "linktext2": ""
             },
             {
+              "name": "KROM Kollege",
+              "category": 3,
+              "subcategory": "kendama",
+              "id": "kromkollege",
+              "pic": "/product-pics-3/kromkollege1.jpg",
+              "pics": ["/product-pics-3/kromkollege2.jpg","/product-pics-3/kromkollege3.jpg","/product-pics-3/kromkollege5.jpg","/product-pics-3/kromkollege6.jpg","/product-pics-3/kromkollege7.jpg"],
+              "price": 40,
+              "text": "Krom Kollege on Kromin uusi edustusmalli. Isompaa logoa on vaikea saada Kendamaan sopimaan. Pakkaukseen sisältyy Kendama, varanaru, Krom-tarrat ja minijuliste.",
+              "text2": "Ominaisuudet: Krom BL Ken, uusi Warp Hole -malli kantakupissa, Super Sticky LOL Clear -pinta, laakeroitu jyvä, materiaalina vaahtera, pakkaus valmistettu 100% kierrätetystä paperista.",
+              "text3": "",
+              "text4": "",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+            {
+              "name": "KROM Panna House",
+              "category": 3,
+              "subcategory": "kendama",
+              "id": "krompannahouse",
+              "pic": "/product-pics-3/pannahouse1.jpg",
+              "pics": ["/product-pics-3/pannahouse2.jpg","/product-pics-3/pannahouse3.jpg"],
+              "price": 30,
+              "text": "Krom Panna House on katuajalkapalloilun innoittama malli. Pakkaukseen sisältyy kendama, kankainen säilytyspussi ja Krom-minitarra.",
+              "text2": "Ominaisuudet: Krom Slaydog Ken, matta Krom-kumimaali, materiaalina pyökki.",
+              "text3": "",
+              "text4": "",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+
+            {
               "name": "SunRise Performer Jumbo Kendama",
               "category": 3,
               "subcategory": "kendama",
               "id": "sunrisejumbo",
               "pic": "/product-pics-3/sunrisejumbo4.jpg",
               "pics": ["/product-pics-3/sunrisejumbo1.jpg","/product-pics-3/sunrisejumbo2.jpg","/product-pics-3/sunrisejumbo5.jpg","/product-pics-3/sunrisejumbo6.jpg","/product-pics-3/sunrisejumbo3.jpg"],
-              "price": 25,
+              "price": 30,
               "choice":"Väri",
-              "text": "Suuri Jumbo-kokoluokan Kendama. Korkeus 25 cm. Tuntuva ja näkyvä Kendama isompaan käteen tai vaikeiden uusien tekniikoiden harjoitteluun. Valmistettu Amsterdamissa laadukkaalla viimeistelyllä. Damassa hyvä kiiltävä, näyttävä ja pitävä lakkapinta. Värivalikoima vaihtelee.",
-              "text2": "Ominaisuudet: Korkeus 25 cm, pallon halkaisija 80 mm, materiaalina pyökki.",
+              "text": "Suuri Jumbo-kokoluokan Kendama. Korkeus 30 cm. Tuntuva ja näkyvä Kendama isompaan käteen tai vaikeiden uusien tekniikoiden harjoitteluun. Valmistettu Amsterdamissa laadukkaalla viimeistelyllä. Damassa hyvä kiiltävä, näyttävä ja pitävä lakkapinta. Värivalikoima vaihtelee.",
+              "text2": "Ominaisuudet: Korkeus 30 cm, pallon halkaisija 80 mm, materiaalina pyökki.",
               "text3": "",
               "text4": "",
               "text5": "",
@@ -5059,37 +5266,37 @@
                 {
                   "name": "Keltainen",
                   "id": "sunrisejumbo_keltainen",
-                  "price": 25
+                  "price": 30
                 },
                 {
                   "name": "Oranssi",
                   "id": "sunrisejumbo_oranssi",
-                  "price": 25
+                  "price": 30
                 },
                 {
                   "name": "Vaaleanpunainen",
                   "id": "sunrisejumbo_vaaleanpunainen",
-                  "price": 25
+                  "price": 30
                 },
                 {
                   "name": "Punainen",
                   "id": "sunrisejumbo_punainen",
-                  "price": 25
+                  "price": 30
                 },
                 {
                   "name": "Sininen",
                   "id": "sunrisejumbo_sininen",
-                  "price": 25
+                  "price": 30
                 },
                 {
                   "name": "Vihreä",
                   "id": "sunrisejumbo_vihrea",
-                  "price": 25
+                  "price": 30
                 },
                 {
                   "name": "Musta",
                   "id": "sunrisejumbo_musta",
-                  "price": 25
+                  "price": 30
                 }              
               ],
               "link": "",
@@ -5097,6 +5304,37 @@
               "link2": "",
               "linktext2": ""
             },
+            {
+              "name": "Ozora Sakura",
+              "category": 3,
+              "subcategory": "kendama",
+              "id": "ozorasakura",
+              "pic": "/product-pics-3/ozorasakura1.jpg",
+              "pics": ["/product-pics-3/ozorasakura2.jpg","/product-pics-3/ozorasakura3.jpg","/product-pics-3/ozorasakura4.jpg"],
+              "price": 29,
+              "choice":"Väri",
+              "text": "Aito, alkuperäinen ja perinteisissä japanilaisissa mittasuhteissa komeileva Kendama. Koristeellinen kuvio on ottanut innoituksensa japanilaisesta kirsikankukinnasta (sakura). Tyylikäs ja ajaton japanilainen klassikkomalli.",
+              "text2": "Materiaalit - Ken: pyökki, Dama: kirsikkapuu",
+              "text3": "",
+              "text4": "",
+              "text5": "",
+              "options": [
+                {
+                  "name": "Vaaleanpunainen",
+                  "id": "ozorasakura_vaaleanpunainen",
+                  "price": 29
+                },
+                {
+                  "name": "Musta",
+                  "id": "ozorasakura_musta",
+                  "price": 29
+                }
+              ],
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },  
             {
               "name": "Terra Pill",
               "category": 3,
@@ -5325,12 +5563,88 @@
           "pic2text": "",
           "products": [
             {
+              "name": "Juggler's Alphabet Book - Reginald W. Bacon",
+              "category": 3,
+              "subcategory": "media",
+              "id": "jugglersalphabet",
+              "pic": "/product-pics-3/jugglersalphabet.jpg",
+              "pics": ["/product-pics-3/jugglersalphabet2.jpg"],
+              "price": 20,
+              "text": "Kirjan alaotsikko: The ABCs of Inspiration, Encouragement, History, and Fun for Literate Jugglers of All Ages.",
+              "text2": "Tämä kirja on ytimekäs esipuhe lajille, joka viime vuosina on tavoittanut suuren yleisön luovana taiteena, kuntoiluna, vapaa-ajan harrastuksena, kehon ja mielen yhteisharjoitteena sekä joillekin myös ammattina. Jonglööreille se toimii työtaidon raikastajana muistuttajana ajan jatkumon suurista taitajista.",
+              "text3": "Asiaan perehtymättömille se on ikkuna jonglöörien maailmaan, jossa pusketaan ihmiskehon tarkkuuden rajoja kuten myös ihmismielen mielikuvituksen alaa.",
+              "text4": "Jonglööri! Hanki tämä kirja läheisillesi ja auta heitä ymmärtämään sinua paremmin. Tunnetko jonglöörin? Auta itseäsi ymmärtämään epätavallisia ystäviäsi paremmin! Kirjan luettuasi haluat varmasti aloittaa myös itse jongleerauksen harrastamisen.",
+              "text5": "Englanninkielinen / 64 sivua / pehmeäkantinen / 2019",
+              "options": null,
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+            {
+              "name": "Juggling Secrets - Will Goldston",
+              "category": 3,
+              "subcategory": "media",
+              "id": "jugglingsecrets",
+              "pic": "/product-pics-3/jugglingsecrets.jpg",
+              "pics": ["/product-pics-3/jugglingsecrets2.jpg","/product-pics-3/jugglingsecrets3.jpg"],
+              "price": 15,
+              "text": "UUdelleenjulkaisu harvinaisesta Juggling Secrets -kirjasta vuodelta 1911. Kirjassa kuvataan tarkasti monia vanhan koulun jongleeraussuorituksia ja -ihmeitä. Ohjeita löytyy myös temppujen toteuttamiseen ja välineiden rakennukseen. Kirjassa myös paljon ns. jongleerauskepposia, jotka hyvin suoritettuina ja esitettyinä hipovat taikuuden rajaa.",
+              "text2": "Erinomainen teos, joka antaa lisää näkökulmaa jongleerauksen ja esinekäsittelyn erikoiseen historiaan korostaen taiteenlajin monipuolisuutta. Edullinen pakko-ostos jokaiselle esiintyvälle jonglöörille.",
+              "text3": "",
+              "text4": "",
+              "text5": "Englanninkielinen / 104 sivua / pehmeäkantinen / 2019 (1911)",
+              "options": null,
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+            {
+              "name": "Manipulative Miscellanea - Reginald W. Bacon",
+              "category": 3,
+              "subcategory": "media",
+              "id": "manipulativemiscellanea",
+              "pic": "/product-pics-3/manipulativemiscellanea.jpg",
+              "pics": ["/product-pics-3/manipulativemiscellanea2.jpg","/product-pics-3/manipulativemiscellanea3.jpg"],
+              "price": 20,
+              "text": "Kirjan koko nimi on \"The Juggler's Manual of Manipulative Miscellanea: The classic skills with top hats, canes, plates, nesting cups & assorted objects\". Kirjoittajana Reginald W. Bacon, joka tunnetaan myös nimellä Mr.Slim.",
+              "text2": "Ainoa kirja, joka yksityiskohtaisesti kuvailee kirjoittajan erikoisia jongleeraus- ja esinekäsittelytemppuja. Suosittu lähde, jota on käytetty jonglöörien kesken ympäri maailmaa jo 80-luvulta asti. Kirja on jopa saavuttanut jongleerausmaailmassa tietynlaisen \"best seller\" -maineen.",
+              "text3": "Kirja selittää ja kuvailee teatraalisen vaudeville-ajan temppuja hatuilla, kävelykepeillä, lautasilla, kupeilla ja muilla valituilla esineillä. Kirjassa käsitellään myös sekalaisten esineiden käsittelytemppuja ja erilaisia yhdistelmätemppuja.",
+              "text4": "\"A good lesson in entertainment.\" - Juggler's World Magazine",
+              "text5": "Englanninkielinen / 104 sivua / pehmeäkantinen / 1984",
+              "options": null,
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+            {
+              "name": "Cigar Box Manipulation - Reginald W. Bacon",
+              "category": 3,
+              "subcategory": "media",
+              "id": "cigarboxmanual",
+              "pic": "/product-pics-3/cigarboxmanual.jpg",
+              "pics": ["/product-pics-3/cigarboxmanual2.jpg","/product-pics-3/cigarboxmanual3.jpg"],
+              "price": 20,
+              "text": "\"The Juggler's Manual of Cigar Box Manipulation & Balance\" on haluttu teos kaikkien lukuisien sikarilaatikkojonglöörien keskuudessa.",
+              "text2": "Vaatimattomasta koostaan huolimatta teos selittää ja kuvailee yli 200 liikettä, temppua, tasapainotteluasentoa ja jekkua sikarilaatikoilla - johtaen satoihin ja satoihin erilaisiin yhdistelmiin.",
+              "text3": "\"Kaikki mitä sinun tarvitsee tietää oppiaksesi ja esiintyäksesi sikarilaatikoiden kanssa. Järkevästi ja huolellisesti rakennettu sekä hyvin kirjoitettu kirja kokeneelta opettajalta.\" - Juggler's World Magazine",
+              "text4": "",
+              "text5": "Englanninkielinen / 100 sivua / pehmeäkantinen / 1983",
+              "options": null,
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+            {
               "name": "The Art of Juggling - Nikolay Ernestovich Bauman",
               "category": 3,
               "subcategory": "media",
               "id": "artofjuggling",
               "pic": "/product-pics-3/artofjuggling.jpg",
-              "pics": [],
+              "pics": ["/product-pics-3/artofjuggling2.jpg","/product-pics-3/artofjuggling3.jpg"],
               "price": 25,
               "text": "Neuvostoliiton sirkuskoulut kouluttivat jotkut viime vuosisadan parhaista teknisistä jonglööreistä. Jos sinua kiinnostaa jongleeraustaitojesi kehitys, nyt voit vihdoin syventää osaamistasi samasta kirjasta kuin suuret Neuvostojonglöörit aikanaan.",
               "text2": "Nikolay E. Bauman oli tunnettu Venäläinen jonglööri, joka valmistui Moskovan Valtiollisesta Sirkus- ja Varieteetaiteen koulusta vuonna 1930. Hänestä tuli professori samaiseen kouluun vuonna 1947. Nyt hänen alunperin vuonna 1962 julkaisema kirja on vihdoin käännetty englanniksi. ",

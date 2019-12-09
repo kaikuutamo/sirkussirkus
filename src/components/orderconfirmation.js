@@ -31,7 +31,7 @@ if (this.props.delivery === "Nouto") {
 
 if (this.props.delivery === "Matkahuolto") {
         
-    deliveryText = "MATKAHUOLTO alkaen 5 €. Toimitus Matkahuollon paketissa. Hinta 5€ jokaista max 10 kg pakettia kohti. Toimitusaika 1-4 päivää. Lasku sähköpostiin."
+    deliveryText = "MATKAHUOLTO alkaen 5 €. Toimitus Matkahuollon paketissa. Hinta 5 € jokaista max 10 kg pakettia kohti. (Poikkeuksena rengastrapetsit 10 €) Toimitusaika 1-4 päivää. Lasku sähköpostiin."
 }
 
 var products = this.props.shoppingcart;
