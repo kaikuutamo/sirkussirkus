@@ -20,8 +20,8 @@ return (
 
         <div id="social-text">
             <p>Sirkussirkus</p>
-            <p>Lonttistentie 14, Turku</p>
-            <p>Olemme paikalla KE klo 15-18</p>
+            <p>Lonttistentie 12, 2. kerros, Turku</p>
+            <p>Olemme paikalla TO klo 16-18</p>
             <p>Kai Kuutamo | 040 754 6182</p>
             <p>kauppa@sirkussirkus.com</p>
         </div>

@@ -26,7 +26,7 @@ var deliveryText;
 
 if (this.props.delivery === "Nouto") {
         
-    deliveryText = "NOUTO 0 €. Nouto Putiikista Lonttisista Keskiviikkoisin klo 15-18. Muina aikoina nouto on mahdollista sopimuksen mukaan. Lonttistentie 14, 20240 Turku. Maksu paikan päällä käteisellä tai kortilla."
+    deliveryText = "NOUTO 0 €. Nouto Turun varastomyymälästä torstaisin klo 16-18. Nouto on mahdollista myös muina aikoina erikseen sovittaessa. Lonttistentie 12, 2. kerros, 20240 Turku. Maksu paikan päällä käteisellä tai kortilla."
 }
 
 if (this.props.delivery === "Matkahuolto") {

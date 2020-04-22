@@ -519,12 +519,12 @@ return (
 
     <div onTouchMove={this.moveTouch} onTouchStart={this.startTouch} id="scroll-images">
 
-    <Link key="im1" to="/sub-category?category=1&subcategory=kankaat"><img id="image1" className="img-commercial" alt="commercial" src='/frontpagepics/c1.jpg'></img></Link>
+    <Link key="im1" to="/sub-category?category=3&subcategory=kendama"><img id="image1" className="img-commercial" alt="commercial" src='/frontpagepics/c1.jpg'></img></Link>
     <Link key="im2" to="/sub-category?category=3&subcategory=media"><img className="img-commercial" alt="commercial" src='/frontpagepics/c2.jpg'></img></Link>
     <Link key="im3" to="/sub-category?category=2&subcategory=yksipyoraiset"><img className="img-commercial" alt="commercial" src='/frontpagepics/c3.jpg'></img></Link>
-    <Link key="im4" to="/product?category=0&subcategory=pallot&id=record"><img className="img-commercial" alt="commercial" src='/frontpagepics/c4.jpg'></img></Link>
+    <Link key="im4" to="/sub-category?category=1&subcategory=kankaat"><img className="img-commercial" alt="commercial" src='/frontpagepics/c4.jpg'></img></Link>
     <Link key="im5" to="/sub-category?category=2&subcategory=slackline"><img className="img-commercial" alt="commercial" src='/frontpagepics/c5.jpg'></img></Link>
-    <Link key="im6" to="/sub-category?category=1&subcategory=kankaat"><img className="img-commercial" alt="commercial" src='/frontpagepics/c1.jpg'></img></Link>
+    <Link key="im6" to="/sub-category?category=3&subcategory=kendama"><img className="img-commercial" alt="commercial" src='/frontpagepics/c1.jpg'></img></Link>
     
     </div>
     

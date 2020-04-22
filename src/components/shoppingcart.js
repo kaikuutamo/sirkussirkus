@@ -295,9 +295,9 @@ return (
             <br></br>
 
             <p className="deliverytext">
-            Nouto Putiikista Keskiviikkoisin klo 15-18. <br></br>
-            Muina aikoina nouto on mahdollista sopimuksen mukaan.<br></br> 
-            Lonttistentie 14, 20240 Turku.<br></br>
+            Nouto Turun varastomyymälästä torstaisin klo 16-18. <br></br>
+            Nouto on mahdollista myös muina aikoina erikseen sovittaessa.<br></br> 
+            Lonttistentie 12, 2. kerros, 20100 Turku.<br></br>
             Maksu paikan päällä käteisellä tai kortilla.<br></br>
             </p>
 
