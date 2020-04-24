@@ -3006,6 +3006,26 @@
               "linktext2": ""
             },
             {
+              "name": "Petzl Open Swivel- Leikari",
+              "category": 1,
+              "subcategory": "kankaat",
+              "id": "petzlopenswivel",
+              "pic": "/product-pics-1/petzlopenswivel.jpg",
+              "pics": ["/product-pics-1/petzlopenswivel3.jpg","/product-pics-1/petzlopenswivel2.jpg","/product-pics-1/petzlopenswivel4.jpg"],
+              "price": 99,
+              "text": "Laakeroitu leikari eli \"swiveli\", jonka molemmat lenkit toimivat myös karabiineina. Lenkit saa auki mukana tulevalla kuusikulmioavaimella. Erinomainen leikari kotikäyttöön tai muihin mahdollisesti mataliin tiloihin. Koska erillisiä karabiineja ei tarvita leikarin kiinnityksessä, säästää tämä kiinnitysvälineiden mittaa noin 20 cm tuoden lisää käyttökorkeutta välineelle (esimerkiksi kankaalle). Useamman leikarin remmiripustuksessa (aerial straps) voivat nämä leikarit tuoda jopa yli 40 cm lisää käyttömittaa.",
+              "text2": "Leikari mahdollistaa pyörimisen pituusakselin ympäri, ja estää esimerkiksi ilma-akrobatiakankaan kiertymisen. Leikarissa huoltovapaa suljettu laakeri. Valmistettu kuumataotusta alumiinista. Alumiinista valmistetut kiinnikkeet ja varusteet vaativat kunnon tarkistuksen joka käyttökerran yhteydessä, ja niitä ei saa pudottaa kovalle lattialle edes pöytäkorkeudelta. Iskut saattavat heikentää murtolujuutta. Yksilöllisesti tarkastettu ja numeroitu. (CE, NFPA 1983 Technical Use, EAC)",
+              "text3": "Pituus 98 mm / Leveys 50 mm / Paino 130 g",
+              "text4": "Murtumispainoraja 2300 kg",
+              "text5": "Huoltovapaa laakeri. Kuusikulmioavain sisältyy pakettiin.",
+              "options": null,
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+            
+            {
               "name": "Petzl Oxan Sulkulenkki (karabiini)",
               "category": 1,
               "subcategory": "kankaat",
@@ -4468,6 +4488,26 @@
               "linktext2": ""
             },
             {
+              "name": "Petzl Open Swivel- Leikari",
+              "category": 1,
+              "subcategory": "remmit",
+              "id": "petzlopenswivel",
+              "pic": "/product-pics-1/petzlopenswivel.jpg",
+              "pics": ["/product-pics-1/petzlopenswivel3.jpg","/product-pics-1/petzlopenswivel2.jpg","/product-pics-1/petzlopenswivel4.jpg"],
+              "price": 99,
+              "text": "Laakeroitu leikari eli \"swiveli\", jonka molemmat lenkit toimivat myös karabiineina. Lenkit saa auki mukana tulevalla kuusikulmioavaimella. Erinomainen leikari kotikäyttöön tai muihin mahdollisesti mataliin tiloihin. Koska erillisiä karabiineja ei tarvita leikarin kiinnityksessä, säästää tämä kiinnitysvälineiden mittaa noin 20 cm tuoden lisää käyttökorkeutta välineelle (esimerkiksi kankaalle). Useamman leikarin remmiripustuksessa (aerial straps) voivat nämä leikarit tuoda jopa yli 40 cm lisää käyttömittaa.",
+              "text2": "Leikari mahdollistaa pyörimisen pituusakselin ympäri, ja estää esimerkiksi ilma-akrobatiakankaan kiertymisen. Leikarissa huoltovapaa suljettu laakeri. Valmistettu kuumataotusta alumiinista. Alumiinista valmistetut kiinnikkeet ja varusteet vaativat kunnon tarkistuksen joka käyttökerran yhteydessä, ja niitä ei saa pudottaa kovalle lattialle edes pöytäkorkeudelta. Iskut saattavat heikentää murtolujuutta. Yksilöllisesti tarkastettu ja numeroitu. (CE, NFPA 1983 Technical Use, EAC)",
+              "text3": "Pituus 98 mm / Leveys 50 mm / Paino 130 g",
+              "text4": "Murtumispainoraja 2300 kg",
+              "text5": "Huoltovapaa laakeri. Kuusikulmioavain sisältyy pakettiin.",
+              "options": null,
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+          
+            {
               "name": "CAMP - Leikari (sviveli)",
               "category": 1,
               "subcategory": "remmit",
@@ -5768,7 +5808,7 @@
           "pic2text": "",
           "products": [
             {
-              "name": "Bicycle-korttipakka",
+              "name": "Bicycle Rider -korttipakka",
               "category": 3,
               "subcategory": "taika",
               "id": "bicycle",
@@ -5852,12 +5892,63 @@
               "text3": "",
               "text4": "",
               "text5": "",
+              "options": null,  
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+            {
+              "name": "Star Wars -korttipakka",
+              "category": 3,
+              "subcategory": "taika",
+              "id": "starwarsdeck",
+              "pic": "/product-pics-3/starwarsdeck00.jpg",
+              "pics": ["/product-pics-3/starwarsdeck01.jpg","/product-pics-3/starwarsdeck02.jpg","/product-pics-3/starwarsdeck03.jpg","/product-pics-3/starwarsdeck04.jpg","/product-pics-3/starwarsdeck05.jpg","/product-pics-3/starwarsdeck06.jpg","/product-pics-3/starwarsdeck07.jpg","/product-pics-3/starwarsdeck08.jpg","/product-pics-3/starwarsdeck09.jpg","/product-pics-3/starwarsdeck10.jpg"],
+              "price": 13,
+              "choice":"Väri",
+              "text": "Upea teemakuvitettu Tähtien Sota -korttipakka, jossa jokainen kuvakortti on joku tunnetuista Star Wars -hahmoista. Kotelo on myös täynnä yksityiskohtia kiireestä kantapäähän ja siinä on todella näyttävä kohokuvioitu metallimaaliviimeistely. Myös kuvakortit on toteutettu huolella, sillä jokainen kuninkaallinen kortti kunnioittaa samaan aikaan sekä korttipakan graafista perinnettä että Tähtien Sota -estetiikkaa hienoissa yksityiskohdissa.",
+              "text2": "Kuvakorteissa perinteisesti tyyliteltyinä kuninkaallisia kortteja edustavat muun muassa Darth Vader, Boba Fett, Luke Skywalker (vanhempi), Obi-Wan Kenobi, Han Solo, prinsessa Leia ja monet muut.",
+              "text3": "Molemmissa pakoissa samat kuvakortit. Erona taustan grafiikka ja väri sekä kotelon yksityiskohdat ja väri.",
+              "text4": "Satunnainen valikoima myös muita erikoispakkoja varastossa vuosien varrelta. Kysy lisää, jos kiinnostuit.",
+              "text5": "",
+              "options": [
+                {
+                  "name": "Punainen",
+                  "id": "starwarsdeck_punainen",
+                  "price": 13
+                },
+                {
+                  "name": "Sininen",
+                  "id": "starwarsdeck_sininen",
+                  "price": 13
+                }
+              ],
+                "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+            {
+              "name": "Bicycle - Architectural Wonders of the World",
+              "category": 3,
+              "subcategory": "taika",
+              "id": "architectdeck",
+              "pic": "/product-pics-3/architect00.jpg",
+              "pics": ["/product-pics-3/architect01.jpg","/product-pics-3/architect02.jpg","/product-pics-3/architect03.jpg","/product-pics-3/architect04.jpg"],
+              "price": 12,
+              "text": "Tämä pakka esittelee korteissa erilaisia arkkitehtuurisia ihmeitä ympäri maailman. Korttinsa ovat saaneet miltei kaikki kauneimmat ja hämmästyttävimmät ihmisen rakennelmat. Näyttävä kotelo kultaviimeistelyllä.",
+              "text2": "Hieno pakka kaikenkaikkiaan, ja kuinkas muuten kun Pyramidien, Hagia Sofian ja Taj Mahalin ohessa komeilee pataviitosena Helsingin rautatieasema!",
+              "text3": "",
+              "text4": "Satunnainen valikoima myös muita erikoispakkoja varastossa vuosien varrelta. Kysy lisää, jos kiinnostuit.",
+              "text5": "",
               "options": null,
               "link": "",
               "linktext": "",
               "link2": "",
               "linktext2": ""
             }
+
           ]
         },
         {
