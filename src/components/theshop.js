@@ -29,6 +29,13 @@ render () {
                 <p>Rehellistä kauppaa ja vain parhaita sirkusvälineitä jo vuodesta 2005!</p>
                 <p>HUOM! Muutimme katutasosta saman rakennuksen toiseen kerrokseen.</p>
                 <p>Kauppa muuttui myös varastomyymäläksi. Noudot torstaisin tai sopimuksen mukaan.</p>
+                <p></p>
+                <h1>COVID-19</h1>
+                <p>Toimimme toistaiseksi normaalisti valtakunnallisen ohjeistuksen puitteissa.</p>
+                <p>Olemme yhä auki torstaisin klo 16-18.</p>
+                <p>Noudot onnistuvat myös muina aikoina, jos asiasta erikseen sovitaan.</p>
+                <p>Voimme tuoda noudettavat tavarat myös parkkipaikalle sovittaessa.</p>
+                <p>Toimitamme tavaraa Matkahuollossa normaalisti.</p>
                 </div>
 
 
@@ -94,7 +101,7 @@ render () {
                         <p>
                         Sirkustaiteilija Kai Kuutamo perusti Sirkussirkus Putiikin alunperin Jarrumiehenkadulle Turkuun vuonna 2005. Putiikki toimi tässä tilassa aina vuoteen 2010 asti. Sirkussirkus Putiikki oli suljettuna kokonaan vuodet 2011-2015 Aasiassa tapahtuvan esitys- ja opetustyön johdosta ja se avattiin suomeentumisen myötä uudestaan verkkokauppana maaliskuussa vuonna 2016. Marraskuussa 2017 Sirkussirkus muutti uuteen osoitteeseen Lonttistentie 14, Turku. Kivijalkakauppaa pidettiin tällä paikalla reilut kaksi vuotta, jonka jälkeen jouduimme vuokrasopimuksen loputtua siirtymään saman rakennuksen toiseen kerrokseen. Maaliskuussa 2020 kivijalkakauppa muuttui uusien tilojen ehdoilla varastomyymäläksi ainakin toistaiseksi. Nykyinen osoite on Lonttistentie 12, 2. kerros, Turku.
                         <br></br><br></br>
-                        Sirkussirkus Putiikin tila on myös Kai Kuutamon toimisto, työtila ja varasto. Pyrimme pitämään yllä rentoa  tunnelmaa ja tarjoamaan asiakkaille yksilöllistä palvelua. Sirkussirkus varastomyymälässä palvelee myös usein Kai Kuutamon lisäksi sirkustaiteilija ja myyjä Marianne Vaalimaa.
+                        Sirkussirkus Putiikin tila on myös Kai Kuutamon toimisto, työtila ja varasto. Pyrimme pitämään yllä rentoa tunnelmaa ja tarjoamaan asiakkaille yksilöllistä palvelua. Sirkussirkus varastomyymälässä palvelee myös usein Kai Kuutamon lisäksi sirkustaiteilija ja myyjä Marianne Vaalimaa.
                         </p>
                         </div>
 
