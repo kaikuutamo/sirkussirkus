@@ -108,7 +108,7 @@
               "linktext2": "Dropline - Les Objets Volants"
             },
             {
-              "name": "Deluxe Beanbag 76 mm",
+              "name": "Deluxe Beanbag 76 mm (LOPPU)",
               "category": 0,
               "subcategory": "pallot",
               "id": "deluxebeanbag",
@@ -120,7 +120,7 @@
               "text": "Henrysin laadukkain tekstiilipallo (beanbag). 4-osainen. Reilun kokoinen ja tuntuvan painoinen aikuiseen käteen tai näyttämölle. Niin sanottua heittosäkkien aatelia! Ehdottomasti yksi parhaista tehdasvalmisteisista tekstiilipalloista. Pintamateriaaliani on mattapintainen laadukas sekä miellyttävä tekonahka ja täytteenä hirssi. Aluksi kovan tuntuinen pallo, joka pehmenee käytössä.",
               "text2": "76 mm / 167 g",
               "text3": "Värinä vain valkoinen.",
-              "text4": "",
+              "text4": "VALMISTUS LOPETETTU TOISTAISEKSI.",
               "text5": "",
               "options": null,
               "link": "",
@@ -533,42 +533,42 @@
                 {
                   "name": "Valkoinen",
                   "id": "delphin_valkoinen",
-                  "price": 20
+                  "price": 21
                 },
                 {
                   "name": "Keltainen",
                   "id": "delphin_keltainen",
-                  "price": 20
+                  "price": 21
                 },
                 {
                   "name": "Oranssi",
                   "id": "delphin_oranssi",
-                  "price": 20
+                  "price": 21
                 },
                 {
                   "name": "Vaaleanpunainen",
                   "id": "delphin_vaaleanpunainen",
-                  "price": 20
+                  "price": 21
                 },
                 {
                   "name": "Punainen",
                   "id": "delphin_punainen",
-                  "price": 20
+                  "price": 21
                 },
                 {
                   "name": "Sininen",
                   "id": "delphin_sininen",
-                  "price": 20
+                  "price": 21
                 },
                 {
                   "name": "Vihreä",
                   "id": "delphin_vihrea",
-                  "price": 20
+                  "price": 21
                 },
                 {
                   "name": "Violetti",
                   "id": "delphin_violetti",
-                  "price": 20
+                  "price": 21
                 },
                 {
                   "name": "Kokovalkoinen (tilaustuote)",
@@ -2103,8 +2103,9 @@
               "category": 0,
               "subcategory": "Vanteet",
               "id": "playhoop-100-20",
-              "pic": "/product-pics-0/playhoop-100-20-1.jpg",
+              "pic": "/product-pics-0/playhoop-colors.jpg",
               "pics": [
+                "/product-pics-0/playhoop-100-20-1.jpg",
                 "/product-pics-0/playhoop-100-20-2.jpg",
                 "/product-pics-0/playhoop-100-20-3.jpg"
               ],
@@ -2119,6 +2120,21 @@
                 {
                   "name": "Valkoinen",
                   "id": "playhoop-100-20-valkoinen",
+                  "price": 25
+                },
+                {
+                  "name": "Vaaleanvihreä",
+                  "id": "playhoop-100-20-vaaleanvihrea",
+                  "price": 25
+                },
+                {
+                  "name": "Vaaleanpunainen",
+                  "id": "playhoop-100-20-vaaleanpunainen",
+                  "price": 25
+                },
+                {
+                  "name": "Oranssi",
+                  "id": "playhoop-100-20-oranssi",
                   "price": 25
                 },
                 {
@@ -2137,8 +2153,9 @@
               "category": 0,
               "subcategory": "Vanteet",
               "id": "playhoop-85-16",
-              "pic": "/product-pics-0/playhoop-100-20-1.jpg",
+              "pic": "/product-pics-0/playhoop-colors.jpg",
               "pics": [
+                "/product-pics-0/playhoop-100-20-1.jpg",
                 "/product-pics-0/playhoop-100-20-2.jpg",
                 "/product-pics-0/playhoop-100-20-3.jpg"
               ],
@@ -2156,6 +2173,27 @@
                   "price": 25
                 },
                 {
+                  "name": "Vaaleanpunainen",
+                  "id": "playhoop-85-16-vaaleanpunainen",
+                  "price": 25
+                },
+                {
+                  "name": "Vaaleansininen",
+                  "id": "playhoop-85-16-vaaleansininen",
+                  "price": 25
+                },
+                {
+                  "name": "Vaalenvihreä",
+                  "id": "playhoop-85-16-vaaleanvihrea",
+                  "price": 25
+                },
+                {
+                  "name": "Oranssi",
+                  "id": "playhoop-85-16-oranssi",
+                  "price": 25
+                },
+             
+                {
                   "name": "Punainen",
                   "id": "playhoop-85-16-punainen",
                   "price": 25
@@ -2165,7 +2203,39 @@
               "linktext": "",
               "link2": "",
               "linktext2": ""
+            },
+            {
+              "name": "LED Vanne 95 cm",
+              "category": 0,
+              "subcategory": "led",
+              "id": "ledvanne",
+              "pic": "/product-pics-0/ledvanne4.jpg",
+              "pics": [
+                "/product-pics-0/ledvanne6.jpg",
+                "/product-pics-0/ledvanne5.jpg",
+                "/product-pics-0/ledvanne7.jpg",
+                "/product-pics-0/ledvanne.jpg",
+                "/product-pics-0/ledvanne1.jpg",
+                "/product-pics-0/ledvanne2.jpg",
+                "/product-pics-0/ledvanne3.jpg",
+                "/product-pics-0/ledvanne8.jpg",
+                "/product-pics-0/ledvanne9.jpg",
+                "/product-pics-0/ledvanne10.jpg"
+                      ],
+              "price": 119,
+              "text": "Echo Hoop kokoontaitettava LED-matkavanne.",
+              "text2": "Ominaisuudet: Halkaisija 95 cm, kokoontaitettava, 84 led-valoa, yli 300 eri valoasetusta, kaukosäädin, ladattava akku, USB-liitin latausta varten. Mukana myös ohjekirjanen. ",
+              "text3": "Laadukas kokoontaitettava valovanne. Useita eri valotilanteita, joita voi tallentaa kaukosäätimen muistiin. Näppärä taskuunmenevä  RF Wireless -kaukosäädin, jota ei tarvitse suunnata. Kaukosäätimen toimintasäde noin 50 metriä. Vanteessa kestävä akku, jonka voi ladata USB-liittimen kanssa. Akun kesto täyteen ladattuna noin 2 tuntia.",
+              "text4": "Halkaisija 95 cm / Paksuus 20 mm / 300 g / Ledit 84. ",
+              "text5": "Säilytä vannetta aina käyttökoossa. Kokoontaita vain kuljetusta varten.",
+              "options": null,
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
             }
+    
+          
           ]
         },
         {
@@ -2954,7 +3024,7 @@
               "subcategory": "kankaat",
               "id": "alu8",
               "pic": "/product-pics-1/alu8.jpg",
-              "pics": [],
+              "pics": ["/product-pics-1/camp8.jpg"],
               "price": 45,
               "text": "Kuumataotusta alumiinista valmistettu \"kasi\" vertikaalikankaan ripustamiseen. Kiipeilykasi on kevyempi, edullisempi ja pienemmän kokoinen ripustusvaihtoehto perinteiselle kangaskellolle, ja se onkin näiden ominaisuuksiensa puolesta nykyisin suositumpi vaihtoehto kankaan ripustamiseen. Alumiinista valmistetut kiinnikkeet ja varusteet vaativat kunnon tarkistuksen joka käyttökerran yhteydessä, ja niitä ei saa pudottaa kovalle lattialle korkealta. Iskut saattavat heikentää murtolujuutta. Alumiinikasin kiinnittämiseksi tarvitset mahdollisesti kiipeilyyn tarkoitetun sulkulenkin (karabiini) ja nauhalenkin (slingi).",
               "text2": "Korkeus 17,5 cm / Leveys 17 cm / Paksuus 1,5 cm / Paino 280 g",
@@ -3111,9 +3181,9 @@
               "pic": "/product-pics-1/ripustusliina1.jpg",
               "pics": ["/product-pics-1/ripustusliina3.jpg", "/product-pics-1/ripustusliina2.jpg"],
               "price": 15,              
-              "text": "Tavallista nauhalenkkiä jykevämpi raskaan sarjan liina, jota löytyy monessa mitassa tarpeen mukaan. Sopii erityisen hyvin nollapisterengastrapetsin kiinnittämiseen. Korkeisiin ripustuksiin ripustuliinoja on myös helppo ketjuttaa sulkulenkkien avulla. Väri: musta. Materiaali: polyesteri. CE-merkitty.",
+              "text": "Tavallista nauhalenkkiä jykevämpi raskaan sarjan liina, jota löytyy monessa mitassa tarpeen mukaan. Sopii erityisen hyvin nollapisterengastrapetsin kiinnittämiseen. Korkeisiin ripustuksiin ripustusliinoja on myös helppo ketjuttaa sulkulenkkien avulla. Mainittu mitta on ripustusliinan käyttömitta. Väri: musta. Materiaali: polyesteri. CE-merkitty.",
               "text2": "Pituus 0.5 - 2.0 m",
-              "text3": "Murtumispainoraja 1000 kg",
+              "text3": "Työskentelypainoraja 1000 kg",
               "text4": "",
               "text5": "",
               "choice": "Pituus",
@@ -3163,7 +3233,7 @@
               "price": 370,
               "text": "Nacho Riccin käsityönä tehty vertikaaliköysi Espanjasta. Perinteisiin vertikaaliköysiin verrattuna tämä köysi on äärimmäisen mukava ja näppärä käyttää. Ohuempi profiili antaa köydelle notkeutta ja tarjoaa erinomaisen otteen pienempikätisillekin. Köyden päällyssukka tuo pehmeyttä ja mukavuutta niin otteeseen kuin myös kiedontatemppuihin. Köysi myös joustaa hieman, ja näin ollen tiputustemput eivät tunnu niin väkivaltaisilta. Värinä luonnonvalkoinen.",
               "text2": "Pituus 9 m / Paksuus 34 mm / Paino noin 4,5 kg",
-              "text3": "Murtumispainorja 2000 kg",
+              "text3": "Murtumispainoraja 2000 kg",
               "text4": "Työskentelypainoraja 107 kg",
               "text5": "",
               "options": null,
@@ -3488,6 +3558,29 @@
               "link2": "",
               "linktext2": ""
             },
+            
+            {
+              "name": "RE - Nauhalenkki 31 cm (slingi)",
+              "category": 1,
+              "subcategory": "koydet",
+              "id": "sling",
+              "pic": "/product-pics-1/sling31.jpg",
+              "pics": [
+                "/product-pics-1/sling2.jpg"
+              ],
+              "price": 5,
+              "text": "Rock Empire -merkkinen korkean paikan työskentelyyn tarkoitettu 31 cm nauhalenkki eli \"slingi\". Erinomainen ja edullinen apu, jos ilma-akrobatiaköyden silmukka ei mahdu karabiinin portista sisään. Materiaali: polyester. Väri musta. Yksilöllisesti tarkastettu ja numeroitu. (CE EN566, EN795 B)",
+              "text2": "Pituus 31 cm / Paino 35 g",
+              "text3": "Murtumispainoraja 3500 kg",
+              "text4": "",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+            
             {
               "name": "Ripustusliina 0.5 - 2.0m",
               "category": 1,
@@ -3496,9 +3589,9 @@
               "pic": "/product-pics-1/ripustusliina1.jpg",
               "pics": ["/product-pics-1/ripustusliina3.jpg", "/product-pics-1/ripustusliina2.jpg"],
               "price": 15,              
-              "text": "Tavallista nauhalenkkiä jykevämpi raskaan sarjan liina, jota löytyy monessa mitassa tarpeen mukaan. Sopii erityisen hyvin nollapisterengastrapetsin kiinnittämiseen. Korkeisiin ripustuksiin ripustuliinoja on myös helppo ketjuttaa sulkulenkkien avulla. Väri: musta. Materiaali: polyesteri. CE-merkitty.",
+              "text": "Tavallista nauhalenkkiä jykevämpi raskaan sarjan liina, jota löytyy monessa mitassa tarpeen mukaan. Sopii erityisen hyvin nollapisterengastrapetsin kiinnittämiseen. Korkeisiin ripustuksiin ripustuliinoja on myös helppo ketjuttaa sulkulenkkien avulla. Mainittu mitta on ripustusliinan käyttömitta. Väri: musta. Materiaali: polyesteri. CE-merkitty.",
               "text2": "Pituus 0.5 - 2.0 m",
-              "text3": "Murtumispainoraja 1000 kg",
+              "text3": "Työskentelypainoraja 1000 kg",
               "text4": "",
               "text5": "",
               "choice": "Pituus",
@@ -3554,10 +3647,10 @@
                 "/product-pics-1/rengas-nollav5.jpg"
               ],
               "price": 210,
-              "text": "Firetoysin valmistama rengastrapetsi, jossa ei ole kiinnityspisteitä. Kiinnityspisteettömän rengastrapetsin voit kiinnittää nauhalenkeillä kaikilla eri tavoilla tarpeen mukaan eri käyttötarkoituksiin: Yhdestä kohdasta, kahdesta kohdasta tai useammasta kohdasta myös vaakatasoon kattokruunumaisesti. Saatavana viidessä eri koossa ja kahdessa eri värissä. Kuvien kiinnitystarvikkeet eivät sisälly hintaan.",
-              "text2": "Putken paksuus 25 mm",
-              "text3": "Työskentelypainoraja 260 kg",
-              "text4": "",
+              "text": "Firetoysin valmistama rengastrapetsi, jossa ei ole kiinnityspisteitä. Kiinnityspisteettömän rengastrapetsin voit kiinnittää ripustusliinoilla kaikilla eri tavoilla tarpeen mukaan eri käyttötarkoituksiin: Yhdestä kohdasta, kahdesta kohdasta tai useammasta kohdasta myös vaakatasoon kattokruunumaisesti. Mainittu koko on rengastrapetsin ulkohalkaisija. Saatavana viidessä eri koossa ja kahdessa eri värissä. Kuvien kiinnitystarvikkeet eivät sisälly hintaan.",
+              "text2": "0-pistetrapetsi kiinnitetään ripustusliinalla. Haluttuun kiinnityskohtaan tehdään ripustusliinalla yksinkertainen tai moninkertainen leivonpääsolmu (kuva 2). Jos trapetsi ei ole teipattu kauttaaltaan, teipataan kiinnityskohta trapetsista trapetsiteipillä. Tämä estää trapetsin liukumisen solmun sisällä, jos paino on esimerkiksi kokonaan jommalla kummalla reunalla.",
+              "text3": "Putken paksuus 25 mm",
+              "text4": "Työskentelypainoraja 260 kg",
               "text5": "",
               "choice": "Koko ja paino",
               "options": [
@@ -3608,10 +3701,10 @@
                 "/product-pics-1/rengas-nollav5.jpg"
               ],
               "price": 220,
-              "text": "Rengastrapetsi, jossa ei ole kiinnityspisteitä. Kiinnityspisteettömän rengastrapetsin voit kiinnittää nauhalenkeillä kaikilla eri tavoilla tarpeen mukaan eri käyttötarkoituksiin: Yhdestä kohdasta, kahdesta kohdasta tai useammasta kohdasta myös vaakatasoon kattokruunumaisesti. Saatavana viidessä eri koossa ja kahdessa eri värissä. Kuvien kiinnitystarvikkeet eivät sisälly hintaan.",
-              "text2": "Putken paksuus 25 mm",
-              "text3": "Työskentelypainoraja 260 kg",
-              "text4": "",
+              "text": "Firetoysin valmistama rengastrapetsi, jossa ei ole kiinnityspisteitä. Kiinnityspisteettömän rengastrapetsin voit kiinnittää ripustusliinoilla kaikilla eri tavoilla tarpeen mukaan eri käyttötarkoituksiin: Yhdestä kohdasta, kahdesta kohdasta tai useammasta kohdasta myös vaakatasoon kattokruunumaisesti. Mainittu koko on rengastrapetsin ulkohalkaisija. Saatavana viidessä eri koossa ja kahdessa eri värissä. Kuvien kiinnitystarvikkeet eivät sisälly hintaan.",
+              "text2": "0-pistetrapetsi kiinnitetään ripustusliinalla. Haluttuun kiinnityskohtaan tehdään ripustusliinalla yksinkertainen tai moninkertainen leivonpääsolmu (kuva 2). Jos trapetsi ei ole teipattu kauttaaltaan, teipataan kiinnityskohta trapetsista trapetsiteipillä. Tämä estää trapetsin liukumisen solmun sisällä, jos paino on esimerkiksi kokonaan jommalla kummalla reunalla.",
+              "text3": "Putken paksuus 25 mm",
+              "text4": "Työskentelypainoraja 260 kg",
               "text5": "",
               "choice": "Koko ja paino",
               "options": [
@@ -3660,7 +3753,7 @@
                 "/product-pics-1/rengas-yksim3.jpg"
               ],
               "price": 210,
-              "text": "Firetoysin valmistama perinteinen yhden kiinnityspisteen rengastrapetsi. Saatavana kahdessa eri värissä. Mustaa löytyy viidessä eri koossa (80 cm - 105 cm) ja valkoista neljässä koossa (90 cm - 105 cm). Koko on rengastrapetsin ulkohalkaisija. Kuvien kiinnitystarvikkeet eivät sisälly hintaan.",
+              "text": "Firetoysin valmistama perinteinen yhden kiinnityspisteen rengastrapetsi. Saatavana kahdessa eri värissä. Mustaa löytyy viidessä eri koossa (80 cm - 105 cm) ja valkoista neljässä koossa (90 cm - 105 cm). Mainittu koko on rengastrapetsin ulkohalkaisija. Kuvien kiinnitystarvikkeet eivät sisälly hintaan.",
               "text2": "Putken paksuus 25 mm",
               "text3": "Työskentelypainoraja 180 kg",
               "text4": "Halkaisija 80 - 105 cm / Paino 5.6 - 6.6 kg",
@@ -3848,9 +3941,9 @@
               "pic": "/product-pics-1/ripustusliina1.jpg",
               "pics": ["/product-pics-1/ripustusliina3.jpg", "/product-pics-1/ripustusliina2.jpg"],
               "price": 15,              
-              "text": "Tavallista nauhalenkkiä jykevämpi raskaan sarjan liina, jota löytyy monessa mitassa tarpeen mukaan. Sopii erityisen hyvin nollapisterengastrapetsin kiinnittämiseen. Korkeisiin ripustuksiin ripustuliinoja on myös helppo ketjuttaa sulkulenkkien avulla. Väri: musta. Materiaali: polyesteri. CE-merkitty.",
+              "text": "Tavallista nauhalenkkiä jykevämpi raskaan sarjan liina, jota löytyy monessa mitassa tarpeen mukaan. Sopii erityisen hyvin nollapisterengastrapetsin kiinnittämiseen. Korkeisiin ripustuksiin ripustuliinoja on myös helppo ketjuttaa sulkulenkkien avulla. Mainittu mitta on ripustusliinan käyttömitta. Väri: musta. Materiaali: polyesteri. CE-merkitty.",
               "text2": "Pituus 0.5 - 2.0 m",
-              "text3": "Murtumispainoraja 1000 kg",
+              "text3": "Työskentelypainoraja 1000 kg",
               "text4": "",
               "text5": "",
               "choice": "Pituus",
@@ -4279,9 +4372,9 @@
               "pic": "/product-pics-1/ripustusliina1.jpg",
               "pics": ["/product-pics-1/ripustusliina3.jpg", "/product-pics-1/ripustusliina2.jpg"],
               "price": 15,              
-              "text": "Tavallista nauhalenkkiä jykevämpi raskaan sarjan liina, jota löytyy monessa mitassa tarpeen mukaan. Sopii erityisen hyvin nollapisterengastrapetsin kiinnittämiseen. Korkeisiin ripustuksiin ripustuliinoja on myös helppo ketjuttaa sulkulenkkien avulla. Väri: musta. Materiaali: polyesteri. CE-merkitty.",
+              "text": "Tavallista nauhalenkkiä jykevämpi raskaan sarjan liina, jota löytyy monessa mitassa tarpeen mukaan. Sopii erityisen hyvin nollapisterengastrapetsin kiinnittämiseen. Korkeisiin ripustuksiin ripustuliinoja on myös helppo ketjuttaa sulkulenkkien avulla. Mainittu mitta on ripustusliinan käyttömitta. Väri: musta. Materiaali: polyesteri. CE-merkitty.",
               "text2": "Pituus 0.5 - 2.0 m",
-              "text3": "Murtumispainoraja 1000 kg",
+              "text3": "Työskentelypainoraja 1000 kg",
               "text4": "",
               "text5": "",
               "choice": "Pituus",
@@ -4477,7 +4570,7 @@
               "pics": [],
               "price": 30,
               "text": "Singing Rock -merkkinen ankkurilevy yhden kiinnityspisteen jakamiseksi kahteen tai useampaan. Erinomainen vaihtoehto esimerkiksi remmien (liinat/strapsit) kiinnittämiseen ja levittämiseen.",
-              "text2": "Paino 70 g",
+              "text2": "Korkeus 80 mm / Leveys 100 mm / Paksuus 6 mm / Paino 70 g",
               "text3": "Murtumispainoraja 3600 kg",
               "text4": "",
               "text5": "",
@@ -4612,9 +4705,9 @@
               "pic": "/product-pics-1/ripustusliina1.jpg",
               "pics": ["/product-pics-1/ripustusliina3.jpg", "/product-pics-1/ripustusliina2.jpg"],
               "price": 15,              
-              "text": "Tavallista nauhalenkkiä jykevämpi raskaan sarjan liina, jota löytyy monessa mitassa tarpeen mukaan. Sopii erityisen hyvin nollapisterengastrapetsin kiinnittämiseen. Korkeisiin ripustuksiin ripustuliinoja on myös helppo ketjuttaa sulkulenkkien avulla. Väri: musta. Materiaali: polyesteri. CE-merkitty.",
+              "text": "Tavallista nauhalenkkiä jykevämpi raskaan sarjan liina, jota löytyy monessa mitassa tarpeen mukaan. Sopii erityisen hyvin nollapisterengastrapetsin kiinnittämiseen. Korkeisiin ripustuksiin ripustuliinoja on myös helppo ketjuttaa sulkulenkkien avulla. Mainittu mitta on ripustusliinan käyttömitta. Väri: musta. Materiaali: polyesteri. CE-merkitty.",
               "text2": "Pituus 0.5 - 2.0 m",
-              "text3": "Murtumispainoraja 1000 kg",
+              "text3": "Työskentelypainoraja 1000 kg",
               "text4": "",
               "text5": "",
               "choice": "Pituus",
@@ -4683,7 +4776,7 @@
               "pics": [],
               "price": 30,
               "text": "Singing Rock -merkkinen ankkurilevy yhden kiinnityspisteen jakamiseksi kahteen tai useampaan. Erinomainen vaihtoehto esimerkiksi remmien (liinat/strapsit) kiinnittämiseen ja levittämiseen.",
-              "text2": "Paino 70 g",
+              "text2": "Korkeus 80 mm / Leveys 100 mm / Paksuus 6 mm / Paino 70 g",
               "text3": "Murtumispainoraja 3600 kg",
               "text4": "",
               "text5": "",
@@ -4810,6 +4903,28 @@
               "linktext2": ""
             },
             {
+              "name": "RE - Nauhalenkki 31 cm (slingi)",
+              "category": 1,
+              "subcategory": "riggaus",
+              "id": "sling",
+              "pic": "/product-pics-1/sling31.jpg",
+              "pics": [
+                "/product-pics-1/sling2.jpg"
+              ],
+              "price": 5,
+              "text": "Rock Empire -merkkinen korkean paikan työskentelyyn tarkoitettu 31 cm nauhalenkki eli \"slingi\". Erinomainen ja edullinen apu, jos ilma-akrobatiaköyden silmukka ei mahdu karabiinin portista sisään. Materiaali: polyester. Väri musta. Yksilöllisesti tarkastettu ja numeroitu. (CE EN566, EN795 B)",
+              "text2": "Pituus 31 cm / Paino 35 g",
+              "text3": "Murtumispainoraja 3500 kg",
+              "text4": "",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+            
+            {
               "name": "Ripustusliina 0.5 - 2.0m",
               "category": 1,
               "subcategory": "riggaus",
@@ -4817,9 +4932,9 @@
               "pic": "/product-pics-1/ripustusliina1.jpg",
               "pics": ["/product-pics-1/ripustusliina3.jpg", "/product-pics-1/ripustusliina2.jpg"],
               "price": 15,              
-              "text": "Tavallista nauhalenkkiä jykevämpi raskaan sarjan liina, jota löytyy monessa mitassa tarpeen mukaan. Sopii erityisen hyvin nollapisterengastrapetsin kiinnittämiseen. Korkeisiin ripustuksiin ripustuliinoja on myös helppo ketjuttaa sulkulenkkien avulla. Väri: musta. Materiaali: polyesteri. CE-merkitty.",
+              "text": "Tavallista nauhalenkkiä jykevämpi raskaan sarjan liina, jota löytyy monessa mitassa tarpeen mukaan. Sopii erityisen hyvin nollapisterengastrapetsin kiinnittämiseen. Korkeisiin ripustuksiin ripustuliinoja on myös helppo ketjuttaa sulkulenkkien avulla. Mainittu mitta on ripustusliinan käyttömitta. Väri: musta. Materiaali: polyesteri. CE-merkitty.",
               "text2": "Pituus 0.5 - 2.0 m",
-              "text3": "Murtumispainoraja 1000 kg",
+              "text3": "Työskentelypainoraja 1000 kg",
               "text4": "",
               "text5": "",
               "choice": "Pituus",
@@ -4850,14 +4965,51 @@
               "link2": "",
               "linktext2": ""
             },
-            
+            {
+              "name": "CAMP - Dryad Tuplataljapyörä",
+              "category": 1,
+              "subcategory": "riggaus",
+              "id": "campdryad",
+              "pic": "/product-pics-1/taljapyora-dryad.jpg",
+              "pics": [],
+              "price": 50,
+              "text": "Kompakti, kevyt ja aukeavalla rakenteella valmistettu taljapyörä 80% hyötysuhteella. Soveltuu maksimissaan 13 mm köysille. Itsevoiteleva laakeri. Runko kuumataottua alumiinia. Akseli ruostumatonta terästä.",
+              "text2": "Korkeus 102 mm / Leveys 61 mm / Paksuus 49 mm / Paino 170 g",
+              "text3": "Murtumispainoraja 2400 kg",
+              "text4": "Työskentelypainoraja 400 kg",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+            {
+              "name": "CAMP - Tethys Taljapyörä",
+              "category": 1,
+              "subcategory": "riggaus",
+              "id": "camptethys",
+              "pic": "/product-pics-1/taljapyora-tethys.jpg",
+              "pics": [],
+              "price": 30,
+              "text": "Kompakti ja kevyt taljapyörä aukeavalla rakenteella ja 80% hyötysuhteella. Soveltuu maksimissaan 13 mm köysille. Itsevoiteleva laakeri. Runko kuumataottua alumiinia. Akseli ruostumatonta terästä.",
+              "text2": "Korkeus 78 mm / Leveys 61 mm / Paksuus 29 mm / Paino 100 g",
+              "text3": "Murtumispainoraja 2400 kg",
+              "text4": "Työskentelypainoraja 400 kg",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
             {
               "name": "CAMP - 8",
               "category": 1,
               "subcategory": "riggaus",
               "id": "alu8",
               "pic": "/product-pics-1/alu8.jpg",
-              "pics": [],
+              "pics": ["/product-pics-1/camp8.jpg"],
               "price": 45,
               "text": "Kuumataotusta alumiinista valmistettu \"kasi\" vertikaalikankaan ripustamiseen. Kiipeilykasi on kevyempi, edullisempi ja pienemmän kokoinen ripustusvaihtoehto perinteiselle kangaskellolle, ja se onkin näiden ominaisuuksiensa puolesta nykyisin suositumpi vaihtoehto kankaan ripustamiseen. Alumiinista valmistetut kiinnikkeet ja varusteet vaativat kunnon tarkistuksen joka käyttökerran yhteydessä, ja niitä ei saa pudottaa kovalle lattialle korkealta. Iskut saattavat heikentää murtolujuutta. Alumiinikasin kiinnittämiseksi tarvitset mahdollisesti kiipeilyyn tarkoitetun sulkulenkin (karabiini) ja nauhalenkin (slingi).",
               "text2": "Korkeus 17,5 cm / Leveys 17 cm / Paksuus 1,5 cm / Paino 280 g",
@@ -4867,6 +5019,26 @@
               "options": null,
               "link": "https://www.youtube.com/watch?v=TiI8mgLXT4U",
               "linktext": "Katso kankaan solmimisohjeet täältä.",
+              "link2": "",
+              "linktext2": ""
+            },
+            
+            {
+              "name": "SR - Pieni 8",
+              "category": 1,
+              "subcategory": "riggaus",
+              "id": "sr8",
+              "pic": "/product-pics-1/singingrock8.jpg",
+              "pics": [],
+              "price": 16,
+              "text": "Singing Rock -merkkinen kuumataotusta alumiinista valmistettu \"kasi\", joka soveltuu erinomaisesti hiuksistariipunnan harjoittamiseen. Alumiinista valmistetut kiinnikkeet ja varusteet vaativat kunnon tarkistuksen joka käyttökerran yhteydessä, ja niitä ei saa pudottaa kovalle lattialle korkealta. Iskut saattavat heikentää murtolujuutta. Alumiinikasin kiinnittämiseksi tarvitset mahdollisesti kiipeilyyn tarkoitetun sulkulenkin (karabiini) ja nauhalenkin (slingi).",
+              "text2": "Korkeus 142 mm / Leveys 72 mm / Paksuus 15 mm / Paino 125 g",
+              "text3": "Murtumispainoraja 3000 kg",
+              "text4": "",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": "",
               "link2": "",
               "linktext2": ""
             },
@@ -5125,7 +5297,7 @@
               ],
               "price": 80,
               "text": "Macacon 26 metrin slackline niille, jotka kaipaavat lisää mittaa liinaansa. Laadukas 50mm leveä ja hyvän pidon tarjoava liina täyttää myös vaativamman tekijän tarpeet. Kattava paketti samaten kuin Barefootin lyhyempi slackline, mutta ei sisällä harjoitteluliinaa eikä aloittelijan opasta. Saatavana vain vihreänä. Paketin sisältö: 26 metrin slackline, puusuojat, pystytysohjekirja sekä kantopussukka.",
-              "text2": "Pituus 26m / Leveys 50mm / Paino 3kg",
+              "text2": "Pituus 26 m / Leveys 50 mm / Paino 3 kg",
               "text3": "Työskentelypainoraja 150 kg",
               "text4": "Värinä vain vihreä.",
               "text5": "",
@@ -5959,6 +6131,26 @@
           "pic2text": "",
           "products": [
             {
+              "name": "Juggling - What It Is And How To Do It! - Thom Wall",
+              "category": 3,
+              "subcategory": "media",
+              "id": "thomwall2",
+              "pic": "/product-pics-3/thomwallbook2.jpg",
+              "pics": [],
+              "price": 28,
+              "text": "31.8.2020 julkaistu uusin jonglööri Thom Wallin teos. Kattava käytännön opas jongleeraukseen. Aiheina mm. siteswap-järjestlmä, kehonasento, mekaniikka ja tekniikka tieteellisestä ja historiallisesta näkökulmasta. Sopii aloittelijalle kuin myös pitkään lajin parissa viihtyneelle tai ammattilaiselle. Harjoituksia, lähestymistapoja, menetelmiä ja näkökulmia kaikentasoisille.",
+              "text2": "\"Must read for any juggler.\" -Denis Paumier",
+              "text3": "",
+              "text4": "Englanninkielinen / 212 sivua / pehmeäkantinen / 2020",
+              "text5": "",
+              "options": null,
+              "link": "",
+              "linktext": "",
+              "link2": "",
+              "linktext2": ""
+            },
+            
+            {
               "name": "Freddy Kenton - Dutch Master Juggler - Niels Duinker",
               "category": 3,
               "subcategory": "media",
@@ -6405,7 +6597,7 @@
               "price": 35,
               "text": "Vanha jonglöörin raamatuksi kutsuttu teos. Ennen internetin ihmeaikaa tämä oli korvaamaton teos kaikille jongleerauksesta kiinnostuneille. Dave Finnigan käy läpi kirjassaan pallot, keilat, renkaat, diabolot, devilstickin, huivit ja hatut useiden vinkkien ja kikkojen kera. Kaikki on selkeästi kuvitettu koko kirjan mitalta. Läpi käydään myös itse jongleerausta sivuavia aiheita, kuten työpajojen pitäminen, jongleerausleikit, elannon ansaitseminen jongleerauksella, jne.",
               "text2": "Englanninkielinen / 560 sivua / pehmeäkantinen / 1992",
-              "text3": "TOISTAISEKSI LOPPU!",
+              "text3": "TOISTAISEKSI LOPPU! Saamme toisinaan tätä kirjaa käsiimme käytettynä. Kysy sähköpostitse tilannetta, jos kiinnostuit.",
               "text4": "",
               "text5": "",
               "options": null,
@@ -6424,7 +6616,7 @@
               "price": 30,
               "text": "2000-luku on merkinnyt suomalaiselle sirkukselle suurta kulttuurista muutosta. Yhä paremmin voivan perinteisen sirkuksen rinnalla vaikuttavat maailmalla kiitävät nykysirkustaiteilijat, joiden teosten estetiikka syntyy niin musiikin, tanssin kuin elokuvan innoittamana. Miten on mahdollista, että suomalaisesta sirkuksesta on kehittynyt kuin yhdessä rysäyksessä kansainvälisesti tunnustettu modernin esittävän taiteen muoto, jonka hedelmistä nauttivat vuosittain tuhannet katsojat yli maiden rajojen? Ihmeen väkeä! tarjoaa vankkaa taustatietoa aikamme sirkussankaruudelle. Kirja sisältää laajan otoksen suomalaisen sirkuksen tekijöistä, taustoista ja vaiheista.",
               "text2": "Suomenkielinen / 261 sivua / pehmeäkantinen / 2008",
-              "text3": "TOISTAISEKSI LOPPU!",
+              "text3": "TOISTAISEKSI LOPPU! Saamme toisinaan tätä kirjaa käsiimme käytettynä. Kysy sähköpostitse tilannetta, jos kiinnostuit.",
               "text4": "",
               "text5": "",
               "options": null,
@@ -6443,7 +6635,7 @@
               "price": 20,
               "text": "Uuden ranskalaisen sirkustutkimuksen klassikkoteoksessa alan parhaat kirjoittajat kuvaavat sirkuksen nykypäivää, taustoja ja suhdetta muihin taiteenaloihin. Kirja kokoaa yhteen 1970-luvulla Ranskassa syntyneen uuden sirkuksen keskeiset piirteet sekä esittelee sirkuslajien – jongleerauksen, akrobatian ja klovnerian – itsenäistymisen vaiheita ja tärkeimpiä taiteilijoita. Nykysirkuksen omaleimainen runollisuus sekä erikoisten aistimaailmoiden rakentaminen luovat luonnolliset yhteydet muihin esittäviin taiteisiin. Sirkuksen kulttuurisesta monisäikeisyydestä nostetaan esiin niin taiteellinen, pedagoginen, sosiologinen kuin taloudellinenkin näkökulma.",
               "text2": "Suomenkielinen / 237 sivua / pehmeäkantinen / 2005",
-              "text3": "TOISTAISEKSI LOPPU!",
+              "text3": "TOISTAISEKSI LOPPU! Saamme toisinaan tätä kirjaa käsiimme käytettynä. Kysy sähköpostitse tilannetta, jos kiinnostuit.",
               "text4": "",
               "text5": "",
               "options": null,
